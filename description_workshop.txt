@@ -1,0 +1,28 @@
+This mod is a Chinese Translation Patch of [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3019925104]Lunar Veil Mod[/url]
+
+[h1]=模组介绍=[/h1]
+此汉化是[url=https://steamcommunity.com/sharedfiles/filedetails/?id=3019925104]穹月天纱[/url]汉化模组
+使用方式：1.同时订阅Lunar Veil和本Mod   
+2.进入tml，在模组管理中同时启用Lunar Veil和本Mod   
+3.安装完成，进行游戏
+
+[h1]=模组问题Q&A=[/h1]
+Q1：我和xx模组导致卡顿有没有什么办法解决
+A1：能表达清晰的在评论区告诉我，无法表达清晰的带上 [b][u]截图[/u][/b] 和 [b][u]你的问题[/u][/b] 加入以下群号告诉我
+[h3][u]选择1.有确认性bug加qq群  [b]895423665[/b]   
+不接受任何以问题为条件加steam好友和QQ好友的信息
+选择2.闲聊加入qq群  [b]596284387[/b]  
+不接受任何以问题为条件加steam好友和QQ好友的信息[/u][/h3]   
+选择3.[url=https://steamcommunity.com/groups/liketerraria]steam组[/url]和对应的[url=https://steamcommunity.com/chat/invite/RKieSpPJ]聊天室[/url]
+
+Q2：我怎么玩到各大模组的最新版本呢
+A2：Steam库 -> 鼠标右键 TModLoader游戏  -> 属性 -> 测试版 -> 选择'无'
+
+[h1]=模组链接=[/h1]
+[url=https://github.com/moonditch/LunarVeilzhcn[/url]
+
+[h1]=作者介绍=[/h1]
+初步汉化----------蓝幽
+汉化补丁----------蓝幽，Flandre Scarlet，@马达达马达（B站同名），Super_ego
+代码---------------蓝幽，Flandre Scarlet
+以上以时间顺序排版

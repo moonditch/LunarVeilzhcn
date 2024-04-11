@@ -1,4 +1,4 @@
-displayName = LunarVeilzhcn
+displayName = 穹月天纱汉化补丁
 author = moon.ditch
 version = 0.1
 modReferences = Stellamod
@@ -6,3 +6,4 @@ hideCode = true
 translationMod = true
 side = Client
 sortAfter = Stellamod
+homepage = https://github.com/moonditch/LunarVeilzhcn
