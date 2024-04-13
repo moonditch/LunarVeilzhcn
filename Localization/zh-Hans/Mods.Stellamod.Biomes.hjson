@@ -24,23 +24,23 @@ NaxtrinTemple: {
 }
 
 MorrowUndergroundBiome: {
-	TownNPCDialogueName: the Morrow Underground Biome
-	DisplayName: Morrow Underground Biome
+	TownNPCDialogueName: 黎明地下
+	DisplayName: 黎明地下
 }
 
 MarrowSurfaceBiome: {
-	TownNPCDialogueName: the Marrow Surface Biome
-	DisplayName: Marrow Surface Biome
+	TownNPCDialogueName: 黎明地表
+	DisplayName: 黎明地表
 }
 
 GovheilCastle: {
-	TownNPCDialogueName: the Govheil Castle
-	DisplayName: Govheil Castle
+	TownNPCDialogueName: 忍钢城堡
+	DisplayName: 忍钢城堡
 }
 
 FableBiome: {
-	TownNPCDialogueName: the Fable Biome
-	DisplayName: Fable Biome
+	TownNPCDialogueName: 预言
+	DisplayName: 预言
 }
 
 EngineerShop: {
@@ -59,43 +59,43 @@ CindersparkBiome: {
 }
 
 CathedralBiome: {
-	TownNPCDialogueName: the Cathedral Biome
-	DisplayName: Cathedral Biome
+	TownNPCDialogueName: 月光之巅
+	DisplayName: 月光之巅
 }
 
 CatacombWater: {
-	TownNPCDialogueName: the Catacomb Water
-	DisplayName: Catacomb Water
+	TownNPCDialogueName: 海洋地窖
+	DisplayName: 海洋地窖
 }
 
 CatacombTrap: {
-	TownNPCDialogueName: the Catacomb Trap
-	DisplayName: Catacomb Trap
+	TownNPCDialogueName: 陷阱地窖
+	DisplayName: 陷阱地窖
 }
 
 CatacombFlames: {
-	TownNPCDialogueName: the Catacomb Flames
-	DisplayName: Catacomb Flames
+	TownNPCDialogueName: 炎热地窖
+	DisplayName: 炎热地窖
 }
 
 AurelusBiome: {
-	TownNPCDialogueName: the Aurelus Biome
-	DisplayName: Aurelus Biome
+	DisplayName: 星咏殿堂
+	TownNPCDialogueName: 星咏殿堂
 }
 
 AlcadziaBiome: {
-	TownNPCDialogueName: the Alcadzia Biome
-	DisplayName: Alcadzia Biome
+	TownNPCDialogueName: 熔金宫殿
+	DisplayName: 熔金宫殿
 }
 
 AcidBiome: {
-	TownNPCDialogueName: the Acid Biome
-	DisplayName: Acid Biome
+	TownNPCDialogueName: 酸蚀之地
+	DisplayName: 酸蚀之地
 }
 
 AbyssBiome: {
-	TownNPCDialogueName: the Abyss Biome
-	DisplayName: Abyss Biome
+	TownNPCDialogueName: 寒渊
+	DisplayName: 寒渊
 }
 
 Laboratory: {

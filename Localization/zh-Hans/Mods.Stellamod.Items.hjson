@@ -1,12 +1,12 @@
 Accessories: {
 	HikersBackpack: {
-		DisplayName: Hiker's Backpack
+		DisplayName: 旅行者背包
 		Description:
-			'''
-			Increased Regeneration!
-			增加3%的伤害
-			Drops stumps on the ground as you walk!
-			'''
+		'''
+		增加回复速度！
+		+3% 伤害
+		行走时在地面上掉落尖刺！
+		'''
 	}
 }
 
@@ -23,1378 +23,1394 @@ SaveItem: {
 AdvancedBroochesBackpack: {
 	DisplayName: 高级胸针背包
 	Tooltip:
-		'''
-		增加回复速度！
-		增加10%伤害
-		Allows you to equip advanced brooches! Very useful 
-		Allows the effects of the Hiker's Backpack!
-		'''
+	'''
+	增加回复速度！
+	+10% 伤害
+	允许佩戴高级胸针！非常有用 可享受旅行者背包的效果！
+	'''
 }
 
 DiariBroochA: {
-	DisplayName: Diari Brooch
+	DisplayName: 日记胸针
 	Tooltip:
-		'''
-		+2 Defense!
-		Flame walking? 
-		Always Well Fed!
-		+10 Health and Mana
-		+5% Damage!
-		'''
+	'''
+	+4防御！
+	让你能够自动挥舞！
+	+40 生命值和魔力值
+	'''
 }
 
 FlyingFishBroochA: {
-	DisplayName: Brooch of the Flying Fish
+	DisplayName: 飞鱼胸针
 	Tooltip:
-		'''
-		Increases Speed and + 2 Defense!
-		Use the power of the speedy fish that fly???
-		'''
+	'''
+	增加速度和
+	+2 防御！
+	拥有飞鱼的速度！
+	'''
+	
 }
 
 FrileBroochA: {
-	DisplayName: Brooch of The Friled Ice
+	DisplayName: 冰霜胸针
 	Tooltip:
-		'''
-		Enemies now are frosted with icy glazes when hit!
-		Use the power of the Ice biome :P
-		'''
+	'''
+	当击中敌人时，使其覆盖上冰霜！
+	使用冰霜生物的力量: P
+	'''
 }
 
 MorrowedBroochA: {
-	DisplayName: Brooch of The Huntria Fable
+	DisplayName: 暗黑胸针
 	Tooltip:
-		'''
-		Heavy increased damage to your arrows
-		+2 Defense and increased ranged damage
-		Use the power of the deep dark fable..
-		'''
+	'''
+	增加箭矢的重击伤害
+	+2 防御和增加远程伤害
+	使用深沉黑暗的力量...
+	'''
 }
 
 SlimeBroochA: {
-	DisplayName: Brooch of The cute slimes
+	DisplayName: 可爱史莱姆胸针
 	Tooltip:
-		'''
-		Jump Higher!
-		Bouncy and fast fall
-		Awww so cute :P
-		'''
+	'''
+	跳得更高！
+	弹跳并快速下落 哇～好可爱
+	ヾ(≧▽≦*)o 
+	'''
 }
 
 SpragaldBroochA: {
-	DisplayName: Brooch of The Spragald
+	DisplayName: 斯普拉格尔德胸针
 	Tooltip:
-		'''
-		Effect = +10 Defense
-		Use the power of the Spragald Spiders!
-		'''
-}
-
-HikersBackpack: {
-	DisplayName: Hiker's Backpack
-	Tooltip:
-		'''
-		Increased Regeneration!
-		+3% damage 
-		Drops stumps on the ground as you walk!
-		'''
+	'''
+	+10防御
+	使用斯普拉格尔德蜘蛛的力量！
+	'''
 }
 
 IllusionistBook: {
-	DisplayName: Book of Wooden Illusion
+	DisplayName: 木质幻术书
 	Tooltip:
-		'''
-		Increased Regeneration!
-		+3% damage"
-		Increases crit strike change by 5% 
-		'''
+	'''
+	增加恢复速度！
+	+3% 伤害
+	增加5% 暴击几率
+	'''
 }
 
 JellyfishTissue: {
-	DisplayName: Jellyfish Tissue
+	DisplayName: 水母组织
 	Tooltip:
-		'''
-		Woa really cool!
-		+40 Defense
-		But at the cost of 40% damage 
-		'''
+	'''
+	哇，真酷！
+	+40 防御
+	但伤害减少40%
+	'''
+	
 }
 
 MOTT: {
 	DisplayName: M.O.T.T
 	Tooltip:
-		'''
-		Every 10 seconds drop high damage spiky balls on the ground
-		+5% Ranged damage...
-		'''
+	'''
+	每10秒在地面上掉落高伤害的尖刺球
+	+5% 远程伤害
+	'''
 }
 
 PaperPaws: {
-	DisplayName: Paper Paws
+	DisplayName: 纸咕咕
 	Tooltip:
-		'''
-		Why don't you give your summons more credit?
-		+1 summon
-		'''
+	'''
+	为什么不给你的召唤物更多的赞誉呢？
+	+1 召唤物
+	'''
 }
 
 Paper: {
-	DisplayName: Paper
-	Tooltip: It's paper idk what you expected
+	DisplayName: 纸
+	Tooltip: 你在想什么？这只是一张纸好吗？
 }
 
 PlantH: {
-	DisplayName: Plant Heritage
+	DisplayName: 植物之遗
 	Tooltip:
-		'''
-		Gain the power of plants!
-		+40 life and +15 increased defense
-		But you have decreased speed 0v0
-		'''
+	'''
+	获得植物的力量！
+	+40 生命和
+	+15 防御
+	但你的速度降低了 0v0
+	'''
 }
 
 SapContainer: {
-	DisplayName: Sap Container
+	DisplayName: 树液容器
 	Tooltip:
-		'''
-		Every 10 seconds eat stardew and MAJORLY increase your magic damage"
-		+7% Magic damage...
-		'''
+	'''
+	每10秒食用星露并极大增加你的魔法伤害
+	+7% 魔法伤害
+	'''
 }
 
 WoodenShield: {
-	DisplayName: Wooden Shield
+	DisplayName: 木制盾牌
 	Tooltip:
-		'''
-		Super cool right??? A wooden shield?
-		What are you gonna block, a bow and arrow?
-		Literally no blocking features smh
-		+1 Defense and life regen increased!
-		'''
+	'''
+	超酷对吧？一个木制盾牌？
+	你要用它挡箭吗？ 实际上没有任何格挡功能，呃
+	+1 防御和生命回复速度增加！
+	'''
 }
 
 Steali: {
-	DisplayName: Steali
+	DisplayName: 斯提利
 	Tooltip:
-		'''
-		A small fast dash that provides invincibility as you dash
-		Increased regeneration
-		You may not attack while this is in use
-		Hollow Knight inspiried!
-		'''
+	'''
+	一个短而快的冲刺并提供短暂的无敌状态
+	增加恢复速度 使用时无法攻击
+	灵感来源于《空洞骑士》！
+	'''
 }
 
 ThornedBook: {
-	DisplayName: Thorned Book
+	DisplayName: 荆棘书
 	Tooltip:
-		'''
-		When enemies hit you deal big amounts of damage back
-		+3% Melee damage...
-		-5 defense
-		'''
+	'''
+	当敌人攻击你时，你会反弹大量伤害
+	+10% 近战伤害
+	-5 防御
+	'''
 }
 
 CelestiaMoonBreastplate: {
-	DisplayName: Celestia Moon Breastplate
+	DisplayName: 天国之月胸甲
 	Tooltip:
-		'''
-		Magical essence of an empress!
-		+60 max mana and +1 minion slot
-		+20 Health
-		'''
+	'''
+	一位女皇的魔法精华！
+	+60 最大法力
+	+1 召唤栏
+	+20 生命值
+	'''
 }
 
 CelestiaMoonHelmet: {
-	DisplayName: Celestia Moon Helmet
+	DisplayName: 天国之月头盔
 	Tooltip:
-		'''
-		Magical essence of an Emperor
-		+2% increased ranged and melee damage
-		+35 Health
-		'''
+	'''
+	一位女皇的魔法精华！
+	+7% 远程和近战伤害
+	+35 生命值
+	'''
 }
 
 CelestiaMoonLegs: {
-	DisplayName: Celestia Moon Leggings
+	DisplayName: 天国之月护腿
 	Tooltip:
-		'''
-		Magical essence of an empress!
-		3% increased movement speed
-		+20 Health
-		'''
+	'''
+	一位女皇的魔法精华！
+	+5% 移动速度
+	+20 生命值
+	'''
 }
 
 CelestiaMoonMask: {
-	DisplayName: Celestia Moon Mask
+	DisplayName: 天国之月面具
 	Tooltip:
-		'''
-		Magical essence of an empress!
-		+20 Max mana and +1 Minion Slot
-		'''
+	'''
+	一位女皇的魔法精华！
+	+20 最大魔力
+	+1 召唤栏
+	'''
 }
 
 HuntrianBoots: {
-	DisplayName: Huntrian Boots
+	DisplayName: 猎人之靴
 	Tooltip:
-		'''
-		Corroded Woods
-		+5% Damage!
-		+10 Health
-		+7 Critical Strike Chance!
-		'''
+	'''
+	由锈蚀之木制成
+	+5% 伤害！
+	+10 生命值
+	+7 暴击几率！
+	'''
 }
 
 HuntrianChestplate: {
-	DisplayName: Huntrian Chestplate
+	DisplayName: 猎人胸甲
 	Tooltip:
-		'''
-		Corroded Woods
-		+5% Damage!" 
-		+10 Health" 
-		+10 Critical Strike Chance!
-		'''
+	'''
+	由锈蚀之木制成
+	+5% 伤害！
+	+10 生命值！
+	+10 暴击几率！
+	'''
 }
 
 HuntrianHelmet: {
-	DisplayName: Huntrian Helmet
+	DisplayName: 猎人头盔
 	Tooltip:
-		'''
-		Corroded Woods
-		+5% Damage!
-		+20 Health
-		'''
+	'''
+	由锈蚀之木制成
+	+5% 伤害！
+	+20 生命值
+	'''
 }
 
 LovestruckBreastplate: {
-	DisplayName: Lovestruck Breastplate
+	DisplayName: 爱之胸甲
 	Tooltip:
-		'''
-		Feel the love!
-		+60 Health and +1 minion slot
-		'''
+	'''
+	爱的力量是无限的！
+	+60 生命值
+	+1 召唤栏
+	'''
 }
 
 LovestruckLegs: {
-	DisplayName: Lovestruck Thighs
+	DisplayName: 爱之护腿
 	Tooltip:
-		'''
-		Sexy!
-		10% increased movement speed
-		+60 Health
-		'''
+	'''
+	爱的力量是无限的！
+	+10% 移动速度
+	+60 生命值
+	'''
 }
 
 LovestruckMask: {
-	DisplayName: Lovestruck Mask
+	DisplayName: 爱之面具
 	Tooltip:
-		'''
-		Magical essence of an Lusting Goddess
-		+7% increased damage
-		+40 Health
-		'''
+	'''
+	爱的力量是无限的！
+	+7% 增加伤害
+	+40 生命值
+	'''
 }
 
 GintzeMask: {
-	DisplayName: Gintzi Mask
+	DisplayName: 金采面具
 	Tooltip:
-		'''
-		Rare Iron Mask!
-		+2 summons!
-		+50 Health
-		'''
+	'''
+	稀有的铁面具！
+	+2 召唤物！
+	+50 生命值
+	'''
 }
 
 StoniaBoots: {
-	DisplayName: Stonia Boots
+	DisplayName: 斯托尼亚靴子
 	Tooltip:
-		'''
-		Rizzy Stone
-		+2% Damage!
-		Heavily Increased Falling!
-		Woa rocks!
-		'''
+	'''
+	像石头一样硬
+	+2% 伤害！
+	大幅度增加下坠速度！ 哇，是石头！
+	'''
 }
 
 StoniaChestplate: {
-	DisplayName: Stonia Chestplate
+	DisplayName: 斯托尼亚胸甲
 	Tooltip:
-		'''
-		Weak Stone?
-		+1% Damage!
-		+2 Penetration
-		+2 Critical Strike Chance!
-		'''
+	'''
+	脆弱的......石头？
+	+1% 伤害！
+	+2 穿透
+	+2 暴击几率！
+	'''
 }
 
 StoniaHat: {
-	DisplayName: Stonia Hat
+	DisplayName: 斯托尼亚帽子
 	Tooltip:
-		'''
-		Happy Stone?
-		+3% Damage
-		+5 Penetration
-		+5 Critical Strike Chance!
-		'''
+	'''
+	开心的......石头？？？
+	+3% 伤害
+	+5 穿透
+	+5 暴击几率！
+	'''
 }
 
 AstolfoBody: {
-	DisplayName: Astolfo Breasts
+	DisplayName: 阿斯托尔福之衣
 	Tooltip:
-		'''
-		Nya~
-		Yummy!
-		+20 Health
-		'''
+	'''
+	喵~
+	好吃！ +20
+	生命值
+	'''
+	
 }
 
 AstolfoMask: {
-	DisplayName: Astolfo Wig
+	DisplayName: 阿斯托尔福之发
 	Tooltip:
-		'''
-		Yummy kummy :3
-		+2% increased damage
-		+35 Health
-		Increased Pickaxe Speed!
-		'''
+	'''
+	
+	很好吃的！: 3
+	+2% 增加伤害
+	+35 生命值
+	增加镐速！
+	'''
+	
 }
 
 AstolfoSkirt: {
-	DisplayName: Astolfo Skirt
+	DisplayName: 阿斯托尔福之裙
 	Tooltip:
-		'''
-		Woa it even smells like water!
-		5% increased movement speed
-		Rizz Thighs
-		'''
+	'''
+	闻起来一股水腥味
+	增加5% 移动速度
+	石制的......裙子
+	'''
+	
 }
 
 VerlBreastplate: {
-	DisplayName: Verl Breastplate
+	DisplayName: 维尔胸甲
 	Tooltip:
-		'''
-		Shines with a blooming moon
-		+10% Ranged and Magic Damage!
-		+12 Penetration 
-		+5 Critical Strike Chance!
-		+20 Max Life
-		'''
+	'''
+	闪耀着盈月之光
+	+10% 远程和魔法伤害！
+	+12 穿透
+	+5 暴击几率！
+	+20 最大生命值
+	'''
 }
 
 VerlHat: {
-	DisplayName: Verl Hat
+	DisplayName: 维尔帽子
 	Tooltip:
-		'''
-		You feel prettier dont you?
-		+7% Magic Damage!
-		+Fast mana regeneration!
-		+100 Max Mana
-		+40 Max Life
-		'''
+	'''
+	你感觉更漂亮了，不是吗？
+	+7% 魔法伤害！
+	快速法力回复！
+	+100最大法力
+	+40最大生命值
+	'''
+	
 }
 
 VerlLeggings: {
-	DisplayName: Verl Leggings
+	DisplayName: 维尔护腿
 	Tooltip:
-		'''
-		Look at them thighs go!
-		+7% Magic and Ranged Damage!
-		+Increased Movement speed
-		+40 Max Life
-		'''
+	'''
+	看着它们的腿吧！
+	+7% 魔法和远程伤害！
+	+增加移动速度
+	+40最大生命值
+	'''
+	
 }
 
 VerlMask: {
-	DisplayName: Verl Mask
+	DisplayName: 维尔面具
 	Tooltip:
-		'''
-		You feel prettier dont you?
-		+7% Ranged Damage!
-		+15 Critical Strike Chance!
-		+20 Max Life
-		'''
+	'''
+	你感觉更漂亮了，不是吗？
+	+7% 远程伤害！
+	+15 暴击几率！
+	+20 最大生命值
+	'''
 }
 
 VextinBoots: {
-	DisplayName: Vextin Boots
+	DisplayName: Vextin靴子
 	Tooltip:
-		'''
-		Hide in the sands
-		+5% Damage
-		+20 Health
-		'''
+	'''
+	隐藏在沙漠之中
+	+5% 伤害
+	+20 生命值
+	'''
 }
 
 VextinMask: {
-	DisplayName: Vextin Mask
+	DisplayName: Vextin面具
 	Tooltip:
-		'''
-		You feel the hidden sands flow in you
-		+7% increased damage
-		+20 Health
-		'''
+	'''
+	你感受到沙漠在你体内流动
+	+7% 增加伤害
+	+20 生命值
+	'''
 }
 
 VextinRobe: {
-	DisplayName: Vextin Robe
+	DisplayName: Vextin长袍
 	Tooltip:
-		'''
-		Roam the wonderous sands	
-		+40 Health
-		'''
+	'''
+	在神奇的沙漠中漫游
+	+40 生命值
+	'''
 }
 
 Gambit: {
-	DisplayName: Gambit
+	DisplayName: 启幕骰子
 	Tooltip:
-		'''
-		{$CommonItemTooltip.RightClickToOpen}
-		Gamble away your soul after battle for great rewards!
-		'''
+	'''
+	{ $CommonItemTooltip.RightClickToOpen }
+	战斗后用你的灵魂进行赌博，获得丰厚的奖励！
+	'''
+	
 }
 
 GambitToken: {
-	DisplayName: Gambit Token
-	Tooltip: Use this while gambling to actually, gamble..
+	DisplayName: 启幕代币
+	Tooltip: 使用它进行赌博......
 }
 
 GildedBag1: {
-	DisplayName: Gilded Bag
+	DisplayName: 镀金袋
 	Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
 }
 
 MoonflameLantern: {
-	DisplayName: Moonflame Lantern
+	DisplayName: 月焰灯笼
 	Tooltip:
-		'''
-		I thank you for your contribution, return to me, I await your arrival
-		at the top of my palace, we will dance soon <3
-		'''
+	'''
+	感谢你为这个世界所做的贡献，回到我的宫殿，让我们来共舞一曲吧
+	'''
 }
 
 SirestiasStarterBag: {
-	DisplayName: Sirestias Starter Bag
+	DisplayName: 初始包
 	Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
 }
 
 VeribossBag: {
-	DisplayName: Veriboss Bag
+	DisplayName: 星域幻花宝藏袋
 	Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
 }
 
 AlcadizMetal: {
-	DisplayName: Alcadiz Metal
+	DisplayName: 流浪熔金
 	Tooltip:
-		'''
-		Woa this is super hard and magical..
-		Where does this ore come from?
-		Best used for metalic weapons and magical items!
-		'''
+	'''
+	哇，这是超级坚硬和神奇的......流浪熔金！
+	这种矿石从哪里来的呢？ 它可是用于制作武器和法器的最佳材料！
+	'''
 }
 
 Bagitem: {
-	DisplayName: Dust Bag
+	DisplayName: 尘埃袋
 	Tooltip:
-		'''
-		A bag made for igniter dusts!
-		Where does this come from?
-		Used in every dust recipe, bring it to the dust bench!
-		'''
+	'''
+	专为引发剂尘埃所制作的袋子！
+	它是从哪里来的呢？ 快把它带到尘埃工作台那边去！
+	'''
 }
 
 Bouque: {
-	DisplayName: Bouque
+	DisplayName: 花束
 	Tooltip:
-		'''
-		A bag of flowers for the dear
-		Used in various recipes
-		'''
+	'''
+	献给我亲爱的爱人的花束
+	用于各种合成
+	'''
+	
 }
 
 Candle: {
-	DisplayName: Candle
+	DisplayName: 蜡烛
 	Tooltip:
-		'''
-		A candle but you cant place it :(
-		Why does it exist?
-		Used in many recipes
-		'''
+	'''
+	
+	一支蜡烛，但你放不下来: (
+	所以它有什么用呢？
+	'''
+	
 }
 
 Cinderscrap: {
-	DisplayName: Scrap of Cinder
+	DisplayName: 灰烬碎片
 	Tooltip:
-		'''
-		Cinder scrap
-		Burned to infinity
-		Used in plants
-		'''
+	'''
+	灰烬碎片
+	烧出无限可能 用于为植物施肥
+	'''
 }
 
 CondensedDirt: {
-	DisplayName: Condensed Dirt
+	DisplayName: 浓缩泥土
 	Tooltip:
-		'''
-		Ew! Its sticky! Why??
-		A sticky dirt-like substance that comes from the ground!
-		Best use for fertilizer and dirt-like items!
-		'''
+	'''
+	呃！黏黏的！为什么？？
+	一种来自地面的黏黏的泥土状物质！ 最适合用于肥料和泥土类物品！
+	'''
 }
 
 DreasFlower: {
-	DisplayName: Sky Blue Dreas Flower
+	DisplayName: 天蓝色德瑞斯之花
 	Tooltip:
-		'''
-		All the way from the Fabled temples..
-		Used for planting and harvesting
-		Best use for magical items and plants!
-		'''
+	'''
+	来自预言神庙......
+	用于种植和收获 最适合用于魔法物品和植物！
+	'''
 }
 
 Fabric: {
-	DisplayName: Alcadiz Fabric
+	DisplayName: 预言布匹
 	Tooltip:
-		'''
-		All the way from the Alcadiz temples..
-		Strong as steel yet so fabric like, its pouring energy!
-		Best use for magical items!
-		'''
+	'''
+	来自预言神庙......
+	像钢铁一样硬的布，蕴含着巨大的能量 最适合用于魔法物品！
+	'''
 }
 
 FlowerBatch: {
-	DisplayName: Flower Batch
+	DisplayName: 花束
 	Tooltip:
-		'''
-		These flowers are very pretty..
-		An object from harvesting
-		Best use for plants and some items!
-		'''
+	'''
+	这些花非常漂亮......
+	一个收获物 最适合用于植物和一些物品！
+	'''
 }
 
 Hlos: {
-	DisplayName: Scrapped Handle
-	Tooltip: Used for making various weapons
+	DisplayName: 废弃把手
+	Tooltip: 用于制作各种武器
 }
 
 MorrowRocks: {
-	DisplayName: Fabled Rocks
-	Tooltip: Rocks from the deep fable
+	DisplayName: 黎明石
+	Tooltip: 来自黎明深渊的岩石
 }
 
 Morrowshroom: {
-	DisplayName: Fableshroom
-	Tooltip: Shroomster
+	DisplayName: 黎明蘑菇
+	Tooltip: 蘑菇怪！
 }
 
 MorrowVine: {
-	DisplayName: Fabled Vine
+	DisplayName: 黎明藤蔓
 	Tooltip:
-		'''
-		A useful piece of string!
-		From some Fabled warriors of the morrow
-		Used in many recipes for weapons, bags and such
-		'''
+	'''
+	一根有用的绳子！
+	它们来自于一些黎明的阿尔卡迪斯战士 用于许多武器、背包等配方
+	'''
 }
 
 Mushroom: {
-	DisplayName: Mushroomer
-	Tooltip: Ew a mushroom, for planting probably?
+	DisplayName: 蘑菇
+	Tooltip: 呃，一个蘑菇，可能是用来种植的？
 }
 
 Stick: {
-	DisplayName: Stick
-	Tooltip: Welp it's a stick
+	DisplayName: 木棍
+	Tooltip: 嗯，这是根棍子......它真的只是一根棍子......所以别看啦！！！
 }
 
 ViolinStick: {
-	DisplayName: Violin Stick
+	DisplayName: 小提琴弓杆
 	Tooltip:
-		'''
-		Hmph, what is this used for?
-		Best use for weapons and musical items!
-		'''
+	'''
+	哼，这是用来做什么的呢？
+	那当然是用于制作乐器类的武器啦！
+	'''
+	
 }
 
 EmptyMoonflameLantern: {
-	DisplayName: Empty Moonflame Lantern
+	DisplayName: 空的月焰灯笼
 	Tooltip:
-		'''
-		Take it to the depths of hell,
-		Freeze the flame
-		The dance at the Cathedral awaits at the top of the moonlight!
-		'''
+	'''
+	使用地狱深处的火焰重新点燃它吧
+	在月光之巅，维尔莉娅正在等待着与你共舞一曲
+	'''
+	
 }
 
 FleshClot: {
-	DisplayName: Kaev Clot
-	Tooltip: Flesh-like substance obtained from blood enemies
+	DisplayName: 血肉凝块
+	Tooltip: 从敌人的血液中获取的类似肉的物质
 }
 
 HuntiacBlock: {
-	DisplayName: Huntiac Block
-	Tooltip: Dangerous
+	DisplayName: 猎杀块
+	Tooltip: 危险！
 }
 
 HuntiacwallBlock: {
-	DisplayName: Huntiac Wall
-	Tooltip: Even more dangerous
+	DisplayName: 猎杀墙
+	Tooltip: 更加危险！
 }
 
 Medal: {
-	DisplayName: Ruin Medal
+	DisplayName: 灭亡勋章
 	Tooltip:
-		'''
-		An old ancient medal..
-		Keep this in your inventory, can be sold and may attract someone, romantically...
-		'''
+	'''
+	一枚古老的勋章......
+	保留在你的背包中，可以出售，可能会吸引某人产生浪漫的一些情感......
+	'''
+	
 }
 
 OvermorrowDirt: {
-	DisplayName: Fable Dirt
+	DisplayName: 黎明泥土
 	Tooltip: ""
 }
 
 OvermorrowdirtwallBlock: {
-	DisplayName: Fable wall
+	DisplayName: 黎明墙
 	Tooltip: ""
 }
 
 OvermorrowWall: {
-	DisplayName: Fabled Wall
+	DisplayName: 黎明墙壁
 	Tooltip: ""
 }
 
 OvermorrowWood: {
-	DisplayName: Fabled Wood
-	Tooltip: Yummy wood am I right?
+	DisplayName: 黎明木
+	Tooltip: 好吃的木头，对吧？
 }
 
 PearlescentScrap: {
-	DisplayName: Pearlescent Scrap
+	DisplayName: 珍珠碎片
 	Tooltip:
-		'''
-		True fragments of the moon
-		A strong resonance with sound and the stars...
-		'''
+	'''
+	月亮的碎片
+	与声音和星星有着强烈的共鸣......
+	'''
+	
 }
 
 RippedFabric: {
-	DisplayName: Ripped Fabric
+	DisplayName: 破碎织物
 	Tooltip:
-		'''
-		From the knowledge of the Gilded to robes on enemies, it's wonderous!
-		A very magical material, although...
-		I feel like the item calls my name...
-		'''
+	'''
+	从镀金的一些知识到敌人身上的所穿的长袍，真神奇！
+	一种非常神奇的材料...... 我感觉它仿佛在召唤我......
+	'''
 }
 
 Starrdew: {
-	DisplayName: Starr dew
+	DisplayName: 星露
 	Tooltip:
-		'''
-		Ew! It's sticky! I wonder what else is sticky...
-		A sticky substance that resonates with the stars and the fable!
-		'''
+	'''
+	呃！粘糊糊的！我想知道还有什么是粘糊糊的......
+	一种与星星和黎明有共鸣的粘性物质！
+	'''
+	
 }
 
 Stelleanbrick: {
-	DisplayName: Stellean brick
+	DisplayName: 星辉砖
 	Tooltip: ""
 }
 
 VerianRuneBlock: {
-	DisplayName: Verian Rune Block
+	DisplayName: 炽炎符文块
 	Tooltip: ""
 }
 
 VerianWood: {
-	DisplayName: Verian Wood
+	DisplayName: 炽炎木材
 	Tooltip: ""
 }
 
 FrileBar: {
-	DisplayName: Frile Bar
-	Tooltip: Frozen to the core, an essence of the moon and ice
+	DisplayName: 冰霜锭
+	Tooltip: 放射出刺骨的寒冷，蕴含着月亮和冰的精华
 }
 
 FrileOre: {
-	DisplayName: Frile Ore
-	Tooltip: An ore too cold to place, used for many items with ice!
+	DisplayName: 冰霜矿石
+	Tooltip: 一种冷得无法放置的矿石，用于制作许多冰冷的物品！
 }
 
 VerianBar: {
-	DisplayName: Verian Bar
+	DisplayName: 炽炎锭
 	Tooltip:
-		'''
-		Hot to the touch, filled with the gild and glory of tribal warriors
-		its so hot you can't even touch it, gotta use heated fabric...
-		'''
+	'''
+	炙热无比，充满了部落战士的黄金和荣耀
+	它太烫了，连触摸都不行......
+	'''
+	
 }
 
 VerianOre: {
-	DisplayName: Verian Ore
-	Tooltip: An ore merged and fused with gild, its scorching hot
+	DisplayName: 炽炎矿石
+	Tooltip: 一种与金属融合的矿石，非常炽热
 }
 
 AlcaologyI: {
-	DisplayName: Alcaology Station
-	Tooltip: This table is used for dusts and useful Materials!
+	DisplayName: 炼金学站台
+	Tooltip: 这个台子用于制作粉尘和有用的材料！
 }
 
 Bar: {
-	DisplayName: Bar
+	DisplayName: 吧台
 	Tooltip: ""
 }
 
 Bench: {
-	DisplayName: Bench
+	DisplayName: 长椅
 	Tooltip: ""
 }
 
 BroochesTableI: {
-	DisplayName: Brooches Jewelry Station
-	Tooltip: This bench allows you to craft exquisite brooches and combine them!
+	DisplayName: 胸针工作台
+	Tooltip: 允许你用这个制作各种胸针！
 }
 
 CathediteBlock: {
-	DisplayName: Cathedite Block
+	DisplayName: 大教堂石块
 	Tooltip: ""
 }
 
 CathediteGrassBlock: {
-	DisplayName: Cathedite Grass Block
+	DisplayName: 大教堂草块
 	Tooltip: ""
 }
 
 CathediteGrassWall: {
-	DisplayName: Cathedite Grass Wall
+	DisplayName: 大教堂草墙
 	Tooltip: ""
 }
 
 CathediteWall: {
-	DisplayName: Cathedite Wall
+	DisplayName: 大教堂墙
 	Tooltip: ""
 }
 
 CathedralChestI: {
-	DisplayName: Cathedral Chest
+	DisplayName: 大教堂宝箱
 	Tooltip: ""
 }
 
 Crystal1I: {
-	DisplayName: Crystal1
-	Tooltip: You arent meant to collect this :(
+	DisplayName: 水晶1
+	Tooltip:
+	你不应该收集它: (
 }
 
 Crystal2I: {
-	DisplayName: Crystal2
-	Tooltip: You arent meant to collect this :(
+	DisplayName: 水晶2
+	Tooltip:
+	你不应该收集它: (
 }
 
 FlowerMultiI: {
-	DisplayName: Flower Multi
-	Tooltip: You arent meant to collect this :(
+	DisplayName: 多花
+	Tooltip:
+	你不应该收集它: (
 }
 
 Orb1I: {
-	DisplayName: Orb1 I
-	Tooltip: You arent meant to collect this :(
+	DisplayName: 球体1
+	Tooltip:
+	你不应该收集它: (
 }
 
 ShrineI: {
-	DisplayName: Shrine
+	DisplayName: 神龛
 	Tooltip: ""
 }
 
 Flowersummon: {
-	DisplayName: Flowersummon
-	Tooltip: You arent meant to collect this :(
+	DisplayName: 召唤花
+	Tooltip:
+	你不应该收集它: (
 }
 
 GrassBig: {
-	DisplayName: Grass Big
-	Tooltip: You arent meant to collect this :(
+	DisplayName: 大草
+	Tooltip:
+	你不应该收集它: (
 }
 
 GrassMoss: {
-	DisplayName: Grass Moss
-	Tooltip: You arent meant to collect this :(
+	DisplayName: 苔藓草
+	Tooltip:
+	你不应该收集它: (
 }
 
 CurtainLeftI: {
-	DisplayName: Curtain Left I
-	Tooltip: You arent meant to collect this :(
+	DisplayName: 左窗帘
+	Tooltip:
+	你不应该收集它: (
 }
 
 CurtainRightI: {
-	DisplayName: Curtain Right I
-	Tooltip: You arent meant to collect this :(
+	DisplayName: 右窗帘
+	Tooltip:
+	你不应该收集它: (
 }
 
 Log: {
-	DisplayName: Log
-	Tooltip: You arent meant to collect this :(
+	DisplayName: 木材
+	Tooltip:
+	你不应该收集它: (
 }
 
 MediumPot: {
-	DisplayName: Medium Pot
-	Tooltip: You arent meant to collect this :(
+	DisplayName: 中型锅
+	Tooltip:
+	你不应该收集它: (
 }
 
 MorrowChesti: {
-	DisplayName: Fable Chest
+	DisplayName: 黎明宝箱
 	Tooltip: ""
 }
 
 MorrowChestKey: {
-	DisplayName: Fabled Chest Key
+	DisplayName: 黎明钥匙
 	Tooltip: ""
 }
 
 MorrowDeath: {
-	DisplayName: Fable Death
-	Tooltip: You arent meant to collect this :(
+	DisplayName: 黎明死亡
+	Tooltip:
+	你不应该收集它: (
 }
 
 MorrowDeath2: {
-	DisplayName: Morrow Death2
-	Tooltip: You arent meant to collect this :(
+	DisplayName: 黎明死亡2
+	Tooltip:
+	你不应该收集它: (
 }
 
 MorrowSpike: {
-	DisplayName: Fabled Spike
+	DisplayName: 黎明尖刺
 	Tooltip: ""
 }
 
 MorrowStone: {
-	DisplayName: Fable Stone
-	Tooltip: You arent meant to collect this :(
+	DisplayName: 黎明石头
+	Tooltip:
+	你不应该收集它: (
 }
 
 MushroomBig: {
-	DisplayName: Mushroom Big
-	Tooltip: Shrooms
+	DisplayName: 大蘑菇
+	Tooltip: 只是蘑菇而已
 }
 
 SmallShroom: {
-	DisplayName: Small Shroom
-	Tooltip: Do drugs
+	DisplayName: 小蘑菇
+	Tooltip: 它有毒！
 }
 
 StandN: {
-	DisplayName: Stand N
-	Tooltip: You arent meant to collect this :(
+	DisplayName: 站立N
+	Tooltip:
+	你不应该收集它: (
 }
 
 VeriBossRel: {
-	DisplayName: Stone Guardian Relic
-	Tooltip: Boss relic of a relic boss, good job
+	DisplayName: 星域幻花圣物
+	Tooltip: 一个古老首领的圣物，真不错
 }
 
 walla: {
-	DisplayName: walla
+	DisplayName: 墙a
 	Tooltip: ""
 }
 
 wallb: {
-	DisplayName: wallb
+	DisplayName: 墙b
 	Tooltip: ""
 }
 
 wallc: {
-	DisplayName: wallc
+	DisplayName: 墙c
 	Tooltip: ""
 }
 
 walld: {
-	DisplayName: walld
+	DisplayName: 墙d
 	Tooltip: ""
 }
 
 walle: {
-	DisplayName: walle
+	DisplayName: 墙e
 	Tooltip: ""
 }
 
 wallf: {
-	DisplayName: wallf
+	DisplayName: 墙f
 	Tooltip: ""
 }
 
 wallg: {
-	DisplayName: wallg
+	DisplayName: 墙g
 	Tooltip: ""
 }
 
 BonePicklerCard: {
-	DisplayName: Bone Pickler Card
+	DisplayName: 骨拾荒者卡牌启动器
 	Tooltip:
-		'''
-		Use with a combination of dusts to make spells :)
-		Hit an enemy with a powder, then switch to this weapon and hold the attack button for explosions!
-		'''
+	'''
+	
+	用于结合尘埃制作法术: )
+	使用尘埃，然后使用这种类型的武器！
+	'''
+	
 }
 
 DaedCard: {
-	DisplayName: Daed Card
+	DisplayName: Daed卡牌启动器
 	Tooltip:
-		'''
-		Use with a combination of dusts to make spells :)
-		Hit an enemy with a powder, then switch to this weapon and hold the attack button for explosions!
-		'''
+	'''
+	
+	用于结合尘埃制作法术: )
+	使用尘埃，然后使用这种类型的武器！
+	'''
+	
 }
 
 EYIgniter: {
-	DisplayName: Eye Card
+	DisplayName: 晶状体引燃器
 	Tooltip:
-		'''
-		Use with a combination of dusts to make spells :)
-		Hit an enemy with a powder, then switch to this weapon and hold the attack button for explosions!
-		'''
+	'''
+	
+	用于结合尘埃制作法术: )
+	使用尘埃，然后使用这种类型的武器！
+	'''
+	
 }
 
 FrostCard: {
-	DisplayName: Frost Card
+	DisplayName: 冰霜卡片引燃器
 	Tooltip:
-		'''
-		Use with a combination of dusts to make spells :)
-		Hit an enemy with a powder, then switch to this weapon and hold the attack button for explosions!
-		'''
+	'''
+	
+	用于结合尘埃制作法术: )
+	使用尘埃，然后使用这种类型的武器！
+	'''
+	
 }
 
 GothivCard: {
-	DisplayName: Gothiv Card
+	DisplayName: 哥西夫卡片引燃器
 	Tooltip:
-		'''
-		Use with a combination of dusts to make spells :)
-		Hit an enemy with a powder, then switch to this weapon and hold the attack button for explosions!
-		'''
+	'''
+	
+	用于结合尘埃制作法术: )
+	使用尘埃，然后使用这种类型的武器！
+	'''
+	
 }
 
 LovestruckCard: {
-	DisplayName: Lovestruck Card
+	DisplayName: 爱神卡片引燃器
 	Tooltip:
-		'''
-		Use with a combination of dusts to make spells :)
-		Hit an enemy with a powder, then switch to this weapon and hold the attack button for explosions!
-		'''
+	'''
+	
+	用于结合尘埃制作法术: )
+	使用尘埃，然后使用这种类型的武器！
+	'''
+	
 }
 
 ScorcheCard: {
-	DisplayName: Scorche Card
+	DisplayName: 火焰卡片引燃器
 	Tooltip:
-		'''
-		Use with a combination of dusts to make spells :)
-		Hit an enemy with a powder, then switch to this weapon and hold the attack button for explosions!
-		'''
+	'''
+	
+	用于结合尘埃制作法术: )
+	使用尘埃，然后使用这种类型的武器！
+	'''
+	
 }
 
 StarrCard: {
-	DisplayName: Starr Card
+	DisplayName: 星辰卡片引燃器
 	Tooltip:
-		'''
-		Use with a combination of dusts to make spells :)
-		Hit an enemy with a powder, then switch to this weapon and hold the attack button for explosions!
-		'''
+	'''
+	
+	用于结合尘埃制作法术: )
+	使用尘埃，然后使用这种类型的武器！
+	'''
+	
 }
 
 StarterCard: {
-	DisplayName: Starter Card
+	DisplayName: 初级卡片引燃器
 	Tooltip:
-		'''
-		Use with a combination of dusts to make spells :)
-		Hit an enemy with a powder, then switch to this weapon and hold the attack button for explosions!
-		'''
+	'''
+	
+	用于结合尘埃制作法术: )
+	使用尘埃，然后使用这种类型的武器！
+	'''
+	
 }
 
 WCIgniter: {
-	DisplayName: Wild Card
+	DisplayName: 万能卡片引燃器
 	Tooltip:
-		'''
-		Use with a combination of dusts to make spells :)
-		Hit an enemy with a powder, then switch to this weapon and hold the attack button for explosions!
-		'''
+	'''
+	
+	用于结合尘埃制作法术: )
+	使用尘埃，然后使用这种类型的武器！
+	'''
+	
 }
 
 Bongos: {
-	DisplayName: Star-Gilded Bongo
-	Tooltip: Boom bong boom at cursor
+	DisplayName: 星辉镀金邦戈
+	Tooltip: 在光标位置发出轰鸣声
 }
 
 CocoSpark: {
-	DisplayName: Coconut Tome
-	Tooltip: Look master, I can summon, coconuts!
+	DisplayName: 椰子法典
+	Tooltip: 瞧，椰子砸碎了他们的脑袋
 }
 
 EvasiveBalls: {
-	DisplayName: Pearlescent Ice Balls
-	Tooltip: Shoots fast homing sparks of light!
+	DisplayName: 霜寒壳冰球
+	Tooltip: 快速发射追踪的霜火花！
 }
 
 FlameburstBalls: {
-	DisplayName: Molted Crust Balls
-	Tooltip: Shoots fast homing sparks of fire!
+	DisplayName: 熔岩壳火球
+	Tooltip: 快速发射追踪的火花！
 }
 
 GildedStaff: {
-	DisplayName: Gilded Staff
-	Tooltip: Shoots two spinning pieces of spiritual magic at your foes
+	DisplayName: 镀金法杖
+	Tooltip: 向敌人发射两个旋转的灵魂碎片
 }
 
 PrismaticBalls: {
-	DisplayName: Prismatic Cryadia Balls
-	Tooltip: Shoots fast homing sparks of everlasting crystal light!
+	DisplayName: 棱彩克莱迪亚球
+	Tooltip: 快速发射追踪的彩虹火花！
 }
 
 Splitflame: {
-	DisplayName: Split-flame candle
-	Tooltip: Totally not the candle from split, totally.
+	DisplayName: 裂火焰烛
+	Tooltip: 这不是来自于碎片的蜡烛，绝对不是。
 }
 
 Antaciz: {
-	DisplayName: Antaciz
-	Tooltip: Spinny winny damage the binny
+	DisplayName: 安塔克兹
+	Tooltip: 扔出旋转的大剑
 }
 
 Auroran: {
-	DisplayName: Auroran
+	DisplayName: 奥罗兰
 	Tooltip:
-		'''
-		Sends shockwaves through the air
-			Hitting enemies with the blade will increase your attack speed!
-			Divergency Inspired!
-		'''
+	'''
+	发送穿越空气的冲击波
+	用剑击中敌人会增加冲击波速度！ 灵感来自于《Divergency》！
+	'''
 }
 
 EnergizedNail: {
-	DisplayName: Energized Nail
-	Tooltip: Electrical nail, thats weird
+	DisplayName: 充能钉子
+	Tooltip: 充了电的钉子，很奇怪......
 }
 
 FrostSwing: {
-	DisplayName: Frost Swing
+	DisplayName: 霜舞
 	Tooltip:
-		'''
-		Shoots one bone bolt to swirl and kill your enemies after attacking!
-		Hitting foes with the melee swing builds damage towards the swing of the weapon
-		'''
+	'''
+	攻击时射出一根可追踪的骨头杀死你的敌人！
+	用近战击中敌人会积攒伤害，使下次挥舞伤害更高
+	'''
+	
 }
 
 Gutinier: {
-	DisplayName: Gutinier
+	DisplayName: 古特尼尔
 	Tooltip:
-		'''
-		Classful weapon!
-			Divergency Inspired!
-		'''
+	'''
+	称职的武器！
+	灵感来自于《Divergency》！
+	'''
+	
 }
 
 HornedNail: {
-	DisplayName: Horned Nail
-	Tooltip: Purge under funny nail :0
+	DisplayName: 巨角钉
+	Tooltip: 有趣的钉子
 }
 
 MorrowRapier: {
-	DisplayName: Fabled Rapier
-	Tooltip: Poke poke-dont get the wrong idea of the weapon function-poke
+	DisplayName: 黎明刺剑
+	Tooltip: 戳戳-不要对这个武器的功能产生错误的想法-戳-它就是用来戳人的-戳戳
 }
 
 MorrowSword: {
-	DisplayName: Fabled Sword
-	Tooltip: This sword feels warm, what is this Materials?
+	DisplayName: 黎明之剑
+	Tooltip: 给人一种温暖的感觉......这是什么材料呢？
 }
 
 MorrowValswa: {
-	DisplayName: Fabled Valswa
-	Tooltip: Very bad sword don't use it, I warned you
+	DisplayName: 黎明木剑
+	Tooltip: 我警告你，你最好别碰它
 }
 
 PalmThrower: {
-	DisplayName: Palm Tomahawks
-	Tooltip: Throw around tomahawks forged from palm, sounds boring :(
+	DisplayName: 棕榈投手
+	Tooltip: 投掷由棕榈制成的飞斧，听起来一点都不酷 ￣へ￣
 }
 
 Halhurish: {
-	DisplayName: Halhurish The Flamed
+	DisplayName: 火焰之刃-哈尔哈瑞什
 	Tooltip:
-		'''
-		Whip your opponents in the air
-		Hitting enemies will explode
-		'''
+	'''
+	抽打你的敌人
+	击中敌人会爆炸
+	'''
+	
 }
 
 Verstibloom: {
-	DisplayName: Thorner
+	DisplayName: 棘刺
 	Tooltip:
-		'''
-		Shoots a swirling red bloom to swirl and kill your enemies after attacking!
-		Hitting foes with the melee swing builds damage towards the swing of the weapon
-		Does trenourmous damage!
-		'''
+	'''
+	召唤一个红色漩涡来卷杀你的敌人
+	用近战击中敌人会积攒伤害，用于武器的近战 造成巨大的伤害！
+	'''
 }
 
 VerstiDance: {
-	DisplayName: Verstidance
+	DisplayName: 花之舞步
 	Tooltip:
-		'''
-		Swirl!
-		A petal dance that increases your movement speed and defense, but be wary of high risk 
-		'''
+	'''
+	旋转茶杯！
+	一种小幅增加你移动速度和防御的花之舞，但使用时要小心
+	'''
+	
 }
 
 PocketSand: {
-	DisplayName: Pocket Sand
+	DisplayName: 沙袋
 	Tooltip:
-		'''
-		Throw magical dust on them!
-		Dust that can be used with and for combos in igniters
-		Can penetrate armored enemies like nothing!
-		'''
+	'''
+	向敌怪投掷魔法尘埃
+	这种尘埃可以与引火器一起使用 可以穿透敌人的装甲
+	'''
 }
 
 ArcanalPowder: {
-	DisplayName: Sepsis Powder
+	DisplayName: 腐蚀尘埃
 	Tooltip:
-		'''
-		Throw magical dust on them!
-		A sparkly star dust that does double damage as the igniter!
-		After hitting an enemy with this, use an igniter card weapon!
-		'''
+	'''
+	向敌怪投掷魔法尘埃
+	这种尘埃可以与引火器一起使用，造成两倍伤害 使用引火器/卡片！
+	'''
 }
 
 BloodPowder: {
-	DisplayName: Kaev Powder
+	DisplayName: Kaev尘埃
 	Tooltip:
-		'''
-		Throw magical dust on them and ignite
-		A blood dust that does high damage with igniters.
-		After hitting an enemy with this, use an igniter card weapon!
-		'''
+	'''
+	将魔法尘埃洒在它们身上并点燃
+	这种尘埃可以与引火器一起使用，造成两倍伤害 使用引火器/卡片！
+	'''
 }
 
 CoalDust: {
-	DisplayName: Coal Powder
+	DisplayName: 煤尘埃
 	Tooltip:
-		'''
-		Throw magical dust on them!
-		After hitting an enemy with this, use an igniter card weapon!
-		Forged from the gems you collect!
-		'''
+	'''
+	将魔法尘埃洒在它们身上！
+	使用引火器/卡片！ 由你收集到的宝石锻造而成！
+	'''
 }
 
 FlamePowder: {
-	DisplayName: Flame Powder
+	DisplayName: 火焰尘埃
 	Tooltip:
-		'''
-		Throw magical dust on them!
-		A flamey dust that explodes with your igniter!
-		After hitting an enemy with this, use an igniter card weapon!
-		'''
+	'''
+	将魔法尘埃洒在它们身上！
+	一种火焰尘埃，与你的引火器一起爆炸！ 使用引火器/卡片！
+	'''
 }
 
 FrostedPowder: {
-	DisplayName: Frost Powder
+	DisplayName: 霜冻尘埃
 	Tooltip:
-		'''
-		Throw magical dust on them!
-		Dusty ice dust that does continuous damage with the igniter!
-		After hitting an enemy with this, use an igniter card weapon!
-		'''
+	'''
+	将魔法尘埃洒在它们身上！
+	带有引火器的冰霜尘埃，造成持续伤害！ 使用引火器/卡片！
+	'''
 }
 
 GrassDirtPowder: {
-	DisplayName: Dirt Powder
+	DisplayName: 泥土尘埃
 	Tooltip:
-		'''
-		Throw magical dust on them!
-		A dirty dust... that does damage???!
-		After hitting an enemy with this, use an igniter card weapon!
-		'''
+	'''
+	将魔法尘埃洒在它们身上！
+	一种脏兮兮的尘埃...竟然会造成伤害？？？ 使用引火器/卡片！
+	'''
 }
 
 LenaSongPowder: {
-	DisplayName: Lena Song Powder
+	DisplayName: Lena之歌尘埃
 	Tooltip:
-		'''
-		Throw magical dust on them!
-		A musical dust! that explodes with your igniter!
-		After hitting an enemy with this, use an igniter card weapon!
-		'''
+	'''
+	将魔法尘埃洒在它们身上！
+	一种音乐尘埃！与你的引火器一起爆炸！ 使用引火器/卡片！
+	'''
 }
 
 ShadowFlamePowder: {
-	DisplayName: ShadowFlame Powder
+	DisplayName: 暗影火焰尘埃
 	Tooltip:
-		'''
-		Throw magical dust on them!
-		A shadow dust that explodes with your igniter!
-		After hitting an enemy with this, use an igniter card weapon!
-		'''
+	'''
+	将魔法尘埃洒在它们身上！
+	一种暗影尘埃，与你的引火器一起爆炸！ 使用引火器/卡片！
+	'''
 }
 
 TrickPowder: {
-	DisplayName: Trick Powder
+	DisplayName: 诡计尘埃
 	Tooltip:
-		'''
-		Throw magical dust on them!
-		A sparkly tricky dust that does a lot damage!
-		After hitting an enemy with this, use an igniter card weapon!
-		'''
+	'''
+	将魔法尘埃洒在它们身上！
+	一种闪亮的诡计尘埃，造成大量伤害！ 使用引火器/卡片！
+	'''
 }
 
 Verstidust: {
-	DisplayName: Versti Powder
+	DisplayName: 花粉
 	Tooltip:
-		'''
-		Throw magical dust on them!
-		A musical dust that has calming flowers
-		After hitting an enemy with this, use an igniter card weapon!
-		'''
+	'''
+	将魔法尘埃洒在它们身上！
+	一种带有宁静花朵的音乐尘埃 使用引火器/卡片！
+	'''
 }
 
 BoneNail: {
-	DisplayName: Bone Nail
-	Tooltip: Burning with flowery rage
+	DisplayName: 骨钉
+	Tooltip: 燃烧着花之怒火
 }
 
 WoodenCrossbow: {
-	DisplayName: Wooden Crossbow
+	DisplayName: 木质弩
 	Tooltip: ""
 }
 
 Hornet: {
-	DisplayName: Hornet
+	DisplayName: 大黄蜂
 	Tooltip:
-		'''
-		Classy!
-		Totally has no reference to Hollow Knight
-		A weapon that shoots classy bomb and bullets.. A LOT
-		Dia Gun...
-		'''
+	'''
+	高雅！
+	完全没有参考《空洞骑士》 一种射出高雅炸弹和子弹的武器
+	Dia Gun...
+	'''
 }
 
 MorrowSalface: {
-	DisplayName: Fabled Salface
-	Tooltip: Shoots three bolts and then a big arcanal bolt
+	DisplayName: 碎阳
+	Tooltip: 发射三次弩箭之后发射一支大型奥术箭矢
 }
 
 SteamedNail: {
-	DisplayName: Steamed Nail
-	Tooltip: Ram em' hard (that's what I said)
+	DisplayName: 蒸汽钉
+	Tooltip: 狠狠地刺入它们（我说的）
 }
 
 Teraciz: {
-	DisplayName: Teraciz
+	DisplayName: 破碎
 	Tooltip:
-		'''
-		Meatballs
-		Do not be worried, this mushes reality into bit bits and then shoots it!
-		You can never miss :P
-		'''
+	'''
+	将现实破碎，并，发射出来
+	'''
 }
 
 Violar: {
-	DisplayName: Violar
+	DisplayName: 沉重和弦
 	Tooltip:
-		'''
-		Let them burn in harmony!
-		Simple weapon forged from Stellean bricks and the heat from plants of the fable
-		Impractical but very rewarding...
-		'''
+	'''
+	让他们在和弦中燃烧吧！
+	便宜的武器，由斯特利恩砖块和黎明之地的植物锻造而成
+	'''
+	
 }
 
 wowgun: {
-	DisplayName: Wowgun
+	DisplayName: 木枪
 	Tooltip:
-		'''
-		You made a gun out of wood what did you expect..
-		For your efforts I commend you, now use my voice as a weapon :)
-		'''
+	'''
+	你用木头制作了一把枪？你在期待什么啊......
+	好吧，起码你努力了，暂且用我的声音给你当武器吧
+	'''
+	
 }
 
 AlcadizDagger: {
-	DisplayName: Fabled String n' Brooch
+	DisplayName: 流浪金针
 	Tooltip:
-		'''
-		Your summons will target focused enemies
-		Summons will manifest out of your string shield
-		They will act as temporary summons to give your other minions company!
-		The Brooch above gives you 10+ Defense while active!
-		'''
+	'''
+	你的召唤物将会以集中的敌人为目标
+	召唤物将从你的线圈盾牌中显现出来 它们将作为临时召唤物来陪伴你的其他召唤物！
+	上面的胸针在激活时提供额外10点防御！
+	'''
 }
 
 BloodLamp: {
-	DisplayName: Blood Lamp
+	DisplayName: 血之灯
 	Tooltip:
-		'''
-		Enrages your summons by hitting enemies, shows a red mark on them!
-		Summons a red explosion crystal that hurts foes
-		Even makes a bloodthirst trail for the summon being empowered!
-		'''
+	'''
+	击中敌人会激怒你的召唤物，并在它们身上显示一个红色标记！
+	召唤一个红色爆炸水晶来伤害敌人 甚至为被增强的召唤物留下一条鲜红的轨迹！
+	'''
 }
 
 CanOfLeaves: {
-	DisplayName: Box Of Leaves
-	Tooltip: Summon the leaves, don't bother picking them up, they are a bit aggressive, and magical...
+	DisplayName: 叶盒
+	Tooltip: 召唤一些叶子，但不要去捡，它们有那么一点点攻击性，而且有一些不太友好的魔力...
 }
 
 StarCall: {
-	DisplayName: Starbomber
+	DisplayName: 星辰轰炸机
 	Tooltip:
-		'''
-		Your summons will explode into big stary bits!
-		Takes 2 slots to summon
-		They will act as temporary summons for big damage
-		Definitely gonna bring flashbacks after Diari releases
-		'''
+	'''
+	召唤一个超大的星辰炸弹！
+	需要2个召唤槽位来召唤 它们将作为临时召唤物造成巨大的伤害
+	'''
 }
 
 StumpBuster: {
-	DisplayName: Stump Buster
-	Tooltip: I command thee, use the power of stumps!
+	DisplayName: 树桩碎击者
+	Tooltip: 我命令你，使用树桩的力量！
 }
 
 MorrowWhipI: {
-	DisplayName: Fabled Morrowed Whip
+	DisplayName: 黎明长鞭
 	Tooltip:
-		'''
-		Your summons will target focused enemies
-		Summons will act on a target and do tremendous more damage
-		But when you mark an enemy, you lower your defense :(
-		Don't dieee!
-		'''
+	'''
+	你的召唤物将以集中的敌人为目标
+	召唤物将对一个目标行动并造成更大的伤害 但当你标记一个敌人时，你会降低防御力
+	别把自己的命搭上了
+	'''
+	
 }
 
 GovheilBlock: {
-	DisplayName: Govheil Block
+	DisplayName: 忍钢块
 	Tooltip: ""
 }
 
 GardenWrecker: {
 	Tooltip:
-		'''
-		Shoots out skull-bullets, if they hit, they do some serious damage!
-		It's true, they wrecked my garden! I'm only with the science team!
-		'''
-	DisplayName: Garden Wrecker
+	'''
+	发射骷髅炸弹，如果命中则造成严重的爆炸
+	是的，它们破坏了我的花园！而我只是研发团队的一员！
+	'''
+	
+	DisplayName: 花园破坏者
 }
 
 AlcadizScrap: {
-	DisplayName: Fabled Scrap
+	DisplayName: 流浪熔金废料
 	Tooltip:
-		'''
-		Essence of high Materials, used for making very neat weapons
-		Countains the power of Frile, Govheil and Fablia!
-		'''
+	'''
+	高级材料之精华，用于制作那些非常精良的武器
+	包含寒渊、忍钢和预言的力量！
+	'''
+	
 }
 
 BurningAngel: {
-	DisplayName: Burning Angel
+	DisplayName: 烈焰天使
 	Tooltip:
-		'''
-		Shoots out many axes, beware they explode on impact
-		Steerable for a while and consectutive hits speed up next throw!
-		Made from heavy fabled metal!
-		'''
+	'''
+	发射许多特别的斧头，小心，它们在撞击时会爆炸
+	可在发出后一段时间内由自己操控，连续命中会加速下一次的投掷！ 由重型流浪熔金制成！
+	'''
 }
 
 GovheilBoreI: {
@@ -1440,1256 +1456,1253 @@ ShrineLifeCI: {
 Curlistine: {
 	DisplayName: Curlistine
 	Tooltip:
-		'''
-		Only works if an enemy is nearby.
-		Shoots out many chained swords guided by the swirling stars..
-		Verlia's wish is granted upon you.
-		'''
+	'''
+	仅在附近有敌人时可使用。
+	发射许多由星星所引导的光芒。 维尔莉娅将赐福予你。
+	'''
 }
 
 AlcadizPowder: {
-	DisplayName: Fable Powder
+	DisplayName: 流浪熔金之尘
 	Tooltip:
-		'''
-		Throw magical dust on them!
-		A spark-like explosion dust that does a lot damage!
-		From the Fabled fallen remains..
-		'''
+	'''
+	投掷在敌人身上的魔法尘埃！
+	爆炸造成大量伤害！ 来自传说之中......
+	'''
 }
 
 VerliaBossBag: {
-	DisplayName: Treasure Bag (Verlia)
+	DisplayName: 维尔莉娅宝藏袋
 	Tooltip: ""
 }
 
 VerliaHat: {
 	Tooltip:
-		'''
-		Great for style!
-		Increased life by 50!
-		Increased Mana by 100!
-		I know you wanna wear it...
-		'''
-	DisplayName: Verlias Hat
+	'''
+	非常漂亮的一顶帽子！
+	生命值增加50 魔法值增加100
+	我知道你想戴上它......
+	'''
+	
+	DisplayName: 维尔莉娅的帽子
 }
 
 VerliaBroochA: {
 	Tooltip:
-		'''
-		I love ya!
-		When hitting enemies, a bunch of heavy damaging snowflakes may come out on impact!
-		Increased mana by 50!
-		Increased Defense by 5!
-		'''
-	DisplayName: Brooch of Verlia's Charm
+	'''
+	我爱你！
+	打击敌人时，可能会释放出一堆造成重创的雪花！ 增加50点法力值！
+	增加5点防御力！
+	'''
+	
+	DisplayName: 维尔莉娅的胸针
 }
 
 SwordsOfRevengence: {
 	Tooltip:
-		'''
-		I love ya!
-		Summons a Curlistine sword that brings Verlia's small swords to life!
-		Only works if an enemy is nearby!
-		Activates Verlia's Brooch effects! 
-		(Inc mana by 50, Def by 5, Heavy snowflakes on hit!) 
-		'''
-	DisplayName: Swords Of Revengence
+	'''
+	我爱你！
+	召唤一个Curlistine光芒，并召唤维尔莉娅的剑！ 仅在附近有敌人时有效！
+	激活维尔莉娅的胸针 （增加50点法力值，增加5点防御力，击中时产生大量雪花）
+	'''
+	DisplayName: 复仇
 }
 
 HarmonicBlasphemy: {
-	DisplayName: Harmonic Blasphemy
+	DisplayName: 亵渎谐振波
 	Tooltip:
-		'''
-		I love ya!
-		Very powerful moon blaster!
-		Use small moons gifted from Verlia herself!
-		Also use the power of music!
-		'''
+	'''
+	我爱你！
+	非常强大的月能爆破枪！ 使用维尔莉娅亲自赐予的月亮！
+	以及音乐的力量！
+	'''
+	
 }
 
 SupernovaSitar: {
-	DisplayName: Supernova Sitar
+	DisplayName: 超新星西塔琴
 	Tooltip:
-		'''
-		I love ya!
-		Absolute Distortion of Verlia's power of the moon and stars!
-		Her personal gift to you!
-		'''
+	'''
+	我爱你！
+	绝对的维尔莉娅的月亮和星星之扭曲力量！ 她个人送给你的礼物！
+	'''
 }
 
 Parendine: {
-	DisplayName: Parendine
-	Tooltip: Whip frosty!
+	DisplayName: 帕伦丁
+	Tooltip: 超冷的鞭子！
 }
 
 AuroranSeeker: {
 	Tooltip:
-		'''
-		A super charged book of spells to cast!
-		Summons a book that puts a variety of 7 spells on its attacker!
-		'''
-	DisplayName: Auroran Seeker
+	'''
+	一个活的法术书！
+	召唤一个可以释放多种7种法术的书！
+	'''
+	
+	DisplayName: 追光者
 }
 
 GovheilMask: {
-	DisplayName: Govheil Mask
+	DisplayName: 忍钢面具
 	Tooltip:
-		'''
-		12% Increased Magic and Summon damage!
-		+50 Mana and increased Mana regeneration
-		+12% Crit strike change
-		I've heard rumors that the flower gives a special affection bonus..
-		'''
+	'''
+	增加12%的魔法和召唤伤害！
+	+50点法力值和增加法力回复速度 +12%暴击率
+	我听说这朵花会带来特殊的魅力加成......
+	'''
+	
 }
 
 GovheilHelmet: {
 	Tooltip:
-		'''
-		12% Increased Ranged and Melee damage!
-		Autoswing capabilities
-		+10% Crit strike change
-		You wanna be cool huh?
-		'''
-	DisplayName: Govheil Helmet
+	'''
+	增加12%的远程和近战伤害！
+	自动挥动能力
+	+10%暴击率
+	很酷对吧？
+	'''
+	
+	DisplayName: 忍钢头盔
 }
 
 GovheilChainplate: {
 	Tooltip:
-		'''
-		12% Increased Ranged and Melee damage!
-		+50 Life
-		Gain effects of a magic quiver!
-		'''
-	DisplayName: Govheil Chainplate
+	'''
+	增加12%的远程和近战伤害！
+	+50生命值 让你像戴上了魔法箭袋一样！
+	'''
+	DisplayName: 忍钢链甲
 }
 
 GovheilBreastplate: {
 	Tooltip:
-		'''
-		12% Increased Magic and Summon damage!
-		+50 Mana and increased Mana regeneration
-		+30 Life!
-		+1 Summon
-		'''
-	DisplayName: Govheil Breastplate
+	'''
+	增加12%的魔法和召唤伤害！
+	+50点法力值和增加法力回复速度 +30生命值！
+	+1召唤物
+	'''
+	
+	DisplayName: 忍钢胸甲
 }
 
 GovheilThighs: {
-	DisplayName: Govheil Thighs
+	DisplayName: 忍钢护胫
 	Tooltip:
-		'''
-		7% Increased Movement speed
-		+30 Life!
-		+10% Damage
-		+15 Armor Penetration
-		Mega thicc!
-		'''
+	'''
+	移动速度提升7%
+	+30生命值！ +10%伤害
+	+15护甲穿透 超级厚实！
+	'''
 }
 
 XexterianLeggings: {
-	Tooltip: +5% Damage
-	DisplayName: Xexterian Leggings
+	Tooltip: +12%伤害
+	DisplayName: Xexterian护腿
 }
 
 XexterianHat: {
-	DisplayName: Xexterian Hat
+	DisplayName: Xexterian帽子
 	Tooltip:
-		'''
-		+5% Damage
-		+20 Life
-		You really want this knock off Forbidden armor?
-		'''
+	'''
+	+20%伤害
+	+20生命值 你真的想要这个禁忌盔甲的仿制品吗？
+	'''
 }
 
 XexterianHeatplate: {
-	DisplayName: Xexterian Heatplate
+	DisplayName: Xexterian胸甲
 	Tooltip:
-		'''
-		+10 Armor Penetration
-		+20 Life!
-		+6% Damage
-		+5 Critical Strike Chance
-		'''
+	'''
+	+20护甲穿透
+	+20生命值！ +6%伤害
+	+5暴击几率
+	'''
+	
 }
 
 DaediaThighs: {
 	Tooltip:
-		'''
-		+40 Life!
-		30% Increased movement speed!
-		Walk like a flowery goddess with flower boots!
-		'''
-	DisplayName: Daedia Thighs
+	'''
+	+40生命值！
+	移动速度提升30%！ 让你像一位花神一样行走（最好穿上花靴）
+	'''
+	DisplayName: Daedia护腿
 }
 
 DaediaMask: {
 	Tooltip:
-		'''
-		+65 Life!
-		A little halo over a new spiritual goddess!
-		'''
-	DisplayName: Daedia Mask
+	'''
+	+65生命值！
+	一位新的女神的面具！
+	'''
+	
+	DisplayName: Daedia面具
 }
 
 DaediaBreastplate: {
 	Tooltip:
-		'''
-		+60 Life!
-		+2 Summons
-		'''
-	DisplayName: Daedia Breastplate
+	'''
+	+60生命值！
+	+2召唤物
+	'''
+	
+	DisplayName: Daedia胸甲
 }
 
 PotionOfLifeWand: {
-	DisplayName: Potion Of Life Wand
-	Tooltip: A sweet little potion summon that will give drop hearts occasionally!
+	DisplayName: 治疗药水召唤杖
+	Tooltip: 一个可爱的小魔杖，召唤出偶尔会掉落红心的治疗药水！
 }
 
 PotionOfManaWand: {
-	Tooltip: A sweet little potion summon that will give drop mana occasionally!
-	DisplayName: Potion Of Mana Wand
+	Tooltip: 一个可爱的小魔杖，召唤出偶尔会掉落星星的魔力药水！
+	DisplayName: 魔力药水召唤杖
 }
 
 Ebistar: {
-	DisplayName: Ebistar
+	DisplayName: 星辰短弓
 	Tooltip:
-		'''
-		This will not go the way you want it to...
-		Shoots many swirling star arrows!
-		'''
+	'''
+	它的弹道多少有点“超出预期”了
+	发射许多乱飞的星箭！
+	'''
+	
 }
 
-Hearstspire: {
-	DisplayName: Heartspire
+Heartspire: {
+	DisplayName: 心脉长枪
 	Tooltip:
-		'''
-		Slash through the lovely night!
-		Dream upon a goddess of love, Daedia!
-		'''
+	'''
+	在梦幻的夜晚划破苍穹！
+	梦见爱之女神Daedia！
+	'''
+	
 }
 
 Pearlinator: {
-	DisplayName: Pearlinator
+	DisplayName: 珍珠火焰喷射器
 	Tooltip:
-		'''
-		Lovely flamethrower?
-		Dream upon a goddess of love, Daedia!
-		'''
+	'''
+	一个可爱的火焰喷射器
+	梦见爱之女神Daedia！
+	'''
+	
 }
 
 MerchantCrossbow: {
-	DisplayName: The Merchants Crossbow
+	DisplayName: 钱币弩
 	Tooltip:
-		'''
-		Who knew merchants could sell weapons!
-		Either way its a holding crossbow!
-		How generous :P
-		'''
+	'''
+	谁知道商人也会卖武器！
+	无论如何，这是一把小手弩！ 上面散发着一股钱币的味道，多棒啊(｡･∀･)
+	'''
+	
 }
 
 LeadCrossbow: {
-	Tooltip: A simple crossbow that can be held down to shoot bolts
-	DisplayName: Lead Crossbow
+	DisplayName: 铅弩
+	Tooltip: 一把简单的弩，可以按住左键以发射弩箭
 }
 
 IronCrossbow: {
-	Tooltip: A simple crossbow that can be held down to shoot bolts
-	DisplayName: Iron Crossbow
+	DisplayName: 铁弩
+	Tooltip: 一把简单的弩，可以按住左键以发射弩箭
 }
 
 DungeonCrossbow: {
+	DisplayName: 骨骼弩
 	Tooltip:
-		'''
-		Woa spooky...
-		A simple crossbow that can be held down to shoot bolts
-		Bones come out from each hit!
-		'''
-	DisplayName: Bone and Rag Crossbow
+	'''
+	哇，有点吓人......
+	一把简单的弩，可以按住左键以发射弩箭 每次命中时会有骨头弹出来！
+	'''
 }
 
 GoldCrossbow: {
-	DisplayName: Gold Crossbow
+	DisplayName: 金弩
 	Tooltip:
-		'''
-		A simple crossbow that can be held down to shoot bolts
-		This one even has ruby bolts inside!
-		'''
+	'''
+	一把简单的弩，可以按住左键以发射弩箭
+	这把弩里面甚至有红玉的魔力！
+	'''
+	
 }
 
 PlatinumCrossbow: {
-	DisplayName: Platinum Crossbow
+	DisplayName: 铂金弩
 	Tooltip:
-		'''
-		A simple crossbow that can be held down to shoot bolts
-		This one even has ruby bolts inside!
-		'''
+	'''
+	一把简单的弩，可以按住左键以发射弩箭
+	这把弩里面甚至有红玉的魔力！
+	'''
+	
 }
 
 SilverCrossbow: {
-	DisplayName: Silver Crossbow
+	DisplayName: 银弩
 	Tooltip:
-		'''
-		A simple crossbow that can be held down to shoot bolts
-		This one even has sapphire bolts inside!
-		'''
+	'''
+	一把简单的弩，可以按住左键以发射弩箭
+	这把弩里面甚至有蓝玉的魔力！
+	'''
+	
 }
 
 TungstenCrossbow: {
-	DisplayName: Tungsten Crossbow
+	DisplayName: 钨弩
 	Tooltip:
-		'''
-		A simple crossbow that can be held down to shoot bolts
-		This one even has sapphire bolts inside!
-		'''
+	'''
+	一把简单的弩，可以按住左键以发射弩箭
+	这把弩里面甚至有蓝玉的魔力！
+	'''
+	
 }
 
 MorrowedCrossbow: {
-	DisplayName: Fabled Crossbow
+	DisplayName: 魔力强弩
 	Tooltip:
-		'''
-		Sniper type crossbow that can be held down to shoot fast rail bolts!
-		The fable is coming inside of me!
-		'''
+	'''
+	可以按住发射强大弩箭的强弩！
+	黎明的力量在我体内涌动！
+	'''
+	
 }
 
 DustedSilk: {
-	DisplayName: Dusted Silk
+	DisplayName: 尘网绸布
 	Tooltip:
-		'''
-		Special Materials harvested from spiders
-		Useful for crafting certain string-like items!
-		'''
+	'''
+	从蜘蛛身上采集的特殊材料
+	用于制作某些类似于绳子的物品！
+	'''
+	
 }
 
 SpiderillaCrossbow: {
-	DisplayName: Spiderillas Crossbow
+	DisplayName: 蜘蛛强弩
 	Tooltip:
-		'''
-		Sniper type crossbow that can be held down to shoot fast rail bolts!
-		Eggs pop out of this one so uh...
-		If you have arachniphobia, why use this?
-		'''
+	'''
+	可以按住发射强大弩箭的强弩！
+	这把弩里面还会弹出蜘蛛卵，所以...... 如果你害怕蜘蛛，为什么要使用这把弩呢？
+	'''
 }
 
 DesertCrossbow: {
+	DisplayName: 沙漠弩
 	Tooltip:
-		'''
-		Shotgun type crossbow that shoots bolts in many directions!
-		Hold down to shoot!
-		Rumors have it that they are faster than the wind..
-		'''
-	DisplayName: Winded Sands Crossbow
+	'''
+	类似霰弹枪的弩，可以朝多个方向发射弩箭！
+	按住发射！ 传闻它射出的箭飞的比风还快......
+	'''
 }
 
 FrostyCrossbow: {
-	DisplayName: Auroran Ice Crossbow
+	DisplayName: 极寒弩
 	Tooltip:
-		'''
-		Shotgun type crossbow that shoots bolts in many directions!
-		Hold down to shoot!
-		Frosty!
-		'''
+	'''
+	类似霰弹枪的弩，可以朝多个方向发射弩箭！
+	按住发射！ 寒冷至极！
+	'''
 }
 
 CoralCrossbow: {
-	DisplayName: Night's Coral Crossbow
+	DisplayName: 夜之珊瑚弩
 	Tooltip:
-		'''
-		A speed type crossbow meant for hunters
-		Hold down to shoot!
-		The absolute, the enraged, the entropy, the finale!
-		'''
+	'''
+	一种适合猎人的连弩
+	按住发射！ 绝对，愤怒，熵，与终局！
+	'''
 }
 
 MoltenCrossbow: {
-	DisplayName: Molten Crossbow
+	DisplayName: 熔岩连弩
 	Tooltip:
-		'''
-		A speed type crossbow meant for hunters
-		Hold down to shoot!
-		Sometimes, we want to watch the world burn...
-		'''
+	'''
+	一种适合猎人的连弩
+	按住发射！ 有时候，我们想看世界燃烧......
+	'''
 }
 
 FabiliaCrossbow: {
-	DisplayName: Fabilia Wilds Crossbow
+	DisplayName: 法比利亚野地弩
 	Tooltip:
-		'''
-		Shotgun type crossbow that shoots bolts in many directions!
-		Hold down to shoot!
-		Explode enemies with this favorable fabilia crossbow :P
-		'''
+	'''
+	类似霰弹枪的弩，可以朝多个方向发射弩箭！
+	按住发射！ 用这把法比利亚弩炸死所有敌人(｡･∀･)
+	'''
+	
 }
 
 JadeJungleCrossbow: {
-	DisplayName: Jade Jungle Crossbow
+	DisplayName: 翡翠丛林弩
 	Tooltip:
-		'''
-		Sniper type crossbow that can be held down to shoot fast rail bolts!
-		Little leaves come out of the bolts
-		Grass can sometimes taste yummy :)
-		'''
+	'''
+	可以按住发射强大弩箭的强弩！
+	弩箭上还会有小叶子弹出来 草有时候也很好吃的(*-▽-)
+	'''
+	
 }
 
 Heatspot: {
-	DisplayName: Heatspot
+	DisplayName: 热点
 	Tooltip:
-		'''
-		Are you burning yet?
-		+4% Magic damage :P
-		'''
+	'''
+	燃起来了！
+	+4% 魔法伤害
+	'''
 }
 
 Valtotude: {
-	DisplayName: Windatude
+	DisplayName: 风之囚笼
 	Tooltip:
-		'''
-		Create a swirl that keeps enemies inside a whirlwind
-		Great for getting your summons to attack enemies in one spot!
-		'''
+	'''
+	创造一个漩涡将敌人困在其中
+	很适合让你的召唤物在一个固定的地方攻击敌人！
+	'''
+	
 }
 
 DesertWhip: {
-	Tooltip: A small little whip
-	DisplayName: Desert Whip
+	DisplayName: 沙漠鞭
+	Tooltip: 看起来像是一条小鞭子
 }
 
 Vinger: {
-	Tooltip: I dont remember the goblins using this...
-	DisplayName: Vinger
+	DisplayName: 维格纳
+	Tooltip: 我不记得有哪个哥布林使用过这个...
 }
 
 CharmofRot: {
+	DisplayName: 腐朽护符
 	Tooltip:
-		'''
-		Rotting with the webs
-		+8% Summon Damage
-		'''
-	DisplayName: Charm of Rot
+	'''
+	与蛛网一同腐朽
+	+8% 召唤伤害
+	'''
 }
 
 Vheilatine: {
-	Tooltip: Forged straight from the masters of gothivia's worshippers!
-	DisplayName: Vheilatine
+	DisplayName: 维拉汀
+	Tooltip: 由哥帝维亚的仆从中锻造而成！
 }
 
 AcidStaketers: {
-	DisplayName: Acid Staketers
-	Tooltip: Makes the wearer run super fast!
+	DisplayName: 酸性加速器
+	Tooltip: 使佩戴者跑得超快！
 }
 
 AquaCrystal: {
-	DisplayName: Aqua Crystal
-	Tooltip: 15% Increased Ranged Critical Strike Chance!
+	DisplayName: 晶泪
+	Tooltip: 提高暴击几率！
 }
 
 AquaticHealingNecklace: {
-	DisplayName: Aquatic Healing Necklace
-	Tooltip: Increased regeneration and movement speed!
+	DisplayName: 水疗项链
+	Tooltip: 增加生命回复速度和移动速度！
 }
 
 ArncharMagazine: {
-	DisplayName: Arnchar Magazine
-	Tooltip: Increases ranged critical strike chance by 10%
+	DisplayName: Arnchar弹夹
+	Tooltip: 增加5%的远程暴击几率！
 }
 
 ClamsPearl: {
-	DisplayName: Clams Pearl
-	Tooltip: A small light will emit off you :)
+	DisplayName: 蚌壳珍珠
+	Tooltip: 你身上会发出微光(*-▽-)
 }
 
 CloudSkaters: {
-	DisplayName: Cloud Skaters
-	Tooltip: Stay airbourne for longer and defy gravity!
+	DisplayName: 云中鞋
+	Tooltip: 让你在空中停留更长时间，当然，牛顿是管不了游戏的
 }
 
 CoralBand: {
-	DisplayName: Coral Band
-	Tooltip: 5% increased Melee damage and Critical Strike Chance!
+	DisplayName: 珊瑚戒指
+	Tooltip: 大幅增加近战伤害和暴击几率！
 }
 
 GintzlMetal: {
-	DisplayName: Gintzl Metal
-	Tooltip: A metal stolen from Gothivia's castle, and has rotted and turned into gintze metal.
+	DisplayName: 重钢
+	Tooltip: 从高提维亚城堡偷来的金属，已经腐蚀并变成了重钢。
 }
 
 EaglesGrace: {
-	DisplayName: Eagles Grace
-	Tooltip: A special eagle gives you flight from a sacred nest of the fable
+	DisplayName: 鹰之恩赐
+	Tooltip: 一只特殊的鹰赐予你飞行的能力，来自黎明圣地的神圣巢穴。
 }
 
 GhostExcalibur: {
-	DisplayName: Ghost Excalibur
-	Tooltip: Summons an excalibur to fight for you!
+	DisplayName: 幽灵神剑
+	Tooltip: 召唤一把神剑为你而战！
 }
 
 GiftOfLife: {
-	DisplayName: Gift Of Life
+	DisplayName: 生命恩赐
 	Tooltip: ""
 }
 
 LeatherGlove: {
-	DisplayName: Leather Glove
-	Tooltip: Increases throwing damage and throwing velocity.
+	DisplayName: 皮制手套
+	Tooltip: 增加投掷伤害和投掷速度。
 }
 
 LunarBand: {
-	DisplayName: Lunar Band
-	Tooltip:
-		'''
-		Increases critical strike chance by 8%
-		During night, you have 12% more damage and give off some light
-		'''
+	DisplayName: 月光戒指
+	Tooltip: 夜晚总是增加暴击几率和伤害
 }
 
 OceanScroll: {
-	DisplayName: Ocean Scroll
-	Tooltip: Increased Magical Critical strike chance by 10%
+	DisplayName: 海洋卷轴
+	Tooltip: 增加20%的魔法暴击几率！
 }
 
 OceansTrinket: {
-	DisplayName: Oceans Trinket
-	Tooltip: Increases max minions by 1 and 8% increased summon damage!
+	DisplayName: 海洋护符
+	Tooltip: 增加1个最大召唤槽，并提高8%的召唤伤害！
 }
 
 RuneOfCorsage: {
-	DisplayName: Rune Of Corsage
-	Tooltip: Has a chance to gift super healing, if you were hit while under the effects of super healing everything on screen will be poisoned.
+	DisplayName: 活力符文
+	Tooltip: 有机会获得超级治疗效果，如果在超级治疗状态下受到攻击，屏幕上的所有敌人都会中毒。
 }
 
 RuneOfDetonation: {
-	DisplayName: Rune Of Detonation
-	Tooltip: Has a chance to explode enemies doing double damage
+	DisplayName: 爆炸符文
+	Tooltip: 有机会使被攻击的敌人爆炸，造成双倍伤害。
 }
 
 RuneOfReality: {
-	DisplayName: Rune Of Reality
-	Tooltip: When you hit an enemy, you will release homing magic bolts that summon mana stars when they hit
+	DisplayName: 真实符文
+	Tooltip: 每当击中敌人时，你会释放可追踪的魔法箭，击中时会召唤魔力星。
 }
 
 RuneOfShade: {
-	DisplayName: Rune Of Shade
-	Tooltip: +20 Max mana
+	DisplayName: 阴影符文
+	Tooltip: +20最大魔力
 }
 
 RuneOfStealth: {
-	DisplayName: Rune Of Stealth
-	Tooltip: "You will slowly increase damage until you are hit You will glow a bright red when you are at your most powerful form "
+	DisplayName: 潜行符文
+	Tooltip: 你的伤害会逐渐增加，直到受到攻击。当你处于最强形态时，你会发出明亮的红光。
 }
 
 ShadeCharm: {
-	DisplayName: Shade Charm
-	Tooltip: Decreases Mana Cost and lights up in the night
+	DisplayName: 阴影护符
+	Tooltip: 减少法力消耗，并在夜晚发光
 }
 
 ShadeScarf: {
-	DisplayName: Shadei
+	DisplayName: 阴影围巾
 	Tooltip:
-		'''
-		Increased movement speed
-		+2% Damage
-		Gives effects of steali and adds +10 Health and +10% critical strike chance!
-		Increased life regeneration!
-		'''
+	'''
+	双击移动键以进行冲刺
+	增加移动速度 +10%伤害
+	获得潜行效果，+40生命和+10%暴击几率！ 增加生命再生速度！
+	'''
 }
 
 ShellSheid: {
-	DisplayName: Shell Shield
-	Tooltip: Shelly!
+	DisplayName: 贝壳之盾
+	Tooltip: 壳利！
 }
 
 SoulStrideres: {
-	DisplayName: Soul Strideres
+	DisplayName: 灵魂行者
 	Tooltip:
-		'''
-		Increased movement speed and airtime!
-		Effects of rocket boots!
-		I don't wanna have my soul turned into boots :(
-		'''
+	'''
+	增加移动速度和空中滞留的时间
+	拥有火箭靴的飞天效果
+	我不想将我的灵魂变成一双靴子啊....../_ \
+	'''
 }
 
 SpiritPendent: {
-	DisplayName: Spirit Pendent
-	Tooltip: Provides a small light
+	DisplayName: 灵魂吊坠
+	Tooltip:
+	'''
+	提供微弱的光照
+	'''
 }
 
 StarflareBand: {
-	DisplayName: Starflare Band
+	DisplayName: 星火头带
 	Tooltip:
-		'''
-		+20% Magic Damage
-		Increased Mana regeneration!
-		Reduced Mana cost :o
-		'''
+	'''
+	+20%
+	魔法伤害 增加法力回复速度！
+	减少法力消耗 （*O-O*)
+	'''
 }
 
 SunGlyph: {
-	DisplayName: Sun Glyph
-	Tooltip: Greatly increases all damage in the daylight.
+	DisplayName: 太阳雕纹
+	Tooltip: 大幅增加白天的所有伤害。
 }
 
 WoodShield: {
-	DisplayName: Wood Shield
-	Tooltip: The cooler daniel.
+	DisplayName: 木盾
+	Tooltip: 更酷的丹尼尔。
 }
 
-AcidBody: {
-	DisplayName: Virulent Body
-	Tooltip: Life regeneration is increased by a small amount.
+VirulentBody: {
+	DisplayName: 剧毒胸甲
+	Tooltip: 增加一定的生命回复速率。
 }
 
-AcidHelm: {
-	DisplayName: Virulent Helm
-	Tooltip: Slightly increased Melee damage and crit strike chance!
+VirulentHelm: {
+	DisplayName: 剧毒重盔
+	Tooltip: 稍微增加近战伤害和暴击几率！
 }
 
-AcidLegs: {
-	DisplayName: Virulent Legs
-	Tooltip: Increased movement speed :P
+VirulentLegs: {
+	DisplayName: 剧毒护腿
+	Tooltip: 增加移动速度 (•ω•*)
 }
 
-AcidMask: {
-	DisplayName: Virulent Mask
-	Tooltip: Increased Ranged damage and crit chance!
+VirulentMask: {
+	DisplayName: 剧毒面具
+	Tooltip: 增加远程伤害和暴击几率！
 }
 
-AcidRobe: {
-	DisplayName: Virulent Robe
-	Tooltip: Increased Magic damage and crit chance!
+VirulentRobe: {
+	DisplayName: 剧毒帽子
+	Tooltip: 增加魔法伤害和暴击几率！
 }
 
-AcidVisor: {
-	DisplayName: Virulent Visor
-	Tooltip: Increased Throwing damage and crit chance!
+VirulentVisor: {
+	DisplayName: 剧毒头盔
+	Tooltip: 增加投掷伤害和暴击几率！
 }
 
 AstrasilkBody: {
-	DisplayName: Astrasilk Body
+	DisplayName: 星丝衣
 	Tooltip: ""
 }
 
 AstrasilkHead: {
-	DisplayName: Astrasilk Head
-	Tooltip: Increases Mana Regen by 4%
+	DisplayName: 星丝头盔
+	Tooltip: 增加4%法力回复速度
 }
 
 AstrasilkLegs: {
-	DisplayName: Astrasilk Legs
-	Tooltip: Increases movement speed by 20%
+	DisplayName: 星丝护腿
+	Tooltip: 增加20%移动速度
 }
 
-ElagentBody: {
-	DisplayName: Elagent Body
-	Tooltip: +1 Minion
+ElegantBody: {
+	DisplayName: 雅致胸甲
+	Tooltip: +1 召唤栏
 }
 
-ElagentHead: {
-	DisplayName: Elagent Head
-	Tooltip: +20% Minion Damage
+ElegantHead: {
+	DisplayName: 雅致头盔
+	Tooltip: +20% 召唤伤害
 }
 
-ElagentLegs: {
-	DisplayName: Elagent Legs
+ElegantLegs: {
+	DisplayName: 雅致护腿
 	Tooltip:
-		'''
-		+10% Summon Damage
-		+2 Minions
-		Increased movement speed
-		'''
+	'''
+	+10%召唤伤害
+	+2召唤栏
+	增加移动速度
+	'''
 }
 
 ForestCoreBody: {
-	DisplayName: Forest Core Body
-	Tooltip: Increases ranged crit chance by 2%
+	DisplayName: 森林之核胸甲
+	Tooltip: 增加2%的远程暴击几率
 }
 
 ForestCoreHead: {
-	DisplayName: Forest Core Head
-	Tooltip: Increases ranged damage by 2%
+	DisplayName: 森林之核头盔
+	Tooltip: 增加2%的远程伤害
 }
 
 ForestCoreLegs: {
-	DisplayName: Forest Core Legs
-	Tooltip: Increases movement speed by 10%
+	DisplayName: 森林之核护腿
+	Tooltip: 增加10%的移动速度
 }
 
 HeavyMetalBody: {
-	DisplayName: Gintzl Body
-	Tooltip: Just gives defense smh.
+	DisplayName: 重钢链甲
+	Tooltip: 只提供防御，呐！
 }
 
 HeavyMetalHead: {
-	DisplayName: Gintzl Head
-	Tooltip: It has a good summon set bonus, trust me.
+	DisplayName: 重钢头盔
+	Tooltip: 它有一个很好的召唤套装加成，相信我。
 }
 
 HeavyMetalLegs: {
-	DisplayName: Gintzl Legs
-	Tooltip: +5% Movement speed
+	DisplayName: 重钢护胫
+	Tooltip: +5%的移动速度
 }
 
 LeatherBody: {
-	DisplayName: Leather Body
-	Tooltip: " Increases throwing damage by 25%"
+	DisplayName: 皮革护甲
+	Tooltip: 增加25%的投掷伤害
 }
 
 LeatherHead: {
-	DisplayName: Leather Head
-	Tooltip: Increases throwing critical strike chance by 4%
+	DisplayName: 皮革头盔
+	Tooltip: 增加4%的投掷暴击几率
 }
 
 LeatherLegs: {
-	DisplayName: Leather Legs
-	Tooltip: Increases movement speed by 10%
+	DisplayName: 皮革护腿
+	Tooltip: 增加10%的移动速度
 }
 
 ShadeWraithBody: {
-	DisplayName: Shade Wraith Body
-	Tooltip: Increased endurance and life by 20!
+	DisplayName: 影魅链甲
+	Tooltip: 增加20点耐力和生命值！
 }
 
 ShadeWraithHead: {
-	DisplayName: Shade Wraith Head
-	Tooltip: +2% Damage for all classes (except throwing)
+	DisplayName: 影魅头盔
+	Tooltip: 所有职业（投手除外）增加2%的伤害
 }
 
 ShadeWraithLegs: {
-	DisplayName: Shade Wraith Legs
-	Tooltip: Slightly increased movement speed.
+	DisplayName: 影魅护胫
+	Tooltip: 增加少量移动速度
 }
 
 TerricBody: {
-	DisplayName: Terric Body
-	Tooltip: +40 Health
+	DisplayName: 恐惧链甲
+	Tooltip: +40 最大生命值
 }
 
 TerricHead: {
-	DisplayName: Terric Head
-	Tooltip: +13% Increased Magic Damage
+	DisplayName: 恐惧头盔
+	Tooltip: +13% 魔法伤害
 }
 
 TerricLegs: {
-	DisplayName: Terric Legs
-	Tooltip: Increased movement speed!
+	DisplayName: 恐惧护胫
+	Tooltip: 增加移动速度
 }
 
 WinterbornBody: {
-	DisplayName: Winterborn Body
-	Tooltip: +20 Health!
+	DisplayName: 寒冬链甲
+	Tooltip: +20 生命值
 }
 
 WinterbornHead: {
-	DisplayName: Winterborn Head
-	Tooltip: Increased Mana Regeneration
+	DisplayName: 寒冬头盔
+	Tooltip: 增加法力回复速度
 }
 
 WinterbornLegs: {
-	DisplayName: Winterborn Legs
-	Tooltip: 10% Increased movement speed!
+	DisplayName: 寒冬护胫
+	Tooltip: 增加10%的移动速度
 }
 
 DreadmireBag: {
-	DisplayName: Treasure Bag (Dreadmire)
-	Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
+	DisplayName: 恐惑魔魇宝藏袋
+	Tooltip: ""
 }
 
 EDR: {
-	DisplayName: E D R
-	Tooltip: that big red button probably will do something you'll regret... Your conscience advises you to press it and see what happens!
+	DisplayName: EDR
+	Tooltip: 那个红色按钮可能会让你后悔的......但你的好奇心却在建议你按下它......看看会发生什么吧
 }
 
 JackoBag: {
-	DisplayName: Treasure Bag (Jack)
-	Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
+	DisplayName: 杰克宝藏袋
+	Tooltip: ""
 }
 
 NestBag: {
-	DisplayName: Treasure Bag (Irradiated Nest)
-	Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
+	DisplayName: 辐辉巢穴宝藏袋
+	Tooltip: ""
 }
 
 SingularityBag: {
-	DisplayName: Treasure Bag (Singularity)
-	Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
+	DisplayName: 星极残芒宝藏袋
+	Tooltip: ""
 }
 
 SunClaw: {
-	DisplayName: Sun Stone
-	Tooltip: Use at a sun alter to fight a retired general of Gothivia's ranks.
+	DisplayName: 太阳之爪
+	Tooltip: 在太阳祭坛使用，与戈茜维娅军队的退役将领战斗。
 }
 
 SunStalkerBag: {
-	DisplayName: Treasure Bag (Sun Stalker)
-	Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
+	DisplayName: 逐日者宝藏袋
+	Tooltip: ""
 }
 
 VoidLantern: {
-	DisplayName: Void Lantern
+	DisplayName: 虚空灯笼
 	Tooltip: ""
 }
 
 WanderingEssence: {
-	DisplayName: Wandering Essence
-	Tooltip: Strange item to represent love to Gothivia
+	DisplayName: 流浪精华
+	Tooltip: 代表对戈茜维娅的爱的奇怪物品
 }
 
 ArnchaliteBar: {
-	DisplayName: Arnchalite Bar
-	Tooltip: Its scolding hot! But its not old enough to be verian yet.
+	DisplayName: 焰碳金锭
+	Tooltip: 烫手！但还不够老到是维里安的。
 }
 
 ArncharChunk: {
-	DisplayName: Arnchar Chunk
-	Tooltip: Little pieces of a bigger substance
+	DisplayName: 焰碳金碎块
+	Tooltip: 更大物体的一些小部分
 }
 
 BlankRune: {
-	DisplayName: Blank Rune
-	Tooltip: This doesn't look like it will do anything by itself
+	DisplayName: 空白符文
+	Tooltip: 看起来似乎没什么效果
 }
 
 ConvulgingMater: {
-	DisplayName: Convulging Matter
-	Tooltip: A dark matter that has corrupted the fallen.
+	DisplayName: 痉挛物质
+	Tooltip: 一种腐化人并使其堕落的黑暗物质。
 }
 
 DarkEssence: {
-	DisplayName: Dark Essence
-	Tooltip: Pure shadows conjured by the darkest of entities.
+	DisplayName: 黑暗精华
+	Tooltip: 由最黑暗的实体所凝聚的纯粹暗影。
 }
 
 DreadFoil: {
-	DisplayName: Dread Foil
-	Tooltip: Foil captured from Dreadmire!
+	DisplayName: 恐惧箔
+	Tooltip: 从恐惧泥沼中所得到的箔！
 }
 
 FlareGem: {
-	DisplayName: Flare Gem
+	DisplayName: 闪光宝石
 	Tooltip: ""
 }
 
 FloralFungus: {
-	DisplayName: Floral Fungus
+	DisplayName: 花卉菌
 	Tooltip: ""
 }
 
 GelatinOzze: {
-	DisplayName: Gelatin Ozze
-	Tooltip: '''Jellyfish are scary...	 Trust me...'''
+	DisplayName: 明胶软泥
+	Tooltip: "水母很可怕...相信我..."
 }
 
 AncientLizardMetal: {
-	DisplayName: Ancient Lizard Metal
+	DisplayName: 古代蜥蜴金属
 	Tooltip: ""
 }
 
 BlazefuryShard: {
-	DisplayName: Blazefury Shard
+	DisplayName: 烈焰之怒碎片
 	Tooltip: ""
 }
 
 ContamintSoul: {
-	DisplayName: Contamint Soul
+	DisplayName: 污染之魂
 	Tooltip: ""
 }
 
 DreamerBar: {
-	DisplayName: Dreamer Bar
+	DisplayName: 梦想者金属条
 	Tooltip: ""
 }
 
 DuskBars: {
-	DisplayName: Dusk Bars
+	DisplayName: 黄昏金属条
 	Tooltip: ""
 }
 
 EldritchSoul: {
-	DisplayName: Eldritch Soul
+	DisplayName: 奥术之魂
 	Tooltip: ""
 }
 
 LightEssence: {
-	DisplayName: Light Essence
+	DisplayName: 光明精华
 	Tooltip: ""
 }
 
 PixieSilk: {
-	DisplayName: Pixie Silk
+	DisplayName: 精灵丝绸
 	Tooltip: ""
 }
 
 PrimalTech: {
-	DisplayName: Primal Tech
+	DisplayName: 原始科技
 	Tooltip: ""
 }
 
 SolaiumBar: {
-	DisplayName: Solaium Bar
+	DisplayName: 太阳能合金条
 	Tooltip: ""
 }
 
 SolarMirrorShard: {
-	DisplayName: Solar Mirror Shard
+	DisplayName: 太阳镜碎片
 	Tooltip: ""
 }
 
 StarlightEssence: {
-	DisplayName: Starlight Essence
+	DisplayName: 星光精华
 	Tooltip: ""
 }
 
 SteampunkBar: {
-	DisplayName: Steampunk Bar
+	DisplayName: 蒸汽朋克合金条
 	Tooltip: ""
 }
 
 IrradiatedBar: {
-	DisplayName: Irradiated Bar
-	Tooltip: Deadly to the core.
+	DisplayName: 辐辉锭
+	Tooltip: 非常致命......
 }
 
 Ivythorn: {
-	DisplayName: Ivythorn
-	Tooltip: A poisonous plant which weaves its way into entities
+	DisplayName: 常春藤棘
+	Tooltip: 一种有毒的植物，能缠绕生物。
 }
 
 LivingAlloy: {
-	DisplayName: Living Alloy
+	DisplayName: 活体合金
 	Tooltip: ""
 }
 
 LostScrap: {
-	DisplayName: Lost Scrap
-	Tooltip: A shadow of a former extreme technological advancement
+	DisplayName: 废弃零件
+	Tooltip: 一种极度先进的古代技术的残余。
 }
 
 SingulariumBar: {
-	DisplayName: Singularium Bar
+	DisplayName: 星极锭
 	Tooltip: ""
 }
 
 SpacialDistortionFragments: {
-	DisplayName: Spacial Distortion Fragments
+	DisplayName: 空间碎片
 	Tooltip: ""
 }
 
 StarSilk: {
-	DisplayName: Star Silk
-	Tooltip: Divine silk made of pure astral energy.
+	DisplayName: 星辰丝绸
+	Tooltip: 由纯粹的星体能量制成的神圣丝绸。
 }
 
 StormEssence: {
-	DisplayName: Storm Essence
+	DisplayName: 暴风精华
 	Tooltip: ""
 }
 
 StormPlating: {
-	DisplayName: Storm Plating
+	DisplayName: 暴风装甲板
 	Tooltip: ""
 }
 
 ArmorDrive: {
-	DisplayName: Armor Drive
+	DisplayName: 护甲驱动器
 	Tooltip: ""
 }
 
 BrokenTech: {
-	DisplayName: Broken Tech
-	Tooltip: Inbuned with sparkles of magic, this piece of tech remains dormant from enemies and can be refurnished into something better.
+	DisplayName: 损坏的科技制品
+	Tooltip: ""
 }
 
 DriveConstruct: {
-	DisplayName: Drive Construct
-	Tooltip: A rare find amongst travellers, and contains essence of the mechanical old world.
+	DisplayName: 驱动构件
+	Tooltip: ""
 }
 
 MagicDrive: {
-	DisplayName: Magic Drive
+	DisplayName: 魔法驱动器
 	Tooltip: ""
 }
 
 MeleeDrive: {
-	DisplayName: Melee Drive
+	DisplayName: 战士驱动器
 	Tooltip: ""
 }
 
 MetallicOmniSource: {
-	DisplayName: Metallic Omni Source
-	Tooltip: A source of electronics that make everything work! From revived relics to power, this piece of hardware contains magical energy too!
+	DisplayName: 焰碳金能源
+	Tooltip: ""
 }
 
 RangerDrive: {
-	DisplayName: Ranger Drive
+	DisplayName: 射手驱动器
 	Tooltip: ""
 }
 
 SummonerDrive: {
-	DisplayName: Summoner Drive
+	DisplayName: 召唤驱动器
 	Tooltip: ""
 }
 
 ToolDrive: {
-	DisplayName: Tool Drive
+	DisplayName: 工具驱动器
 	Tooltip: ""
 }
 
 UnknownCircuitry: {
-	DisplayName: Unknown Circuitry
-	Tooltip: Circuitry lost to time, from a fallen kingdom of tech, collecting dust over millenia after the Royal Capital appeared.
+	DisplayName: 未知电路
+	Tooltip: ""
 }
 
 TerrorFragments: {
-	DisplayName: Terror Fragments
-	Tooltip: Terror-fying!
+	DisplayName: 恐怖碎片
+	Tooltip: 令人恐惧！
 }
 
 VirulentPlating: {
-	DisplayName: Virulent Plating
-	Tooltip: Radiating within the acid of entities of the tocins
+	DisplayName: 毒性外壳
+	Tooltip: 辐射在酸性实体中的毒素之中
 }
 
 WanderingFlame: {
-	DisplayName: Wandering Flame
-	Tooltip: Burning with Jack's will!
+	DisplayName: 游荡之焰
+	Tooltip: 燃烧着杰克的意志！
 }
 
 WinterbornShard: {
-	DisplayName: Winterborn Shard
-	Tooltip: Frozen to the core :P
+	DisplayName: 冬生碎片
+	Tooltip:
+	冻结至核心: P
 }
 
 CellConverterI: {
-	DisplayName: Cell Converter
+	DisplayName: 细胞转换器
 	Tooltip: ""
 }
 
 RunicTablel: {
-	DisplayName: Runic Table
-	Tooltip: Craft runes!
+	DisplayName: 符文台
+	Tooltip: 制作符文！
 }
 
 AcidicHamacxe: {
-	DisplayName: Acidic Hamacxe
+	DisplayName: 酸性战斧
 	Tooltip: ""
 }
 
 AcidicPixaxe: {
-	DisplayName: Acidic Pixaxe
+	DisplayName: 酸性镐斧
 	Tooltip: ""
 }
 
 ArchariliteAxe: {
-	DisplayName: Archarilite Axe
+	DisplayName: 焰碳金斧
 	Tooltip: ""
 }
 
 ArcharilitePickaxe: {
-	DisplayName: Archarilite Pickaxe
+	DisplayName: 焰碳金镐
 	Tooltip: ""
 }
 
 DirtAxe: {
-	DisplayName: Dirt Axe
+	DisplayName: 泥土斧
 	Tooltip: ""
 }
 
 DirtHammer: {
-	DisplayName: Dirt Hammer
+	DisplayName: 泥土锤
 	Tooltip: ""
 }
 
 DirtPickaxe: {
-	DisplayName: Dirt Pickaxe
+	DisplayName: 泥土镐
 	Tooltip: ""
 }
 
 Aneuriliac: {
-	DisplayName: Aneuriliac
+	DisplayName: 脉鞭
 	Tooltip: ""
 }
 
 Astalaiya: {
-	DisplayName: Astalaiya
+	DisplayName: 星丝魔典
 	Tooltip: ""
 }
 
 FungalFlace: {
-	DisplayName: Fungal Flace
+	DisplayName: 真菌法杖
 	Tooltip: ""
 }
 
 JellyTome: {
-	DisplayName: Jelly Tome
+	DisplayName: 水母魔典
 	Tooltip: ""
 }
 
 LeadGauntlets: {
-	DisplayName: Lead Gauntlets
+	DisplayName: 铅制护手
 	Tooltip: ""
 }
 
 Pericarditis: {
-	DisplayName: Pericarditis
+	DisplayName: 心炎
 	Tooltip: ""
 }
 
 ShadeHandTome: {
-	DisplayName: Shade Hand Tome
+	DisplayName: 影爪魔典
 	Tooltip: ""
 }
 
 StaffOFlame: {
-	DisplayName: Staff O Flame
+	DisplayName: 烈焰法杖
 	Tooltip: ""
 }
 
 StaffoftheIrradiaflare: {
-	DisplayName: Staff of the Irradiaflare
+	DisplayName: 辐辉法杖
 	Tooltip: ""
 }
 
 StarFlowerStaff: {
-	DisplayName: Star Flower Staff
-	Tooltip: Shoot little balls of light
+	DisplayName: 星花法杖
+	Tooltip: 发射小型球状光芒
 }
 
 StormsWrath: {
-	DisplayName: Storms Wrath
+	DisplayName: 暴风之怒
 	Tooltip: ""
 }
 
 SunBlastStaff: {
-	DisplayName: Sun Blast Staff
-	Tooltip: Blastin with the sun
+	DisplayName: 日爆法杖
+	Tooltip: 使用太阳轰炸你的敌人!
 }
 
 TheDeafen: {
-	DisplayName: The Deafen
-	Tooltip: Shriek the howls of a bat!
+	DisplayName: 超声嘶鸣者
+	Tooltip: 发出蝙蝠的嗥叫声！
 }
 
 TheShrieker: {
-	DisplayName: The Shrieker
-	Tooltip: Ow, my ears
+	DisplayName: 尖叫嘶鸣者
+	Tooltip: 可能叫的没那么尖
 }
 
 TomeOfTheSingularity: {
-	DisplayName: Tome Of The Singularity
+	DisplayName: 星极法典
 	Tooltip: ""
 }
 
 TorrentialLance: {
-	DisplayName: Torrential Lance
+	DisplayName: 风暴长枪
 	Tooltip: ""
 }
 
 VoidsGrasp: {
-	DisplayName: Voids Grasp
+	DisplayName: 虚伪礼仪
 	Tooltip: ""
 }
 
 WintersStom: {
-	DisplayName: Winters Stom
-	Tooltip: Every third shot will be a powerful winter shot today explodes into snowflakes that deal damage
+	DisplayName: 寒冬之怒
+	Tooltip: 每三次射击会释放一道更强大的寒冬怒气，爆炸成雪花并造成伤害
 }
 
 ArchariliteRaysword: {
-	DisplayName: Archarilite Raysword
+	DisplayName: 弧光剑
 	Tooltip: ""
 }
 
 AssassinsSlash: {
-	DisplayName: Assassins Slash
-	Tooltip: Once attacking enemies, a charge will build up and then right click for a slash!
+	DisplayName: 刺影斩击
+	Tooltip: 攻击敌人时会逐渐积累能量，积攒完成后右击即可进行一次刺影斩击！
 }
 
 CinderBraker: {
-	DisplayName: Cinder Braker
-	Tooltip: A volley of cinder
+	DisplayName: 余烬碎焰
+	Tooltip: 发射一片灰烬
 }
 
 DragonWaveFury: {
-	DisplayName: Dragon Wave Fury
+	DisplayName: 龙波之怒
 	Tooltip: ""
 }
 
 EventHorizon: {
-	DisplayName: Event Horizon
-	Tooltip: Goodness gracious.
+	DisplayName: 咏星界限
+	Tooltip: 天啊......
 }
 
 FrostBringer: {
-	DisplayName: Frost Bringer
-	Tooltip: Damage reduces the farther you are away from the target
+	DisplayName: 寒霜使者
+	Tooltip: 伤害随飞行距离的增加而减少
 }
 
 IrradiatedGreatBlade: {
-	DisplayName: Irradiated Great Blade
+	DisplayName: 辐辉巨斧
 	Tooltip: ""
 }
 
 Myocardia: {
-	DisplayName: Myocardia
-	Tooltip: Mwahaha.. Im dracula!
+	DisplayName: 恐惧之心
+	Tooltip: 吾即德古拉！
 }
 
 ScarecrowSaber: {
-	DisplayName: Scarecrow Saber
+	DisplayName: 稻草
 	Tooltip: ""
 }
 
 SkyrageShasher: {
-	DisplayName: Skyrage Shasher
+	DisplayName: 苍穹怒吼
 	Tooltip: ""
 }
 
 GladiatorSpear: {
-	DisplayName: Gladiator Spear
-	Tooltip: Tear through the bones of your fellow competitors.
+	DisplayName: 角斗士之矛
+	Tooltip: 穿透敌人的心脏。
 }
 
 Infernis: {
-	DisplayName: Infernis
+	DisplayName: 狱焰
 	Tooltip: ""
 }
 
 StalkersTallon: {
-	DisplayName: Stalkers Tallon
+	DisplayName: 循迹爪牙
 	Tooltip: ""
 }
 
 TheIrradiaspear: {
-	DisplayName: The Irradiaspear
+	DisplayName: 辐辉长矛
 	Tooltip: ""
 }
 
 TridentOfTheSeas: {
-	DisplayName: Trident Of The Seas
+	DisplayName: 海洋三叉戟
 	Tooltip: ""
 }
 
 VoidLance: {
-	DisplayName: Void Lance
+	DisplayName: 虚空之枪
 	Tooltip: ""
 }
 
 StarKeeper: {
-	DisplayName: Star Keeper
+	DisplayName: 星辰守护者
 	Tooltip: ""
 }
 
 SwordOfGlactia: {
-	DisplayName: Sword Of Glactia
+	DisplayName: 霜凝剑
 	Tooltip: ""
 }
 
 SwordOfTheJungleGoddess: {
-	DisplayName: Sword Of The Jungle Goddess
-	Tooltip: Don't craft this please.
+	DisplayName: 丛林女神之剑
+	Tooltip: 请不要制作这把剑。
 }
 
 WoodenSaber: {
-	DisplayName: Wooden Saber
+	DisplayName: 木质军刀
 	Tooltip: ""
 }
 
@@ -2699,83 +2712,83 @@ X3107: {
 }
 
 ArchariliteEnergyShot: {
-	DisplayName: Archarilite Energy Shot
+	DisplayName: 弧光
 	Tooltip: ""
 }
 
 AssassinsDischarge: {
-	DisplayName: Assassins Discharge
+	DisplayName: 刺客弩
 	Tooltip: ""
 }
 
 BrokenWrath: {
-	DisplayName: Broken Wrath
+	DisplayName: 破碎之怒
 	Tooltip: ""
 }
 
 CloudBow: {
-	DisplayName: Cloud Bow
+	DisplayName: 破云弓
 	Tooltip: ""
 }
 
 Crysalizer: {
-	DisplayName: Crysalizer
-	Tooltip: Shoot enemies with a crystallized shot!
+	DisplayName: 晶化射击
+	Tooltip: 用晶化箭射击敌人！
 }
 
 DeathShot: {
-	DisplayName: Death Shot
+	DisplayName: 穿魂
 	Tooltip: ""
 }
 
 DivineSniper: {
-	DisplayName: Divine Sniper
-	Tooltip: It really isnt all that divine
+	DisplayName: 神圣狙击手
+	Tooltip: 它可能并不是那么神圣
 }
 
 Dragoniper: {
-	DisplayName: Dragoniper
+	DisplayName: 龙之狙击手
 	Tooltip: ""
 }
 
 GraniteMagmum: {
-	DisplayName: Granite Magmum
+	DisplayName: 花岗马格南
 	Tooltip: ""
 }
 
 IceWalker: {
-	DisplayName: Ice Walker
+	DisplayName: 冰霜行者
 	Tooltip: ""
 }
 
 IrradieagleWrath: {
-	DisplayName: Irradieagle Wrath
+	DisplayName: 炽辉鹰怒
 	Tooltip: ""
 }
 
 Irradishark: {
-	DisplayName: Irradishark
+	DisplayName: 炽辉鲨嚎
 	Tooltip: ""
 }
 
 IvynShot: {
-	DisplayName: Ivyn Shot
+	DisplayName: 常春藤弓
 	Tooltip: ""
 }
 
 JackoShot: {
-	DisplayName: Jacko Shot
+	DisplayName: 南瓜弓
 	Tooltip: ""
 }
 
 JellyBow: {
-	DisplayName: Jelly Bow
+	DisplayName: 凝胶弓
 	Tooltip: ""
 }
 
 LAZER: {
-	DisplayName: L A Z E R
-	Tooltip: I'm a lasering
+	DisplayName: 激光
+	Tooltip: 我是一束激光
 }
 
 M38F30: {
@@ -2784,92 +2797,92 @@ M38F30: {
 }
 
 RustlockPistol: {
-	DisplayName: Rustlock Pistol
-	Tooltip: Great for shooting nothing!
+	DisplayName: 枷锁手枪
+	Tooltip: 适合用来射击空气！
 }
 
 Rustvolver: {
-	DisplayName: Rustvolver
+	DisplayName: 锈蚀手枪
 	Tooltip: ""
 }
 
 SolarSpiner: {
-	DisplayName: Solar Spiner
+	DisplayName: 太阳旋风
 	Tooltip: ""
 }
 
 TecnoBlaster: {
-	DisplayName: Tecno Blaster
+	DisplayName: 科技冲击波
 	Tooltip: ""
 }
 
 TheRedSkull: {
-	DisplayName: The Red Skull
+	DisplayName: 血骨髅骷
 	Tooltip: ""
 }
 
 Tociflare: {
-	DisplayName: Tociflare
+	DisplayName: 毒焰
 	Tooltip: ""
 }
 
 TychineGun: {
-	DisplayName: Tychine Gun
-	Tooltip: Why would you kill sharks for this :(
+	DisplayName: 雷鲨机关枪
+	Tooltip: 为什么要为了这个杀死鲨鱼？(*▔皿▔)
 }
 
 VoidBlaster: {
-	DisplayName: Void Blaster
+	DisplayName: 虚空爆破枪
 	Tooltip: ""
 }
 
 VoidSkull: {
-	DisplayName: Void Skull
+	DisplayName: 虚空骷髅
 	Tooltip: ""
 }
 
 WingedFury: {
-	DisplayName: Winged Fury
+	DisplayName: 翼之狂怒
 	Tooltip: ""
 }
 
 Wingspand: {
-	DisplayName: Wingspand
+	DisplayName: 翼展
 	Tooltip: ""
 }
 
 ArncharRemote: {
-	DisplayName: Arnchar Remote
+	DisplayName: 弧光遥控器
 	Tooltip: ""
 }
 
 DripplerStaff: {
-	DisplayName: Drippler Staff
-	Tooltip: Drippy
+	DisplayName: 滴滴怪法杖
+	Tooltip: 血水滴滴答，血水滴滴答。
 }
 
 IrradiatedCreeperStaff: {
-	DisplayName: Irradiated Creeper Staff
-	Tooltip: I see the resemblence..
+	DisplayName: 辐辉飞眼怪法杖
+	Tooltip: 我看到了一些熟悉的东西......
 }
 
 IvyakenStaff: {
-	DisplayName: Ivyaken Staff
+	DisplayName: 埃维肯法杖
 	Tooltip: ""
 }
 
 JellyStaff: {
-	DisplayName: Jelly Staff
-	Tooltip: Summons a small jelly to fight for you!
+	DisplayName: 水母法杖
+	Tooltip: 召唤一个小水母为你战斗！
 }
 
 SwarmerStaff: {
-	DisplayName: Swarmer Staff
-	Tooltip: Swarm them, now.
+	DisplayName: 蚁狮蜂法杖
+	Tooltip: 蜂群，进攻！
 }
 
 VoidStaff: {
-	DisplayName: Void Staff
+	DisplayName: 虚空法杖
 	Tooltip: ""
 }
 
@@ -2879,2078 +2892,2072 @@ X3144: {
 }
 
 AcidicLancher: {
-	DisplayName: Acidic Lancher
+	DisplayName: 酸性飞刀
 	Tooltip: ""
 }
 
 Acidius: {
-	DisplayName: Acidius
-	Tooltip: Acid flamer!
+	DisplayName: 酸焰喷吐者
+	Tooltip: 酸焰喷吐！
 }
 
 AssassinsKnife: {
-	DisplayName: Assassins Knife
-	Tooltip: Can confuse foes!
+	DisplayName: 刺客匕首
+	Tooltip: 可以让敌人混乱
 }
 
 AssassinsShuriken: {
-	DisplayName: Assassins Shuriken
-	Tooltip: Can also confuse foes!
+	DisplayName: 刺客手里剑
+	Tooltip: 可以让敌人混乱
 }
 
 Boralius: {
-	DisplayName: Boralius
-	Tooltip: Frostburner!
+	DisplayName: 霜焰喷吐者
+	Tooltip: 霜焰喷吐！
 }
 
 Bricks: {
-	DisplayName: Bricks
+	DisplayName: 板砖
 	Tooltip: ""
 }
 
 Cactius: {
-	DisplayName: Cactius
+	DisplayName: 仙人球
 	Tooltip: ""
 }
 
 GreyBricks: {
-	DisplayName: Grey Bricks
+	DisplayName: 灰砖
 	Tooltip: ""
 }
 
 Plantius: {
-	DisplayName: Plantius
-	Tooltip: Poisoner!
+	DisplayName: 荆棘
+	Tooltip: 发射毒刺
 }
 
 ZthoKnifes: {
-	DisplayName: Ztho Knifes
+	DisplayName: 脉冲刀
 	Tooltip: ""
 }
 
 CyroBolt: {
-	DisplayName: Cyro Bolt
+	DisplayName: 霜寒矢
 	Tooltip: ""
 }
 
 LightSpand: {
-	DisplayName: Light Spand
-	Tooltip: Burning lights of Gothivia's Light
+	DisplayName: 微芒
+	Tooltip: 戈茜维娅的燃烧之光
 }
 
 MoonMothStaff: {
-	DisplayName: Moon Moth Staff
-	Tooltip: Woa
+	DisplayName: 月蛾法杖
+	Tooltip: 哇偶
 }
 
 SolMothStaff: {
-	DisplayName: Sol Moth Staff
-	Tooltip: Very good for clearing out small hordes!
+	DisplayName: 日蛾法杖
+	Tooltip: 非常适合清理大量敌怪！
 }
 
 HeatGlider: {
-	DisplayName: Heat Glider
-	Tooltip: Oh burn baby burn :)
+	DisplayName: 熔能弓
+	Tooltip: 燃起来吧
 }
 
 JPost: {
-	DisplayName: Jack Post
+	DisplayName: “杰克”
 	Tooltip: ""
 }
 
 ShrineAI: {
-	DisplayName: Shrine A I
+	DisplayName: 圣坛AI
 	Tooltip: ""
 }
 
 ShrineBUANI: {
-	DisplayName: Shrine B U A N I
+	DisplayName: 圣坛BUANI
 	Tooltip: ""
 }
 
 ShrineGardenWreckerI: {
-	DisplayName: Shrine Garden Wrecker I
+	DisplayName: 圣坛花园破坏者I
 	Tooltip: ""
 }
 
 ShrineHalhurishI: {
-	DisplayName: Shrine Halhurish I
+	DisplayName: 圣坛哈尔哈雷希I
 	Tooltip: ""
 }
 
 ShrineLightsI: {
-	DisplayName: Shrine Lights I
+	DisplayName: 圣坛之灯I
 	Tooltip: ""
 }
 
 ShrineSolMothI: {
-	DisplayName: Shrine Sol Moth I
+	DisplayName: 圣坛日蛾I
 	Tooltip: ""
 }
 
 GothiviasSeal: {
-	DisplayName: Gothivias Seal
+	DisplayName: 戈茜维娅之印
 	Tooltip:
-		'''
-		Take it to the depths of the Virulent.
-		There lies a castle awaiting your arrival...
-		'''
+	'''
+	将它带到辐辉的深处。
+	一座等待人到来的城堡就在那里......
+	'''
+	
 }
 
 RestingGroundsI: {
-	DisplayName: Resting Grounds I
+	DisplayName: 安息之地I
 	Tooltip: ""
 }
 
 ShinobiTome: {
-	DisplayName: Shinobi Tome
-	Tooltip: Excellent choice for no hand ninjas!
+	DisplayName: 忍者卷轴
+	Tooltip: 不会忍术的忍者的绝佳选择！
 }
 
 GintzlSpear: {
-	DisplayName: Gintzl Javelin
-	Tooltip: How do they even throw them?
+	DisplayName: 重钢长矛
+	Tooltip: 他们是如何投掷它们的？
 }
 
 RuneOfWind: {
-	DisplayName: Rune Of Wind
+	DisplayName: 风之符文
 	Tooltip:
-		'''
-		Sometimes when hit you generate a wind shield!
-		This shield gives 15 defense.
-		'''
+	'''
+	受到攻击时，有概率会生成风之护盾！
+	这个护盾提供15点防御。
+	'''
+	
 }
 
 GintzlsSteed: {
-	DisplayName: Gintzls Steed
-	Tooltip: I dont know how they are shooting arrows with no arms..
+	DisplayName: 重钢长弓
+	Tooltip: 我不知道他们是如何不用手来射箭的......
 }
 
 Gallasis: {
-	DisplayName: Galasis
-	Tooltip: The gintzl's legacy resides in this very useful item.
+	DisplayName: Gallasis
+	Tooltip: 重钢的力量融合进了这个非常有用的物品中。
 }
 
 GintzlBroochA: {
-	DisplayName: Winded Gintze Brooch
+	DisplayName: 风之重钢胸针
 	Tooltip:
-		'''
-		Adds the power of wind!
-		+4 Defense
-		Auto-Swing on every item!
-		'''
+	'''
+	增强风之力量！
+	+4防御 让每个物品自动挥动！
+	'''
 }
 
 GintzlShield: {
-	DisplayName: Gintzl Shield
-	Tooltip: Great for defense!
+	DisplayName: 重钢盾
+	Tooltip: 防御的最佳选择！
 }
 
 GintziaBossBag: {
-	DisplayName: Treasure Bag (Gintzia)
-	Tooltip:
-		'''
-		{$CommonItemTooltip.RightClickToOpen}
-		Special little secret inside
-		'''
+	DisplayName: 重钢指挥官宝藏袋
+	Tooltip: 里面有一个特别的小东西
 }
 
 GintzeCard: {
-	DisplayName: Gintze Card
+	DisplayName: 重钢卡片引燃器
 	Tooltip:
-		'''
-		Use a powder or dust and then use this!
-		Sometimes it takes a card to be a warrior.
-		Hit an enemy with a powder, then switch to this weapon and hold the attack button for explosions!
-		'''
+	'''
+	使用尘埃然后使用这个卡片！
+	有时候成为一名战士需要一张卡片。
+	'''
+	
 }
 
 AurelusTempleTile: {
-	DisplayName: Aurelus Temple Tile
-	Tooltip: Why do you have this?
+	DisplayName: 星宇神殿砖
+	Tooltip: 为什么你会有这个？
 }
 
 AurelusChesti: {
 	Tooltip: ""
-	DisplayName: Aurelus Chest
+	DisplayName: 星宇宝箱
 }
 
 AurelusBanneri: {
-	DisplayName: Aurelus Banner
+	DisplayName: 星宇旗帜
 	Tooltip: ""
 }
 
 AurelusPosti: {
 	Tooltip: ""
-	DisplayName: Aurelus Post
+	DisplayName: 星宇柱
 }
 
 AurelusBanner2i: {
 	Tooltip: ""
-	DisplayName: Aurelus Banner II
+	DisplayName: 星宇旗帜II
 }
 
 AurelusBorderI: {
-	DisplayName: Aurelus Border I
+	DisplayName: 星宇边界I
 	Tooltip: ""
 }
 
 TON618Crossbow: {
-	DisplayName: TON618 Crossbow
-	Tooltip: Expertly crafted by a special bowsman
+	DisplayName: TON618弩
+	Tooltip: 由一位特殊的弓箭手精心制作
 }
 
 Venatici: {
 	DisplayName: Venatici
-	Tooltip: I never knew there was a black hole this big :(
+	Tooltip: 我从来不知道会有这么大的星星......
 }
 
 IceboundStaff: {
-	DisplayName: Icebound Staff
-	Tooltip: Frozen by the icebound and spirits!
+	DisplayName: 冰封法杖
+	Tooltip: 被冰霜和灵魂所困
 }
 
 AurelusDoor: {
-	DisplayName: Aurelus Door
-	Tooltip: You really shouldnt use this
+	DisplayName: 星宇之门
+	Tooltip: 你真的不应该有这个东西
 }
 
 AurelusSummoni: {
-	DisplayName: Aurelus Summoni
+	DisplayName: 星宇召唤物
 	Tooltip: ""
 }
 
 MagnusMagnum: {
-	DisplayName: Magnus Magnum
-	Tooltip: You know Harry, I've never really cared for your two-shoe ass
+	DisplayName: 麦哲伦火枪
+	Tooltip: 你知道吗，哈利，我对你这双鞋子从来就不感兴趣
 }
 
 VoidKey: {
-	DisplayName: Void Key
-	Tooltip: Use in the bottom of the Abysm under the ice, you might find something.
+	DisplayName: 虚宇之钥
+	Tooltip: 在冰下的寒渊底部使用，你可能会找到一些奇怪的东西。
 }
 
 Neptune8Card: {
-	DisplayName: Neptune8 Card
+	DisplayName: 海王星8号卡片
 	Tooltip:
-		'''
-		An igniter for dusts and powders!
-		Reaching from the depths of the galaxy!
-		Hit an enemy with a powder, then switch to this weapon and hold the attack button for explosions!
-		'''
+	'''
+	一种点燃尘埃的引燃器！
+	从银河系的深处延伸而来！ 先使用尘埃，然后使用这个！
+	'''
 }
 
 Gintelze: {
-	DisplayName: Gintelze
-	Tooltip: Why would you steal this :c
+	DisplayName: 重钢ZE
+	Tooltip: 为什么你要偷这个东西！！！
 }
 
 HolmbergScythe: {
-	DisplayName: Holmberg Scythe
-	Tooltip: Rip the universe in half!
+	DisplayName: 霍尔伯格镰刀
+	Tooltip: 将宇宙撕裂成两半！
 }
 
 Alcarish: {
-	DisplayName: Alcarish
-	Tooltip: The gintze were bold for stealing such a useful item from soliders.
+	DisplayName: 阿尔卡里什
+	Tooltip: 重钢指挥官大胆地从士兵那里偷了这么有用的一个东西。
 }
 
 AurelusBlightBroochA: {
-	DisplayName: Aurelus Blight Brooch
-	Tooltip: A brooch great for lighting!
+	DisplayName: 星极残芒胸针
+	Tooltip: 一个用于照明的胸针！
 }
 
 AbyssalPowder: {
-	DisplayName: Abysmal Aurelus Powder
+	DisplayName: 寒渊星宇尘
 	Tooltip:
-		'''
-		Throw magical dust on them!
-		A void crystal-like dust!
-		After hitting an enemy with this, use an igniter card weapon!
-		'''
+	'''
+	在敌怪身上撒上尘埃！
+	类似虚空晶体的粉末！ 与引燃器/卡片一起使用！
+	'''
 }
 
 AivanPowder: {
-	DisplayName: Aivan Powder
+	DisplayName: 日凝尘
 	Tooltip:
-		'''
-		Throw magical dust on them!
-		Stolen from gothivia's castle
-		After hitting an enemy with this, use an igniter card weapon!
-		'''
+	'''
+	在敌怪身上撒上尘埃！
+	从戈茜维娅的城堡偷来的 与引燃器/卡片一起使用！
+	'''
 }
 
 GovheilPowder: {
-	DisplayName: Govheil Powder
+	DisplayName: 忍钢尘
 	Tooltip:
-		'''
-		Throw magical dust on them!
-		Pure sensation. :)
-		After hitting an enemy with this, use an igniter card weapon!
-		'''
+	'''
+	在敌怪身上撒上尘埃！
+	纯粹的感觉。 与引燃器/卡片一起使用！
+	'''
 }
 
 TheSunAndMoonCard: {
-	Tooltip: Burn with the power of the sun and moon...
-	DisplayName: The Sun And Moon Card
+	Tooltip: 用日月的力量燃烧...
+	DisplayName: 日月卡片
 }
 
 Kilvier: {
-	DisplayName: Kilvier
-	Tooltip: This isnt a weapon is it?
+	DisplayName: 切尔维尔
+	Tooltip: 这不是一把武器，是吗？
 }
 
 DaedussSunSheid: {
-	DisplayName: Sun Sheid
-	Tooltip: Burns brightly with Gothivia and Verlia's names
+	DisplayName: 太阳之盾
+	Tooltip: 以戈茜维娅和维尔莉娅之名，一起燃烧吧！
 }
 
 BearBroochA: {
-	DisplayName: Bear of The Wild Brooch
-	Tooltip: Heavily increased mana regeneration!
+	DisplayName: 野熊胸针
+	Tooltip: 大幅增加法力回复速度！
 }
 
 DreadBroochA: {
-	DisplayName: Dreaded Dreadmire Brooch
+	DisplayName: 恐惑胸针
 	Tooltip:
-		'''
-		40 Health
-		You know maybe she wasn't all that bad.
-		'''
+	'''
+	+10生命值
+	也许她并不那么糟糕。
+	'''
+	
 }
 
 MalShieldBroochA: {
-	DisplayName: Malicious Shield Brooch
+	DisplayName: 恶盾胸针
 	Tooltip:
-		'''
-		Something tells me this isnt right...
-		+7 Defense
-		+7% Melee Damage!
-		'''
+	'''
+	总感觉不太对劲...
+	+7防御 +7%近战伤害
+	'''
 }
 
 VixedBroochA: {
-	DisplayName: Forgotten Guard's Brooch
+	DisplayName: 遗忘傀儡胸针
 	Tooltip:
-		'''
-		This puppet was worn out.
-		+5% Damage
-		+40 Health
-		'''
+	'''
+	这个傀儡已经破烂不堪。
+	+10%伤害
+	+40生命值
+	'''
 }
 
 DaedenChestplate: {
-	DisplayName: Daeden Chestplate
+	DisplayName: 达厄胸甲
 	Tooltip:
-		'''
-		Absolutely Hideous.
-		+10% Ranged damage
-		+20 Armor penetration
-		+5 Crit
-		'''
+	'''
+	绝对的丑陋。
+	+10%召唤和近战伤害
+	+20护甲穿透
+	+5暴击
+	-15生命值
+	'''
 }
 
 DaedenLegs: {
-	DisplayName: Daeden Legs
-	Tooltip: Increased movement speed
+	DisplayName: 达厄护胫
+	Tooltip: 增加移动速度
 }
 
 DaedenMask: {
-	DisplayName: Daeden Mask
+	DisplayName: 达厄面具
 	Tooltip:
-		'''
-		This is for all those masochists.
-		+20% Ranged damage
-		Heavy Increased mana regeneration!
-		+5 Crit
-		'''
+	'''
+	这是送给所有受虐狂的。
+	+30%召唤和近战伤害 大幅增加法力回复速度！
+	+5暴击
+	-40生命值
+	'''
 }
 
 DaedusBag: {
-	DisplayName: Treasure Bag (Daedus)
-	Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
+	DisplayName: 达厄图斯宝藏袋
+	Tooltip: ""
 }
 
 Plate: {
-	DisplayName: Plate
-	Tooltip: I guess Daedus forgot to do the dishes.
+	DisplayName: 盘
+	Tooltip: 我猜达厄图斯忘记洗碗了。
 }
 
 GovheilCastleBlock: {
-	DisplayName: Govheil Castle Block
+	DisplayName: 忍钢城堡石块
 	Tooltip: ""
 }
 
 GovheilHallI: {
-	DisplayName: Govheil Hall I
+	DisplayName: 忍钢大厅I
 	Tooltip: ""
 }
 
 GovheilWallsI: {
-	DisplayName: Govheil Walls I
+	DisplayName: 忍钢城墙I
 	Tooltip: ""
 }
 
 GothivA: {
-	DisplayName: Gothiv A
+	DisplayName: 忍钢A
 	Tooltip: ""
 }
 
 GothWall: {
-	DisplayName: Goth Wall
+	DisplayName: 哥特墙
 	Tooltip: ""
 }
 
 Alcanine: {
-	DisplayName: Alcanine
-	Tooltip:
-		'''
-		Perfect for mages!
-		+2 Max minions!
-		10% increased summon damage!
-		'''
+	DisplayName: 奥卡莱恩
+	Tooltip: ""
 }
 
 GovheilHolsterBroochA: {
-	DisplayName: Gothivia's Holstering Brooch
-	Tooltip:
-		'''
-		Halves the mana cost of any magic weapon!
-		+15% Magic damage
-		+2 Defense too!
-		'''
+	DisplayName: 戈茜维娅胸针
+	Tooltip: ""
 }
 
 GovhenShield: {
-	DisplayName: Govhen Shield
-	Tooltip: A very sturdy shield
+	DisplayName: 忍钢盾
+	Tooltip: 一个非常坚固的盾牌
 }
 
 GreekLantern: {
-	DisplayName: Greek Lantern
-	Tooltip: Gothivia is greek???
+	DisplayName: 希腊灯笼
+	Tooltip: 戈茜维娅是希腊人吗？
 }
 
 LanternOfAFallen: {
-	DisplayName: Lantern Of A Fallen
-	Tooltip: A great tool for clearing out one enemy.
+	DisplayName: 陨落之灯
+	Tooltip: 对单优秀的武器
 }
 
 Blackdot: {
-	DisplayName: Blackdot
-	Tooltip: Who named this?
+	DisplayName: 黑点
+	Tooltip: 谁给它起的这么个名字？
 }
 
 Galvinie: {
-	DisplayName: Galvinie
-	Tooltip: Your mouse isn't gonna like this
+	DisplayName: 高维尼尔
+	Tooltip: 你的鼠标可能不喜欢它
 }
 
 TheBurningRod: {
-	DisplayName: The Burning Rod
-	Tooltip: They may be innacurate but they get the job done :P
+	DisplayName: 燃烧之杖
+	Tooltip: 它可能打不准敌人，但起码能用(•v•`)
 }
 
 AcidicalDirtBlock: {
-	DisplayName: Acidical Dirt Block
+	DisplayName: 酸蚀泥土
 	Tooltip: ""
 }
 
 BurningGBroochA: {
-	DisplayName: Brooch of the Sun and Ichor
-	Tooltip:
-		'''
-		When hitting enemies, ichor blasts and an explosion will come out.
-		+5% Melee Damage
-		'''
+	DisplayName: 灵阳胸针
+	Tooltip: ""
 }
 
 Twirlers: {
-	DisplayName: Twirlers
-	Tooltip:
-		'''
-		Wanna get flashy? Parraffin would be dissappointed.
-		Halves mana cost
-		Increased life regeneration
-		+20 Health
-		+30% Damage
-		'''
+	DisplayName: 回转者
+	Tooltip: ""
 }
 
 GothiviaBag: {
-	DisplayName: Treasure Bag (Irradia and Havoc)
-	Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
+	DisplayName: 戈茜维娅宝藏袋
+	Tooltip: ""
 }
 
 WeddingDay: {
-	DisplayName: Wedding Day
-	Tooltip: These two lovebugs are definitely for each other.
+	DisplayName: 婚礼
+	Tooltip: 这一对爱人肯定是为彼此而生的。
 }
 
 GothiviasCard: {
-	DisplayName: Gothivia's Flame Card
+	DisplayName: 戈茜维娅的卡片引燃器
 	Tooltip:
-		'''
-		"Causes minor burns," thats at least the note she left.
-		Hit an enemy with a powder, then switch to this weapon and hold the attack button for explosions!
-		'''
+	'''
+	“引起轻微烧伤”，至少这是她留下的注释。
+	先使用尘埃，然后再使用这张卡片！
+	'''
+	
 }
 
 Helios: {
-	DisplayName: Helios
+	DisplayName: 太阳神赫利俄斯
 	Tooltip:
-		'''
-		Gothivia's masterpiece weapon
-		Will absolutely rek the mechanical bosses.
-		Forged from the inner core of the sun, and hard work this weapon exists.
-		'''
+	'''
+	戈茜维娅的杰作武器
+	完全能用来对付机械Boss。 这把武器是由太阳的内核在艰苦的工作下锻造而成的。
+	'''
 }
 
 AmethystBroochA: {
-	DisplayName: Amethyst Brooch
+	DisplayName: 紫晶胸针
 	Tooltip:
-		'''
-		+20 Pick speed!
-		+2 defense
-		'''
+	'''
+	+20采集速度
+	+2防御力
+	'''
+	
 }
 
 CrystalPowder: {
-	DisplayName: Crystal Powder
+	DisplayName: 晶粉
 	Tooltip:
-		'''
-		Throw magical dust on them and ignite
-		It's what we've been working for Jesse
-		After hitting an enemy with this, use an igniter card weapon!
-		'''
+	'''
+	抛洒易燃的魔法晶粉。
+	这就是我们为杰西而努力的结果。 将它们洒在敌怪上面，然后引燃！
+	'''
 }
 
 SunSall: {
-	DisplayName: Sun Sall
+	DisplayName: 太阳泉
 	Tooltip: ""
 }
 
 DaedusBossRel: {
-	DisplayName: Daedus Relic
-	Tooltip: A puppet manifested from the rotten core of Gothivia's singularity, what a shame.
+	DisplayName: 达厄图斯圣物
+	Tooltip: ""
 }
 
 DreadBossRel: {
-	DisplayName: Dreadmire Relic
-	Tooltip: Sometimes people lose themselves, she was one of a kind.
+	DisplayName: 恐惑魔魇圣物
+	Tooltip: ""
 }
 
 GintzeBossRel: {
-	DisplayName: Commander Ginztia Relic
-	Tooltip: Once apart of Gothivia's ranks, betrayed and went on their own to create an army.
+	DisplayName: 重钢指挥官圣物
+	Tooltip: ""
 }
 
 JackBossRel: {
-	DisplayName: Jack Relic
-	Tooltip: Stood alone in the most calm places, truly nice for a scarecrow.
+	DisplayName: 杰克圣物
+	Tooltip: ""
 }
 
 SOMBossRel: {
-	DisplayName: Singularity of the Moon Relic
-	Tooltip: Second Singularity and your biggest challenge yet!
+	DisplayName: 星极残芒圣物
+	Tooltip: ""
 }
 
 SunsBossRel: {
-	DisplayName: Sunstalker Relic
-	Tooltip: Forgotten like the wind yet still a creature of infamy.
+	DisplayName: 逐日者圣物
+	Tooltip: ""
 }
 
 VerliBossRel: {
-	DisplayName: Verlia of the Moon Relic
+	DisplayName: 维尔莉娅圣物
 	Tooltip: ""
 }
 
 StarbloomBlock: {
-	DisplayName: Starbloom Block
+	DisplayName: 星花石块
 	Tooltip: ""
 }
 
 StarbloomDirtBlock: {
-	DisplayName: Starbloom Dirt Block
+	DisplayName: 星花土块
 	Tooltip: ""
 }
-
 FurihaMKIII: {
-	DisplayName: Furiha MKIII
+	DisplayName: Furiha-MKIII
 	Tooltip: ""
 }
 
 M61X: {
-	DisplayName: M61 X
+	DisplayName: M61-X
 	Tooltip: ""
 }
 
 MushroomStave: {
-	DisplayName: Mushroom Stave
-	Tooltip: Get off me!
+	DisplayName: 魔菇法杖
+	Tooltip: 滚啊！
 }
 
 StarbloomTempleBlock: {
-	DisplayName: Starbloom Temple Block
+	DisplayName: 星咏殿堂砖
 	Tooltip: ""
 }
 
 ShadegraveStaff: {
+	DisplayName: 黯墓法杖
 	Tooltip: ""
-	DisplayName: Shadegrave Staff
 }
 
 BasicGunParts: {
-	DisplayName: Basic Gun Parts
+	DisplayName: 基础枪械零件
 	Tooltip: ""
 }
 
 AuroreanStarI: {
-	DisplayName: Aurorean Star
-	Tooltip: A star merged with the alcadizic air to form this superstar!
+	DisplayName: 黎明之星
+	Tooltip: 一颗融合了流浪熔金的超级星星！
 }
 
 StoneKey: {
-	DisplayName: Stone Key
+	DisplayName: 石质钥匙
 	Tooltip: ""
 }
 
 NoxianWood: {
-	DisplayName: Noxian Wood
+	DisplayName: 诺克斯木材
 	Tooltip: ""
 }
 
 StoneChesti: {
-	DisplayName: Stone Chest
+	DisplayName: 石质宝箱
 	Tooltip: ""
 }
 
 IgniterCards: {
-	DisplayName: Throwing Igniter Cards
-	Tooltip: Hitting enemies with this will act like an igniter card weapon!
+	DisplayName: 投掷型引燃卡
+	Tooltip: 用这个击中敌人的效果就像使用引燃卡一样！
 }
 
 ThrowingCards: {
-	DisplayName: Throwing Cards
+	DisplayName: 投掷型扑克
 	Tooltip: ""
 }
 
 Bread: {
-	DisplayName: Bread
-	Tooltip: The gintze dropped this...
+	DisplayName: 面包
+	Tooltip: 为什么重钢会掉这种东西......
 }
 
 BowledCream: {
-	DisplayName: Bowled Cream
+	DisplayName: 奶油
 	Tooltip:
-		'''
-		Eating gives you regeneration like honey!
-		Increased movement speed as an accessory!
-		'''
+	'''
+	食用后能获得和蜂蜜一样的生命再生效果！
+	还可以作为饰品增加移动速度！
+	'''
+	
 }
 
 IgniterCardsMKII: {
-	DisplayName: Throwing Igniter Cards MKII
+	DisplayName: 投掷型引燃卡MK2
 	Tooltip: ""
 }
 
 DesertRuneI: {
-	DisplayName: Ancient Artifact
-	Tooltip: Maybe a scientist can look at this?
+	DisplayName: 古老遗物
+	Tooltip: 也许某位科学家能研究一下它？
 }
 
 OverworldRuneI: {
-	DisplayName: Ancient Artifact
-	Tooltip: Maybe a scientist can look at this?
+	DisplayName: 古老遗物
+	Tooltip: 也许某位科学家能研究一下它？
 }
 
 ThrowingCardsMKII: {
-	DisplayName: Throwing Cards MKII
+	DisplayName: 投掷型扑克MK2
 	Tooltip: ""
 }
 
 JungleRuneI: {
-	Tooltip: Maybe a scientist can look at this?
-	DisplayName: Ancient Artifact
+	DisplayName: 古老遗物
+	Tooltip: 也许某位科学家能研究一下它？
 }
 
 AlcadzBlock: {
-	DisplayName: Alcadz Block
+	DisplayName: 流浪熔金块
 	Tooltip: ""
 }
 
 CarianWood: {
-	DisplayName: Carian Wood
+	DisplayName: 暗夜木
 	Tooltip: ""
 }
 
 CarianWoodWall: {
-	DisplayName: Carian Wood Wall
+	DisplayName: 暗夜木墙
 	Tooltip: ""
 }
 
 AlciteI: {
-	DisplayName: Alcite I
+	DisplayName: 艾尔赛特I
 	Tooltip: ""
 }
 
 AowerBottomI: {
-	DisplayName: Aower Bottom I
+	DisplayName: 下层地块I
 	Tooltip: ""
 }
 
 AowerTopI: {
-	DisplayName: Aower Top I
+	DisplayName: 上层地块I
 	Tooltip: ""
 }
 
 CurtainLeftRCI: {
-	DisplayName: Curtain Left R C I
+	DisplayName: 左侧帷幕RCI
 	Tooltip: ""
 }
 
 CurtainRightRCI: {
-	DisplayName: Curtain Right R C I
+	DisplayName: 右侧帷幕RCI
 	Tooltip: ""
 }
 
 CurtainTopI: {
-	DisplayName: Curtain Top I
+	DisplayName: 顶部帷幕I
 	Tooltip: ""
 }
 
 RectiteI: {
-	DisplayName: Rectite I
+	DisplayName: 矩形矿石I
 	Tooltip: ""
 }
 
 SkullpileI: {
-	DisplayName: Skullpile I
+	DisplayName: 骷髅堆I
 	Tooltip: ""
 }
 
 GiaPants: {
-	DisplayName: Gia Pants
+	DisplayName: Gia的裤子
 	Tooltip: ""
 }
 
 GiaSuit: {
-	DisplayName: Gia Suit
+	DisplayName: Gia的上衣
 	Tooltip: ""
 }
 
 GiaWig: {
-	DisplayName: Gia Wig
-	Tooltip: I can't tell if you want to wear this...
+	DisplayName: Gia的假发
+	Tooltip: 我搞不清楚你想不想戴这个......
 }
 
 BagOfCards: {
-	DisplayName: Bag Of Cards
+	DisplayName: 卡包
 	Tooltip:
-		'''
-		{$CommonItemTooltip.RightClickToOpen}
-		Open for some cards! Gives more cards in Hardmode!
-		'''
+	'''
+	{ $CommonItemTooltip.RightClickToOpen }
+	右键打开以获取卡牌！在困难模式下可以获取更多的卡牌！
+	'''
+	
 }
 
 FireflyCannon: {
-	DisplayName: Firefly Cannon
+	DisplayName: 萤星闪闪
 	Tooltip:
-		'''
-		Fires a spread of powerful exploding fireflies!
-		...Several fireflies were harmed in the making of this weapon
-		'''
+	'''
+	发射爆炸性的萤火散弹！
+	......制作这件武器时祸害了好多只萤火虫。
+	'''
+	
 }
 
 StoniaBroochA: {
-	DisplayName: Stonia Brooch
+	DisplayName: 石之胸针
 	Tooltip:
-		'''
-		No fall damage and 2 defense!
-		Increased Pick speed and glow in the dark but loose 15% damage.
-		'''
+	'''
+	取消掉落伤害和2点防御！
+	提高挖掘速度，能在黑暗中发光，但会损失15%的攻击伤害。
+	'''
+	
 }
 
 AlcaricMush: {
-	DisplayName: Alcaric Mush
-	Tooltip: A strange magical mush that the Royal Capital was able to control.
+	DisplayName: 暗夜蘑菇
+	Tooltip: 一种奇怪的魔法蘑菇，暗夜皇都的人民能够控制它用来攻击。
 }
 
 Blackwhip: {
-	DisplayName: Blackwhip
-	Tooltip: Whip em' back to where they belong.
+	DisplayName: 漆黑长鞭
+	Tooltip: 把它们抽回它们该呆的地方。
 }
 
 DarkWhip: {
-	DisplayName: Dark Whip
-	Tooltip: It's as bad as it sounds.
+	DisplayName: 暗影长鞭
+	Tooltip: 听起来就不是什么好事。
 }
 
 AlsisChestplate: {
-	DisplayName: Alsis Chestplate
+	DisplayName: 暗夜胸甲
 	Tooltip:
-		'''
-		+25 Health
-		+20% Magic Critical Strike Chance
-		+10% Magic Damage
-		'''
+	'''
+	+25生命值
+	+20%魔法暴击几率
+	+10%魔法伤害
+	'''
+	
 }
 
 AlsisGreaves: {
-	DisplayName: Alsis Greaves
+	DisplayName: 暗夜护胫
 	Tooltip:
-		'''
-		+10 Health
-		Supa Speed
-		'''
+	'''
+	+10生命值
+	能让你快到起飞
+	'''
 }
 
 AlsisMask: {
-	DisplayName: Alsis Mask
+	DisplayName: 暗夜面具
 	Tooltip:
-		'''
-		+10 Health
-		+5% Magic Critical Strike Chance
-		+10% Magic Damage
-		'''
+	'''
+	+10生命值
+	+5%魔法暴击几率
+	+10%魔法伤害
+	'''
+	
 }
 
 WickofSorcery: {
-	DisplayName: Wick of Sorcery
-	Tooltip: Truly the best stick of all time.
+	DisplayName: 暗夜烛芯
+	Tooltip: 有史以来最好的烛芯。
 }
 
 Voyager: {
-	DisplayName: Voyager
-	Tooltip: I love slashing and passing, wait wrong game.
+	DisplayName: 航海家
+	Tooltip: 我喜欢砍杀和传球......等等，走错了。
 }
 
 Hyua: {
-	DisplayName: Hyua
-	Tooltip: Throw these weird circular magic hoops, or balls, I dont know.
+	DisplayName: 虚环
+	Tooltip: 投掷这些奇怪的环状魔环，或者魔球......算了我也不知道它是什么。
 }
 
 Poya: {
-	DisplayName: Poya
-	Tooltip: Summons alcaric mush into reality and rip your enemies apart.
+	DisplayName: 暗夜孢子
+	Tooltip: 召唤暗夜蘑菇撕裂你的敌人。
 }
 
 FireflyStaff: {
-	DisplayName: Firefly Staff
+	DisplayName: 萤火法杖
 	Tooltip:
-		'''
-		Summons a firefly to fight for you!
-		Right click to swap between attack mode and defense mode, gaining stats that scale with the number of fireflies
-		While in offense mode, you gain movement speed and flight mobility
-		While in defense mode, you gain defense and life regen, but your fireflies attack slower
-		'''
+	'''
+	召唤一只萤火虫来为你战斗！
+	右键切换攻击模式和防御模式，随着萤火虫数量增加获得属性加成 在攻击模式下，你将获得移动速度和飞行能力
+	在防御模式下，你将获得防御和生命再生能力，但是萤火虫的攻击速度会减慢
+	'''
+	
 }
 
 VampireScepter: {
-	DisplayName: Vampire Scepter
+	DisplayName: 血焰魔杖
 	Tooltip:
-		'''
-		Summons a vampiric torch to aid you in battle
-		The torch completely negates life regen, however you have immense lifesteal while close to enemies
-		Greatly increases summon damage while active
-		There can only be one
-		'''
+	'''
+	召唤一个吸血火环来帮助你战斗
+	火环会完全消除生命再生效果，但是在靠近敌人时你会有强力的自动吸血效果 激活时大幅增加召唤伤害
+	一次只能激活一个
+	'''
+	
 }
 
 LunarianVoidBody: {
-	DisplayName: Lunarian Void Chestplate
-	Tooltip: +10% Throwing Damage
+	DisplayName: 幻月胸甲
+	Tooltip: +10% 投掷伤害
 }
 
 LunarianVoidHead: {
-	DisplayName: Lunarian Void Helmet
+	DisplayName: 幻月头盔
 	Tooltip:
-		'''
-		+10 Throwing Critical Strike Chance!
-		+20 Health
-		+25% Throwing Damage
-		'''
+	'''
+	+10投掷暴击几率！
+	+20生命值
+	+25%投掷伤害
+	'''
+	
 }
 
 LunarianVoidLegs: {
-	DisplayName: Lunarian Void Legs
+	DisplayName: 幻月护胫
 	Tooltip:
-		'''
-		Increased movement speed 2%
-		+5% Throwing Damage
-		'''
+	'''
+	增加2%移动速度
+	+5% 投掷伤害
+	'''
 }
 
 SandStorm: {
-	DisplayName: Sand Storm
+	DisplayName: 沙尘暴
 	Tooltip: ""
 }
 
 ExploreMorrowedVillage: {
-	DisplayName: Explore Morrowed Village
+	DisplayName: 探索黎明村庄
 	Tooltip: ""
 }
 
 ExploreMorrowedVillageC: {
-	DisplayName: Explore Morrowed Village Completed
-	Tooltip: Turn this in to Merena for a reward!
+	DisplayName: 探索黎明村庄 完成
+	Tooltip: 把这个交给梅瑞娜以获取奖励！
 }
 
 Give100DustBags: {
-	DisplayName: Give 100 Dust Bags
+	DisplayName: 收集100个尘埃袋
 	Tooltip: ""
 }
 
 Give100DustBagsC: {
-	DisplayName: Give 100 Dust Bags Completed
-	Tooltip: Turn this in to Merena for a reward!
+	DisplayName: 收集100个尘埃袋 完成
+	Tooltip: 把这个交给梅瑞娜以获取奖励！
 }
 
 KillVerlia: {
-	DisplayName: Kill Verlia
-	Tooltip: Find her atop a cathedral!
+	DisplayName: 击败维尔莉娅
+	Tooltip: 她在月光之巅的顶端！
 }
 
 KillVerliaC: {
-	DisplayName: Kill Verlia Completed
-	Tooltip: Turn this in to Merena for a reward!
+	DisplayName: 击败维尔莉娅 完成
+	Tooltip: 把这个交给梅瑞娜以获取奖励！
 }
 
 MakeMagicPaper: {
-	DisplayName: Make Magic Paper
-	Tooltip: Many resources to gather, very difficult..
+	DisplayName: 制作魔法纸
+	Tooltip: 需要收集很多资源，非常困难......
 }
 
 MakeMagicPaperC: {
-	DisplayName: Make Magic Paper Completed
-	Tooltip: Turn this in to Merena for a reward!
+	DisplayName: 制作魔法纸 完成
+	Tooltip: 把这个交给梅瑞娜以获取奖励！
 }
 
 MakeUltimateScroll: {
-	DisplayName: Make Ultimate Scroll
-	Tooltip: The final test!
+	DisplayName: 制作终极卷轴
+	Tooltip: 最终的考验！
 }
 
 OldCarianTome: {
-	DisplayName: Old Carian Tome
-	Tooltip: Everlasting knowledge flows from within
+	DisplayName: 古老的暗夜典籍
+	Tooltip: 永恒的知识流淌于其中
 }
 
 OrbOfTheMorrow: {
-	DisplayName: Heart of The Morrow and Fable
-	Tooltip: The voices of Gothivia reek with this one.
+	DisplayName: 黎明之心
+	Tooltip: 充满了戈茜维娅的力量......
 }
 
 StolenMagicTome: {
-	DisplayName: Stolen Magic Tome
-	Tooltip: Stolen from the Royal Capital
+	DisplayName: 被窃的魔法典籍
+	Tooltip: 从暗夜皇都盗取的神秘书籍
 }
 
 TomeOfInfiniteSorcery: {
-	DisplayName: Tome Of Infinite Sorcery
-	Tooltip: A complete mastery of knowledge!
+	DisplayName: 无尽巫术典籍
+	Tooltip: 对智慧的完全掌握！
 }
 
 AlcadThrowingCards: {
-	DisplayName: Alcadzian Throwing Cards
+	DisplayName: 流浪熔金投掷型卡牌
 	Tooltip: ""
 }
 
 OceanRuneI: {
-	DisplayName: Ancient Artifact
-	Tooltip: A scientist may want to look at this..
+	DisplayName: 古老遗物
+	Tooltip: 也许某位科学家能研究一下它？
 }
 
 Starvast: {
-	DisplayName: Starvast
-	Tooltip: Hit enemies will explode with homing stars
+	DisplayName: 宇宙碎片
+	Tooltip: 击中敌人后会爆炸出宇宙星片并追踪敌人
 }
 
 SawtoothNecklace: {
-	DisplayName: Sawtooth Necklace
+	DisplayName: 锯齿项链
 	Tooltip:
-		'''
-		Increases armor penetration by 12
-		10% increased attack speed
-		I should have saw that coming!
-		'''
+	'''
+	增加12点护甲穿透
+	增加10%攻击速度 我应该早就看到它的！
+	'''
 }
 
 ShadowCloak: {
-	DisplayName: Shadow Cloak
+	DisplayName: 纱影斗篷
 	Tooltip:
-		'''
-		8 defense
-		4% increased damage reduction
-		Reduced aggro and enemies that come near you are inflicted with a variety of debuffs
-		You are one with the shadows...
-		'''
+	'''
+	提供8点防御
+	增加4%伤害减免 减少敌人攻击性，并令靠近你的敌人受到各种减益效果影响
+	你已与黑暗融为一体......
+	'''
+	
 }
 
 VampireCharm: {
-	DisplayName: Vampire Charm
+	DisplayName: 吸血鬼符咒
 	Tooltip:
-		'''
-		8% increased critical strike chance
-		Critical strikes have a chance to heal you
-		Critical strikes explode with damaging blood water
-		Critical...
-		'''
+	'''
+	增加8%暴击率
+	暴击有机会治疗你 暴击会爆炸并喷出伤害性的鲜血水
+	血......我要血！！！
+	'''
+	
 }
 
 BlossomingScissor: {
-	Tooltip: Sadly a good traversal weapon
-	DisplayName: Blossoming Scissor
+	DisplayName: 花剪
+	Tooltip: 是个很好的赶路工具
 }
 
 AltrideSlicer: {
-	Tooltip: Slice N Dice
-	DisplayName: Altride Slicer
+	DisplayName: Altride切割刀
+	Tooltip: 切！割！挥！舞！
 }
 
 MooningSlicer: {
-	Tooltip: Celestia would be proud
-	DisplayName: Mooning Slicer
+	DisplayName: 月明刀
+	Tooltip: 苍穹会为你感到骄傲的......
 }
 
 EverneanSlicer: {
-	DisplayName: Evernean Slicer
-	Tooltip: Celestia would be even more proud.
+	DisplayName: 埃弗尼安切割刀
+	Tooltip: 苍穹会为你更加骄傲......
 }
 
 ShrineBridgetI: {
-	DisplayName: Shrine Bridget I
+	DisplayName: 圣剑 Bridget I
 	Tooltip: ""
 }
 
 Bridget: {
 	DisplayName: Bridget
-	Tooltip: Bridget? Who is this really?
+	Tooltip: Bridget？这谁啊？
 }
 
 Reavestor: {
-	DisplayName: Reavestor
-	Tooltip: Soul eater numba 1
+	DisplayName: 裂魂者
+	Tooltip: 第一位吞噬灵魂的人
 }
 
 FableKnives: {
-	DisplayName: Fable Knives
-	Tooltip: Throw them fast
+	DisplayName: 预言匕首
+	Tooltip: 快速投掷出匕首
 }
 
 ZthoKnives: {
-	DisplayName: Ztho Knives
-	Tooltip: Throw them faster!
+	DisplayName: 电磁匕首
+	Tooltip: 更快地投掷匕首！
 }
 
 Climabaton: {
-	DisplayName: Climabaton
+	DisplayName: 云节棒
 	Tooltip: ""
 }
 
 Thunderstaff: {
-	DisplayName: Thunderstaff
+	DisplayName: 雷云法杖
 	Tooltip:
-		'''
-		Summons a lil' cloud to protect you!
-		The clouds perform different attacks based on the number that you have
-			Lvl 1 - Frost Bolts
-			Lvl 2 - Lightning Bolts
-			Lvl 3 - Vortexes
-		'''
+	'''
+	召唤一个小云朵来保护你！
+	不同数量的云朵会进行不同种类的攻击:
+	Lv.1-霜冻箭
+	Lv.2-闪电箭
+	Lv.3-旋涡箭
+	'''
+	
 }
 
 LarveinScripute: {
-	DisplayName: Larvein Scripute
-	Tooltip: A little larva aww
+	DisplayName: 星极昆虫百科
+	Tooltip: 一只小虫子，真可爱
 }
 
 ArtisanBreastplate: {
-	DisplayName: Artisan Breastplate
+	DisplayName: 画家胸甲
 	Tooltip:
-		'''
-		Woa, dont forget to cover yourself up, don't want paint on your skin right?
-		+5% Damage
-		+5% Critical Strike Chance
-		+15 Health
-		Great for working in the arts :)
-		'''
+	'''
+	哇，别忘了遮住自己，你不想让颜料弄到身上对吧？
+	+10% 伤害
+	+5% 暴击几率
+	+25 生命值
+	在画画时非常好用: )
+	'''
 }
 
 ArtisanMask: {
-	DisplayName: Artisan Mask
+	DisplayName: 画家面具
 	Tooltip:
-		'''
-		Jamming out while making sprites and art is one of the most fun activities ever.
-		+5% Damage
-		+5% Critical Strike Chance
-		+15 Health
-		You also look hot am I right?
-		'''
+	'''
+	在创造艺术作品时尽情享受音乐是最有趣的活动之一。
+	+10% 伤害
+	+5% 暴击几率
+	+10 生命值
+	你看起来很帅对吗？
+	'''
+	
 }
 
 ArtisanThighs: {
-	DisplayName: Artisan Thighs
+	DisplayName: 画家护胫
 	Tooltip:
-		'''
-		Shawty you better hide those thighs, someone is coming for you :(
-		+20% Increased Movement speed
-		+5% Damage
-		+15 Health
-		Skating on paint like splatoon!
-		'''
+	'''
+	
+	矮个子，最好把腿藏起来，有人要来追你了: (
+	+40% 移动速度增加
+	+5% 伤害
+	+25 生命值
+	就像在颜料上滑行一样！
+	'''
+	
 }
 
 ArtisanBar: {
-	DisplayName: Artisan Bar
-	Tooltip: Made for only ture painters.
+	DisplayName: 画家锭
+	Tooltip: 专为真正的画家而制。
 }
 
 KaleidoscopicInk: {
-	DisplayName: Kaleidoscopic Ink
-	Tooltip: A magical yet explosive technical ink that is on some psychedelics..
+	DisplayName: 万花筆墨
+	Tooltip: 一种魔法且易爆的颜料，像是某种迷幻物质。
 }
 
 ArtistsHeart: {
-	DisplayName: Artists Heartius
-	Tooltip: I love painting so much that I throw it at my enemies!
+	DisplayName: 画家之心
+	Tooltip: 我如此热爱绘画，以至于我把它扔向我的敌人！
 }
 
 InkingSpire: {
-	DisplayName: Inking Spire
-	Tooltip: Dash through your enemies with invulnerability! Right click for antaciz combat!
+	DisplayName: 墨之尖塔
+	Tooltip: 在无敌状态下穿透你的敌人！右键点击进行高效的战斗！
 }
 
 PieceOfArt: {
-	DisplayName: Piece of Art
-	Tooltip: Drag your cursor and hit enemies with your paintbrush, be creative!
+	DisplayName: 艺术之手
+	Tooltip: 用你的画笔拖动光标并打击敌人，发挥你的创意！
 }
 
 PicturePerfectI: {
-	DisplayName: Picture Perfect I
+	DisplayName: 完美之作I
 	Tooltip:
-		'''
-		--Part I--
-		Upgrades the Artisan Armor 
-		Gain slightly more defense on Artisan Armor (5)
-		1 New highly damaging paint added to all paint weapons!
-		Artisan Armor set effect lasts slightly longer and the scales a bit more.
-		Shove that paint in their face!
-		Adds a little camera to help capture your best moments!
-		'''
+	'''
+	--部分I--
+	升级工匠盔甲 工匠盔甲获得更多防御力（5）
+	所有油漆武器都新增了一种高伤害的颜料！ 工匠盔甲套装效果持续时间略长，并且提高了一点点比例。
+	向他们的脸上涂上一些油漆！ 增加一个小相机，帮助捕捉你最好的时刻！
+	'''
 }
 
 PicturePerfectII: {
-	DisplayName: Picture Perfect II
+	DisplayName: 完美之作II
 	Tooltip:
-		'''
-		--Part II--
-		Upgrades the Artisan Armor Greatly
-		Gain slightly more defense on Artisan Armor (10)
-		1 New highly damaging paint added to all paint weapons!
-		Artisan Armor set effect lasts moderately longer and the scales a decent bit more.
-		Damn, you look so nice in that outfit!
-		Adds a little camera to help capture your best moments!
-		'''
+	'''
+	--部分II--
+	大幅度升级工匠盔甲 工匠盔甲获得更多防御力（10）
+	所有油漆武器都新增了一种高伤害的颜料！ 工匠盔甲套装效果持续时间较长，并且提高了相当比例。
+	天呐，你那身装束看起来非常棒！ 增加一个小相机，帮助捕捉你最好的时刻！
+	'''
 }
 
 PicturePerfectIII: {
-	DisplayName: Picture Perfect III
+	DisplayName: 完美之作III
 	Tooltip:
-		'''
-		--Part III--
-		Upgrades the Artisan Armor Extremely
-		Gain slightly more defense on Artisan Armor (25)
-		Artisan Armor set effect lasts a lot longer and the scales a LOT more.
-		You are finally picture perfect aren't you?
-		Adds a little camera to help capture your best moments!
-		'''
+	'''
+	--部分III--
+	极限升级工匠盔甲 工匠盔甲获得更多防御力（25）
+	工匠盔甲套装效果持续时间更长，并且提高了非常大比例。 最终成为了完美的作品，对吧？
+	增加一个小相机，帮助捕捉你最好的时刻！
+	'''
+	
 }
 
 ShadeWraithWings: {
-	DisplayName: Shade Wraith Wings
-	Tooltip: Allows flight and slow fall
+	DisplayName: 魂影翼
+	Tooltip: 允许飞行和缓慢下落
 }
 
 DirtWings: {
-	DisplayName: Dirt Wings
+	DisplayName: 泥土翼
 	Tooltip:
-		'''
-		Allows flight and slow fall
-		W-wait... you made wings... out of dirt?
-		Are you ok?
-		'''
+	'''
+	允许飞行和缓慢下落
+	等等......泥土？做成了翅膀？？？ 你还好吗？
+	'''
 }
 
 BridgetII: {
-	DisplayName: No Longer Bridget
-	Tooltip: Why didn't you revive her :(
+	DisplayName: Bridget-2
+	Tooltip:
+	为什么你没救她: (
 }
 
 BlackWallBlock: {
-	DisplayName: Black Men
-	Tooltip: Racist
+	DisplayName: 黑墙
+	Tooltip: 种族主义
 }
 
 MossyStones: {
-	DisplayName: Mossy Stones
+	DisplayName: 苔石
 	Tooltip: ""
 }
 
 VeriplantGrassBlock: {
-	DisplayName: Veriplant Grass Block
+	DisplayName: 变种植物草块
 	Tooltip: ""
 }
 
 ChiseledStoneBlock: {
-	DisplayName: Chiseled Stone Block
+	DisplayName: 雕刻石块
 	Tooltip: ""
 }
 
 VeriplantDirtBlock: {
-	DisplayName: Veriplant Dirt Block
+	DisplayName: 肥沃土块
 	Tooltip: ""
 }
 
 VeriplantGrassWall: {
-	DisplayName: Veriplant Grass Wall
+	DisplayName: 肥沃土墙
 	Tooltip: ""
 }
 
 MiracleBody: {
-	DisplayName: Miracle Cloak
+	DisplayName: 奇迹长袍
 	Tooltip:
-		'''
-		Increases summon damage by 12%
-		Increases whip range by 20%
-		+1 Max Sentry
-		'''
+	'''
+	增加召唤伤害12%
+	增加鞭子攻击范围20%
+	+1最大哨兵数量
+	'''
 }
 
 MiracleHead: {
-	DisplayName: Miracle Hat
+	DisplayName: 奇迹帽子
 	Tooltip:
-		'''
-		Increases summon damage by 12%
-		+1 Max Sentry
-		'''
+	'''
+	增加召唤伤害12%
+	+1最大哨兵数量
+	'''
+	
 }
 
 MiracleThread: {
-	DisplayName: Miracle Thread
-	Tooltip: It weaves the fabric of reality...
+	DisplayName: 奇迹丝线
+	Tooltip: 编制了现实的丝线......
 }
 
 MiracleWings: {
-	DisplayName: Miracle Wings
+	DisplayName: 奇迹之翼
 	Tooltip:
-		'''
-		Allows flight and slow fall
-		Hold down to hover
-		Yeah... it's a miracle these things let you fly at all
-		'''
+	'''
+	允许飞行和缓慢下落
+	按住以悬停 是的......这玩意儿能让你飞起来也是个奇迹
+	'''
 }
 
 Lacerator: {
-	DisplayName: Lacerator
+	DisplayName: 割裂
 	Tooltip:
-		'''
-		{$CommonItemTooltip.SummonTagDamage}
-		{$CommonItemTooltip.Whips}
-		Hit enemies will split in two, leaving them with half of their original HP and reduced defense
-		Slice n' dice!
-		'''
+	'''
+	{$CommonItemTooltip.SummonTagDamage}
+	{$CommonItemTooltip.Whips}
+	击中的敌人会一分为二，剩下其原本生命值的一半且防御力降低
+	切片切片切片！
+	'''
 }
 
 PotOfGreed: {
-	DisplayName: Pot Of Greed
+	DisplayName: 贪婪之壶
 	Tooltip:
-		'''
-		Summons a laughing pot that creates up to 10 shadow clones of your minions when you go near it
-		The shadow clones linger for a short while and deal less damage than the real thing
-		There can only be one
-		'''
+	'''
+	召唤一个会笑的水壶，当你靠近它时，会产生最多10个你召唤物的影分身
+	影分身会持续一小段时间，并且造成的伤害低于召唤物本体 你只能召唤一个贪婪之壶
+	'''
 }
 
 Ripper: {
-	DisplayName: Ripper
+	DisplayName: 开膛手
 	Tooltip:
-		'''
-		Summons a storm of swords around your cursor
-		Right click to perform a special attack
-		'''
+	'''
+	在光标周围召唤一场剑刃风暴
+	右键单击执行特殊攻击
+	'''
+	
 }
 
 XScissor: {
-	DisplayName: X-Scissor
-	Tooltip: Summons a cross-shaped rift that unleashes various horrors from the void
+	DisplayName: X剪刃
+	Tooltip: 切割出一个十字形的裂隙，释放出来自虚空的恐怖攻击
 }
 
 LittleScissor: {
-	DisplayName: Little Scissor
+	DisplayName: 小型X剪刀
 	Tooltip:
-		'''
-		Double tap a direction to dash- but very quickly and on a short cooldown!
-		Leave behind homing void bolts as you dash
-		'''
+	'''
+	双击任意方向以进行冲刺
+	冷却时间很短 在冲刺时会在身后留下一道恐怖的虚空裂隙
+	'''
 }
 
 SyliaBag: {
-	DisplayName: Treasure Bag (Sylia)
+	DisplayName: 丝莉娅宝藏袋
 	Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
 }
 
 SyliaBossRel: {
-	DisplayName: Sylia Relic
+	DisplayName: 丝莉娅圣物
 	Tooltip: ""
 }
 
 SeavathanBlock: {
-	DisplayName: Seavathan Block
+	DisplayName: 海神方块
 	Tooltip: ""
 }
 
 OldWeddingRing: {
-	DisplayName: Old Wedding Ring
-	Tooltip: Someone would love this
+	DisplayName: 旧的结婚戒指
+	Tooltip: 会有人喜欢这个的......
 }
 
 GrailBar: {
-	DisplayName: Grail Bar
-	Tooltip: Built with all things golden
+	DisplayName: 圣金锭
+	Tooltip: 用圣金打造而成
 }
 
 CelestiasWeddingRing: {
-	DisplayName: Celestias Wedding Ring
+	DisplayName: 天界婚戒
 	Tooltip:
-		'''
-		She loves me! She loves me not!
-		Effects of Hikers Backpack
-		No knockback and Immunity to lava!
-		+12% Damage
-		+12% Armor penetration!
-		'''
+	'''
+	她爱我！她不爱我！
+	具有旅行者背包的效果 免疫击退和岩浆
+	+12% 伤害
+	+12% 护甲穿透
+	'''
 }
 
 STARCORE: {
-	DisplayName: STARCORE
-	Tooltip: Dropped from the most destructive of bombers.
+	DisplayName: 星之核心
+	Tooltip: 从最具破坏力的轰炸机上掉落
 }
 
 BottleOfGrail: {
-	DisplayName: Bottle Of Grail
-	Tooltip: +1 summon and a vortex shader
+	DisplayName: 圣金瓶
+	Tooltip: +1召唤栏和一个额外附赠的星璇背景
 }
 
 ReverieExtenderPowder: {
-	DisplayName: Reverie Extender Powder
-	Tooltip: Sets powder range to an increase of 130%
+	DisplayName: 梦幻扩展型粉末
+	Tooltip: 将尘埃范围增加130%
 }
 
 GrailedExtenderPowder: {
-	DisplayName: Grailed Extender Powder
-	Tooltip: Sets powder range to an increase of 250%
+	DisplayName: 圣金扩展型粉末
+	Tooltip: 将尘埃范围增加250%
 }
 
 MidfortuneExtenderPowder: {
-	DisplayName: Midfortune Extender Powder
-	Tooltip: Sets powder range to an increase of 200%
+	DisplayName: 中等扩展型粉末
+	Tooltip: 将尘埃范围增加	200%
 }
 
 BonedThrowBroochA: {
-	DisplayName: Boned Throw Brooch
-	Tooltip: Increases throwing speed and damage by 20%, increased speed!
+	DisplayName: 掷骨胸针
+	Tooltip: 增加20%的投掷速度和伤害
 }
 
 LuckyWinnerBroochA: {
-	DisplayName: Lucky Winner Brooch
-	Tooltip: Igniters have a chance to do double damage on ignites with powders!
+	DisplayName: 燃运胸针
+	Tooltip: 引燃器有机会在点燃尘埃时造成双倍伤害！
 }
 
 SandyBroochA: {
-	DisplayName: Sanded Winds Brooch
-	Tooltip: Be able to summon tornados by pressing down 2 times!
+	DisplayName: 风沙胸针
+	Tooltip: 按下2次即可召唤龙卷风！
 }
 
 GrailHairpinYoyo: {
-	DisplayName: Grail Hairpin Yoyo
-	Tooltip: Wow, this is shit!
+	DisplayName: 圣金发夹悠悠球
+	Tooltip: 发夹......能当......悠悠球？
 }
 
 StarringGraft: {
-	DisplayName: Starring Graft
-	Tooltip: Get those stars off the ground :p
+	DisplayName: 星空
+	Tooltip: 让那些星星重新飞翔吧
 }
 
 OceanicExtenderPowder: {
-	DisplayName: Oceanic Extender Powder
-	Tooltip: Sets powder range to an increase of 150%
+	DisplayName: 海洋扩展型粉末
+	Tooltip: 将尘埃范围增加	150%
 }
 
 MorrowedJelliesBroochA: {
-	DisplayName: Morrowed Jellies Brooch
-	Tooltip: Its really good if you're running a defensive build.
+	DisplayName: 乞来精胸针
+	Tooltip: 防御流的最佳选择！
 }
 
 BonedExtenderPowder: {
-	DisplayName: Boned Extender Powder
-	Tooltip: Sets powder range to an increase of 160%
+	DisplayName: 骸骨扩展型粉末
+	Tooltip: 将尘埃范围增加	160%
 }
 
 GremoryExtenderPowder: {
-	DisplayName: Gremory Extender Powder
-	Tooltip: Sets powder range to an increase of 150%
+	DisplayName: 格雷莫瑞扩展型粉末
+	Tooltip: 将尘埃范围增加	150%
 }
 
 MushyExtenderPowder: {
-	DisplayName: Mushy Extender Powder
-	Tooltip: Sets powder range to an increase of 180%
+	DisplayName: 蘑菇扩展型粉末
+	Tooltip: 将尘埃范围增加	180%
 }
-
 TomedDustingFlames: {
-	DisplayName: Tomed Dusting Flames
-	Tooltip: ""
+	DisplayName: 崩解引燃器
+	Tooltip: "[c/3c8c60:为尘埃制造一场华丽的爆炸！]"
 }
 
 TomedDustingMagic: {
-	DisplayName: Tomed Dusting Magic
-	Tooltip: ""
+	DisplayName: 崩解魔法
+	Tooltip: "[c/3c8c60:制止一场华丽的爆炸！]"
 }
 
 JacksonPollock: {
-	DisplayName: Jackson Pollock
-	Tooltip: Summons a floating paint bucket sentry that spills paint everywhere
+	DisplayName: 杰克逊·波洛克
+	Tooltip: 召唤一个漂浮的颜料桶，它会把颜料洒得到处都是！
 }
 
 Rhamenthal: {
-	DisplayName: Rhamenthal the Grafted
-	Tooltip: A devastating magical bow that will wipe out every enemy!
+	DisplayName: 接枝者
+	Tooltip: 一把强力的魔法弓！
 }
 
 Angelenthal: {
-	DisplayName: Angelenthal
-	Tooltip: ""
+	DisplayName: 天使之刃
+	Tooltip: "[c/a852b4:一把强大的武器！它能够用强力的引力吸住敌人，而且可以改变自己的形态！]\n[c/a852b4:右键点击以释放引力重击！]\n[c/cca7d6:这件武器与菲妮克斯绑定了]"
+
 }
 
 RoseBroochA: {
-	DisplayName: Rose Brooch
-	Tooltip: Summons a rose shield that rotates around you and blocks projectiles
+	DisplayName: 玫瑰胸针
+	Tooltip: 召唤一面玫瑰盾牌，围绕你旋转并格挡投射物
 }
 
 Nekomara: {
-	DisplayName: Nekomara
-	Tooltip: ""
+	DisplayName: 猫丸
+	Tooltip: "[c/a852b4:复制和克隆是力量的本源喵!]\n[c/cca7d6:这件武器与菲妮克斯绑定了]"
+	
 }
 
 Yumiko: {
-	DisplayName: Yumiko
-	Tooltip: ""
+	DisplayName: 由美子
+	Tooltip: "[c/a852b4:一个悲伤的灵魂在哭泣]\n[c/cca7d6:这件武器与菲妮克斯绑定了]"
+	
 }
 
 FrostMonger: {
-	DisplayName: Frost Monger
+	DisplayName: 霜芒
 	Tooltip: ""
 }
 
 AlcadzianCard: {
-	DisplayName: Alcadzian Card
+	DisplayName: 流浪熔金引燃器
 	Tooltip:
-		'''
-		Use with a combination of dusts to make spells :)
-		Hit an enemy with a powder, then switch to this weapon and hold the attack button for explosions!
-		'''
+	'''
+	与尘埃混合使用
+	用尘埃击中敌人，然后切换到此武器并按住左键引爆！
+	'''
+	
 }
 
 BOMBERCard: {
-	DisplayName: BOMBER Card
+	DisplayName: 炸弹人引燃器
 	Tooltip:
-		'''
-		Use with a combination of dusts to make spells :)
-		Hit an enemy with a powder, then switch to this weapon and hold the attack button for explosions!
-		'''
+	'''
+	与尘埃混合使用
+	用尘埃击中敌人，然后切换到此武器并按住左键引爆！
+	'''
+	
 }
 
 BurningCard: {
-	DisplayName: Burning Card
+	DisplayName: 烧伤引燃器
 	Tooltip:
-		'''
-		Use with a combination of dusts to make spells :)
-		Hit an enemy with a powder, then switch to this weapon and hold the attack button for explosions!
-		'''
+	'''
+	与尘埃混合使用
+	用尘埃击中敌人，然后切换到此武器并按住左键引爆！
+	'''
+	
 }
 
 FenixxCard: {
-	DisplayName: Fenixx Card
+	DisplayName: 凤凰引燃器
 	Tooltip:
-		'''
-		Use with a combination of dusts to make spells :)
-		Hit an enemy with a powder, then switch to this weapon and hold the attack button for explosions!
-		'''
+	'''
+	与尘埃混合使用
+	用尘埃击中敌人，然后切换到此武器并按住左键引爆！
+	'''
+	
 }
 
 GrailedCard: {
-	DisplayName: Grailed Card
+	DisplayName: 圣金引燃器
 	Tooltip:
-		'''
-		Use with a combination of dusts to make spells :)
-		Hit an enemy with a powder, then switch to this weapon and hold the attack button for explosions!
-		'''
+	'''
+	与尘埃混合使用
+	用尘埃击中敌人，然后切换到此武器并按住左键引爆！
+	'''
+	
 }
 
 LarvaedCard: {
-	DisplayName: Larveid Card
+	DisplayName: 秘虫引燃器
 	Tooltip:
-		'''
-		Use with a combination of dusts to make spells :)
-		Hit an enemy with a powder, then switch to this weapon and hold the attack button for explosions!
-		'''
+	'''
+	与尘埃混合使用
+	用尘埃击中敌人，然后切换到此武器并按住左键引爆！
+	'''
+	
 }
 
 StyngerCard: {
-	DisplayName: Stynger Card
+	DisplayName: 斯廷格引燃器
 	Tooltip:
-		'''
-		Use with a combination of dusts to make spells :)
-		Hit an enemy with a powder, then switch to this weapon and hold the attack button for explosions!
-		'''
+	'''
+	与尘埃混合使用
+	用尘埃击中敌人，然后切换到此武器并按住左键引爆！
+	'''
+	
 }
 
 URift: {
-	DisplayName: U Rift
+	DisplayName: 不稳定的裂隙
 	Tooltip: ""
 }
 
 GrailAxe: {
-	DisplayName: Grail Axe
-	Tooltip: ""
+	DisplayName: 圣金斧
+	Tooltip: "[c/c1a83f:(A+) 用星之力量打击敌人!]"
 }
 
 Rinavine: {
-	DisplayName: Rinavine
-	Tooltip: Lord of all things golden!
+	DisplayName: 金主
+	Tooltip: 一切黄金之王！
 }
 
 Jerry: {
-	DisplayName: Jerry
-	Tooltip: ""
+	DisplayName: 杰瑞
+	Tooltip: "[c/5ee056:杰瑞不喜欢别人叫他的名字]"
 }
 
 LarvaedSpear: {
-	DisplayName: Larvein Spear
-	Tooltip: Kind of good ngl
+	DisplayName: 秘虫投矛
+	Tooltip: 好像还不错诶
 }
 
 DevilsPeak: {
-	DisplayName: Devils Peak
-	Tooltip: This is peak fiction
+	DisplayName: 恶魔之巅
+	Tooltip: 这是恶魔的巅峰之作
 }
 
 ClockworkCity: {
-	DisplayName: Clockwork City
+	DisplayName: 发条城市
 	Tooltip:
-		'''
-		Totally not one of the best areas in a game, cough cough
-		Sown in Chains
-		'''
+	'''
+	绝对不是游戏中最好的枪之一，咳咳
+	被链条锁住了
+	'''
+	
 }
 
 PotionOfAlcadWand: {
-	DisplayName: Potion Of Alcad Wand
-	Tooltip: Get Jolly with it,
+	DisplayName: 流浪熔金药水召唤杖
+	Tooltip: 和它一起玩吧
 }
 
 ScissorianChestplate: {
-	DisplayName: Scissorian Chestplate
+	DisplayName: 裁剪者护甲
 	Tooltip:
-		'''
-		+20 Throwing Critical Strike Chance!
-		+15 Health
-		+10% Throwing Damage
-		'''
+	'''
+	+20投掷暴击几率！
+	+15生命值
+	+10%投掷伤害
+	'''
+	
 }
 
 ScissorianGreaves: {
-	DisplayName: Scissorian Greaves
+	DisplayName: 裁剪者护腿
 	Tooltip:
-		'''
-		Increased movement speed
-		+20 Health
-		+15% Throwing Damage
-		'''
+	'''
+	增加移动速度
+	+20 生命值
+	+15% 投掷伤害
+	'''
 }
 
 ScissorianMask: {
-	DisplayName: Scissorian Mask
-	Tooltip: +20% Throwing Damage
+	DisplayName: 裁剪者面具
+	Tooltip: +20%投掷伤害
 }
 
 DarkButcher: {
-	DisplayName: The Dark Butcher
-	Tooltip: The Butcher but darker.
+	DisplayName: 邪恶屠夫
+	Tooltip: 更加邪恶的屠夫
 }
 
 TheButcher: {
-	DisplayName: The Butcher
+	DisplayName: 屠夫
 	Tooltip: ""
 }
 
 BookOfSkullsII: {
-	DisplayName: Book Of Skulls II
-	Tooltip: Woa mom its the second version!
+	DisplayName: 骷髅头法书II
+	Tooltip: 哇哇哇，这是第二版诶！
 }
 
 DreadGauntlets: {
-	DisplayName: Dread Gauntlets
+	DisplayName: 恐惑手套
 	Tooltip: ""
 }
 
 ScytheOfSouls: {
-	DisplayName: Scythe Of Souls
-	Tooltip: Use these vengeful souls at will, they are quite quirky!
+	DisplayName: 幽魂长镰
+	Tooltip: 操控这些古怪的幽魂吧！
 }
 
 BubbleBlasher: {
-	DisplayName: Bubble Blasher
-	Tooltip: Send your enemies afar with this!
+	DisplayName: 泡泡粉碎者
+	Tooltip: 用它将你的敌人推开！
 }
 
 LarveinGreatbow: {
-	DisplayName: Larvein Greatbow
-	Tooltip: Pretty great huh?
+	DisplayName: 秘虫长弓
+	Tooltip: 它相当不错对吧？
 }
 
 AlcarianYoyo: {
-	DisplayName: Alcarian Yoyo
+	DisplayName: 碎星悠悠球
 	Tooltip: ""
 }
 
 Alcadius: {
-	DisplayName: Alcadius
-	Tooltip: Jinkies!
+	DisplayName: 暗夜荆棘
+	Tooltip: 荆棘！
 }
 
 DungeonedRockCard: {
-	DisplayName: Dungeoned Rock Card
+	DisplayName: 地牢石引燃器
 	Tooltip:
-		'''
-		Get rocked, or Dwayne Johnsoned, whatever is funnier.
-		Hit an enemy with a powder, then switch to this weapon and hold the attack button for explosions!
-		'''
+	'''
+	它看上去很有石力
+	用尘埃击中敌人，然后切换到此武器并按住左键引爆！
+	'''
+	
 }
 
 PunkedUpChops: {
-	DisplayName: Punked Up Chops
-	Tooltip: Pumped up kicks fr fr
+	DisplayName: 用于攻击的奇怪废料
+	Tooltip: 变废为宝！
 }
 
 Photobomb: {
-	DisplayName: Photobomb
-	Tooltip: I'll ruin your frames for you! I'll splatter paint all over you ;)
+	DisplayName: 炸裂式绘画
+	Tooltip: 我想要用颜料帮你洗澡......嘻嘻......
 }
 
 CatacombAquaStoneBlock: {
-	DisplayName: Catacomb Aqua Stone Block
+	DisplayName: 地窖水石块
 	Tooltip: ""
 }
 
 CatacombHeatStoneBlock: {
-	DisplayName: Catacomb Heat Stone Block
+	DisplayName: 地窖热石块
 	Tooltip: ""
 }
 
 CatacombTrapStoneBlock: {
-	DisplayName: Catacomb Trap Stone Block
+	DisplayName: 地窖陷阱石块
 	Tooltip: ""
 }
 
 CatacombsKey: {
-	DisplayName: Catacombs Key
-	Tooltip: Use these to enter catacombs under the ocean, desert and underground!
+	DisplayName: 地窖钥匙
+	Tooltip: 使用这些钥匙进入海洋、沙漠和地下的地窖！
 }
 
 CatacombsDoor: {
-	DisplayName: Catacombs Door
+	DisplayName: 地窖门
 	Tooltip: ""
 }
 
 CatacombsSummoni: {
-	DisplayName: Catacombs Summoni
+	DisplayName: 地窖召唤台
 	Tooltip: ""
 }
 
 GraftedSoul: {
-	DisplayName: Contaminated Soul
-	Tooltip: An essense grafted of contamination..
+	DisplayName: 酸蚀之魂
+	Tooltip: 一种融合了大量酸蚀能量的精华......
 }
 
 GoldenHeartBalls: {
-	DisplayName: Golden Heart Balls
-	Tooltip: Would match the golden shower :)
+	DisplayName: 黎明之心II
+	Tooltip: 会和黎明之心配套
 }
 
 Test: {
-	DisplayName: Test bitch
+	DisplayName: 测试用品
 	Tooltip: ""
 }
 
 StarringBalls: {
-	DisplayName: Starring Balls
-	Tooltip: Get starry
+	DisplayName: 星辉球
+	Tooltip: 让你变得星光熠熠
 }
 
 MagicalBroochA: {
-	DisplayName: The Royal Capital's Magical Brooch
+	DisplayName: 暗夜胸针
 	Tooltip:
-		'''
-		You really wanna be a mage huh.
-		+100 Max Mana and +50 Health
-		Auto gain the Mana Cuffs and Magic flower
-		Cost of magic is reduced by 95%..
-		+20% Magic Damage
-		'''
+	'''
+	你想成为一个魔法少女嘛？
+	+100 最大魔力值
+	+50 生命值
+	拥有魔力手铐和魔力花的效果 魔法消耗减少95%
+	+20% 魔法伤害
+	'''
 }
 
 PotionOfHallowWand: {
-	DisplayName: Potion Of Hallow Wand
+	DisplayName: 神圣药水召唤杖
 	Tooltip: ""
 }
 
 AppretienceBreastplate: {
-	DisplayName: Appretience Breastplate
-	Tooltip: +20% Crit strike chance and +5 Health!
+	DisplayName: 学徒胸甲
+	Tooltip: +20%暴击率！+5生命值！
 }
 
 AppretienceHat: {
-	DisplayName: Appretience Hood
-	Tooltip: +20% Crit strike chance and Health!
+	DisplayName: 学徒兜帽
+	Tooltip: +20%暴击率和生命值！
 }
 
 AppretiencePants: {
-	DisplayName: Appretience Pants
-	Tooltip: +20% Crit strike chance and Health!
+	DisplayName: 学徒短裤
+	Tooltip: +20%暴击率和生命值！
 }
 
 UlvenChestplate: {
-	DisplayName: Ulven Chestplate
-	Tooltip: +15 Armor Penetration!
+	DisplayName: 狼族胸甲
+	Tooltip: +15护甲穿透！
 }
 
 UlvenGreaves: {
-	DisplayName: Ulven Greaves
-	Tooltip: +25 Armor Penetration!
+	DisplayName: 狼族护胫
+	Tooltip: +25护甲穿透！
 }
 
 UlvenHelmet: {
-	DisplayName: Ulven Helmet
-	Tooltip: +20 Armor Penetration
+	DisplayName: 狼族头盔
+	Tooltip: +20护甲穿透！
 }
 
 RottenHeart: {
-	DisplayName: Rotten Heart
-	Tooltip: Destroyed and rotten to it's core, a task for someone to fulfill providing another barrier to Gothivia...
+	DisplayName: 腐烂之心
+	Tooltip: 需要有人完成的任务，为了给戈茜维娅提供再一层保护......
 }
 
 IronHook: {
-	DisplayName: Iron Hook
+	DisplayName: 铁钩
 	Tooltip: ""
 }
 
 Kaevine: {
-	DisplayName: Kaevine
-	Tooltip: ""
+	DisplayName: 恐蚀诡鞭
+	Tooltip: "[c/e64059:诡鞭武器类型]\n[c/bd4b14:命中后会对敌怪附加持续性的伤害]"
+	
 }
 
 RalladI: {
-	DisplayName: Rallad I
+	DisplayName: 瑞拉德I
 	Tooltip: ""
 }
 
 AgreviPowder: {
-	DisplayName: Agrevi Powder
+	DisplayName: 阿格雷维尘埃
 	Tooltip:
-		'''
-		Throw magical dust on them and ignite
-		An exploding dust that works after a little while
-		After hitting an enemy with this, use an igniter card weapon!
-		'''
+	'''
+	抛洒易燃的魔法尘埃
+	一段时间后会爆炸的尘埃。 将它们洒在敌怪上面，然后引燃！
+	'''
 }
 
 IllusionistPowder: {
-	DisplayName: Illusionist Powder
+	DisplayName: 幻术师尘埃
 	Tooltip:
-		'''
-		Throw magical dust on them and ignite
-		A dust that tells you to keep yourself safe.
-		After hitting an enemy with this, use an igniter card weapon!
-		'''
+	'''
+	抛洒易燃的魔法尘埃
+	它告诉你出门在外要保护好自己。 将它们洒在敌怪上面，然后引燃！
+	'''
 }
 
 PoisonedPowder: {
-	DisplayName: Poisoned Powder
+	DisplayName: 毒蚀尘埃
 	Tooltip:
-		'''
-		Throw magical dust on them and ignite
-		A constant dust that has posionous tendrils
-		After hitting an enemy with this, use an igniter card weapon!
-		'''
+	'''
+	抛洒易燃的魔法尘埃
+	这是一种带有持续性剧毒的尘埃。 将它们洒在敌怪上面，然后引燃！
+	'''
 }
 
 SpiritPowder: {
-	DisplayName: Spirit Powder
+	DisplayName: 灵魂粉末
 	Tooltip:
-		'''
-		Throw magical dust on them and ignite
-		Fenix would love you for this.
-		After hitting an enemy with this, use an igniter card weapon!
-		'''
+	'''
+	抛洒易燃的魔法尘埃
+	会有人喜欢这个的。 将它们洒在敌怪上面，然后引燃！
+	'''
 }
 
 TreasureBoxFire: {
-	DisplayName: Smoldering Treasure Box
+	DisplayName: 正在冒烟的宝箱
 	Tooltip:
-		'''
-		{$CommonItemTooltip.RightClickToOpen}
-		I bet ya burned yourself half to death to get this one!
-		'''
+	'''
+	{$CommonItemTooltip.RightClickToOpen}
+	我打赌你为了得到这个宝箱差点被烧死！
+	'''
+	
 }
 
 TreasureBoxTrap: {
-	DisplayName: Trapped Treasure Box
+	DisplayName: 陷阱宝箱
 	Tooltip:
-		'''
-		{$CommonItemTooltip.RightClickToOpen}
-		Ummm- it's totally not trapped ;)
-		'''
+	'''
+	{$CommonItemTooltip.RightClickToOpen}
+	呃......它肯定没有陷阱，没有！
+	'''
+	
 }
 
 TreasureBoxWater: {
-	DisplayName: Drowned Treasure Box
+	DisplayName: 沉底的宝箱
 	Tooltip:
-		'''
-		{$CommonItemTooltip.RightClickToOpen}
-		There's... just too much water...
-		'''
+	'''
+	{$CommonItemTooltip.RightClickToOpen}
+	水量过多
+	'''
+	
 }
 
 AquaticEmblem: {
-	DisplayName: Aquatic Emblem
+	DisplayName: 泡泡徽章
 	Tooltip:
-		'''
-		Adds a chance for hit enemies to become surrounded by bubbles!
-		These bubbles will slowly close in and linger for a long time
-		'''
+	'''
+	攻击敌人有概率在其身上生成泡泡！
+	这些泡泡会持续存在很长时间
+	'''
+	
 }
 
 Barry: {
-	DisplayName: Barry
+	DisplayName: 刺头
 	Tooltip:
-		'''
-		Summons an orbiting shield of infected spikes to protect you!
-		Everyone loves Barry :)
-		'''
+	'''
+	召唤一圈尖刺盾牌来保护你！
+	每个人都喜欢自己这边的一个刺头
+	'''
+	
 }
 
 Bonfire: {
-	DisplayName: Bonfire
+	DisplayName: 火烛
 	Tooltip:
-		'''
-		Summons a bonfire over your head, it increases your life regen and provides light
-		It grows stronger when you are not moving!
-		'''
+	'''
+	在你头上召唤一个火烛，增加你的生命再生速度并提供光照
+	当你不移动时它将会变得更强！
+	'''
+	
 }
 
 Cleats: {
-	DisplayName: Cleats
-	Tooltip: Movement speed increase and acceleration, emits a small light too!
+	DisplayName: 钉鞋
+	Tooltip: 增加你的移动速度和加速度，还会发出微弱的光芒！
 }
 
 FireEmblem: {
-	DisplayName: Fire Emblem
+	DisplayName: 火焰徽章
 	Tooltip:
-		'''
-		Your attacks inflict random fire debuffs
-		Adds a chance for critical hits to explode and burn nearby enemies!
-		...were you expecting something else?
-		'''
+	'''
+	你的攻击会给予敌怪随机的火焰debuff
+	增加暴击的概率，对附近的敌人造成爆炸和燃烧效果！ ......你还在等什么？
+	'''
 }
 
 FlamecrestShield: {
-	DisplayName: Flamecrest Shield
+	DisplayName: 炎冠盾牌
 	Tooltip:
-		'''
-		Immune to all fire-based debuffs!
-		You take 50% less damage from fire-based attacks!
-		Can't burn me now :P
-		'''
+	'''
+	免疫所有基于火焰的debuff！
+	对于基于火焰的攻击，你受到的伤害减少50%！ 现在我就可以在岩浆里泡澡了，好耶
+	'''
 }
 
 IcarusFeather: {
-	DisplayName: Icarus Feather
+	DisplayName: 伊卡洛斯之羽
 	Tooltip:
-		'''
-		You can continue flying even after your flight time runs out!
-		...but your wings will burn, reducing your flight mobility
-		'''
+	'''
+	即使在飞行时间用尽后，你仍可以继续飞行！
+	但你的翅膀会燃烧，减弱你的飞行能力
+	'''
+	
 }
 
 OceancrestShield: {
-	DisplayName: Oceancrest Shield
+	DisplayName: 海冠盾牌
 	Tooltip:
-		'''
-		Every little while, a bubble shield will follow you and absorb the next hit of damage!
-		Also, you have infinite breathing underwater!
-		'''
+	'''
+	每隔一段时间就会生成一个泡泡盾牌跟随着你并吸收下一次受到的伤害！
+	此外，你在水下有无限的呼吸时间！
+	'''
+	
 }
 
 Panacea: {
-	DisplayName: Panacea
-	Tooltip: Immune to poison, venom and bleeding!
+	DisplayName: 万灵草药水
+	Tooltip: 免疫中毒、剧毒和流血效果！
 }
 
 SpikedEmblem: {
-	DisplayName: Spiked Emblem
+	DisplayName: 利刺徽章
 	Tooltip:
-		'''
-		Increased damage by 8%
-		Hit enemies are inflicted with chained, which tethers them to you and deals damage over time!
-		'''
+	'''
+	增加8%的伤害
+	被击中的敌人会被你束缚，将其与你连接，并造成持续性的伤害！
+	'''
+	
 }
 
 TyphoonInABottle: {
-	DisplayName: Typhoon In A Bottle
+	DisplayName: 瓶中台风
 	Tooltip:
-		'''
-		Allows the holder to perform a greatly improved double jump!
-		Slightly increased movement and jump speed
-		'''
+	'''
+	使持有者能够进行大幅度的二段跳！
+	轻微增加移动和跳跃速度
+	'''
+	
 }
 
 WaterproofHeadphones: {
-	DisplayName: Waterproof Headphones
-	Tooltip: Increases life by 40 and gain 4% more resistance to attacks!
+	DisplayName: 防水耳机
+	Tooltip: 增加40点最大生命值，并获得4%的伤害减免！
 }
 
 BurningFlask: {
-	DisplayName: Burning Flask
-	Tooltip: Please just don't set the house on fire..
+	DisplayName: 燃烧瓶
+	Tooltip: 请不要把房子点着了......
 }
 
 ComicalTrident: {
-	DisplayName: Comical Trident
-	Tooltip: Truly the most comical weapon of all time.
+	DisplayName: 滑稽三叉戟
+	Tooltip: 神金，害我笑了一下
 }
 
 MetalAlloy: {
-	DisplayName: Metal Alloy
-	Tooltip: I mean it isn't a material, but Germany says otherwise.
+	DisplayName: 合金
+	Tooltip: 我说它不算是一种材料，但德国人却说它算。
 }
 
 Ragsaw: {
-	DisplayName: Ragsaw
-	Tooltip: They bounce around, it even looks like they are dancing!
+	DisplayName: 会跳舞的锯齿
+	Tooltip: 它们会弹跳，甚至看起来像在跳舞！
 }
 
 SpiritCapsule: {
-	DisplayName: Spirit Capsule
-	Tooltip: Somehow you've trapped every soul inside this..
+	DisplayName: 灵魂胶囊
+	Tooltip: 不知怎的，你把一些灵魂困在了里面......
 }
 
 Stonen: {
-	DisplayName: Stonen
-	Tooltip: Don't get stoned just yet.
+	DisplayName: 石人
+	Tooltip: 别急着变成石头。
 }
 
 Aquamare: {
-	DisplayName: Aquamare
-	Tooltip: May be inconsistent!
+	DisplayName: 蓝玛瑙
+	Tooltip: 有些不稳定
 }
 
 MagicalAxe: {
-	DisplayName: Magical Axe
-	Tooltip: It's so magical it turned itself into a "chad" axe :)
+	DisplayName: 魔法斧头
+	Tooltip: 它如此神奇......
 }
 
 WaterSong: {
-	DisplayName: Flowing Song
-	Tooltip: Turn wooden arrows into icey bolts!
+	DisplayName: 霜流颂歌
+	Tooltip: 把木箭变成冰箭！
 }
 
 Dulahaun: {
-	DisplayName: Dulahaun
+	DisplayName: 割裂
 	Tooltip:
-		'''
-		A weapon so magical and devious it may have killed it's previous owners.
-		Forged from the the haunting and bright, this sword is sentient and alive.
-		'''
+	'''
+	一把狡诈的武器，可能已经杀死了它的前任主人。
+	用光明与黑暗锻造而成，这把剑是有灵性的，是活的。
+	'''
+	
 }
 
 CursedShard: {
-	DisplayName: Cursed Shard
-	Tooltip: Use at an altar in any of the Catacombs to summon a dangerous foe!
+	DisplayName: 诅咒碎片
+	Tooltip: 在任何地窖祭坛上使用它，召唤一个危险的敌人！
 }
 
 DucanblitzBreastplate: {
-	DisplayName: Ducanblitz Breastplate
+	DisplayName: 灵绒胸甲
 	Tooltip:
-		'''
-		+10 Max Health
-		+10% Melee Damage!
-		'''
+	'''
+	+20最大生命值
+	+20%近战伤害
+	'''
+	
 }
 
 DucanblitzCap: {
-	DisplayName: Ducanblitz Cap
+	DisplayName: 灵绒帽子
 	Tooltip:
-		'''
-		+10 Critical Strike Chance
-		+12% Melee Damage!
-		'''
+	'''
+	+10%暴击几率
+	+22%近战伤害
+	'''
+	
 }
 
 DucanblitzThighs: {
-	DisplayName: Ducanblitz Thighs
+	DisplayName: 灵绒护腿
 	Tooltip:
-		'''
-		A hell of a lot of movement speed!
-		+10 Max Health
-		+15 Armor penetration
-		+2% Melee Damage!
-		'''
+	'''
+	增加大量移动速度
+	+50 最大生命值
+	+15 护甲穿透
+	+12% 近战伤害
+	'''
 }
 
 FenixBag: {
-	DisplayName: Fenix Bag
+	DisplayName: 菲妮克斯宝藏袋
 	Tooltip: ""
 }
 
 EldritchianCloak: {
-	DisplayName: Eldritchian Cloak
+	DisplayName: 奥秘披风
 	Tooltip:
-		'''
-		+12% Throwing Attack Speed
-		+16% Throwing Damage
-		Slightly increased life regen
-		'''
+	'''
+	+12%投掷攻击速度
+	+16%投掷伤害
+	稍微增加生命回复速度
+	'''
 }
 
 EldritchianHood: {
-	DisplayName: Eldritchian Hood
+	DisplayName: 奥秘兜帽
 	Tooltip:
-		'''
-		+10% Throwing Attack Speed
-		+20% Throwing Damage
-		Slightly increased vision
-		'''
+	'''
+	+10%投掷攻击速度
+	+20%投掷伤害
+	稍微增加视野范围
+	'''
 }
 
 EldritchianLegs: {
-	DisplayName: Eldritchian Legs
+	DisplayName: 奥秘腿甲
 	Tooltip:
-		'''
-		+8% Throwing Attack Speed
-		+23% Throwing Damage
-		Slightly increased movement speed
-		'''
+	'''
+	+8%投掷攻击速度
+	+23%投掷伤害
+	稍微增加移动速度
+	'''
 }
 
 StickOfWisdom: {
