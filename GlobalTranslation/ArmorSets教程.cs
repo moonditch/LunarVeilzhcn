@@ -1,7 +1,5 @@
 using Terraria;
 using Terraria.ModLoader;
-using Stellamod.Items.Armors.Windmillion;
-using Stellamod.Items.Armors.Witchen;
 
 namespace LunarVeilzhcn.GlobalTranslation
 {
@@ -10,28 +8,28 @@ namespace LunarVeilzhcn.GlobalTranslation
         #region UpdateArmorSet
         public override void UpdateArmorSet(Player player, string set)
         {
-            if (set == "WindmillionHatSet") 
+            if (set == "套装英文名Set") 
             {
-                player.setBonus = "测试";
+                player.setBonus = "文本";
                }
-            if (set == "WitchenHatSet") 
+            if (set == "套装英文名Set") 
             {
-                player.setBonus = "测试";
+                player.setBonus = "文本";
                }
         }
         #endregion
         #region IsArmorSet
         public override string IsArmorSet(Item head, Item body, Item legs)
         {
-            ModItem item = ModContent.GetInstance<WindmillionHat>();
+            ModItem item = ModContent.GetInstance<套装头盔的英文名>();
             if (item.Type == head.type && item.IsArmorSet(head, body, legs))
             {
-                return "WindmillionHatSet";
+                return "Set";
             }
-            item = ModContent.GetInstance<WitchenHat>();
+            item = ModContent.GetInstance<套装头盔的英文名>();
             if (item.Type == head.type && item.IsArmorSet(head, body, legs))
             {
-                return "WitchenHatSet";
+                return "Set";
             }
             return base.IsArmorSet(head, body, legs);
         }
