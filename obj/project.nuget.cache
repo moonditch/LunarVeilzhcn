@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "4RrMgQKumfUj/IedjmkpKNCm8kh9Sp8FE7BhWt8geOvVW1io1g/ACbEBnrKRYwlhGArHxq79aC2Auqxp7HXp3Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Administrator\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\LunarVeilzhcn\\LunarVeilzhcn.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\tmodloader.codeassist\\0.1.5\\tmodloader.codeassist.0.1.5.nupkg.sha512"
+  ],
+  "logs": []
+}
