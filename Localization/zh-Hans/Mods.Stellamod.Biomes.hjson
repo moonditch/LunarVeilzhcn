@@ -1,6 +1,6 @@
 XixVillage: {
-	TownNPCDialogueName: the Xix Village
-	DisplayName: Xix Village
+	TownNPCDialogueName: the Xix Village第十九村
+	DisplayName: 第十九村
 }
 
 VeriplantUndergroundBiome: {
@@ -15,7 +15,7 @@ StarbloomBiome: {
 
 SeaTemple: {
 	TownNPCDialogueName: the Sea Temple
-	DisplayName: Sea Temple
+	DisplayName: 海洋神庙
 }
 
 NaxtrinTemple: {
