@@ -2,6 +2,8 @@ using Terraria;
 using Terraria.ModLoader;
 using Stellamod.Items.Armors.Windmillion;
 using Stellamod.Items.Armors.Witchen;
+using Stellamod.Items.Armors.Artisan;
+using Stellamod.Items.Armors.Alsis;
 
 namespace LunarVeilzhcn.GlobalTranslation
 {
@@ -40,13 +42,13 @@ namespace LunarVeilzhcn.GlobalTranslation
                 return "WindmillionHatSet";
             }
 
-            ModItem item = ModContent.GetInstance<AlsisMask>();
+            item = ModContent.GetInstance<AlsisMask>();
             if (item.Type == head.type && item.IsArmorSet(head, body, legs))
             {
                 return "AlsisMaskSet";
             }
 
-            ModItem item = ModContent.GetInstance<ArtisanMask>();
+            item = ModContent.GetInstance<ArtisanMask>();
             if (item.Type == head.type && item.IsArmorSet(head, body, legs))
             {
                 return "ArtisanMaskSet";
