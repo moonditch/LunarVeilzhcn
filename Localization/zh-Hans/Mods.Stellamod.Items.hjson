@@ -4961,17 +4961,17 @@ EldritchianLegs: {
 }
 
 StickOfWisdom: {
-	DisplayName: Stick Of Wisdom
+	DisplayName: 智慧之杖
 	Tooltip:
 		'''
-		May be useful for mages and summoners!
-		Fills you with wisdom, I think?
+		可能对法师和召唤师有用!
+		让你充满智慧，我觉得
 		'''
 }
 
 ChiseledSandstone: {
 	Tooltip: ""
-	DisplayName: Chiseled Sandstone
+	DisplayName: 凿刻砂岩
 }
 
 VeiizalsUmbrella: {
@@ -4980,41 +4980,40 @@ VeiizalsUmbrella: {
 }
 
 AnotherRock: {
-	DisplayName: Another Rock
-	Tooltip: Use it to descend to the Old Guardian's Shrine, deep underground
+	DisplayName: 另一块石头
+	Tooltip: 使用它去地下深处的旧守护者神殿（就是第一个boss星域幻花的场地）
 }
 
 AlcaricQuiver: {
-	DisplayName: Alcaric Quiver
+	DisplayName: Alcaric箭袋
 	Tooltip:
 		'''
-		Converts wooden arrows into void arrows
-		Void arrows travel faster, deal more damage, and explode!
+		将木箭转化为虚空箭
+		虚空箭飞行速度更快，伤害更大，并且爆炸!
 		'''
 }
 
 BlackRose: {
-	DisplayName: Black Rose
-	Tooltip: Using a mana potion hurts you a little instead of sickening you
+	DisplayName: 黑玫瑰
+	Tooltip: 使用魔力药水会对你造成一点伤害，但不会产生耐魔性
 }
 
 LittleWand: {
-	DisplayName: Little Wand
+	DisplayName: 小魔杖
 	Tooltip:
 		'''
-		Use this to cast powerful magic!
-		Only used by the mightiest of wizards
+		用这个来施展强大的魔法！
+		只有最强大的巫师才能使用
 		'''
 }
 
 WindedQuiver: {
-	DisplayName: Winded Quiver
-	Tooltip: Turns wooden arrows into winded shots that pierce enemies!
-}
+	DisplayName: 呼啸箭袋
+	Tooltip: 将木箭转化为可以穿透敌人的呼啸箭！
 
 AimacraWig: {
-	DisplayName: Aimacra's Wig
-	Tooltip: Great for impersonating Aimacra from Diari! Also gives 50 health!
+	DisplayName: Aimacra的假发
+	Tooltip: 非常适合模仿Diari的Aimacra!还提供50点生命值!
 }
 
 WindmillionBoots: {

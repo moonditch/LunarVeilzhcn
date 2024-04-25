@@ -14,7 +14,7 @@ StarbloomBiome: {
 }
 
 SeaTemple: {
-	TownNPCDialogueName: the Sea Temple
+	TownNPCDialogueName: 海洋神庙
 	DisplayName: 海洋神庙
 }
 
@@ -44,8 +44,8 @@ FableBiome: {
 }
 
 EngineerShop: {
-	TownNPCDialogueName: The Engineer Shop
-	DisplayName: Engineer Shop
+	TownNPCDialogueName: 工程师店铺
+	DisplayName: 工程师店铺
 }
 
 DrakonicManor: {
@@ -54,8 +54,8 @@ DrakonicManor: {
 }
 
 CindersparkBiome: {
-	TownNPCDialogueName: the Cinderspark Biome
-	DisplayName: Cinderspark Biome
+	TownNPCDialogueName: 灰烬公园
+	DisplayName: 灰烬公园
 }
 
 CathedralBiome: {
@@ -99,6 +99,6 @@ AbyssBiome: {
 }
 
 Laboratory: {
-	DisplayName: Laboratory
-	TownNPCDialogueName: the Laboratory
+	DisplayName: 实验室
+	TownNPCDialogueName: 实验室
 }
