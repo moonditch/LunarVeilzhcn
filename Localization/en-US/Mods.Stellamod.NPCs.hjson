@@ -99,6 +99,7 @@ SunStalkerPreSpawn.DisplayName: Sun Stalker Pre Spawn
 SunStalkerLighting.DisplayName: Sun Stalker Lighting
 SunStalkerDeath.DisplayName: Sun Stalker Death
 SunStalker.DisplayName: Sun Stalker
+Sun.DisplayName: Sun
 StoneDeath.DisplayName: Stone Death
 Flowerball.DisplayName: Flowerball
 STARBOMBERGUN.DisplayName: STARBOMBER GUN
@@ -228,15 +229,15 @@ Gambit: {
 
 	TownNPCMood: {
 		Content: "{$Mods.Stellamod.TownNPCMood.Gambit.Content}"
-		NoHome: "{$Mods.Stellamod.TownNPCMood.Gambit.NoHome}"
-		FarFromHome: "{$Mods.Stellamod.TownNPCMood.Gambit.FarFromHome}"
-		LoveSpace: "{$Mods.Stellamod.TownNPCMood.Gambit.LoveSpace}"
-		DislikeCrowded: "{$Mods.Stellamod.TownNPCMood.Gambit.DislikeCrowded}"
-		HateCrowded: "{$Mods.Stellamod.TownNPCMood.Gambit.HateCrowded}"
-		LoveBiome: "{$Mods.Stellamod.TownNPCMood.Gambit.LoveBiome}"
-		LikeBiome: "{$Mods.Stellamod.TownNPCMood.Gambit.LikeBiome}"
-		DislikeBiome: "{$Mods.Stellamod.TownNPCMood.Gambit.DislikeBiome}"
-		LoveNPC: "{$Mods.Stellamod.TownNPCMood.Gambit.LoveNPC}"
+		NoHome: I really dont have a house
+		FarFromHome: Spiderman far from home
+		LoveSpace: I really like this space
+		DislikeCrowded: I dont like being crowded, get me out babe
+		HateCrowded: PLEASE LET ME HAVE A SPACE WITH YOU
+		LoveBiome: THIS IS AMAZEBALLS
+		LikeBiome: This is cool
+		DislikeBiome: I dont like this biome
+		LoveNPC: I loveeee you
 		LikeNPC: "{$Mods.Stellamod.TownNPCMood.Gambit.LikeNPC}"
 		DislikeNPC: "{$Mods.Stellamod.TownNPCMood.Gambit.DislikeNPC}"
 		HateNPC: "{$Mods.Stellamod.TownNPCMood.Gambit.HateNPC}"
@@ -315,3 +316,74 @@ AlcaricVoidBig.DisplayName: Alcaric Void Big
 ZuiLASERWARN.DisplayName: Zui L A S E R W A R N
 GoldBeamWarn.DisplayName: Gold Beam Warn
 ZuiDeath.DisplayName: Zui Death
+LuminullSpiritCrystal.DisplayName: Luminull Spirit Crystal
+IceRune.DisplayName: Ice Rune
+VerliaSpawn.DisplayName: Verlia Spawn
+Bossdeath1.DisplayName: Bossdeath1
+DeathVerlia.DisplayName: Death Verlia
+VerliaDP.DisplayName: Verlia D P
+Niivi.DisplayName: Niivi
+IllurianMage.DisplayName: Illurian Mage
+IllurianGuard.DisplayName: Illurian Guard
+SyliaDeath.DisplayName: Sylia Death
+Veldris.DisplayName: Veldris
+SupernovaZapwarn.DisplayName: Supernova Zapwarn
+SupernovaOrb.DisplayName: Supernova Orb
+SupernovaFragment.DisplayName: Supernova Fragment
+Sirestias.DisplayName: Sirestias
+JellyGlow.DisplayName: Jelly Glow
+BabyJellyGlow.DisplayName: Baby Jelly Glow
+DreadMonolith.DisplayName: Dread Monolith
+HavocHead.DisplayName: Havoc Head
+HavocSegmentBack.DisplayName: Havoc Segment Back
+HavocSegmentFront.DisplayName: Havoc Segment Front
+HavocSegmentMiddle.DisplayName: Havoc Segment Middle
+HavocTail.DisplayName: Havoc Tail
+IrradiaIdle.DisplayName: Irradia Idle
+Havoc.DisplayName: Havoc
+Ishtar.DisplayName: Ishtar
+PULSARHOLE.DisplayName: P U L S A R H O L E
+BabySwarmer.DisplayName: Baby Swarmer
+BabySwarmerSummon.DisplayName: Baby Swarmer Summon
+HavocSignal.DisplayName: Havoc Signal
+IrradiaElectricBoxNode.DisplayName: Irradia Electric Box Node
+IrradiaSpikeBox.DisplayName: Irradia Spike Box
+Irradia.DisplayName: Irradia
+DreadMireR.DisplayName: Dread Mire R
+DreadMirePentagramV2.DisplayName: Dread Mire Pentagram V2
+StartIrradia.DisplayName: Start Irradia
+GraveShard.DisplayName: Grave Shard
+IncresianDisc.DisplayName: Incresian Disc
+Mardenth.DisplayName: Mardenth
+Ordin.DisplayName: Ordin
+DustNadoSpawner.DisplayName: Dust Nado Spawn
+Stalker.DisplayName: Stalker
+StalkerSpawner.DisplayName: Stalker Spawning
+RekSnake.DisplayName: Rek, The Burning Serpent
+RekFireCrystal.DisplayName: Rek Fire Crystal
+RekFireEye.DisplayName: Flamed Eye
+Sun2.DisplayName: Sun2
+GothiviaIyx.DisplayName: Gothivia Iyx, The Green Sun
+Carmody.DisplayName: Carmody
+CarmodyGreen.DisplayName: Carmody Green
+SupernovaZapwarnFinal.DisplayName: Supernova Zapwarn Final
+GothiviaIdle.DisplayName: Gothivia Idle
+StartGoth.DisplayName: Start Goth
+RekSnakeIdle.DisplayName: Rek Snake Idle
+CentipedeTail.DisplayName: Centipede Tail
+CentipedeHead.DisplayName: Centipede Head
+CentipedeBody.DisplayName: Centipede Body
+IrravheilSlime.DisplayName: Irravheil Slime
+IrravheilLandwormTail.DisplayName: Irravheil Landworm Tail
+IrravheilLandwormHead.DisplayName: Irravheil Landworm
+IrravheilLandwormBody.DisplayName: Irravheil Landworm Body
+IrravheilSprayer.DisplayName: Irravheil Sprayer
+Tulacrowe.DisplayName: Tulacrowe
+NiiviCrystalStars.DisplayName: Niivi Crystal Stars
+NiiviCrystalLightning.DisplayName: Niivi Crystal Lightning
+NiiviCrystalFrost.DisplayName: Niivi Crystal Frost
+NiiviRoaming.DisplayName: Niivi Roaming
+GothiviaDeath.DisplayName: Gothivia Death
+EreshkigalIdle.DisplayName: Ereshkigal Idle
+GraveSeeker.DisplayName: Grave Seeker
+Azurerin.DisplayName: Azurerin

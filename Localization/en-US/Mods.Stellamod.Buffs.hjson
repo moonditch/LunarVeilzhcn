@@ -3,7 +3,7 @@ VoidMinionBuff: {
 	DisplayName: Void Minion Buff
 }
 
-TheBurningRodBuff: {
+TheBurningRodMinionBuff: {
 	Description: It burns with passion
 	DisplayName: The Burning Rod Buff
 }
@@ -13,17 +13,17 @@ SwarmerMinionBuff: {
 	DisplayName: Swarmer Minion Buff
 }
 
-SolMothBuff: {
+SolMothMinionBuff: {
 	Description: Ooo a moth!~
 	DisplayName: Sol Moth Buff
 }
 
-ProbeBuff: {
-	Description: Getting probed might be actually really hot.
-	DisplayName: Probe Buff
+ProbeMinionBuff: {
+	DisplayName: Probe Minion Buff
+	Description: Pew pew pew pew~
 }
 
-MushroomStaveBuff: {
+MushroomStaveMinionBuff: {
 	Description: Im not on shrooms I promise officer!
 	DisplayName: Mushroom Stave Buff
 }
@@ -43,12 +43,12 @@ JellyMinionBuff: {
 	DisplayName: Jelly Minion Buff
 }
 
-IvyakenBuff: {
+IvyakenMinionBuff: {
 	Description: Really powerful bow!
 	DisplayName: Ivyaken Buff
 }
 
-IrradiatedCreeperBuff: {
+IrradiatedCreeperMinionBuff: {
 	Description: Its a creeper what did you think?
 	DisplayName: Irradiated Creeper Buff
 }
@@ -63,12 +63,12 @@ HMMinionBuff: {
 	DisplayName: H M Minion Buff
 }
 
-FCBuff: {
+FCMinionBuff: {
 	Description: Getting powerful now aren't we?
 	DisplayName: F C Buff
 }
 
-DripperBuff: {
+DripplerMinionBuff: {
 	Description: Drippin out.
 	DisplayName: Dripper Buff
 }
@@ -89,13 +89,13 @@ Wounded: {
 }
 
 Whipdeath: {
-	Description: Mods.Stellamod.Buffs.Whipdeath.Description
-	DisplayName: Whipdeath
+	Description: Getting whipped
+	DisplayName: Whip me master :<
 }
 
 MorrowWhipDebuff: {
-	Description: Mods.Stellamod.Buffs.MorrowWhipDebuff.Description
-	DisplayName: Morrow Whip Debuff
+	Description: Morrowed whip
+	DisplayName: Debuffs you while whipping.
 }
 
 Morrow: {
@@ -104,17 +104,17 @@ Morrow: {
 }
 
 SnowFlame: {
-	Description: Mods.Stellamod.Buffs.SnowFlame.Description
+	Description: Snowing Flames
 	DisplayName: Snow Flame
 }
 
 Rekin: {
-	Description: Mods.Stellamod.Buffs.Rekin.Description
+	Description: Reka
 	DisplayName: Rekin
 }
 
 PocketSandBuff: {
-	Description: Mods.Stellamod.Buffs.PocketSandBuff.Description
+	Description: Sneaky sand
 	DisplayName: Pocket Sand Buff
 }
 
@@ -129,7 +129,7 @@ Irradiation: {
 }
 
 Harvester: {
-	Description: Mods.Stellamod.Buffs.Harvester.Description
+	Description: Harvest spots
 	DisplayName: Harvester
 }
 
@@ -264,7 +264,7 @@ DeathMultiplier: {
 }
 
 DarkHold: {
-	Description: Something has a grasp on your eyes.
+	Description: Something has a grasp on your eyes. Hurts at nighttime...
 	DisplayName: Dark Hold
 }
 
@@ -373,118 +373,118 @@ AbyssalFlame: {
 	DisplayName: Abyssal Flame
 }
 
-VehementBuff: {
+VehementMinionBuff: {
 	Description: Mods.Stellamod.Buffs.VehementBuff.Description
 	DisplayName: Vehement Buff
 }
 
 VampireTorchMinionBuff: {
-	Description: Mods.Stellamod.Buffs.VampireTorchMinionBuff.Description
+	Description: Getting surrounded by such a cool effect right?
 	DisplayName: Vampire Torch Minion Buff
 }
 
 ToxicHornetMinionBuff: {
-	Description: Mods.Stellamod.Buffs.ToxicHornetMinionBuff.Description
+	Description: This minion is eager to miss.
 	DisplayName: Toxic Hornet Minion Buff
 }
 
 HallowWandMinionBuff: {
-	Description: Mods.Stellamod.Buffs.HallowWandMinionBuff.Description
+	Description: A lil potion that does nothing
 	DisplayName: Hallow Wand Minion Buff
 }
 
 FireflyMinionBuff: {
-	Description: Mods.Stellamod.Buffs.FireflyMinionBuff.Description
+	Description: ITS ON FIRE
 	DisplayName: Firefly Minion Buff
 }
 
 CloudMinionBuff: {
-	Description: Mods.Stellamod.Buffs.CloudMinionBuff.Description
+	Description: No more cloud
 	DisplayName: Cloud Minion Buff
 }
 
 ChromaCutterMinionBuff: {
-	Description: Mods.Stellamod.Buffs.ChromaCutterMinionBuff.Description
+	Description: Slice and dice into terralora!
 	DisplayName: Chroma Cutter Minion Buff
 }
 
 AlcadWandMinionBuff: {
-	Description: Mods.Stellamod.Buffs.AlcadWandMinionBuff.Description
+	Description: Sprinkle a bit of Fenix's bath water.
 	DisplayName: Alcad Wand Minion Buff
 }
 
 CameraMinBuff: {
-	Description: Mods.Stellamod.Buffs.CameraMinBuff.Description
+	Description: Lookin snazzy!
 	DisplayName: Camera Min Buff
 }
 
 LaceratorDebuff: {
-	Description: Mods.Stellamod.Buffs.LaceratorDebuff.Description
+	Description: Laced up
 	DisplayName: Lacerator Debuff
 }
 
 DarkWhipDebuff: {
-	Description: Mods.Stellamod.Buffs.DarkWhipDebuff.Description
+	Description: Darkwhipped. Truly the sentence of all time
 	DisplayName: Dark Whip Debuff
 }
 
 VialedUp: {
-	Description: Mods.Stellamod.Buffs.VialedUp.Description
+	Description: I'm all juiced up on this poisonous punch
 	DisplayName: Vialed Up
 }
 
 Starbombin: {
-	Description: Mods.Stellamod.Buffs.Starbombin.Description
+	Description: Are you really the star?
 	DisplayName: Starbombin
 }
 
 ShadowBoost: {
-	Description: Mods.Stellamod.Buffs.ShadowBoost.Description
+	Description: Boosting through the shadows of the night
 	DisplayName: Shadow Boost
 }
 
 Sected: {
-	Description: Mods.Stellamod.Buffs.Sected.Description
+	Description: I mean sexted
 	DisplayName: Sected
 }
 
 MiracleBoost: {
-	Description: Mods.Stellamod.Buffs.MiracleBoost.Description
+	Description: Boooooooo
 	DisplayName: Miracle Boost
 }
 
 MasteryMagic: {
-	Description: Mods.Stellamod.Buffs.MasteryMagic.Description
+	Description: Master of all things magic this lil guy is gonna follow you!
 	DisplayName: Mastery Magic
 }
 
 Liberator: {
-	Description: Mods.Stellamod.Buffs.Liberator.Description
+	Description: Pulsing beams!
 	DisplayName: Liberator
 }
 
 Lacerated: {
-	Description: Mods.Stellamod.Buffs.Lacerated.Description
+	Description: lacing
 	DisplayName: Lacerated
 }
 
 Genesis: {
-	Description: Mods.Stellamod.Buffs.Genesis.Description
+	Description: Small bomb mode
 	DisplayName: Genesis
 }
 
 Friendzied: {
-	Description: Mods.Stellamod.Buffs.Friendzied.Description
+	Description: Im SOOOO happy
 	DisplayName: Friendzied
 }
 
 Executor: {
-	Description: Mods.Stellamod.Buffs.Executor.Description
+	Description: LASER their balls
 	DisplayName: Executor
 }
 
 UseIgniter: {
-	Description: Mods.Stellamod.Buffs.UseIgniter.Description
+	Description: Hold and Use your igniter right now!
 	DisplayName: Use Igniter
 }
 
@@ -509,47 +509,47 @@ AgreviDust: {
 }
 
 SandyB: {
-	Description: Mods.Stellamod.Buffs.SandyB.Description
-	DisplayName: Sandy B
+	Description: Not sandy cheecks
+	DisplayName: Sandy Brooch
 }
 
 RoseB: {
-	Description: Mods.Stellamod.Buffs.RoseB.Description
-	DisplayName: Rose B
+	Description: A little rose shield floats around
+	DisplayName: Rose Brooch
 }
 
 MagicalBroo: {
-	Description: Mods.Stellamod.Buffs.MagicalBroo.Description
-	DisplayName: Magical Broo
+	Description: Its not magical you lied
+	DisplayName: Magical Brooch
 }
 
 LuckyB: {
-	Description: Mods.Stellamod.Buffs.LuckyB.Description
-	DisplayName: Lucky B
+	Description: A lucky bitch
+	DisplayName: Lucky Brooch
 }
 
 JellyB: {
-	Description: Mods.Stellamod.Buffs.JellyB.Description
-	DisplayName: Jelly B
+	Description: You can jelly me up ;)
+	DisplayName: Jelly Brooch
 }
 
 BonedB: {
-	Description: Mods.Stellamod.Buffs.BonedB.Description
-	DisplayName: Boned B
+	Description: You're so boned
+	DisplayName: Boned up
 }
 
 Chained: {
-	Description: Mods.Stellamod.Buffs.Chained.Description
+	Description: Got me chained up like a slave
 	DisplayName: Chained
 }
 
 CannotUseFlask: {
-	Description: Mods.Stellamod.Buffs.CannotUseFlask.Description
+	Description: You can't use your flask right now
 	DisplayName: Cannot Use Flask
 }
 
 Alcadded: {
-	Description: Mods.Stellamod.Buffs.Alcadded.Description
+	Description: Alcad
 	DisplayName: Alcadded
 }
 
@@ -561,4 +561,219 @@ BucketScrapperMinionBuff: {
 Zuid: {
 	Description: Mods.Stellamod.Buffs.Zuid.Description
 	DisplayName: Zuid
+}
+
+VillagersB: {
+	Description: Mods.Stellamod.Buffs.VillagersB.Description
+	DisplayName: Villagers B
+}
+
+AmberB: {
+	Description: Mods.Stellamod.Buffs.AmberB.Description
+	DisplayName: Amber B
+}
+
+SFBuff: {
+	Description: Mods.Stellamod.Buffs.SFBuff.Description
+	DisplayName: S F Buff
+}
+
+AuroreanStarballDebuff: {
+	DisplayName: Aurorean Starball Debuff
+	Description: Mods.Stellamod.Buffs.AuroreanStarballDebuff.Description
+}
+
+ReflectionSeekerBuff: {
+	DisplayName: Reflection Seeker Buff
+	Description: Mods.Stellamod.Buffs.ReflectionSeekerBuff.Description
+}
+
+TwinStarbombasDebuff: {
+	Description: Mods.Stellamod.Buffs.TwinStarbombasDebuff.Description
+	DisplayName: Twin Starbombas Debuff
+}
+
+SupernovaChained: {
+	DisplayName: Supernova Chained
+	Description: Mods.Stellamod.Buffs.SupernovaChained.Description
+}
+
+ThePollinatorDebuff: {
+	Description: Mods.Stellamod.Buffs.ThePollinatorDebuff.Description
+	DisplayName: The Pollinator Debuff
+}
+
+BlackballDebuff: {
+	Description: Mods.Stellamod.Buffs.BlackballDebuff.Description
+	DisplayName: Blackball Debuff
+}
+
+MiracleLiquid: {
+	DisplayName: Miracle Liquid
+	Description: You feel goofy... 2.2x damage!!!!
+}
+
+SplashAttackDebuff: {
+	DisplayName: Splash Attack Debuff
+	Description: Splashy
+}
+
+SineSireDebuff: {
+	Description: Sired
+	DisplayName: Sine Sire Debuff
+}
+
+IllurianB: {
+	Description: Get illured
+	DisplayName: Illurian B
+}
+
+FlowerPower: {
+	Description: Mods.Stellamod.Buffs.FlowerPower.Description
+	DisplayName: Flower Power
+}
+
+SigfriedsInsanity: {
+	Description: Sigfried burns you with high insanity that you yourself can't understand. Come back after Zui.
+	DisplayName: Sigfrieds Insanity
+}
+
+ShadeWrath: {
+	DisplayName: Shade Wrath
+	Description: You are filled with the power of the shadows!
+}
+
+ShadeWrathCooldown: {
+	DisplayName: Shade Wrath Cooldown
+	Description: Recharging your shade power...
+}
+
+BabySwarmerMinionBuff: {
+	DisplayName: Swarming
+	Description: They're everywhere!
+}
+
+FlamesOfIlluria: {
+	Description: Burn
+	DisplayName: Flames Of Illuria
+}
+
+ISHNYIREShow: {
+	DisplayName: I S H N Y I R E Show
+	Description: Mode for the Sirestias weapon
+}
+
+IshShow: {
+	DisplayName: Ish Show
+	Description: Mode for the Sirestias weapon
+}
+
+VireShow: {
+	DisplayName: Vire Show
+	Description: Mode for the Sirestias weapon
+}
+
+YireShow: {
+	DisplayName: Yire Show
+	Description: Mode for the Sirestias weapon
+}
+
+ColdheartAnklebiterDebuff: {
+	DisplayName: Coldheart Anklebiter Debuff
+	Description: Gettin bitten
+}
+
+IlluBuff: {
+	DisplayName: Illu Buff
+	Description: Illusive
+}
+
+IshyBuff: {
+	DisplayName: Ishy Buff
+	Description: Mods.Stellamod.Buffs.IshyBuff.Description
+}
+
+MushyBuff: {
+	DisplayName: Mushy Buff
+	Description: Mods.Stellamod.Buffs.MushyBuff.Description
+}
+
+RibbonWrapped: {
+	DisplayName: Ribbon Wrapped
+	Description: Mods.Stellamod.Buffs.RibbonWrapped.Description
+}
+
+StarSuper: {
+	Description: Youre my superstar
+	DisplayName: Star Super
+}
+
+VixylDodgeBuff: {
+	DisplayName: Sonata of the Moon
+	Description: Check out my Verlia cosplay!
+}
+
+JacksonPollockMinionBuff: {
+	DisplayName: The Jackson Pollock
+	Description: Such a great way to make art :)
+}
+
+PotOfGreedMinionBuff: {
+	DisplayName: Greedy
+	Description: I activate POT OF GREED!
+}
+
+ReflectionSeekerMinionBuff: {
+	DisplayName: Reflection Seeker Minion Buff
+	Description: Why are you staring at yourself?
+}
+
+XScissorMinionBuff: {
+	DisplayName: X Rift
+	Description: Opening a rift through space!
+}
+
+SerpentMinionBuff: {
+	DisplayName: Snake Serpent Raven Thing
+	Description: He's long, and he breathes fire!
+}
+
+IlluriasBlessing: {
+	DisplayName: Illuria's Blessing
+	Description: Outer space cannot hinder you!
+}
+
+PegasusMinionBuff: {
+	DisplayName: The Crystal Trio
+	Description: Niivi's elemental crystals protect you!
+}
+
+WoodyB: {
+	DisplayName: Woody
+	Description: You're stronger while grounded!
+}
+
+CentipedeMinionBuff: {
+	DisplayName: Don't Skip Leg Day
+	Description: It has so many legs!
+}
+
+MoonFlame: {
+	DisplayName: Moon Flame
+	Description: Mods.Stellamod.Buffs.MoonFlame.Description
+}
+
+IridineNecklaceCDBuff: {
+	DisplayName: Iridine Necklace Cooldown
+	Description: You cannot revive!
+}
+
+MarksMan: {
+	DisplayName: Marks Man
+	Description: Behold, the power of TWO guns!
+}
+
+OrbMaster: {
+	DisplayName: Orb Master
+	Description: You are controlling a magical orb!
 }
