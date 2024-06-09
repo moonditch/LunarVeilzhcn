@@ -7,6 +7,8 @@ MossyZombie.DisplayName: 苔藓僵尸
 RubyBeetle.DisplayName: 红玉甲虫
 TribalPeasant.DisplayName: 部落战士
 TribalWorshipper.DisplayName: Tribal Worshipper
+TribalPriest.DisplayName: Tribal Priest
+TribalPeasant.DisplayName: Tribal Peasant
 TribalGuard.DisplayName: Tribal Guard
 TribalPriest.DisplayName: 部落祭司
 IvythornSlime.DisplayName: 常春藤史莱姆
@@ -31,16 +33,15 @@ OverworldRune.DisplayName: Overworld Rune
 OceanRuneLightBig.DisplayName: Ocean Rune Light Big
 OceanRune.DisplayName: Ocean Rune
 JungleRune.DisplayName: Jungle Rune
-HarvestUM.DisplayName: ！
-HarvestOverworld.DisplayName: ！
-HarvestGovheil.DisplayName: ！
+HarvestUM.DisplayName: Harvest U M
+HarvestOverworld.DisplayName: Harvest Overworld
+HarvestGovheil.DisplayName: Harvest Govheil
 GreenLightBig.DisplayName: Green Light Big
 GoldLightBig.DisplayName: Gold Light Big
 DesertRuneLightBig.DisplayName: Desert Rune Light Big
 DesertRune.DisplayName: Desert Rune
 BlueLightBig.DisplayName: Blue Light Big
-HarvestIce.DisplayName: ！
-TopazBeetle.DisplayName: 黄玉甲虫
+HarvestIce.DisplayName: Harvest Ice
 GovheilProtector.DisplayName: 戈茜维娅的守卫
 GovheilGuardian.DisplayName: Govheil Guardian
 GintziaHand.DisplayName: 重钢之手
@@ -92,20 +93,13 @@ UnderworldRift.DisplayName: Underworld Rift
 VoidWormTail.DisplayName: Void Worm Tail
 VoidWormHead.DisplayName: Void Worm Head
 VoidWormBody.DisplayName: Void Worm Body
-SunStalker: {
-	DisplayName: 逐日者
-
-	BossChecklistIntegration: {
-		EntryName: 逐日者
-		SpawnInfo: 在白天沙漠对太阳泉使用[i:Stellamod/SunClaw]。
-	}
-}
-
+SunStalkerRayLightBig.DisplayName: Sun Stalker Ray Light Big
+SunStalkerRayLight.DisplayName: Sun Stalker Ray Light
+SunStalkerPreSpawn.DisplayName: Sun Stalker Pre Spawn
+SunStalkerLighting.DisplayName: Sun Stalker Lighting
 SunStalkerDeath.DisplayName: 死亡的逐日者
-SunStalkerLighting.DisplayName: 逐日者闪电
-SunStalkerPreSpawn.DisplayName: 生成前的逐日者
-SunStalkerRayLight.DisplayName: 逐日者激光
-SunStalkerRayLightBig.DisplayName: 大型逐日者激光
+SunStalker.DisplayName: Sun Stalker
+Sun.DisplayName: 太阳
 StoneDeath.DisplayName: Stone Death
 Flowerball.DisplayName: 花团
 STARBOMBERGUN.DisplayName: STARBOMBER GUN
@@ -114,45 +108,27 @@ STARLING.DisplayName: STARLING
 STARBOMBERLASERWARNBIG.DisplayName: STARBOMBER BIG LASER WARNING
 STARBOMBERLASERWARN.DisplayName: STARBOMBER LASER WARN
 STARBOMBER.DisplayName: STARBOMBER
-JackDeath.DisplayName: 死亡的杰克
-Jackoslime.DisplayName: 杰克史莱姆
-LazerOrb.DisplayName: 激光球
-SingularityLazer.DisplayName: 星极激光
-SingularitySpark.DisplayName: 星极火花
-SingularitySparkBig.DisplayName: 星极大火花
-
-SingularityFragment: {
-	DisplayName: 星极残芒
-	BossChecklistIntegration: {
-		EntryName: 星极残芒
-		SpawnInfo: 在星咏殿堂的深处，殿堂中心的祭坛上使用[i:Stellamod/VoidKey]。
-	}
-}
-
+Voidling.DisplayName: Voidling
 SingularityOrb.DisplayName: 奇点
-Voidling.DisplayName: 星宇
-Jack: {
-	DisplayName: 杰克
-	BossChecklistIntegration.SpawnInfo: 在夜晚对预言城堡右侧的一个稻草人使用[i:Stellamod/WanderingEssence]。
-}
-IRNDeathBomb.DisplayName: IRN死亡炸弹
-IrradiatedCreeper.DisplayName: 辐辉飞眼怪
-IrradiatedNest.DisplayName: 辐辉巢穴
+SingularitySparkBig.DisplayName: 星极大火花
+SingularitySpark.DisplayName: 星极火花
+SingularityLazer2.DisplayName: 星极激光
+SingularityLazer.DisplayName: 星极激光
+LazerOrb.DisplayName: 激光球
+Jackoslime.DisplayName: 杰克史莱姆
+JackDeath.DisplayName: 死亡的杰克
+Jack.DisplayName: 杰克
 IrradiatedNestDeath.DisplayName: 辐辉巢穴死亡
-Irradieagle.DisplayName: 辐辉之鹰
+IrradiatedNest.DisplayName: 辐辉巢穴
+IrradiatedCreeper.DisplayName: 辐辉飞眼怪
+IRNDeathBomb.DisplayName: IRN死亡炸弹
 IrradieagleSurvent.DisplayName: 辐辉之鹰仆从
+Irradieagle.DisplayName: 辐辉之鹰
 Train2.DisplayName: Train2
 Train1.DisplayName: Train1
 Rek.DisplayName: Havoc
 Gothiviabb.DisplayName: 戈茜维娅？
-Gothiviab: {
-	DisplayName: 戈茜维娅
-
-	BossChecklistIntegration: {
-		EntryName: 日曜女神—戈茜维娅
-		SpawnInfo: 在熔金宫殿的中央将她叫醒。
-	}
-}
+Gothiviab.DisplayName: 戈茜维娅
 FenixWarn.DisplayName: Fenix Warn
 FenixSnipe.DisplayName: Fenix Snipe
 FenixSlash.DisplayName: Fenix Slash
@@ -162,48 +138,35 @@ AlcSpark.DisplayName: Alc Spark
 DrownOut.DisplayName: Drown Out
 ALCADSWIRL.DisplayName: A L C A D S W I R L
 ALCADHOLE.DisplayName: ALCADHOLE
-DreadMirePentagram.DisplayName: 恐惑迷潭五角
-DreadMirePentagramMid.DisplayName: 恐惑迷潭五角中型
-DreadMirePentagramSmall.DisplayName: 恐惑迷潭五角小型
-DreadMireZapwarn.DisplayName: 恐惑迷潭警告
-DreadMireZapwarnBig.DisplayName: 恐惑迷潭大警告
-DreadSurvent.DisplayName: 恐惑仆从
 DreadMiresHeart.DisplayName: 恐惑之心
-DreadMire: {
-	DisplayName: 恐惑魔魇
-	BossChecklistIntegration: {
-		EntryName: 恐惑魔魇
-		SpawnInfo: 在血月杀死一个血惑水晶！
-	}
-}
-BloodCystDead.DisplayName: 血惑水晶（死亡）
-DreadFireBomb.DisplayName: 恐惑火焰弹
+DreadSurvent.DisplayName: 恐惑仆从
+DreadMireZapwarnBig.DisplayName: Dread Mire Zapwarn Big
+DreadMireZapwarn.DisplayName: Dread Mire Zapwarn
+DreadMirePentagramSmall.DisplayName: 恐惑迷潭五角
+DreadMirePentagramMid.DisplayName: 恐惑迷潭五角
+DreadMirePentagram.DisplayName: 恐惑迷潭五角
+DreadMire.DisplayName: Dread Mire
 DreadFireCircle.DisplayName: 恐惑火圈
+DreadFireBomb.DisplayName: 恐惑火焰弹
+BloodCystDead.DisplayName: 血惑水晶（死亡）
 BloodCyst.DisplayName: Blood Cyst
 SolarSingularity.DisplayName: Solar Singularity
 SolarPortal.DisplayName: Solar Portal
 DRay.DisplayName: D Ray
 LanternOfHope.DisplayName: 希望之灯
-Daedus: {
-	DisplayName: 被遗忘的傀儡-达厄图斯
-
-	BossChecklistIntegration: {
-		EntryName: 被遗忘的傀儡-达厄图斯
-		SpawnInfo: 在预言城堡的最顶端，躺着一个已经被遗忘的戈茜维娅军队的守护者。
-	}
-}
+Daedus.DisplayName: 被遗忘的傀儡-达厄图斯
 CaevaSnipe.DisplayName: Caeva Snipe
 CaevaDeathRowR.DisplayName: Caeva Death Row R
 CaevaDeathRow.DisplayName: Caeva Death Row
 Caeva.DisplayName: Caeva
 ToxicHornet.DisplayName: Toxic Hornet
 ToxicBoulder.DisplayName: 剧毒巨石
-AbyssalSeeker.DisplayName: 深渊探索者
-AbyssalSkull.DisplayName: 深渊颅骨
-AbyssalSlime.DisplayName: 深渊史莱姆
-AcidProbe.DisplayName: 酸蚀探针
-AcidSlime.DisplayName: 酸蚀史莱姆
 AcidSpirit.DisplayName: 酸蚀之灵
+AcidSlime.DisplayName: 酸蚀史莱姆
+AcidProbe.DisplayName: 酸蚀探针
+AbyssalSlime.DisplayName: 深渊史莱姆
+AbyssalSkull.DisplayName: 深渊颅骨
+AbyssalSeeker.DisplayName: 深渊探索者
 AbysmLunatic.DisplayName: Abysm Lunatic
 TericGramNPC2.DisplayName: Teric Gram
 TericGramNPC.DisplayName: Teric Gram
@@ -214,19 +177,9 @@ Cogwork.DisplayName: Cogwork
 BlazingSerpentHead.DisplayName: Blazing Serpent
 StarrVeriplant.DisplayName: 星域幻花
 Sylia.DisplayName: Sylia
-VerliaB: {
-	DisplayName: 星月女神—维尔莉娅
-
-	BossChecklistIntegration: {
-		EntryName: 星月女神—维尔莉娅
-		SpawnInfo: 在右侧海洋的月光之巅顶端使用[i:Stellamod/MoonflameLantern]！
-	}
-}
+VerliaB.DisplayName: 星月女神—维尔莉娅
 SingularityFragment.DisplayName: Singularity Fragment
-CommanderGintzia: {
-	DisplayName: 重钢指挥官
-	BossChecklistIntegration.SpawnInfo: 如果你有3个以上的城镇NPC，那么每天都有概率出现一支军队来袭击你！
-}
+CommanderGintzia.DisplayName: 重钢指挥官
 DaedusR.DisplayName: Daedus The Forgotten
 
 Aimacra: {
@@ -276,15 +229,15 @@ Gambit: {
 
 	TownNPCMood: {
 		Content: "{$Mods.Stellamod.TownNPCMood.Gambit.Content}"
-		NoHome: "{$Mods.Stellamod.TownNPCMood.Gambit.NoHome}"
-		FarFromHome: "{$Mods.Stellamod.TownNPCMood.Gambit.FarFromHome}"
-		LoveSpace: "{$Mods.Stellamod.TownNPCMood.Gambit.LoveSpace}"
-		DislikeCrowded: "{$Mods.Stellamod.TownNPCMood.Gambit.DislikeCrowded}"
-		HateCrowded: "{$Mods.Stellamod.TownNPCMood.Gambit.HateCrowded}"
-		LoveBiome: "{$Mods.Stellamod.TownNPCMood.Gambit.LoveBiome}"
-		LikeBiome: "{$Mods.Stellamod.TownNPCMood.Gambit.LikeBiome}"
-		DislikeBiome: "{$Mods.Stellamod.TownNPCMood.Gambit.DislikeBiome}"
-		LoveNPC: "{$Mods.Stellamod.TownNPCMood.Gambit.LoveNPC}"
+		NoHome: I really dont have a house
+		FarFromHome: Spiderman far from home
+		LoveSpace: I really like this space
+		DislikeCrowded: I dont like being crowded, get me out babe
+		HateCrowded: PLEASE LET ME HAVE A SPACE WITH YOU
+		LoveBiome: THIS IS AMAZEBALLS
+		LikeBiome: This is cool
+		DislikeBiome: I dont like this biome
+		LoveNPC: I loveeee you
 		LikeNPC: "{$Mods.Stellamod.TownNPCMood.Gambit.LikeNPC}"
 		DislikeNPC: "{$Mods.Stellamod.TownNPCMood.Gambit.DislikeNPC}"
 		HateNPC: "{$Mods.Stellamod.TownNPCMood.Gambit.HateNPC}"
@@ -363,3 +316,74 @@ AlcaricVoidBig.DisplayName: Alcaric Void Big
 ZuiLASERWARN.DisplayName: Zui L A S E R W A R N
 GoldBeamWarn.DisplayName: Gold Beam Warn
 ZuiDeath.DisplayName: Zui Death
+LuminullSpiritCrystal.DisplayName: Luminull Spirit Crystal
+IceRune.DisplayName: Ice Rune
+VerliaSpawn.DisplayName: Verlia Spawn
+Bossdeath1.DisplayName: Bossdeath1
+DeathVerlia.DisplayName: Death Verlia
+VerliaDP.DisplayName: Verlia D P
+Niivi.DisplayName: Niivi
+IllurianMage.DisplayName: Illurian Mage
+IllurianGuard.DisplayName: Illurian Guard
+SyliaDeath.DisplayName: Sylia Death
+Veldris.DisplayName: Veldris
+SupernovaZapwarn.DisplayName: Supernova Zapwarn
+SupernovaOrb.DisplayName: Supernova Orb
+SupernovaFragment.DisplayName: Supernova Fragment
+Sirestias.DisplayName: Sirestias
+JellyGlow.DisplayName: Jelly Glow
+BabyJellyGlow.DisplayName: Baby Jelly Glow
+DreadMonolith.DisplayName: Dread Monolith
+HavocHead.DisplayName: Havoc Head
+HavocSegmentBack.DisplayName: Havoc Segment Back
+HavocSegmentFront.DisplayName: Havoc Segment Front
+HavocSegmentMiddle.DisplayName: Havoc Segment Middle
+HavocTail.DisplayName: Havoc Tail
+IrradiaIdle.DisplayName: Irradia Idle
+Havoc.DisplayName: Havoc
+Ishtar.DisplayName: Ishtar
+PULSARHOLE.DisplayName: P U L S A R H O L E
+BabySwarmer.DisplayName: Baby Swarmer
+BabySwarmerSummon.DisplayName: Baby Swarmer Summon
+HavocSignal.DisplayName: Havoc Signal
+IrradiaElectricBoxNode.DisplayName: Irradia Electric Box Node
+IrradiaSpikeBox.DisplayName: Irradia Spike Box
+Irradia.DisplayName: Irradia
+DreadMireR.DisplayName: Dread Mire R
+DreadMirePentagramV2.DisplayName: Dread Mire Pentagram V2
+StartIrradia.DisplayName: Start Irradia
+GraveShard.DisplayName: Grave Shard
+IncresianDisc.DisplayName: Incresian Disc
+Mardenth.DisplayName: Mardenth
+Ordin.DisplayName: Ordin
+DustNadoSpawner.DisplayName: Dust Nado Spawn
+Stalker.DisplayName: Stalker
+StalkerSpawner.DisplayName: Stalker Spawning
+RekSnake.DisplayName: Rek, The Burning Serpent
+RekFireCrystal.DisplayName: Rek Fire Crystal
+RekFireEye.DisplayName: Flamed Eye
+Sun2.DisplayName: Sun2
+GothiviaIyx.DisplayName: Gothivia Iyx, The Green Sun
+Carmody.DisplayName: Carmody
+CarmodyGreen.DisplayName: Carmody Green
+SupernovaZapwarnFinal.DisplayName: Supernova Zapwarn Final
+GothiviaIdle.DisplayName: Gothivia Idle
+StartGoth.DisplayName: Start Goth
+RekSnakeIdle.DisplayName: Rek Snake Idle
+CentipedeTail.DisplayName: Centipede Tail
+CentipedeHead.DisplayName: Centipede Head
+CentipedeBody.DisplayName: Centipede Body
+IrravheilSlime.DisplayName: Irravheil Slime
+IrravheilLandwormTail.DisplayName: Irravheil Landworm Tail
+IrravheilLandwormHead.DisplayName: Irravheil Landworm
+IrravheilLandwormBody.DisplayName: Irravheil Landworm Body
+IrravheilSprayer.DisplayName: Irravheil Sprayer
+Tulacrowe.DisplayName: Tulacrowe
+NiiviCrystalStars.DisplayName: Niivi Crystal Stars
+NiiviCrystalLightning.DisplayName: Niivi Crystal Lightning
+NiiviCrystalFrost.DisplayName: Niivi Crystal Frost
+NiiviRoaming.DisplayName: Niivi Roaming
+GothiviaDeath.DisplayName: Gothivia Death
+EreshkigalIdle.DisplayName: Ereshkigal Idle
+GraveSeeker.DisplayName: Grave Seeker
+Azurerin.DisplayName: Azurerin

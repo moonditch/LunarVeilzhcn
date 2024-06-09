@@ -4,7 +4,7 @@ Accessories: {
 		Description:
 		'''
 		增加回复速度！
-		+3% 伤害
+		增加3%的伤害
 		行走时在地面上掉落尖刺！
 		'''
 	}
@@ -23,431 +23,431 @@ SaveItem: {
 AdvancedBroochesBackpack: {
 	DisplayName: 高级胸针背包
 	Tooltip:
-	'''
-	增加回复速度！
-	+10% 伤害
-	允许佩戴高级胸针！非常有用 可享受旅行者背包的效果！
-	'''
+		'''
+		增加回复速度！
+		增减4%的伤害
+		允许佩戴高级胸针！非常有用
+		允许使用旅行者背包的效果
+		'''
 }
 
 DiariBroochA: {
 	DisplayName: 日记胸针
 	Tooltip:
-	'''
-	+4防御！
-	让你能够自动挥舞！
-	+40 生命值和魔力值
-	'''
+		'''
+		增加2点防御!
+		火焰行走? 
+		永久吃得饱!
+		生命值和魔力值增加4
+		增加5%的伤害!
+		'''
 }
 
 FlyingFishBroochA: {
 	DisplayName: 飞鱼胸针
 	Tooltip:
-	'''
-	增加速度和
-	+2 防御！
-	拥有飞鱼的速度！
-	'''
-	
+		'''
+		增加速度和2点防御！
+		利用飞鱼的力量???
+		'''
 }
 
 FrileBroochA: {
 	DisplayName: 冰霜胸针
 	Tooltip:
-	'''
-	当击中敌人时，使其覆盖上冰霜！
-	使用冰霜生物的力量: P
-	'''
+		'''
+		攻击敌人时，使其覆盖上冰霜！
+		使用冰霜生物的力量: P
+		'''
 }
 
 MorrowedBroochA: {
 	DisplayName: 暗黑胸针
 	Tooltip:
-	'''
-	增加箭矢的重击伤害
-	+2 防御和增加远程伤害
-	使用深沉黑暗的力量...
-	'''
+		'''
+		增加2点防御
+		增加2%的远程伤害
+		增加25%的箭伤害
+		使用深沉黑暗的力量...
+		'''
 }
 
 SlimeBroochA: {
 	DisplayName: 可爱史莱姆胸针
 	Tooltip:
-	'''
-	跳得更高！
-	弹跳并快速下落 哇～好可爱
-	ヾ(≧▽≦*)o 
-	'''
+		'''
+		跳得更高！
+		弹跳并快速下落 哇～好可爱
+		ヾ(≧▽≦*)o 
+		'''
 }
 
 SpragaldBroochA: {
 	DisplayName: 斯普拉格尔德胸针
 	Tooltip:
-	'''
-	+10防御
-	使用斯普拉格尔德蜘蛛的力量！
-	'''
+		'''
+		效果 = 增加10点防御
+		使用斯普拉格尔德蜘蛛的力量！
+		'''
+}
+
+HikersBackpack: {
+	DisplayName: Hiker's Backpack
+	Tooltip:
+		'''
+		Increased life regeneration!
+		+3% damage 
+		Drops stumps on the ground as you walk!
+		'''
 }
 
 IllusionistBook: {
 	DisplayName: 木质幻术书
 	Tooltip:
-	'''
-	增加恢复速度！
-	+3% 伤害
-	增加5% 暴击几率
-	'''
+		'''
+		增加恢复速度！
+		增加3%的伤害
+		增加5%的暴击几率
+		'''
 }
 
 JellyfishTissue: {
 	DisplayName: 水母组织
 	Tooltip:
-	'''
-	哇，真酷！
-	+40 防御
-	但伤害减少40%
-	'''
+		'''
+		哇，真酷！
+		增加40点防御
+		但伤害减少40%
+		'''
 	
 }
 
 MOTT: {
 	DisplayName: M.O.T.T
 	Tooltip:
-	'''
-	每10秒在地面上掉落高伤害的尖刺球
-	+5% 远程伤害
-	'''
+		'''
+		每10秒在地面上掉落高伤害的尖刺球
+		增加5%的远程伤害
+		'''
 }
 
 PaperPaws: {
 	DisplayName: 纸咕咕
 	Tooltip:
-	'''
-	为什么不给你的召唤物更多的赞誉呢？
-	+1 召唤物
-	'''
-}
-
-Paper: {
-	DisplayName: 纸
-	Tooltip: 你在想什么？这只是一张纸好吗？
+		'''
+		为什么不给你的召唤物更多的赞誉呢？
+		召唤物最大上限加1
+		'''
 }
 
 PlantH: {
 	DisplayName: 植物之遗
 	Tooltip:
-	'''
-	获得植物的力量！
-	+40 生命和
-	+15 防御
-	但你的速度降低了 0v0
-	'''
+		'''
+		获得植物的力量！
+		增加40点生命值和15点防御
+		但你的速度降低了 0v0
+		'''
 }
 
 SapContainer: {
 	DisplayName: 树液容器
 	Tooltip:
-	'''
-	每10秒食用星露并极大增加你的魔法伤害
-	+7% 魔法伤害
-	'''
+		'''
+		每10秒食用星露并极大增加你的魔法伤害
+		增加7%的魔法伤害.......
+		'''
 }
 
 WoodenShield: {
 	DisplayName: 木制盾牌
 	Tooltip:
-	'''
-	超酷对吧？一个木制盾牌？
-	你要用它挡箭吗？ 实际上没有任何格挡功能，呃
-	+1 防御和生命回复速度增加！
-	'''
+		'''
+		超酷对吧？？？一个木制盾牌？
+		你要用它挡箭吗？ 实际上没有任何格挡功能
+		Literally no blocking features smh
+		增加1防御和生命恢复速度！
+		'''
 }
 
 Steali: {
 	DisplayName: 斯提利
 	Tooltip:
-	'''
-	一个短而快的冲刺并提供短暂的无敌状态
-	增加恢复速度 使用时无法攻击
-	灵感来源于《空洞骑士》！
-	'''
+		'''
+		一个短而快的冲刺并提供短暂的无敌状态
+		增加生命恢复速度
+		使用时无法攻击
+		灵感来源于《空洞骑士》！
+		'''
 }
 
 ThornedBook: {
 	DisplayName: 荆棘书
 	Tooltip:
-	'''
-	当敌人攻击你时，你会反弹大量伤害
-	+10% 近战伤害
-	-5 防御
-	'''
+		'''
+		当敌人攻击你时，你会反弹大量伤害
+		增加10%的近战伤害
+		减少5防御
+		'''
 }
 
 CelestiaMoonBreastplate: {
 	DisplayName: 天国之月胸甲
 	Tooltip:
-	'''
-	一位女皇的魔法精华！
-	+60 最大法力
-	+1 召唤栏
-	+20 生命值
-	'''
+		'''
+		一位女皇的魔法精华！
+		最大法力值增加60 和 最大召唤栏增加1
+		增加20点生命值
+		'''
 }
 
 CelestiaMoonHelmet: {
 	DisplayName: 天国之月头盔
 	Tooltip:
-	'''
-	一位女皇的魔法精华！
-	+7% 远程和近战伤害
-	+35 生命值
-	'''
+		'''
+		一位女皇的魔法精华！
+		增加2%远程和近战伤害
+		增加35点生命值
+		'''
 }
 
 CelestiaMoonLegs: {
 	DisplayName: 天国之月护腿
 	Tooltip:
-	'''
-	一位女皇的魔法精华！
-	+5% 移动速度
-	+20 生命值
-	'''
+		'''
+		一位女皇的魔法精华！
+		增加3%的移动速度
+		增加20点生命值
+		'''
 }
 
 CelestiaMoonMask: {
 	DisplayName: 天国之月面具
 	Tooltip:
-	'''
-	一位女皇的魔法精华！
-	+20 最大魔力
-	+1 召唤栏
-	'''
+		'''
+		一位女皇的魔法精华！
+		最大法力值增加20 和  最大召唤栏增加1
+		'''
 }
 
 HuntrianBoots: {
 	DisplayName: 猎人之靴
 	Tooltip:
-	'''
-	由锈蚀之木制成
-	+5% 伤害！
-	+10 生命值
-	+7 暴击几率！
-	'''
+		'''
+		由锈蚀之木制成
+		增加5%的伤害!
+		最大生命值减少10
+		增加7点暴击率!
+		'''
 }
 
 HuntrianChestplate: {
 	DisplayName: 猎人胸甲
 	Tooltip:
-	'''
-	由锈蚀之木制成
-	+5% 伤害！
-	+10 生命值！
-	+10 暴击几率！
-	'''
+		'''
+		由锈蚀之木制成
+		增加5%的伤害！
+		最大生命值增加10！
+		增加10点暴击率！
+		'''
 }
 
 HuntrianHelmet: {
 	DisplayName: 猎人头盔
 	Tooltip:
-	'''
-	由锈蚀之木制成
-	+5% 伤害！
-	+20 生命值
-	'''
+		'''
+		由锈蚀之木制成
+		增加5%的伤害！
+		最大生命值增加20
+		'''
 }
 
 LovestruckBreastplate: {
 	DisplayName: 爱之胸甲
 	Tooltip:
-	'''
-	爱的力量是无限的！
-	+60 生命值
-	+1 召唤栏
-	'''
+		'''
+		爱的力量是无限的！
+		最大生命值增加60 和 最大召唤栏增加1
+		'''
 }
 
 LovestruckLegs: {
 	DisplayName: 爱之护腿
 	Tooltip:
-	'''
-	爱的力量是无限的！
-	+10% 移动速度
-	+60 生命值
-	'''
+		'''
+		性感!
+		增加10%的移动速度
+		最大生命值增加60
+		'''
 }
 
 LovestruckMask: {
 	DisplayName: 爱之面具
 	Tooltip:
-	'''
-	爱的力量是无限的！
-	+7% 增加伤害
-	+40 生命值
-	'''
+		'''
+		爱的力量是无限的！
+		增加7%的伤害
+		最大生命值增加40
+		'''
 }
 
 GintzeMask: {
 	DisplayName: 金采面具
 	Tooltip:
-	'''
-	稀有的铁面具！
-	+2 召唤物！
-	+50 生命值
-	'''
+		'''
+		稀有的铁面具！
+		最大召唤栏增加2！
+		最大生命值增加50
+		'''
 }
 
 StoniaBoots: {
 	DisplayName: 斯托尼亚靴子
 	Tooltip:
-	'''
-	像石头一样硬
-	+2% 伤害！
-	大幅度增加下坠速度！ 哇，是石头！
-	'''
+		'''
+		像石头一样硬
+		增加2%的伤害!
+		大幅度增加下坠速度！
+		哇，是石头！
+		'''
 }
 
 StoniaChestplate: {
 	DisplayName: 斯托尼亚胸甲
 	Tooltip:
-	'''
-	脆弱的......石头？
-	+1% 伤害！
-	+2 穿透
-	+2 暴击几率！
-	'''
+		'''
+		脆弱的......石头？
+		增加1%的伤害！
+		增加2点穿透
+		增加2点暴击率！
+		'''
 }
 
 StoniaHat: {
 	DisplayName: 斯托尼亚帽子
 	Tooltip:
-	'''
-	开心的......石头？？？
-	+3% 伤害
-	+5 穿透
-	+5 暴击几率！
-	'''
+		'''
+		开心的......石头？？？
+		增加3%的伤害
+		增加5点穿透
+		增加5点暴击率！
+		'''
 }
 
 AstolfoBody: {
 	DisplayName: 阿斯托尔福之衣
 	Tooltip:
-	'''
-	喵~
-	好吃！ +20
-	生命值
-	'''
+		'''
+		喵~
+		好吃！
+		最大生命值增加20
+		'''
 	
 }
 
 AstolfoMask: {
 	DisplayName: 阿斯托尔福之发
 	Tooltip:
-	'''
-	
-	很好吃的！: 3
-	+2% 增加伤害
-	+35 生命值
-	增加镐速！
-	'''
-	
+		'''
+		很好吃的: 3
+		增加2%的伤害
+		最大生命值增加35
+		增加镐子的挖掘速度!
+		'''
 }
 
 AstolfoSkirt: {
 	DisplayName: 阿斯托尔福之裙
 	Tooltip:
-	'''
-	闻起来一股水腥味
-	增加5% 移动速度
-	石制的......裙子
-	'''
-	
+		'''
+		闻起来一股水腥味!
+		增加5%的移动速度
+		石制的......裙子
+		'''
 }
 
 VerlBreastplate: {
 	DisplayName: 维尔胸甲
 	Tooltip:
-	'''
-	闪耀着盈月之光
-	+10% 远程和魔法伤害！
-	+12 穿透
-	+5 暴击几率！
-	+20 最大生命值
-	'''
+		'''
+		闪耀着盈月之光
+		增加10%的远程和魔法伤害！
+		增加12点穿透
+		增加5点暴击率!
+		最大生命值增加20
+		'''
 }
 
 VerlHat: {
 	DisplayName: 维尔帽子
 	Tooltip:
-	'''
-	你感觉更漂亮了，不是吗？
-	+7% 魔法伤害！
-	快速法力回复！
-	+100最大法力
-	+40最大生命值
-	'''
-	
+		'''
+		你感觉更漂亮了，不是吗？
+		增加7%的魔法伤害！
+		增加魔力值恢复速度!
+		最大魔力值增加100
+		最大生命值增加40
+		'''
 }
 
 VerlLeggings: {
 	DisplayName: 维尔护腿
 	Tooltip:
-	'''
-	看着它们的腿吧！
-	+7% 魔法和远程伤害！
-	+增加移动速度
-	+40最大生命值
-	'''
-	
+		'''
+		看着它们的腿吧！
+		增加7%的魔法和远程伤害！
+		增加移动速度
+		最大生命值增加40
+		'''
 }
 
 VerlMask: {
 	DisplayName: 维尔面具
 	Tooltip:
-	'''
-	你感觉更漂亮了，不是吗？
-	+7% 远程伤害！
-	+15 暴击几率！
-	+20 最大生命值
-	'''
+		'''
+		你感觉更漂亮了，不是吗？
+		增加7%的远程伤害!
+		增加15点暴击率!
+		最大生命值增加20
+		'''
 }
 
 VextinBoots: {
 	DisplayName: Vextin靴子
 	Tooltip:
-	'''
-	隐藏在沙漠之中
-	+5% 伤害
-	+20 生命值
-	'''
+		'''
+		隐藏在沙漠之中
+		增加5%的伤害
+		最大生命值增加20
+		'''
 }
 
 VextinMask: {
 	DisplayName: Vextin面具
 	Tooltip:
-	'''
-	你感受到沙漠在你体内流动
-	+7% 增加伤害
-	+20 生命值
-	'''
+		'''
+		你感受到沙子在体内流动
+		增加7%的伤害
+		最大生命值增加20
+		'''
 }
 
 VextinRobe: {
 	DisplayName: Vextin长袍
 	Tooltip:
-	'''
-	在神奇的沙漠中漫游
-	+40 生命值
-	'''
+		'''
+		在沙漠中漫游
+		最大生命值增加40
+		'''
 }
 
 Gambit: {
 	DisplayName: 启幕骰子
 	Tooltip:
-	'''
-	{ $CommonItemTooltip.RightClickToOpen }
-	战斗后用你的灵魂进行赌博，获得丰厚的奖励！
-	'''
-	
+		'''
+		{$CommonItemTooltip.RightClickToOpen}
+		战斗后用你的灵魂进行赌博，获得丰厚的奖励！
+		'''
 }
 
 GambitToken: {
@@ -463,9 +463,10 @@ GildedBag1: {
 MoonflameLantern: {
 	DisplayName: 月焰灯笼
 	Tooltip:
-	'''
-	感谢你为这个世界所做的贡献，回到我的宫殿，让我们来共舞一曲吧
-	'''
+		'''
+		A lantern that holds the soul of Gothivia's sister, Verlia. 
+		Take it to the top of the cathedral at night and use it at the shrine to release her.
+		'''
 }
 
 SirestiasStarterBag: {
@@ -481,90 +482,51 @@ VeribossBag: {
 AlcadizMetal: {
 	DisplayName: 流浪熔金
 	Tooltip:
-	'''
-	哇，这是超级坚硬和神奇的......流浪熔金！
-	这种矿石从哪里来的呢？ 它可是用于制作武器和法器的最佳材料！
-	'''
+		'''
+		哇，这是超级坚硬和神奇的......
+		这种矿石从哪里来的呢？
+		它可是用于制作武器和法器的最佳材料！
+		'''
 }
 
 Bagitem: {
 	DisplayName: 尘埃袋
 	Tooltip:
-	'''
-	专为引发剂尘埃所制作的袋子！
-	它是从哪里来的呢？ 快把它带到尘埃工作台那边去！
-	'''
-}
-
-Bouque: {
-	DisplayName: 花束
-	Tooltip:
-	'''
-	献给我亲爱的爱人的花束
-	用于各种合成
-	'''
-	
-}
-
-Candle: {
-	DisplayName: 蜡烛
-	Tooltip:
-	'''
-	
-	一支蜡烛，但你放不下来: (
-	所以它有什么用呢？
-	'''
-	
+		'''
+		专为引发剂尘埃所制作的袋子！
+		它是从哪里来的呢？
+		快把它带到尘埃工作台那边去！
+		'''
 }
 
 Cinderscrap: {
 	DisplayName: 灰烬碎片
 	Tooltip:
-	'''
-	灰烬碎片
-	烧出无限可能 用于为植物施肥
-	'''
+		'''
+		灰烬碎片
+		烧出无限可能
+		用于为植物施肥
+		'''
 }
 
 CondensedDirt: {
 	DisplayName: 浓缩泥土
 	Tooltip:
-	'''
-	呃！黏黏的！为什么？？
-	一种来自地面的黏黏的泥土状物质！ 最适合用于肥料和泥土类物品！
-	'''
-}
-
-DreasFlower: {
-	DisplayName: 天蓝色德瑞斯之花
-	Tooltip:
-	'''
-	来自预言神庙......
-	用于种植和收获 最适合用于魔法物品和植物！
-	'''
-}
-
-Fabric: {
-	DisplayName: 预言布匹
-	Tooltip:
-	'''
-	来自预言神庙......
-	像钢铁一样硬的布，蕴含着巨大的能量 最适合用于魔法物品！
-	'''
+		'''
+		呃！黏黏的！为什么？？
+		一种来自地面的黏黏的泥土状物质！
+		最适合用于肥料和泥土类物品！
+		'''
 }
 
 FlowerBatch: {
 	DisplayName: 花束
 	Tooltip:
-	'''
-	这些花非常漂亮......
-	一个收获物 最适合用于植物和一些物品！
-	'''
-}
-
-Hlos: {
-	DisplayName: 废弃把手
-	Tooltip: 用于制作各种武器
+		'''
+		这些花非常漂亮......
+		一个收获物
+		最适合用于植物和一些物品！
+		'''
 }
 
 MorrowRocks: {
@@ -578,17 +540,13 @@ Morrowshroom: {
 }
 
 MorrowVine: {
-	DisplayName: 黎明藤蔓
-	Tooltip:
-	'''
-	一根有用的绳子！
-	它们来自于一些黎明的阿尔卡迪斯战士 用于许多武器、背包等配方
-	'''
+	DisplayName:  黎明藤蔓
+	Tooltip: A vine that grows underground and populates the world
 }
 
 Mushroom: {
-	DisplayName: 蘑菇
-	Tooltip: 呃，一个蘑菇，可能是用来种植的？
+	DisplayName: 春菇
+	Tooltip: 在地下发现的蘑菇
 }
 
 Stick: {
@@ -599,26 +557,20 @@ Stick: {
 ViolinStick: {
 	DisplayName: 小提琴弓杆
 	Tooltip:
-	'''
-	哼，这是用来做什么的呢？
-	那当然是用于制作乐器类的武器啦！
-	'''
-	
+		'''
+		哼，这是用来做什么的呢？
+		那当然是用于制作乐器类的武器啦！
+		'''
 }
 
 EmptyMoonflameLantern: {
 	DisplayName: 空的月焰灯笼
 	Tooltip:
-	'''
-	使用地狱深处的火焰重新点燃它吧
-	在月光之巅，维尔莉娅正在等待着与你共舞一曲
-	'''
-	
-}
-
-FleshClot: {
-	DisplayName: 血肉凝块
-	Tooltip: 从敌人的血液中获取的类似肉的物质
+		'''
+		把他带去地狱深处
+		重新点燃
+		在月光之巅，维尔莉娅正在等待着与你共舞一曲
+		'''
 }
 
 HuntiacBlock: {
@@ -634,11 +586,10 @@ HuntiacwallBlock: {
 Medal: {
 	DisplayName: 灭亡勋章
 	Tooltip:
-	'''
-	一枚古老的勋章......
-	保留在你的背包中，可以出售，可能会吸引某人产生浪漫的一些情感......
-	'''
-	
+		'''
+		一枚古老的勋章......
+		保留在你的背包中，可以出售，可能会吸引某人产生浪漫的一些情感......
+		'''
 }
 
 OvermorrowDirt: {
@@ -664,30 +615,29 @@ OvermorrowWood: {
 PearlescentScrap: {
 	DisplayName: 珍珠碎片
 	Tooltip:
-	'''
-	月亮的碎片
-	与声音和星星有着强烈的共鸣......
-	'''
-	
+		'''
+		月亮的碎片
+		与声音和星星有着强烈的共鸣......
+		'''
 }
 
 RippedFabric: {
 	DisplayName: 破碎织物
 	Tooltip:
-	'''
-	从镀金的一些知识到敌人身上的所穿的长袍，真神奇！
-	一种非常神奇的材料...... 我感觉它仿佛在召唤我......
-	'''
+		'''
+		在Merena, Sirestias, Gia和Zui的任务中收集!（占位符以后npc定名）
+		做一些任务来收集更多
+		Rarely can be obtained through gilded bags in Hardmode!
+		'''
 }
 
 Starrdew: {
 	DisplayName: 星露
 	Tooltip:
-	'''
-	呃！粘糊糊的！我想知道还有什么是粘糊糊的......
-	一种与星星和黎明有共鸣的粘性物质！
-	'''
-	
+		'''
+		呃！粘糊糊的！我想知道还有什么是粘糊糊的......
+		一种与星星和黎明有共鸣的粘性物质！
+		'''
 }
 
 Stelleanbrick: {
@@ -718,11 +668,10 @@ FrileOre: {
 VerianBar: {
 	DisplayName: 炽炎锭
 	Tooltip:
-	'''
-	炙热无比，充满了部落战士的黄金和荣耀
-	它太烫了，连触摸都不行......
-	'''
-	
+		'''
+		炙热无比，充满了部落战士的黄金和荣耀
+		太热了，你摸都摸不着，要包裹放加热的布料.......
+		'''
 }
 
 VerianOre: {
@@ -776,27 +725,23 @@ CathedralChestI: {
 }
 
 Crystal1I: {
-	DisplayName: 水晶1
-	Tooltip:
-	你不应该收集它: (
+	DisplayName: 水晶
+	Tooltip: 你无法收集到当前材料 :(
 }
 
 Crystal2I: {
-	DisplayName: 水晶2
-	Tooltip:
-	你不应该收集它: (
+	DisplayName: 水晶
+	Tooltip: 你无法收集到当前材料 :(
 }
 
 FlowerMultiI: {
-	DisplayName: 多花
-	Tooltip:
-	你不应该收集它: (
+	DisplayName: 花簇
+	Tooltip: 你无法收集到当前材料 :(
 }
 
 Orb1I: {
-	DisplayName: 球体1
-	Tooltip:
-	你不应该收集它: (
+	DisplayName: 光明宝珠
+	Tooltip: 做一些很酷的家具!
 }
 
 ShrineI: {
@@ -805,45 +750,38 @@ ShrineI: {
 }
 
 Flowersummon: {
-	DisplayName: 召唤花
-	Tooltip:
-	你不应该收集它: (
+	DisplayName: 花簇召唤物
+	Tooltip: 你无法收集到当前材料 :(
 }
 
 GrassBig: {
-	DisplayName: 大草
-	Tooltip:
-	你不应该收集它: (
+	DisplayName: 巨型草茎
+	Tooltip: 你无法收集到当前材料 :(
 }
 
 GrassMoss: {
 	DisplayName: 苔藓草
-	Tooltip:
-	你不应该收集它: (
+	Tooltip: 你无法收集到当前材料 :(
 }
 
 CurtainLeftI: {
 	DisplayName: 左窗帘
-	Tooltip:
-	你不应该收集它: (
+	Tooltip: 你无法收集到当前材料 :(
 }
 
 CurtainRightI: {
 	DisplayName: 右窗帘
-	Tooltip:
-	你不应该收集它: (
+	Tooltip: 你无法收集到当前材料 :(
 }
 
 Log: {
 	DisplayName: 木材
-	Tooltip:
-	你不应该收集它: (
+	Tooltip: 你无法收集到当前材料 :(
 }
 
 MediumPot: {
-	DisplayName: 中型锅
-	Tooltip:
-	你不应该收集它: (
+	DisplayName: Medium Pot
+	Tooltip: 你无法收集到当前材料 :(
 }
 
 MorrowChesti: {
@@ -853,19 +791,17 @@ MorrowChesti: {
 
 MorrowChestKey: {
 	DisplayName: 黎明钥匙
-	Tooltip: ""
+	Tooltip: 晚上在世界各地使用传说中的箱子!
 }
 
 MorrowDeath: {
 	DisplayName: 黎明死亡
-	Tooltip:
-	你不应该收集它: (
+	Tooltip: 你无法收集到当前材料 :(
 }
 
 MorrowDeath2: {
 	DisplayName: 黎明死亡2
-	Tooltip:
-	你不应该收集它: (
+	Tooltip: 你无法收集到当前材料 :(
 }
 
 MorrowSpike: {
@@ -875,8 +811,7 @@ MorrowSpike: {
 
 MorrowStone: {
 	DisplayName: 黎明石头
-	Tooltip:
-	你不应该收集它: (
+	Tooltip: 你无法收集到当前材料 :(
 }
 
 MushroomBig: {
@@ -891,8 +826,7 @@ SmallShroom: {
 
 StandN: {
 	DisplayName: 站立N
-	Tooltip:
-	你不应该收集它: (
+	Tooltip: 你无法收集到当前材料 :(
 }
 
 VeriBossRel: {
@@ -931,7 +865,7 @@ wallf: {
 }
 
 wallg: {
-	DisplayName: 墙g
+	DisplayName: 墙g（占位符暂时同步到墙g）
 	Tooltip: ""
 }
 

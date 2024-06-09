@@ -11,11 +11,8 @@ namespace LunarVeilzhcn.GlobalTranslation
 		{
 			foreach (TooltipLine tooltipLine in tooltips)
 			{
-			//Hiker's Backpack
-			tooltipLine.Text = tooltipLine.Text.Replace("Hiker's Backpack", "Hiker的旅行背包");
-			tooltipLine.Text = tooltipLine.Text.Replace("Increased Regeneration!", "增加回复速度！");
-			tooltipLine.Text = tooltipLine.Text.Replace("+3% damage", "增加3%的伤害");
-			tooltipLine.Text = tooltipLine.Text.Replace("Drops stumps on the ground as you walk!", "行走时在地面上掉落尖刺！");
+			//紫色文字
+			tooltipLine.Text = tooltipLine.Text.Replace("Simple Brooch!", "简单的胸针!");
 			}
 		}
 	}
