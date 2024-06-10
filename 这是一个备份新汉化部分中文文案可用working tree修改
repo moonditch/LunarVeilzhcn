@@ -196,7 +196,7 @@ CelestiaMoonBreastplate: {
 	Tooltip:
 		'''
 		一位女皇的魔法精华！
-		最大法力值增加60 和 最大召唤栏增加1
+		最大魔力值增加60 和 最大召唤栏增加1
 		增加20点生命值
 		'''
 }
@@ -226,7 +226,7 @@ CelestiaMoonMask: {
 	Tooltip:
 		'''
 		一位女皇的魔法精华！
-		最大法力值增加20 和  最大召唤栏增加1
+		最大魔力值增加20 和  最大召唤栏增加1
 		'''
 }
 
@@ -865,338 +865,338 @@ wallf: {
 }
 
 wallg: {
-	DisplayName: 墙g（占位符以后更新）
+	DisplayName: 墙g
 	Tooltip: ""
 }
 
 BonePicklerCard: {
-	DisplayName: Bone Pickler Card
+	DisplayName: 骨拾荒者卡牌启动器
 	Tooltip:
 		'''
-		Use with a combination of dusts to make spells :)
-		Hit an enemy with a powder, then switch to this weapon and hold the attack button for explosions!
+		用于结合尘埃制作法术: )
+		使用尘埃，然后使用这种类型的武器！
 		'''
 }
 
 DaedCard: {
-	DisplayName: Daed Card
+	DisplayName: Daed卡牌启动器
 	Tooltip:
 		'''
-		Use with a combination of dusts to make spells :)
-		Hit an enemy with a powder, then switch to this weapon and hold the attack button for explosions!
+		用于结合尘埃制作法术: )
+		使用尘埃，然后使用这种类型的武器！
 		'''
 }
 
 EYIgniter: {
-	DisplayName: Eye Card
+	DisplayName: 晶状体引燃器
 	Tooltip:
 		'''
-		Use with a combination of dusts to make spells :)
-		Hit an enemy with a powder, then switch to this weapon and hold the attack button for explosions!
+		用于结合尘埃制作法术: )
+		使用尘埃，然后使用这种类型的武器！
 		'''
 }
 
 FrostCard: {
-	DisplayName: Frost Card
+	DisplayName: 冰霜卡片引燃器
 	Tooltip:
 		'''
-		Use with a combination of dusts to make spells :)
-		Hit an enemy with a powder, then switch to this weapon and hold the attack button for explosions!
+		用于结合尘埃制作法术: )
+		使用尘埃，然后使用这种类型的武器！
 		'''
 }
 
 GothivCard: {
-	DisplayName: Gothiv Card
+	DisplayName: 哥西夫卡片引燃器
 	Tooltip:
 		'''
-		Use with a combination of dusts to make spells :)
-		Hit an enemy with a powder, then switch to this weapon and hold the attack button for explosions!
+		用于结合尘埃制作法术: )
+		使用尘埃，然后使用这种类型的武器！
 		'''
 }
 
 LovestruckCard: {
-	DisplayName: Lovestruck Card
+	DisplayName: 爱神卡片引燃器
 	Tooltip:
 		'''
-		Use with a combination of dusts to make spells :)
-		Hit an enemy with a powder, then switch to this weapon and hold the attack button for explosions!
+		用于结合尘埃制作法术: )
+		使用尘埃，然后使用这种类型的武器！
 		'''
 }
 
 ScorcheCard: {
-	DisplayName: Scorche Card
+	DisplayName: 火焰卡片引燃器
 	Tooltip:
 		'''
-		Use with a combination of dusts to make spells :)
-		Hit an enemy with a powder, then switch to this weapon and hold the attack button for explosions!
+		用于结合尘埃制作法术: )
+		使用尘埃，然后使用这种类型的武器！
 		'''
 }
 
 StarrCard: {
-	DisplayName: Starr Card
+	DisplayName: 星辰卡片引燃器
 	Tooltip:
 		'''
-		Use with a combination of dusts to make spells :)
-		Hit an enemy with a powder, then switch to this weapon and hold the attack button for explosions!
+		用于结合尘埃制作法术: )
+		使用尘埃，然后使用这种类型的武器！
 		'''
 }
 
 StarterCard: {
-	DisplayName: Starter Card
+	DisplayName: 初级卡片引燃器
 	Tooltip:
 		'''
-		Use with a combination of dusts to make spells :)
-		Hit an enemy with a powder, then switch to this weapon and hold the attack button for explosions!
+		用于结合尘埃制作法术: )
+		使用尘埃，然后使用这种类型的武器！
 		'''
 }
 
 WCIgniter: {
-	DisplayName: Wild Card
+	DisplayName: 万能卡片引燃器
 	Tooltip:
 		'''
-		Use with a combination of dusts to make spells :)
-		Hit an enemy with a powder, then switch to this weapon and hold the attack button for explosions!
+		用于结合尘埃制作法术: )
+		使用尘埃，然后使用这种类型的武器！
 		'''
 }
 
 Bongos: {
-	DisplayName: Star-Gilded Bongo
-	Tooltip: Boom bong boom at cursor
+	DisplayName: 星辉镀金邦戈
+	Tooltip: 在光标位置发出轰鸣声
 }
 
 CocoSpark: {
-	DisplayName: Coconut Tome
-	Tooltip: Look master, I can summon, coconuts!
+	DisplayName: 椰子法典
+	Tooltip: 瞧，椰子砸碎了他们的脑袋
 }
 
 EvasiveBalls: {
-	DisplayName: Pearlescent Ice Balls
-	Tooltip: Shoots fast homing sparks of light!
+	DisplayName: 霜寒壳冰球
+	Tooltip: 快速发射追踪的霜火花！
 }
 
 FlameburstBalls: {
-	DisplayName: Molted Crust Balls
-	Tooltip: Shoots fast homing sparks of fire!
+	DisplayName: 熔岩壳火球
+	Tooltip: 快速发射追踪的火花！
 }
 
 GildedStaff: {
-	DisplayName: Gilded Staff
-	Tooltip: Shoots two spinning pieces of spiritual magic at your foes
+	DisplayName: 镀金法杖
+	Tooltip: 向敌人发射两个旋转的灵魂碎片
 }
 
 PrismaticBalls: {
-	DisplayName: Prismatic Cryadia Balls
-	Tooltip: Shoots fast homing sparks of everlasting crystal light!
+	DisplayName: 棱彩克莱迪亚球
+	Tooltip: 快速发射追踪的彩虹火花！
 }
 
 Splitflame: {
-	DisplayName: Split-flame candle
-	Tooltip: Totally not the candle from split, totally.
+	DisplayName: 裂火焰烛
+	Tooltip: 这不是来自于碎片的蜡烛，绝对不是。
 }
 
 Antaciz: {
-	DisplayName: Antaciz
-	Tooltip: Spinny winny damage the binny
+	DisplayName: 安塔克兹
+	Tooltip: 扔出旋转的大剑
 }
 
 Auroran: {
-	DisplayName: Auroran
+	DisplayName: 奥罗兰
 	Tooltip:
 		'''
-		Sends shockwaves through the air
-			Hitting enemies with the blade will increase your attack speed!
-			Divergency Inspired!
+		发送穿越空气的冲击波
+		用剑击中敌人会增加冲击波速度！
+		灵感来自于《Divergency分歧》！
 		'''
 }
 
 EnergizedNail: {
-	DisplayName: Energized Nail
-	Tooltip: Electrical nail, thats weird
+	DisplayName: 充能钉子
+	Tooltip: 充了电的钉子，很奇怪......
 }
 
 FrostSwing: {
-	DisplayName: Twin Witch's Mistletoe
+	DisplayName: 霜舞
 	Tooltip:
 		'''
-		Passed down for generations through the family of elite sorcerers of the Royal Capital, given to Veldris
-		It is your turn to wield this beauty.
+		在皇家之都的精英巫师家族中代代相传，传给了 Veldris（占位符人物定名）
+		现在轮到你施展这份美了。
 		'''
 }
 
 Gutinier: {
-	DisplayName: Gutinier
+	DisplayName: 古特尼尔
 	Tooltip:
 		'''
-		Classful weapon!
-			Divergency Inspired!
+		称职的武器！
+		灵感来自于《Divergency分歧》！
 		'''
 }
 
 HornedNail: {
-	DisplayName: Horned Nail
-	Tooltip: Purge under funny nail :0
+	DisplayName: Horned Nail  巨角钉
+	Tooltip: Purge under funny nail :0   在滑稽的钉子下清洗 :0（占位符，滑稽的钉子未找到物品名）
 }
 
 MorrowRapier: {
-	DisplayName: Fabled Rapier
-	Tooltip: Poke poke-dont get the wrong idea of the weapon function-poke
+	DisplayName: Fabled Rapier黎明刺剑（占位符，物品名）
+	Tooltip: 戳戳-不要对这个武器的功能产生错误的想法-戳-它就是用来戳人的-戳戳
 }
 
 MorrowSword: {
-	DisplayName: Fabled Sword
-	Tooltip: This sword feels warm, what is this Materials?
+	DisplayName: Fabled Sword黎明之剑（占位符，物品名）
+	Tooltip: 给人一种温暖的感觉，这是什么材料呢？
 }
 
 MorrowValswa: {
-	DisplayName: Fabled Valswa
-	Tooltip: A sword that shoots fire-y sparks
+	DisplayName: Fabled Valswa黎明木剑（占位符，物品名）
+	Tooltip: 一把能射出火花的剑
 }
 
 PalmThrower: {
-	DisplayName: Palm Tomahawks
-	Tooltip: Throw around tomahawks forged from palm, sounds boring :(
+	DisplayName: 棕榈投手
+	Tooltip: 投掷由棕榈制成的飞斧，听起来一点都不酷 ￣へ￣
 }
 
 Halhurish: {
-	DisplayName: Halhurish The Flamed
+	DisplayName: 火焰之刃-哈尔哈瑞什
 	Tooltip:
 		'''
-		Whip your opponents in the air
-		Hitting enemies will explode
+		在空中鞭打敌人
+		击中敌人会爆炸
 		'''
 }
 
 Verstibloom: {
-	DisplayName: Thorned Witch's blade
-	Tooltip: Slash the enemies of Merena and Sylia through your enhanced blade.
+	DisplayName: Thorned Witch's blade棘刺？多刺女巫之刃？（占位符，物品名）
+	Tooltip: Slash the enemies of Merena and Sylia through your enhanced blade.（占位符，有人物名）
 }
 
 VerstiDance: {
-	DisplayName: Verstidance
+	DisplayName: 花之舞步
 	Tooltip:
 		'''
-		Swirl!
-		A petal dance that increases your movement speed and defense, but be wary of high risk 
+		旋涡!
+		一种小幅增加你移动速度和防御的花之舞，但使用时要小心
 		'''
 }
 
 PocketSand: {
-	DisplayName: Pocket Sand
+	DisplayName: 沙袋
 	Tooltip:
 		'''
-		Throw magical dust on them!
-		Dust that can be used with and for combos in igniters
-		Can penetrate armored enemies like nothing!
+		向敌人投掷魔法尘埃!
+		这种尘埃可以与引火器一起使用
+		可以穿透敌人的护甲!
 		'''
 }
 
 ArcanalPowder: {
-	DisplayName: Sepsis Powder
+	DisplayName: 腐蚀尘埃
 	Tooltip:
 		'''
-		Throw magical dust on them!
+		向敌人投掷魔法尘埃!
 		A sparkly star dust that does double damage as the igniter!
 		After hitting an enemy with this, use an igniter card weapon!
 		'''
 }
 
 BloodPowder: {
-	DisplayName: Kaev Powder
+	DisplayName: Kaev尘埃
 	Tooltip:
 		'''
-		Throw magical dust on them and ignite
+		将魔法尘埃洒在它们身上并点燃
 		A blood dust that does high damage with igniters.
 		After hitting an enemy with this, use an igniter card weapon!
 		'''
 }
 
 CoalDust: {
-	DisplayName: Coal Powder
+	DisplayName: 煤尘埃
 	Tooltip:
 		'''
-		Throw magical dust on them!
+		将魔法尘埃洒在它们身上！
 		After hitting an enemy with this, use an igniter card weapon!
 		Forged from the gems you collect!
 		'''
 }
 
 FlamePowder: {
-	DisplayName: Flame Powder
+	DisplayName: 火焰尘埃
 	Tooltip:
 		'''
-		Throw magical dust on them!
+		将魔法尘埃洒在它们身上！
 		A flamey dust that explodes with your igniter!
 		After hitting an enemy with this, use an igniter card weapon!
 		'''
 }
 
 FrostedPowder: {
-	DisplayName: Frost Powder
+	DisplayName: 霜冻尘埃
 	Tooltip:
 		'''
-		Throw magical dust on them!
+		将魔法尘埃洒在它们身上！
 		Dusty ice dust that does continuous damage with the igniter!
 		After hitting an enemy with this, use an igniter card weapon!
 		'''
 }
 
 GrassDirtPowder: {
-	DisplayName: Dirt Powder
+	DisplayName: 泥土尘埃
 	Tooltip:
 		'''
-		Throw magical dust on them!
+		将魔法尘埃洒在它们身上！
 		A dirty dust... that does damage???!
 		After hitting an enemy with this, use an igniter card weapon!
 		'''
 }
 
 LenaSongPowder: {
-	DisplayName: Lena Song Powder
+	DisplayName: Lena之歌尘埃
 	Tooltip:
 		'''
-		Throw magical dust on them!
+		将魔法尘埃洒在它们身上！
 		A musical dust! that explodes with your igniter!
 		After hitting an enemy with this, use an igniter card weapon!
 		'''
 }
 
 ShadowFlamePowder: {
-	DisplayName: ShadowFlame Powder
+	DisplayName: 暗影火焰尘埃
 	Tooltip:
 		'''
-		Throw magical dust on them!
+		将魔法尘埃洒在它们身上！
 		A shadow dust that explodes with your igniter!
 		After hitting an enemy with this, use an igniter card weapon!
 		'''
 }
 
 TrickPowder: {
-	DisplayName: Trick Powder
+	DisplayName: 诡计尘埃
 	Tooltip:
 		'''
-		Throw magical dust on them!
+		将魔法尘埃洒在它们身上！
 		A sparkly tricky dust that does a lot damage!
 		After hitting an enemy with this, use an igniter card weapon!
 		'''
 }
 
 Verstidust: {
-	DisplayName: Versti Powder
+	DisplayName: 花粉
 	Tooltip:
 		'''
-		Throw magical dust on them!
+		将魔法尘埃洒在它们身上！
 		A musical dust that has calming flowers
 		After hitting an enemy with this, use an igniter card weapon!
 		'''
 }
 
 BoneNail: {
-	DisplayName: Bone Nail
-	Tooltip: Burning with flowery rage
+	DisplayName: 骨钉
+	Tooltip: 燃烧着花之怒火
 }
 
 WoodenCrossbow: {
-	DisplayName: Wooden Crossbow
+	DisplayName: 木质弩
 	Tooltip:
 		'''
 		A simple crossbow that shoots 3 bolts
@@ -1205,138 +1205,138 @@ WoodenCrossbow: {
 }
 
 Hornet: {
-	DisplayName: Hornet
+	DisplayName: 大黄蜂
 	Tooltip:
 		'''
-		Classy!
-		Totally has no reference to Hollow Knight
-		A weapon that shoots classy bomb and bullets.. A LOT
-		Dia Gun...
+		高雅!
+		完全没有参考《空洞骑士》
+		一种射出经典的炸弹和子弹的武器.. A LOT
+		Dia Gun...（占位符空洞骑士）
 		'''
 }
 
 MorrowSalface: {
-	DisplayName: Fabled Salface
-	Tooltip: Shoots three bolts and then a big arcanal bolt
+	DisplayName: 碎阳
+	Tooltip: 发射三次弩箭之后发射一支大型奥术箭矢
 }
 
 SteamedNail: {
-	DisplayName: Steamed Nail
-	Tooltip: Ram em' hard (that's what I said)
+	DisplayName: 蒸汽钉
+	Tooltip: 狠狠地刺入它们（我说的）
 }
 
 Teraciz: {
-	DisplayName: Teraciz
+	DisplayName: 破碎
 	Tooltip:
 		'''
-		Meatballs
-		Do not be worried, this mushes reality into bit bits and then shoots it!
-		You can never miss :P
+		肉丸
+		别担心，这是把现实揉成碎片，然后拍散!!
+		你永远不会错过 :P
 		'''
 }
 
 Violar: {
-	DisplayName: Violar
+	DisplayName: 沉重和弦
 	Tooltip:
 		'''
-		Let them burn in harmony!
-		Simple weapon forged from Stellean bricks and the heat from plants of the fable
-		Impractical but very rewarding...
+		让他们在和弦中燃烧吧！
+		便宜的武器，由斯特利恩砖块和黎明之地的植物锻造而成
+		不切实际，但非常有益……
 		'''
 }
 
 wowgun: {
-	DisplayName: Wowgun
+	DisplayName: 木枪
 	Tooltip:
 		'''
-		You made a gun out of wood what did you expect..
-		For your efforts I commend you, now use my voice as a weapon :)
+		你用木头制作了一把枪？你在期待什么......
+		好吧，起码你努力了，暂且用我的声音给你当武器吧 :)
 		'''
 }
 
 AlcadizDagger: {
-	DisplayName: Fabled String n' Brooch
+	DisplayName: 流浪金针
 	Tooltip:
 		'''
-		Your summons will target focused enemies
-		Summons will manifest out of your string shield
-		They will act as temporary summons to give your other minions company!
-		The Brooch above gives you 10+ Defense while active!
+		你的召唤物将会以集中的敌人为目标
+		召唤物将从你的线圈盾牌中显现出来
+		它们将作为临时召唤物来陪伴你的其他召唤物！
+		上面的胸针在激活时提供额外10点防御！
 		'''
 }
 
 BloodLamp: {
-	DisplayName: Blood Lamp
+	DisplayName: 血之灯
 	Tooltip:
 		'''
-		Enrages your summons by hitting enemies, shows a red mark on them!
-		Summons a red explosion crystal that hurts foes
-		Even makes a bloodthirst trail for the summon being empowered!
+		击中敌人会激怒你的召唤物，并在它们身上显示一个红色标记！
+		召唤一个红色爆炸水晶来伤害敌人
+		甚至为被增强的召唤物留下一条鲜红的轨迹！
 		'''
 }
 
 CanOfLeaves: {
-	DisplayName: Box Of Leaves
-	Tooltip: Summon the leaves, don't bother picking them up, they are a bit aggressive, and magical...
+	DisplayName: 叶盒
+	Tooltip: 召唤一些叶子，但不要去捡，它们有那么一点点攻击性，而且有一些不太友好的魔力...
 }
 
 StarCall: {
-	DisplayName: Starbomber
+	DisplayName: 星辰轰炸机
 	Tooltip:
 		'''
-		Your summons will explode into big stary bits!
-		Takes 2 slots to summon
-		They will act as temporary summons for big damage
-		Definitely gonna bring flashbacks after Diari releases
+		召唤一个超大的星辰炸弹！
+		需要2个召唤槽位来召唤
+		它们将作为临时召唤物造成巨大的伤害
+		Definitely gonna bring flashbacks after Diari releases（占位符有人物名字）
 		'''
 }
 
 StumpBuster: {
-	DisplayName: Stump Buster
-	Tooltip: I command thee, use the power of stumps!
+	DisplayName: 树桩碎击者
+	Tooltip: 我命令你，使用树桩的力量！
 }
 
 MorrowWhipI: {
-	DisplayName: Fabled Morrowed Whip
+	DisplayName: Fabled Morrowed Whip传说中黎明鞭（占位符，武器名字）
 	Tooltip:
 		'''
-		Your summons will target focused enemies
-		Summons will act on a target and do tremendous more damage
-		But when you mark an enemy, you lower your defense :(
-		Don't dieee!
+		你的召唤物将以集中的敌人为目标
+		召唤物将对一个目标行动并造成更大的伤害
+		但当你标记一个敌人时，你会降低防御力 :(
+		不要死!
 		'''
 }
 
 GovheilBlock: {
-	DisplayName: Govheil Block
+	DisplayName: 忍钢块
 	Tooltip: ""
 }
 
 GardenWrecker: {
 	Tooltip:
 		'''
-		Shoots out skull-bullets, if they hit, they do some serious damage!
-		It's true, they wrecked my garden! I'm only with the science team!
+		发射骷髅炸弹，如果命中则造成严重的爆炸!
+		是的，它们破坏了我的花园！而我只是研发团队的一员!
 		'''
-	DisplayName: Garden Wrecker
+	DisplayName: 花园破坏者
 }
 
 AlcadizScrap: {
-	DisplayName: Fabled Scrap
+	DisplayName: 流浪熔金废料
 	Tooltip:
 		'''
-		Essence of high Materials, used for making very neat weapons
-		Countains the power of Frile, Govheil and Fablia!
+		高级材料之精华，用于制作那些非常精良的武器
+		包含寒渊、忍钢和预言的力量！
 		'''
 }
 
 BurningAngel: {
-	DisplayName: Burning Angel
+	DisplayName: 烈焰天使
 	Tooltip:
 		'''
-		Shoots out many axes, beware they explode on impact
-		Steerable for a while and consectutive hits speed up next throw!
-		Made from heavy fabled metal!
+		射出许多斧头，小心它们在撞击时爆炸
+		操纵一段时间，连续命中加速下一次投掷!
+		由传说中的重型流浪熔金制成!
 		'''
 }
 
@@ -1384,422 +1384,422 @@ Curlistine: {
 	DisplayName: Curlistine
 	Tooltip:
 		'''
-		Only works if an enemy is nearby.
-		Shoots out many chained swords guided by the swirling stars..
-		Verlia's wish is granted upon you.
+		仅在附近有敌人时可使用。
+		发射许多由星星所引导的光芒...
+		维尔莉娅将赐福予你。
 		'''
 }
 
 AlcadizPowder: {
-	DisplayName: Fable Powder
+	DisplayName: 流浪熔金之尘
 	Tooltip:
 		'''
-		Throw magical dust on them!
-		A spark-like explosion dust that does a lot damage!
-		From the Fabled fallen remains..
+		投掷在敌人身上的魔法尘埃！
+		像火花一样的爆炸粉尘，造成很高的伤害！
+		传说中的堕落的遗骸......
 		'''
 }
 
 VerliaBossBag: {
-	DisplayName: Treasure Bag (Verlia)
+	DisplayName: 宝藏袋 (维尔莉娅)
 	Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
 }
 
 VerliaHat: {
 	Tooltip:
 		'''
-		Great for style!
-		Increased life by 50!
-		Increased Mana by 100!
-		I know you wanna wear it...
+		非常漂亮的一顶帽子！
+		最大生命值增加50！
+		最大魔力值增加100！
+		我知道你想戴上它......
 		'''
-	DisplayName: Verlias Hat
+	DisplayName: 维尔莉娅的帽子
 }
 
 VerliaBroochA: {
 	Tooltip:
 		'''
-		I love ya!
-		When hitting enemies, a bunch of heavy damaging snowflakes may come out on impact!
-		Increased mana by 50!
-		Increased Defense by 5!
+		我爱你!
+		攻击敌人时，有概率释放造成伤害的雪花！
+		最大魔力值增加50！
+		增加5点防御力！
 		'''
-	DisplayName: Brooch of Verlia's Charm
+	DisplayName: 维尔莉娅的胸针
 }
 
 SwordsOfRevengence: {
 	Tooltip:
 		'''
-		I love ya!
-		Summons a Curlistine sword that brings Verlia's small swords to life!
-		Only works if an enemy is nearby!
-		Activates Verlia's Brooch effects! 
-		(Inc mana by 50, Def by 5, Heavy snowflakes on hit!) 
+		我爱你!
+		召唤一个Curlistine（未知暂定）光芒，并召唤维尔莉娅的剑！
+		仅在附近有敌人时有效！
+		激活维尔莉娅的胸针效果! 
+		（最大魔力值增加50，增加5点防御力，攻击时产生大量雪花）
 		'''
-	DisplayName: Swords Of Revengence
+	DisplayName: 复仇之灯
 }
 
 HarmonicBlasphemy: {
-	DisplayName: Harmonic Blasphemy
+	DisplayName: 亵渎谐振波
 	Tooltip:
 		'''
-		I love ya!
-		Very powerful moon blaster!
-		Use small moons gifted from Verlia herself!
-		Also use the power of music!
+		我爱你!
+		非常强大的月能爆破枪!
+		使用维尔莉娅亲自赐予的月亮!
+		也要利用音乐的力量!
 		'''
 }
 
 SupernovaSitar: {
-	DisplayName: Supernova Sitar
+	DisplayName: 超新星西塔琴
 	Tooltip:
 		'''
-		I love ya!
-		Absolute Distortion of Verlia's power of the moon and stars!
-		Her personal gift to you!
+		我爱你!
+		使用维尔莉娅亲自赐予的月亮!
+		她送给你的礼物!
 		'''
 }
 
 Parendine: {
-	DisplayName: Parendine
-	Tooltip: Whip frosty!
+	DisplayName: 帕伦丁
+	Tooltip: 极寒的鞭子！
 }
 
 AuroranSeeker: {
 	Tooltip:
 		'''
-		A super charged book of spells to cast!
-		Summons a book that puts a variety of 7 spells on its attacker!
+		一个活的法术书！
+		召唤可以释放7种法术的书！
 		'''
-	DisplayName: Auroran Seeker
+	DisplayName: 追光者
 }
 
 GovheilMask: {
-	DisplayName: Govheil Mask
+	DisplayName: 忍钢面具
 	Tooltip:
 		'''
-		12% Increased Magic and Summon damage!
-		+50 Mana and increased Mana regeneration
-		+12% Crit strike change
-		I've heard rumors that the flower gives a special affection bonus..
+		增加12%的魔法和召唤伤害！!
+		最大魔力值增加50 和魔力值恢复速度
+		增加12%暴击率
+		我听说这朵花会带来特殊的魅力加成......
 		'''
 }
 
 GovheilHelmet: {
 	Tooltip:
 		'''
-		12% Increased Ranged and Melee damage!
-		Autoswing capabilities
-		+10% Crit strike change
-		You wanna be cool huh?
+		增加12%的远程和近战伤害!
+		自动挥舞能力
+		增加10%暴击率
+		很酷对吧?
 		'''
-	DisplayName: Govheil Helmet
+	DisplayName: 忍钢头盔
 }
 
 GovheilChainplate: {
 	Tooltip:
 		'''
-		12% Increased Ranged and Melee damage!
-		+50 Life
-		Gain effects of a magic quiver!
+		增加12%的远程和近战伤害!
+		最大生命值增加50
+		让你像戴上了魔法箭袋一样!
 		'''
-	DisplayName: Govheil Chainplate
+	DisplayName: 忍钢链甲
 }
 
 GovheilBreastplate: {
 	Tooltip:
 		'''
-		6% Increased Magic and Summon damage!
-		+50 Mana and increased Mana regeneration
-		+10 Life!
-		+1 Summon
+		增加12%的魔法和召唤伤害!
+		最大魔力值增加50 和魔力值恢复速度
+		最大生命值增加10!
+		最大召唤栏增加1
 		'''
-	DisplayName: Govheil Breastplate
+	DisplayName: 忍钢胸甲
 }
 
 GovheilThighs: {
-	DisplayName: Govheil Thighs
+	DisplayName: 忍钢护胫
 	Tooltip:
 		'''
-		7% Increased Movement speed
-		+30 Life!
-		+10% Damage
-		+15 Armor Penetration
-		Mega thicc!
+		增加7%的移动速度
+		最大生命值增加30!
+		增加10%的伤害
+		增加15点护甲穿透
+		超级厚实!
 		'''
 }
 
 XexterianLeggings: {
-	Tooltip: +5% Damage
-	DisplayName: Xexterian Leggings
+	Tooltip: 增加5%的伤害
+	DisplayName: 仿制禁戒护腿
 }
 
 XexterianHat: {
-	DisplayName: Xexterian Hat
+	DisplayName: 仿制禁戒帽子
 	Tooltip:
 		'''
-		+5% Damage
-		+20 Life
-		You really want this knock off Forbidden armor?
+		增加5%的伤害
+		最大生命值增加20
+		你真的想要这个禁戒盔甲的仿制品吗？
 		'''
 }
 
 XexterianHeatplate: {
-	DisplayName: Xexterian Heatplate
+	DisplayName: 仿制禁戒胸甲
 	Tooltip:
 		'''
-		+10 Armor Penetration
-		+20 Life!
-		+6% Damage
-		+5 Critical Strike Chance
+		增加10点护甲穿透
+		最大生命值增加20!
+		增加6%的伤害
+		增加5点暴击率
 		'''
 }
 
 DaediaThighs: {
 	Tooltip:
 		'''
-		+40 Life!
-		30% Increased movement speed!
-		Walk like a flowery goddess with flower boots!
+		最大生命值增加40!
+		增加30%的移动速度!
+		像一位花神一样行走（穿上花靴）!
 		'''
-	DisplayName: Daedia Thighs
+	DisplayName: Daedia 护腿
 }
 
 DaediaMask: {
 	Tooltip:
 		'''
-		+65 Life!
-		A little halo over a new spiritual goddess!
+		最大生命值增加65!
+		一位新的女神的面具!
 		'''
-	DisplayName: Daedia Mask
+	DisplayName: Daedia面具
 }
 
 DaediaBreastplate: {
 	Tooltip:
 		'''
-		+60 Life!
-		+2 Summons
+		最大生命值增加60!
+		最大召唤栏增加2
 		'''
-	DisplayName: Daedia Breastplate
+	DisplayName: Daedia胸甲
 }
 
 PotionOfLifeWand: {
-	DisplayName: Potion Of Life Wand
-	Tooltip: A sweet little potion summon that will give drop hearts occasionally!
+	DisplayName: 治疗药水召唤杖
+	Tooltip: 一个可爱的小魔杖，召唤出偶尔会掉落红心的治疗药水！
 }
 
 PotionOfManaWand: {
-	Tooltip: A sweet little potion summon that will give drop mana occasionally!
-	DisplayName: Potion Of Mana Wand
+	Tooltip: 一个可爱的小魔杖，召唤出偶尔会掉落星星的魔力药水！
+	DisplayName: 魔力药水召唤杖
 }
 
 Ebistar: {
-	DisplayName: Ebistar
+	DisplayName: 星辰短弓
 	Tooltip:
 		'''
-		This will not go the way you want it to...
-		Shoots many swirling star arrows!
+		它的弹道多少有点“超出预期”了
+		发射许多乱飞的星箭！
 		'''
 }
 
-Hearstspire: {
-	DisplayName: Heartspire
+Heartspire: {
+	DisplayName: 心脉长枪
 	Tooltip:
 		'''
-		Slash through the lovely night!
-		Dream upon a goddess of love, Daedia!
+		在梦幻的夜晚划破苍穹!
+		梦见爱之女神, Daedia!（占位符，npc名？）
 		'''
 }
 
 Pearlinator: {
-	DisplayName: Pearlinator
+	DisplayName: 珍珠火焰喷射器
 	Tooltip:
 		'''
-		Lovely flamethrower?
-		Dream upon a goddess of love, Daedia!
+		可爱的火焰喷射器?
+		梦见爱之女神, Daedia!（占位符，npc名？）
 		'''
 }
 
 MerchantCrossbow: {
-	DisplayName: The Merchants Crossbow
+	DisplayName: 钱币弩
 	Tooltip:
 		'''
-		Who knew merchants could sell weapons!
-		Either way its a holding crossbow!
-		How generous :P
+		谁知道商人也会卖武器！
+		无论如何，这是一把小手弩！
+		上面散发着一股钱币的味道，多棒啊(｡･∀･)
 		'''
 }
 
 LeadCrossbow: {
-	Tooltip: A simple crossbow that can be held down to shoot bolts
-	DisplayName: Lead Crossbow
+	Tooltip: 一把简单的弩，可以按住左键以发射弩箭
+	DisplayName: 铅弩
 }
 
 IronCrossbow: {
-	Tooltip: A simple crossbow that can be held down to shoot bolts
-	DisplayName: Iron Crossbow
+	Tooltip: 一把简单的弩，可以按住左键以发射弩箭
+	DisplayName: 铁弩
 }
 
 DungeonCrossbow: {
 	Tooltip:
 		'''
-		Woa spooky...
-		A simple crossbow that can be held down to shoot bolts
-		Bones come out from each hit!
+		有点毛骨悚然...
+		一把简单的弩，可以按住左键以发射弩箭
+		命中时会有骨头释放出来!
 		'''
-	DisplayName: Bone and Rag Crossbow
+	DisplayName: 骨头和破布弩
 }
 
 GoldCrossbow: {
-	DisplayName: Gold Crossbow
+	DisplayName: 金弩
 	Tooltip:
 		'''
-		A simple crossbow that can be held down to shoot bolts
-		This one even has ruby bolts inside!
+		一把简单的弩，可以按住左键以发射弩箭
+		这把弩里面甚至有红玉的魔力！
 		'''
 }
 
 PlatinumCrossbow: {
-	DisplayName: Platinum Crossbow
+	DisplayName: 铂金弩
 	Tooltip:
 		'''
-		A simple crossbow that can be held down to shoot bolts
-		This one even has ruby bolts inside!
+		一把简单的弩，可以按住左键以发射弩箭
+		这把弩里面甚至有红玉的魔力！
 		'''
 }
 
 SilverCrossbow: {
-	DisplayName: Silver Crossbow
+	DisplayName: 银弩
 	Tooltip:
 		'''
-		A simple crossbow that can be held down to shoot bolts
-		This one even has sapphire bolts inside!
+		一把简单的弩，可以按住左键以发射弩箭
+		这把弩里面甚至有蓝玉的魔力！
 		'''
 }
 
 TungstenCrossbow: {
-	DisplayName: Tungsten Crossbow
+	DisplayName: 钨弩
 	Tooltip:
 		'''
-		A simple crossbow that can be held down to shoot bolts
-		This one even has sapphire bolts inside!
+		一把简单的弩，可以按住左键以发射弩箭
+		这把弩里面甚至有蓝玉的魔力！
 		'''
 }
 
 MorrowedCrossbow: {
-	DisplayName: Fabled Crossbow
+	DisplayName: 魔力强弩
 	Tooltip:
 		'''
-		Sniper type crossbow that can be held down to shoot fast rail bolts!
-		The fable is coming inside of me!
+		可以按住发射强大弩箭的强弩！!
+		黎明的力量在我体内涌动!
 		'''
 }
 
 DustedSilk: {
-	DisplayName: Dusted Silk
+	DisplayName: 尘网绸布
 	Tooltip:
 		'''
-		Special Materials harvested from spiders
-		Useful for crafting certain string-like items!
+		从蜘蛛身上采集的特殊材料
+		用于制作某些类似于绳子的物品！
 		'''
 }
 
 SpiderillaCrossbow: {
-	DisplayName: Spiderillas Crossbow
+	DisplayName: 蜘蛛强弩
 	Tooltip:
 		'''
-		Sniper type crossbow that can be held down to shoot fast rail bolts!
-		Eggs pop out of this one so uh...
-		If you have arachniphobia, why use this?
+		可以按住发射强大弩箭的强弩！
+		这把弩里面还会弹出蜘蛛卵，所以......
+		如果你害怕蜘蛛，为什么要使用这把弩呢？
 		'''
 }
 
 DesertCrossbow: {
 	Tooltip:
 		'''
-		Shotgun type crossbow that shoots bolts in many directions!
-		Hold down to shoot!
-		Rumors have it that they are faster than the wind..
+		类似霰弹枪的弩，可以朝多个方向发射弩箭！
+		按住发射！
+		传闻它射出的箭飞的比风还快......
 		'''
-	DisplayName: Winded Sands Crossbow
+	DisplayName: 沙暴弩
 }
 
 FrostyCrossbow: {
-	DisplayName: Auroran Ice Crossbow
+	DisplayName: 极寒弩
 	Tooltip:
 		'''
-		Shotgun type crossbow that shoots bolts in many directions!
-		Hold down to shoot!
-		Frosty!
+		类似霰弹枪的弩，可以朝多个方向发射弩箭！
+		按住发射！
+		寒冷!
 		'''
 }
 
 CoralCrossbow: {
-	DisplayName: Night's Coral Crossbow
+	DisplayName: 永夜连弩
 	Tooltip:
 		'''
-		A speed type crossbow meant for hunters
-		Hold down to shoot!
-		The absolute, the enraged, the entropy, the finale!
+		一种适合猎人的连弩
+		按住发射！
+		绝对，愤怒，熵，与终局！
 		'''
 }
 
 MoltenCrossbow: {
-	DisplayName: Molten Crossbow
+	DisplayName: 炽热连弩
 	Tooltip:
 		'''
-		A speed type crossbow meant for hunters
-		Hold down to shoot!
-		Sometimes, we want to watch the world burn...
+		一种适合猎人的连弩
+		按住发射！
+		有时候，我们想看世界燃烧......
 		'''
 }
 
 FabiliaCrossbow: {
-	DisplayName: Fabilia Wilds Crossbow
+	DisplayName: Fabilia Wilds 弩（占位符人物名？）
 	Tooltip:
 		'''
-		Shotgun type crossbow that shoots bolts in many directions!
-		Hold down to shoot!
-		Explode enemies with this favorable fabilia crossbow :P
+		类似霰弹枪的弩，可以朝多个方向发射弩箭！
+		按住发射！
+		用这把Fabilia Wilds弩炸死所有敌人(｡･∀･)
 		'''
 }
 
 JadeJungleCrossbow: {
-	DisplayName: Jade Jungle Crossbow
+	DisplayName: 翡翠丛林弩
 	Tooltip:
 		'''
-		Sniper type crossbow that can be held down to shoot fast rail bolts!
-		Little leaves come out of the bolts
-		Grass can sometimes taste yummy :)
+		可以按住发射强大弩箭的强弩！
+		弩箭上还会有小叶片释放出来
+		草有时候也很好吃的(*-▽-)
 		'''
 }
 
 Heatspot: {
-	DisplayName: Heatspot
+	DisplayName: 热点
 	Tooltip:
 		'''
-		Are you burning yet?
-		+4% Magic damage :P
+		你还在燃烧吗?
+		增加4%的魔法伤害 :P
 		'''
 }
 
 Valtotude: {
-	DisplayName: Windatude
+	DisplayName: 风之囚笼
 	Tooltip:
 		'''
-		Create a swirl that keeps enemies inside a whirlwind
-		Great for getting your summons to attack enemies in one spot!
+		创造一个漩涡将敌人困在其中
+		很适合让召唤物在一个地方攻击敌人！
 		'''
 }
 
 DesertWhip: {
-	Tooltip: A small little whip
-	DisplayName: Desert Whip
+	Tooltip: 看起来像是一条小鞭子
+	DisplayName: 沙鞭
 }
 
 Vinger: {
-	Tooltip: I don't remember the goblins using this...
-	DisplayName: Vinger
+	Tooltip: 我不记得有哪个哥布林使用过这个...
+	DisplayName: 醋（写到这里）
 }
 
 CharmofRot: {
