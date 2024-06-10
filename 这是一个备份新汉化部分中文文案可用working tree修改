@@ -1799,265 +1799,269 @@ DesertWhip: {
 
 Vinger: {
 	Tooltip: 我不记得有哪个哥布林使用过这个...
-	DisplayName: 醋（写到这里）
+	DisplayName: Vinger醋（占位符）
 }
 
 CharmofRot: {
 	Tooltip:
 		'''
-		Rotting with the webs
-		+8% Summon Damage
+		与蛛网一同腐朽
+		增加8%的召唤伤害
 		'''
-	DisplayName: Charm of Rot
+	DisplayName: 腐朽护符
 }
 
 Vheilatine: {
-	Tooltip: Forged straight from the masters of gothivia's worshippers!
-	DisplayName: Vheilatine
+	Tooltip: Forged straight from the masters of gothivia's worshippers!由哥帝维亚的仆从中锻造而成！
+	DisplayName: Vheilatine（占位符）
 }
 
 AcidStaketers: {
-	DisplayName: Acid Skaters
-	Tooltip: Makes the wearer run super fast!
+	DisplayName: 酸性加速器
+	Tooltip: 使佩戴者跑得超快！
 }
 
 AquaCrystal: {
-	DisplayName: Aqua Crystal
-	Tooltip: 15% Increased ranged critical strike chance!
+	DisplayName: 晶泪
+	Tooltip: 增加15%的远程暴击率!
 }
 
 AquaticHealingNecklace: {
-	DisplayName: Aquatic Healing Necklace
+	DisplayName: 水疗项链
 	Tooltip:
 		'''
-		Slightly increased life regeneration
-		10% increased movement speed
+		轻微增加生命恢复速度
+		增加10%的移动速度
 		'''
 }
 
 ArncharMagazine: {
-	DisplayName: Arnchar Magazine
-	Tooltip: Increases ranged critical strike chance by 10%
+	DisplayName: Arnchar弹夹
+	Tooltip: 增加10%的远程暴击率!
 }
 
 ClamsPearl: {
-	DisplayName: Clams Pearl
-	Tooltip: A small light will emit off you :)
+	DisplayName: 蚌壳珍珠
+	Tooltip: 你身上会发出微光(*-▽-)
 }
 
 CloudSkaters: {
-	DisplayName: Cloud Skaters
-	Tooltip: Stay airbourne for longer and defy gravity!
+	DisplayName: 云中鞋
+	Tooltip: 
+		'''
+		让你在空中停留更长时间，当然，牛顿是管不了游戏的
+		（小蓝幽太可爱了！表达了另一个汉化作者对蓝幽的喜爱之情）
+		'''	
 }
 
 CoralBand: {
-	DisplayName: Coral Band
-	Tooltip: 5% increased Melee damage and Critical Strike Chance!
+	DisplayName: 珊瑚头箍
+	Tooltip: 增加5%的近战伤害和近战暴击率!
 }
 
 GintzlMetal: {
-	DisplayName: Gintzl Metal
-	Tooltip: A metal stolen from Gothivia's castle, and has rotted and turned into gintze metal.
+	DisplayName: 重钢
+	Tooltip: 从高提维亚城堡偷来的金属，已经腐蚀并变成了重钢。
 }
 
 EaglesGrace: {
-	DisplayName: Eagles Grace
-	Tooltip: A special eagle gives you flight from a sacred nest of the fable
+	DisplayName: 鹰之恩赐
+	Tooltip: 一只特殊的鹰赐予你飞行的能力，来自黎明圣地的神圣巢穴。
 }
 
 GhostExcalibur: {
-	DisplayName: Ghost Excalibur
-	Tooltip: Summons an excalibur to fight for you!
+	DisplayName: 幽灵神剑
+	Tooltip: 召唤一把幽灵神剑为你而战！
 }
 
 LeatherGlove: {
-	DisplayName: Leather Glove
+	DisplayName: 皮制手套
 	Tooltip:
 		'''
-		10% increased throwing damage
-		Increased throwing velocity
+		增加10%投掷伤害
+		增加投掷速度
 		'''
 }
 
 LunarBand: {
-	DisplayName: Lunar Band
+	DisplayName: 月牙头箍
 	Tooltip:
 		'''
-		Increases critical strike chance by 8%
-		During night, you have 12% more damage and give off some light
+		增加8%的暴击率
+		在夜晚，你有12%的伤害时散发一些光芒
 		'''
 }
 
 OceanScroll: {
-	DisplayName: Ocean Scroll
-	Tooltip: Increased Magical Critical strike chance by 10%
+	DisplayName: 海洋卷轴
+	Tooltip: 增加20%的魔法暴击率！
 }
 
 OceansTrinket: {
-	DisplayName: Oceans Trinket
-	Tooltip: Increases max minions by 1 and 8% increased summon damage!
+	DisplayName: 海洋护符
+	Tooltip: 最大召唤栏增加1 和 增加8%的召唤伤害！
 }
 
 RuneOfCorsage: {
-	DisplayName: Rune Of Corsage
-	Tooltip: Has a chance to gift super healing, if you were hit while under the effects of super healing everything on screen will be poisoned.
+	DisplayName: 活力符文
+	Tooltip: 有机会获得超级治疗效果，如果在超级治疗状态下受到攻击，屏幕上的所有敌人都会中毒。
 }
 
 RuneOfDetonation: {
-	DisplayName: Rune Of Detonation
-	Tooltip: Has a chance to explode enemies doing double damage
+	DisplayName: 爆炸符文
+	Tooltip: 有机会使被攻击的敌人爆炸，造成双倍伤害。
 }
 
 RuneOfReality: {
-	DisplayName: Rune Of Reality
-	Tooltip: When you hit an enemy, you will release homing magic bolts that summon mana stars when they hit
+	DisplayName: 真实符文
+	Tooltip: 攻击敌人时会释放可追踪的魔法箭并召唤魔力星。
 }
 
 RuneOfShade: {
-	DisplayName: Rune Of Shade
-	Tooltip: +20 Max mana
+	DisplayName: 阴影符文
+	Tooltip: 最大魔力值增加20
 }
 
 RuneOfStealth: {
-	DisplayName: Rune Of Stealth
-	Tooltip: "You will slowly increase damage until you are hit You will glow a bright red when you are at your most powerful form "
+	DisplayName: 潜行符文
+	Tooltip: 你的伤害会逐渐增加，直到受到攻击。当你处于最强形态时，你会发出明亮的红光。
 }
 
 ShadeCharm: {
-	DisplayName: Shade Charm
-	Tooltip: Decreases Mana Cost and lights up in the night
+	DisplayName: 阴影护符
+	Tooltip: 减少魔力消耗并在夜晚发光
 }
 
 ShadeScarf: {
-	DisplayName: Shadei
+	DisplayName: 阴影围巾
 	Tooltip:
 		'''
-		Increased movement speed
-		+2% Damage
-		Gives effects of steali and adds +10 Health and +10% critical strike chance!
-		Increased life regeneration!
-		Reduced cooldown time from Steali on dash!
+		增加移动速度
+		增加2%的伤害
+		给予潜行效果，最大生命值增加40 和 增加10%暴击率！
+		增加生命恢复速度！
+		Reduced cooldown time from Steali on dash!减少潜行在冲刺上的冷却时间!
 		'''
 }
 
 ShellSheid: {
-	DisplayName: Shell Shield
-	Tooltip: Shelly!
+	DisplayName: 贝壳之盾
+	Tooltip: 贝壳！
 }
 
 SoulStrideres: {
-	DisplayName: Soul Strideres
+	DisplayName: 灵魂行者
 	Tooltip:
 		'''
-		Increased movement speed and airtime!
-		Effects of rocket boots!
-		I don't wanna have my soul turned into boots :(
+		增加移动速度和空中滞留的时间!
+		拥有火箭靴的效果!
+		我不想将我的灵魂变成一双靴子啊....../_ \
 		'''
 }
 
 SpiritPendent: {
-	DisplayName: Spirit Pendent
-	Tooltip: Provides a small light
+	DisplayName: 灵魂吊坠
+	Tooltip: 提供微弱的光照
 }
 
 StarflareBand: {
-	DisplayName: Starflare Band
+	DisplayName: 星火头箍
 	Tooltip:
 		'''
-		+10% Magic Damage
-		Increased Mana regeneration!
-		Reduced Mana cost :o
+		增加10%的魔法伤害
+		增加魔力恢复速度!
+		减少魔力消耗 （*O-O*)
 		'''
 }
 
 SunGlyph: {
-	DisplayName: Sun Glyph
-	Tooltip: Greatly increases all damage in the daylight.
+	DisplayName: 太阳雕纹
+	Tooltip: 在白天，大幅度增加所有伤害。
 }
 
 WoodShield: {
-	DisplayName: Wood Shield
-	Tooltip: The cooler daniel.
+	DisplayName: 木制盾牌
+	Tooltip: The cooler daniel.（占位符）
 }
 
 AcidBody: {
-	DisplayName: Virulent Body
-	Tooltip: Life regeneration is increased by a small amount.
+	DisplayName: 剧毒胸甲
+	Tooltip: 轻微增加生命恢复速度
 }
 
 AcidHelm: {
-	DisplayName: Virulent Helm
+	DisplayName: 剧毒头盔(占位符，有套装效果)
 	Tooltip:
 		'''
-		+5% melee damage
-		+1% melee critical strike chance
+		增加5%的近战伤害
+		增加1%的近战暴击率
 		'''
 }
 
 AcidLegs: {
-	DisplayName: Virulent Legs
-	Tooltip: Slightly increased movement speed :P
+	DisplayName: 剧毒护腿
+	Tooltip: 轻微增加移动速度 (•ω•*)
 }
 
 AcidMask: {
-	DisplayName: Virulent Mask
+	DisplayName: 剧毒面具(占位符，有套装效果)
 	Tooltip:
 		'''
-		+5% ranged damage
-		+8% ranged critical strike chance
+		增加5%的远程伤害
+		增加8%的远程暴击率
 		'''
 }
 
 AcidRobe: {
-	DisplayName: Virulent Robe
+	DisplayName: 剧毒袍服(占位符，有套装效果)
 	Tooltip:
 		'''
-		+5% magic damage
-		+6% magic critical strike chance
+		增加5%的魔法伤害
+		增加6%的魔法暴击率
 		'''
 }
 
 AcidVisor: {
-	DisplayName: Virulent Visor
+	DisplayName: 剧毒面甲(占位符，有套装效果)
 	Tooltip:
 		'''
-		+6% throwing damage
-		+7% throwing critical strike chance
+		增加6%的投掷伤害
+		增加7%的投掷暴击率
 		'''
 }
 
 AstrasilkBody: {
-	DisplayName: Astrasilk Robe
-	Tooltip: +15% magic critical strike chance
+	DisplayName: 星丝袍服
+	Tooltip: 增加15%的魔法暴击率
 }
 
 AstrasilkHead: {
-	DisplayName: Astrasilk Hat
-	Tooltip: Slightly increases mana regeneration
+	DisplayName: 星丝头盔(占位符，有套装效果)
+	Tooltip: 稍微增加魔法恢复速度
 }
 
 AstrasilkLegs: {
-	DisplayName: Astrasilk Leggings
-	Tooltip: Increases movement speed by 20%
+	DisplayName: 星丝护腿
+	Tooltip: 增加20%移动速度
 }
 
 ElagentBody: {
-	DisplayName: Elegant Coat
-	Tooltip: +1 Minion
+	DisplayName: 雅致大衣
+	Tooltip: 最大召唤栏增加1
 }
 
 ElagentHead: {
-	DisplayName: Elegant Crown
-	Tooltip: +20% Minion Damage
+	DisplayName: 雅致王冠(占位符，有套装效果)
+	Tooltip: 增加20%的召唤伤害
 }
 
 ElagentLegs: {
-	DisplayName: Elegant Leggings
+	DisplayName: 雅致护腿
 	Tooltip:
 		'''
-		+10% Summon Damage
-		+2 Minions
-		Increased movement speed
+		增加10%的召唤伤害
+		最大召唤栏增加2
+		增加移动速度
 		'''
 }
 

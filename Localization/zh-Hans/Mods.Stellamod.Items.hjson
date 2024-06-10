@@ -1799,21 +1799,21 @@ DesertWhip: {
 
 Vinger: {
 	Tooltip: 我不记得有哪个哥布林使用过这个...
-	DisplayName: 醋（写到这里qwq）
+	DisplayName: Vinger醋（占位符）
 }
 
 CharmofRot: {
-	DisplayName: 腐朽护符
 	Tooltip:
-	'''
-	与蛛网一同腐朽
-	+8% 召唤伤害
-	'''
+		'''
+		与蛛网一同腐朽
+		增加8%的召唤伤害
+		'''
+	DisplayName: 腐朽护符
 }
 
 Vheilatine: {
-	DisplayName: 维拉汀
-	Tooltip: 由哥帝维亚的仆从中锻造而成！
+	Tooltip: Forged straight from the masters of gothivia's worshippers!由哥帝维亚的仆从中锻造而成！
+	DisplayName: Vheilatine（占位符）
 }
 
 AcidStaketers: {
@@ -1823,17 +1823,21 @@ AcidStaketers: {
 
 AquaCrystal: {
 	DisplayName: 晶泪
-	Tooltip: 提高暴击几率！
+	Tooltip: 增加15%的远程暴击率!
 }
 
 AquaticHealingNecklace: {
 	DisplayName: 水疗项链
-	Tooltip: 增加生命回复速度和移动速度！
+	Tooltip:
+		'''
+		轻微增加生命恢复速度
+		增加10%的移动速度
+		'''
 }
 
 ArncharMagazine: {
 	DisplayName: Arnchar弹夹
-	Tooltip: 增加5%的远程暴击几率！
+	Tooltip: 增加10%的远程暴击率!
 }
 
 ClamsPearl: {
@@ -1843,12 +1847,16 @@ ClamsPearl: {
 
 CloudSkaters: {
 	DisplayName: 云中鞋
-	Tooltip: 让你在空中停留更长时间，当然，牛顿是管不了游戏的
+	Tooltip: 
+		'''
+		让你在空中停留更长时间，当然，牛顿是管不了游戏的
+		（小蓝幽太可爱了！表达了另一个汉化作者对蓝幽的喜爱之情）
+		'''	
 }
 
 CoralBand: {
-	DisplayName: 珊瑚戒指
-	Tooltip: 大幅增加近战伤害和暴击几率！
+	DisplayName: 珊瑚头箍
+	Tooltip: 增加5%的近战伤害和近战暴击率!
 }
 
 GintzlMetal: {
@@ -1863,32 +1871,35 @@ EaglesGrace: {
 
 GhostExcalibur: {
 	DisplayName: 幽灵神剑
-	Tooltip: 召唤一把神剑为你而战！
-}
-
-GiftOfLife: {
-	DisplayName: 生命恩赐
-	Tooltip: ""
+	Tooltip: 召唤一把幽灵神剑为你而战！
 }
 
 LeatherGlove: {
 	DisplayName: 皮制手套
-	Tooltip: 增加投掷伤害和投掷速度。
+	Tooltip:
+		'''
+		增加10%投掷伤害
+		增加投掷速度
+		'''
 }
 
 LunarBand: {
-	DisplayName: 月光戒指
-	Tooltip: 夜晚总是增加暴击几率和伤害
+	DisplayName: 月牙头箍
+	Tooltip:
+		'''
+		增加8%的暴击率
+		在夜晚，你有12%的伤害时散发一些光芒
+		'''
 }
 
 OceanScroll: {
 	DisplayName: 海洋卷轴
-	Tooltip: 增加20%的魔法暴击几率！
+	Tooltip: 增加20%的魔法暴击率！
 }
 
 OceansTrinket: {
 	DisplayName: 海洋护符
-	Tooltip: 增加1个最大召唤槽，并提高8%的召唤伤害！
+	Tooltip: 最大召唤栏增加1 和 增加8%的召唤伤害！
 }
 
 RuneOfCorsage: {
@@ -1903,12 +1914,12 @@ RuneOfDetonation: {
 
 RuneOfReality: {
 	DisplayName: 真实符文
-	Tooltip: 每当击中敌人时，你会释放可追踪的魔法箭，击中时会召唤魔力星。
+	Tooltip: 攻击敌人时会释放可追踪的魔法箭并召唤魔力星。
 }
 
 RuneOfShade: {
 	DisplayName: 阴影符文
-	Tooltip: +20最大魔力
+	Tooltip: 最大魔力值增加20
 }
 
 RuneOfStealth: {
@@ -1918,100 +1929,115 @@ RuneOfStealth: {
 
 ShadeCharm: {
 	DisplayName: 阴影护符
-	Tooltip: 减少法力消耗，并在夜晚发光
+	Tooltip: 减少魔力消耗并在夜晚发光
 }
 
 ShadeScarf: {
 	DisplayName: 阴影围巾
 	Tooltip:
-	'''
-	双击移动键以进行冲刺
-	增加移动速度 +10%伤害
-	获得潜行效果，+40生命和+10%暴击几率！ 增加生命再生速度！
-	'''
+		'''
+		增加移动速度
+		增加2%的伤害
+		给予潜行效果，最大生命值增加40 和 增加10%暴击率！
+		增加生命恢复速度！
+		Reduced cooldown time from Steali on dash!减少潜行在冲刺上的冷却时间!
+		'''
 }
 
 ShellSheid: {
 	DisplayName: 贝壳之盾
-	Tooltip: 壳利！
+	Tooltip: 贝壳！
 }
 
 SoulStrideres: {
 	DisplayName: 灵魂行者
 	Tooltip:
-	'''
-	增加移动速度和空中滞留的时间
-	拥有火箭靴的飞天效果
-	我不想将我的灵魂变成一双靴子啊....../_ \
-	'''
+		'''
+		增加移动速度和空中滞留的时间!
+		拥有火箭靴的效果!
+		我不想将我的灵魂变成一双靴子啊....../_ \
+		'''
 }
 
 SpiritPendent: {
 	DisplayName: 灵魂吊坠
-	Tooltip:
-	'''
-	提供微弱的光照
-	'''
+	Tooltip: 提供微弱的光照
 }
 
 StarflareBand: {
-	DisplayName: 星火头带
+	DisplayName: 星火头箍
 	Tooltip:
-	'''
-	+20%
-	魔法伤害 增加法力回复速度！
-	减少法力消耗 （*O-O*)
-	'''
+		'''
+		增加10%的魔法伤害
+		增加魔力恢复速度!
+		减少魔力消耗 （*O-O*)
+		'''
 }
 
 SunGlyph: {
 	DisplayName: 太阳雕纹
-	Tooltip: 大幅增加白天的所有伤害。
+	Tooltip: 在白天，大幅度增加所有伤害。
 }
 
 WoodShield: {
-	DisplayName: 木盾
-	Tooltip: 更酷的丹尼尔。
+	DisplayName: 木制盾牌
+	Tooltip: The cooler daniel.（占位符）
 }
 
-VirulentBody: {
+AcidBody: {
 	DisplayName: 剧毒胸甲
-	Tooltip: 增加一定的生命回复速率。
+	Tooltip: 轻微增加生命恢复速度
 }
 
-VirulentHelm: {
-	DisplayName: 剧毒重盔
-	Tooltip: 稍微增加近战伤害和暴击几率！
+AcidHelm: {
+	DisplayName: 剧毒头盔(占位符，有套装效果)
+	Tooltip:
+		'''
+		增加5%的近战伤害
+		增加1%的近战暴击率
+		'''
 }
 
-VirulentLegs: {
+AcidLegs: {
 	DisplayName: 剧毒护腿
-	Tooltip: 增加移动速度 (•ω•*)
+	Tooltip: 轻微增加移动速度 (•ω•*)
 }
 
-VirulentMask: {
-	DisplayName: 剧毒面具
-	Tooltip: 增加远程伤害和暴击几率！
+AcidMask: {
+	DisplayName: 剧毒面具(占位符，有套装效果)
+	Tooltip:
+		'''
+		增加5%的远程伤害
+		增加8%的远程暴击率
+		'''
 }
 
-VirulentRobe: {
-	DisplayName: 剧毒帽子
-	Tooltip: 增加魔法伤害和暴击几率！
+AcidRobe: {
+	DisplayName: 剧毒袍服(占位符，有套装效果)
+	Tooltip:
+		'''
+		增加5%的魔法伤害
+		增加6%的魔法暴击率
+		'''
 }
 
-VirulentVisor: {
-	DisplayName: 剧毒头盔
-	Tooltip: 增加投掷伤害和暴击几率！
+AcidVisor: {
+	DisplayName: 剧毒面甲(占位符，有套装效果)
+	Tooltip:
+		'''
+		增加6%的投掷伤害
+		增加7%的投掷暴击率
+		'''
 }
 
 AstrasilkBody: {
-	DisplayName: 星丝衣
-	Tooltip: ""
+	DisplayName: 星丝袍服
+	Tooltip: 增加15%的魔法暴击率
 }
 
 AstrasilkHead: {
-	DisplayName: 星丝头盔
-	Tooltip: 增加4%法力回复速度
+	DisplayName: 星丝头盔(占位符，有套装效果)
+	Tooltip: 稍微增加魔法恢复速度
 }
 
 AstrasilkLegs: {
@@ -2019,24 +2045,24 @@ AstrasilkLegs: {
 	Tooltip: 增加20%移动速度
 }
 
-ElegantBody: {
-	DisplayName: 雅致胸甲
-	Tooltip: +1 召唤栏
+ElagentBody: {
+	DisplayName: 雅致大衣
+	Tooltip: 最大召唤栏增加1
 }
 
-ElegantHead: {
-	DisplayName: 雅致头盔
-	Tooltip: +20% 召唤伤害
+ElagentHead: {
+	DisplayName: 雅致王冠(占位符，有套装效果)
+	Tooltip: 增加20%的召唤伤害
 }
 
-ElegantLegs: {
+ElagentLegs: {
 	DisplayName: 雅致护腿
 	Tooltip:
-	'''
-	+10%召唤伤害
-	+2召唤栏
-	增加移动速度
-	'''
+		'''
+		增加10%的召唤伤害
+		最大召唤栏增加2
+		增加移动速度
+		'''
 }
 
 ForestCoreBody: {
