@@ -36,7 +36,6 @@ Mods: {
 		}
 	}
 
-	#下面这堆都不用管
 	Tiles: {
 		// AlcaologyTable.MapEntry: Alcaology Table
 		// BroochesTable.MapEntry: Brooches Table

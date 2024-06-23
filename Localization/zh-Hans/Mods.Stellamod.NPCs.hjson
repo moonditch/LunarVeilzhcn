@@ -2,28 +2,28 @@ RoyalHorsemage.DisplayName: Royal Horsemage
 LonelySorceress.DisplayName: Lonely Sorceress
 CarianKnight.DisplayName: Carian Knight
 AlcaricVoidSmall.DisplayName: Alcaric Void Small
-MorrowedJellyFish.DisplayName: 黎明水母
-MossyZombie.DisplayName: 苔藓僵尸
-RubyBeetle.DisplayName: 红玉甲虫
-TribalPeasant.DisplayName: 部落战士
+ShadowWraith.DisplayName: 影灵
+ShadeSlime.DisplayName: 暗影史莱姆
+RoyalSlime.DisplayName: 史莱姆王子
+IvythornSlime.DisplayName: 常春藤史莱姆
 TribalWorshipper.DisplayName: Tribal Worshipper
-TribalPriest.DisplayName: Tribal Priest
+TribalPriest.DisplayName: 部落祭司
 TribalPeasant.DisplayName: Tribal Peasant
 TribalGuard.DisplayName: Tribal Guard
-TribalPriest.DisplayName: 部落祭司
-IvythornSlime.DisplayName: 常春藤史莱姆
-RoyalSlime.DisplayName: 史莱姆王子
-ShadeSlime.DisplayName: 暗影史莱姆
-ShadowWraith.DisplayName: 影灵
-EmeraldBeetle.DisplayName: Emerald Beetle
-AmethystBeetle.DisplayName: Amethyst Beetle
+TopazBeetle.DisplayName: 黄玉甲虫
+SapphireBeetle.DisplayName: 蓝玉甲虫
+RubyBeetle.DisplayName: 红玉甲虫
+MossyZombie.DisplayName: 苔藓僵尸
+MorrowedJellyFish.DisplayName: 黎明水母
+EmeraldBeetle.DisplayName: 翡翠甲虫
+AmethystBeetle.DisplayName: 紫晶甲虫
 GoliathJellyfish.DisplayName: Goliath Jellyfish
 GoliathCryogenicJellyfish.DisplayName: Goliath Cryogenic Jellyfish
-WinterbornBat.DisplayName: 冬生蝙蝠
-WinterBornSlime.DisplayName: 冬生史莱姆
-WinterSoul1.DisplayName: 冬之灵
-WinterSoul2.DisplayName: 冬之灵
 WinterSoul3.DisplayName: 冬之灵
+WinterSoul2.DisplayName: 冬之灵
+WinterSoul1.DisplayName: 冬之灵
+WinterBornSlime.DisplayName: 冬生史莱姆
+WinterbornBat.DisplayName: 冬生蝙蝠
 HarvestVirulent.DisplayName: ！
 SkyRune.DisplayName: Sky Rune
 RedLightBig.DisplayName: Red Light Big
@@ -44,13 +44,13 @@ BlueLightBig.DisplayName: Blue Light Big
 HarvestIce.DisplayName: Harvest Ice
 GovheilProtector.DisplayName: 戈茜维娅的守卫
 GovheilGuardian.DisplayName: Govheil Guardian
-GintziaHand.DisplayName: 重钢之手
-GintzeCaptain.DisplayName: 重钢队长
-GintzeSolider.DisplayName: 重钢士兵
-GintzeSpearman.DisplayName: 重钢枪兵
-GintzeWarrior.DisplayName: 重钢战士
-GintzeWindRider.DisplayName: 重钢飞毯骑士
 Gintzling.DisplayName: 重钢灵
+GintzeWindRider.DisplayName: 重钢飞毯骑士
+GintzeWarrior.DisplayName: 重钢战士
+GintzeSpearman.DisplayName: 重钢枪兵
+GintzeSolider.DisplayName: 重钢士兵
+GintzeCaptain.DisplayName: 重钢队长
+GintziaHand.DisplayName: 重钢之手
 StarSlime.DisplayName: Star Slime
 DiceinNPC.DisplayName: 骰子
 Shrewmet.DisplayName: Shrewmet
@@ -79,13 +79,13 @@ BlazingSerpentTail.DisplayName: Blazing Serpent Tail
 BlazingSerpentBody.DisplayName: Blazing Serpent Body
 BlazeBeamWarn.DisplayName: Blaze Beam Warn
 CatacombsBossSpawn.DisplayName: Catacombs Boss Spawner
-CloneV.DisplayName: 维尔莉娅克隆体
-GhostCharger.DisplayName: 幽灵充能仪
-StarteV.DisplayName: 维尔莉娅
-Sword1.DisplayName: 维尔莉娅的剑
-Sword2.DisplayName: 维尔莉娅的剑
-Sword3.DisplayName: 维尔莉娅的剑
 Viola.DisplayName: 沉重和弦
+Sword3.DisplayName: 维尔莉娅的剑
+Sword2.DisplayName: 维尔莉娅的剑
+Sword1.DisplayName: 维尔莉娅的剑
+StarteV.DisplayName: 维尔莉娅
+GhostCharger.DisplayName: 幽灵充能仪
+CloneV.DisplayName: 维尔莉娅克隆体
 Zapwarn.DisplayName: Zapwarn
 Veiizal.DisplayName: Veiizal
 VoidWall.DisplayName: Void Wall
@@ -221,7 +221,7 @@ BoundGia: {
 	}
 }
 
-CellConverter.DisplayName: Cell Converter
+CellConverter.DisplayName: 高能精炼器
 Delgrim.DisplayName: Delgrim
 
 Gambit: {

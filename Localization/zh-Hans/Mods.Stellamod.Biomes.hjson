@@ -1,16 +1,16 @@
 XixVillage: {
-	TownNPCDialogueName: the Xix Village第十九村
+	TownNPCDialogueName: 第十九村
 	DisplayName: 第十九村
 }
 
 VeriplantUndergroundBiome: {
-	TownNPCDialogueName: the Veriplant Underground Biome
-	DisplayName: Veriplant Underground Biome
+	TownNPCDialogueName: 地下酸蚀之地
+	DisplayName: 地下酸蚀之地
 }
 
 StarbloomBiome: {
-	TownNPCDialogueName: the Starbloom Biome
-	DisplayName: Starbloom Biome
+	TownNPCDialogueName: 绽星之地
+	DisplayName: 绽星之地
 }
 
 SeaTemple: {
@@ -34,13 +34,13 @@ MarrowSurfaceBiome: {
 }
 
 GovheilCastle: {
-	TownNPCDialogueName: 忍钢城堡
-	DisplayName: 忍钢城堡
+	TownNPCDialogueName: 戈茜维娅的城堡
+	DisplayName: 戈茜维娅的城堡
 }
 
 FableBiome: {
-	TownNPCDialogueName: 预言
-	DisplayName: 预言
+	TownNPCDialogueName: 寓言沼泽
+	DisplayName: 寓言沼泽
 }
 
 EngineerShop: {
@@ -64,23 +64,23 @@ CathedralBiome: {
 }
 
 CatacombWater: {
-	TownNPCDialogueName: 海洋地窖
-	DisplayName: 海洋地窖
+	TownNPCDialogueName: 海洋墓穴
+	DisplayName: 海洋墓穴
 }
 
 CatacombTrap: {
-	TownNPCDialogueName: 陷阱地窖
-	DisplayName: 陷阱地窖
+	TownNPCDialogueName: 陷阱墓穴
+	DisplayName: 陷阱墓穴
 }
 
 CatacombFlames: {
-	TownNPCDialogueName: 炎热地窖
-	DisplayName: 炎热地窖
+	TownNPCDialogueName: 炽热墓穴
+	DisplayName: 炽热墓穴
 }
 
 AurelusBiome: {
-	DisplayName: 星咏殿堂
 	TownNPCDialogueName: 星咏殿堂
+	DisplayName: 星咏殿堂
 }
 
 AlcadziaBiome: {
@@ -104,17 +104,16 @@ Laboratory: {
 }
 
 IlluriaBiome: {
-	TownNPCDialogueName: the Illuria Biome
-	DisplayName: Illuria Biome
+	TownNPCDialogueName: 伊鲁里亚之树
+	DisplayName: 伊鲁里亚之树
 }
 
 IshtarBiome: {
-	TownNPCDialogueName: the Ishtar Biome
-	DisplayName: Ishtar Biome
+	TownNPCDialogueName: 伊什塔尔-绝影之地
+	DisplayName: 伊什塔尔-绝影之地
 }
 
 VeilBiome: {
-	TownNPCDialogueName: the Veil Biome
-	DisplayName: Veil Biome
+	TownNPCDialogueName: 寒冰地牢
+	DisplayName: 寒冰地牢
 }
-

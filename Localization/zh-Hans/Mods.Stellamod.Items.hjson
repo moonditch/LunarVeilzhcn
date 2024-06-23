@@ -2,11 +2,11 @@ Accessories: {
 	HikersBackpack: {
 		DisplayName: 旅行者背包
 		Description:
-		'''
-		增加回复速度！
-		增加3%的伤害
-		行走时在地面上掉落尖刺！
-		'''
+			'''
+			增加回复速度！
+			增加3%的伤害
+			行走时在地面上掉落尖刺！
+			'''
 	}
 }
 
@@ -119,7 +119,6 @@ JellyfishTissue: {
 		增加40点防御
 		但伤害减少40%
 		'''
-	
 }
 
 MOTT: {
@@ -342,7 +341,6 @@ AstolfoBody: {
 		好吃！
 		最大生命值增加20
 		'''
-	
 }
 
 AstolfoMask: {
@@ -540,7 +538,7 @@ Morrowshroom: {
 }
 
 MorrowVine: {
-	DisplayName:  黎明藤蔓
+	DisplayName: 黎明藤蔓
 	Tooltip: A vine that grows underground and populates the world
 }
 
@@ -720,7 +718,7 @@ CathediteWall: {
 }
 
 CathedralChestI: {
-	DisplayName: 大教堂宝箱
+	DisplayName: 月光宝箱
 	Tooltip: ""
 }
 
@@ -791,7 +789,7 @@ MorrowChesti: {
 
 MorrowChestKey: {
 	DisplayName: 黎明钥匙
-	Tooltip: 晚上在世界各地使用传说中的箱子!
+	Tooltip: 在晚上，使用这把钥匙打开世界各地的黎明宝箱
 }
 
 MorrowDeath: {
@@ -1602,7 +1600,7 @@ Ebistar: {
 		'''
 }
 
-Heartspire: {
+Hearstspire: {
 	DisplayName: 心脉长枪
 	Tooltip:
 		'''
@@ -1836,7 +1834,7 @@ AquaticHealingNecklace: {
 }
 
 ArncharMagazine: {
-	DisplayName: Arnchar弹夹
+	DisplayName: 焰碳弹夹
 	Tooltip: 增加10%的远程暴击率!
 }
 
@@ -1847,11 +1845,11 @@ ClamsPearl: {
 
 CloudSkaters: {
 	DisplayName: 云中鞋
-	Tooltip: 
+	Tooltip:
 		'''
 		让你在空中停留更长时间，当然，牛顿是管不了游戏的
 		（小蓝幽太可爱了！表达了另一个汉化作者对蓝幽的喜爱之情）
-		'''	
+		'''
 }
 
 CoralBand: {
@@ -2135,7 +2133,7 @@ ShadeWraithLegs: {
 
 TerricBody: {
 	DisplayName: 恐惧链甲
-	Tooltip: 最大生命值增加40 
+	Tooltip: 最大生命值增加40
 }
 
 TerricHead: {
@@ -2210,7 +2208,7 @@ WanderingEssence: {
 
 ArnchaliteBar: {
 	DisplayName: 焰碳锭（焰碳金？占位符）
-	Tooltip: Its scolding hot! But its not old enough to be verian yet.烫手！但还不够老到是维里安的。
+	Tooltip: 烫手！但还不如炽炎锭
 }
 
 ArncharChunk: {
@@ -2225,17 +2223,17 @@ BlankRune: {
 
 ConvulgingMater: {
 	DisplayName: 痉挛物质
-	Tooltip: 一种腐化人并使其堕落的黑暗物质。
+	Tooltip: 一种腐化人并使其堕落的黑暗物质
 }
 
 DarkEssence: {
 	DisplayName: 黑暗精华
-	Tooltip: 由最黑暗的实体所凝聚的纯粹暗影。
+	Tooltip: 由最黑暗的实体所凝聚的纯粹暗影
 }
 
 DreadFoil: {
-	DisplayName: Dread Foil恐惧箔
-	Tooltip: Foil captured from Dreadmire!从恐惧泥沼中所得到的箔！
+	DisplayName: 恐惧箔
+	Tooltip: 从恐惧泥沼中所得到的箔！
 }
 
 EldritchSoul: {
@@ -2245,7 +2243,7 @@ EldritchSoul: {
 
 Ivythorn: {
 	DisplayName: 常春藤荆棘
-	Tooltip: 一种有毒的植物，能缠绕生物。
+	Tooltip: 一种有毒的植物，能缠绕生物
 }
 
 LostScrap: {
@@ -2358,7 +2356,7 @@ Aneuriliac: {
 
 Astalaiya: {
 	DisplayName: Astalaiya
-	Tooltip: Summons a flurry of colorful stars!
+	Tooltip: 召唤一个flurry of colorful stars!
 }
 
 FungalFlace: {
@@ -2394,7 +2392,7 @@ StaffOFlame: {
 	DisplayName: Staff O Flame
 	Tooltip:
 		'''
-		Summons a cute lil' flame
+		召唤一个cute lil' flame
 		:3
 		'''
 }
@@ -2680,15 +2678,15 @@ WingedFury: {
 }
 
 ArncharRemote: {
-	DisplayName: Arnchar Remote
-	Tooltip: Summons an arnchar robot to fight for you!
+	DisplayName: 焰碳遥控器
+	Tooltip: 召唤一个焰碳机器人为你而战！
 }
 
 DripplerStaff: {
 	DisplayName: Drippler Staff
 	Tooltip:
 		'''
-		Summons a drippler to fight for you!
+		召唤一个drippler为你而战！
 		Dripplers stick to enemies and spew blood everywhere
 		Drippy
 		'''
@@ -2698,7 +2696,7 @@ IrradiatedCreeperStaff: {
 	DisplayName: Irradiated Creeper Staff
 	Tooltip:
 		'''
-		Summons an irradiated creeper to fight for you!
+		召唤一个irradiated creeper为你而战！
 		Irradiated creepers irradiate enemies and move quite interestingly
 		I see the resemblence..
 		'''
@@ -2706,14 +2704,14 @@ IrradiatedCreeperStaff: {
 
 IvyakenStaff: {
 	DisplayName: Ivyaken Staff
-	Tooltip: Summons a small little guy to fight for you
+	Tooltip: 召唤一个small little guy to fight for you
 }
 
 JellyStaff: {
 	DisplayName: Jelly Staff
 	Tooltip:
 		'''
-		Summons a small jelly to fight for you!
+		召唤一个small jelly为你而战！
 		The jellies will charge up and zap nearby enemies
 		'''
 }
@@ -2731,7 +2729,7 @@ VoidStaff: {
 	DisplayName: Void Staff
 	Tooltip:
 		'''
-		Summons a mini singularity to fight for you!
+		召唤一个mini singularity为你而战！
 		Requires 2 minion slots
 		'''
 }
@@ -2855,7 +2853,7 @@ GothiviasSeal: {
 	DisplayName: Gothivias Seal
 	Tooltip:
 		'''
-		Take it to the depths of the Virulent.
+		将它带到酸蚀之地的深处
 		There lies a castle awaiting your arrival...
 		'''
 }
@@ -2929,32 +2927,32 @@ GintzeCard: {
 }
 
 AurelusTempleTile: {
-	DisplayName: Aurelus Temple Tile
-	Tooltip: Why do you have this?
+	DisplayName: 星咏砖
+	Tooltip: 你不应该有此物品
 }
 
 AurelusChesti: {
 	Tooltip: ""
-	DisplayName: Aurelus Chest
+	DisplayName: 星咏箱
 }
 
 AurelusBanneri: {
-	DisplayName: Aurelus Banner
+	DisplayName: 星咏旗
 	Tooltip: ""
 }
 
 AurelusPosti: {
 	Tooltip: ""
-	DisplayName: Aurelus Post
+	DisplayName: 星咏殿堂
 }
 
 AurelusBanner2i: {
 	Tooltip: ""
-	DisplayName: Aurelus Banner II
+	DisplayName: 星咏旗
 }
 
 AurelusBorderI: {
-	DisplayName: Aurelus Border I
+	DisplayName: 星咏殿堂
 	Tooltip: ""
 }
 
@@ -2972,19 +2970,19 @@ IceboundStaff: {
 	DisplayName: Icebound Staff
 	Tooltip:
 		'''
-		Summons a winterborn bat to fight for you!
+		召唤一个winterborn bat为你而战！
 		Bats consume half a minion slot, and will all swarm the same target
 		Frozen by the icebound and spirits!
 		'''
 }
 
 AurelusDoor: {
-	DisplayName: Aurelus Door
-	Tooltip: You really shouldnt use this
+	DisplayName: 星咏门
+	Tooltip: 你不应该有此物品
 }
 
 AurelusSummoni: {
-	DisplayName: Aurelus Summoni
+	DisplayName: 星咏祭坛
 	Tooltip: ""
 }
 
@@ -2998,8 +2996,8 @@ MagnusMagnum: {
 }
 
 VoidKey: {
-	DisplayName: Void Key
-	Tooltip: Use in the bottom of the Abysm under the ice, you might find something.
+	DisplayName: 虚空密钥
+	Tooltip: 在雪原地下的星咏殿堂使用这把钥匙，你会发现一些神秘之物
 }
 
 Neptune8Card: {
@@ -3227,7 +3225,7 @@ TheBurningRod: {
 	DisplayName: The Burning Rod
 	Tooltip:
 		'''
-		Summons a lamp to fight for you!
+		召唤一个lamp为你而战！
 		Lamps shoot blasts of ichor at enemies
 		They may be innacurate but they get the job done :P
 		'''
@@ -3348,12 +3346,12 @@ VerliBossRel: {
 }
 
 StarbloomBlock: {
-	DisplayName: Starbloom Block
+	DisplayName: 绽星块
 	Tooltip: ""
 }
 
 StarbloomDirtBlock: {
-	DisplayName: Starbloom Dirt Block
+	DisplayName: 绽星土
 	Tooltip: ""
 }
 
@@ -3373,7 +3371,7 @@ MushroomStave: {
 }
 
 StarbloomTempleBlock: {
-	DisplayName: Starbloom Temple Block
+	DisplayName: 绽星砖
 	Tooltip: ""
 }
 
@@ -3393,8 +3391,8 @@ AuroreanStarI: {
 }
 
 StoneKey: {
-	DisplayName: Stone Key
-	Tooltip: ""
+	DisplayName: 石钥匙
+	Tooltip: 使用这把钥匙打开石质宝箱
 }
 
 NoxianWood: {
@@ -3403,7 +3401,7 @@ NoxianWood: {
 }
 
 StoneChesti: {
-	DisplayName: Stone Chest
+	DisplayName: 石箱
 	Tooltip: ""
 }
 
@@ -3621,7 +3619,7 @@ FireflyStaff: {
 	DisplayName: Firefly Staff
 	Tooltip:
 		'''
-		Summons a firefly to fight for you!
+		召唤一个firefly为你而战！
 		Right click to swap between attack mode and defense mode, gaining stats that scale with the number of fireflies
 		While in offense mode, you gain movement speed and flight mobility
 		While in defense mode, you gain defense and life regen, but your fireflies attack slower
@@ -3632,7 +3630,7 @@ VampireScepter: {
 	DisplayName: Vampire Scepter
 	Tooltip:
 		'''
-		Summons a vampiric torch to aid you in battle
+		召唤一个vampiric torch to aid you in battle
 		The torch completely negates life regen, however you have immense lifesteal while close to enemies
 		Greatly increases summon damage while active
 		There can only be one
@@ -3829,7 +3827,7 @@ Thunderstaff: {
 	DisplayName: Thunderstaff
 	Tooltip:
 		'''
-		Summons a lil' cloud to protect you!
+		召唤一个lil' cloud to protect you!
 		The clouds perform different attacks based on the number that you have
 			Lvl 1 - Frost Bolts
 			Lvl 2 - Lightning Bolts
@@ -3970,12 +3968,12 @@ BlackWallBlock: {
 }
 
 MossyStones: {
-	DisplayName: Mossy Stones
+	DisplayName: 苔石
 	Tooltip: ""
 }
 
 VeriplantGrassBlock: {
-	DisplayName: Veriplant Grass Block
+	DisplayName: 生机蔓草
 	Tooltip: ""
 }
 
@@ -3985,12 +3983,12 @@ ChiseledStoneBlock: {
 }
 
 VeriplantDirtBlock: {
-	DisplayName: Veriplant Dirt Block
+	DisplayName: 肥沃土块
 	Tooltip: ""
 }
 
 VeriplantGrassWall: {
-	DisplayName: Veriplant Grass Wall
+	DisplayName: 生机蔓草墙
 	Tooltip: ""
 }
 
@@ -4043,7 +4041,7 @@ PotOfGreed: {
 	DisplayName: Pot Of Greed
 	Tooltip:
 		'''
-		Summons a laughing pot that creates up to 10 shadow clones of your minions when you go near it
+		召唤一个laughing pot that creates up to 10 shadow clones of your minions when you go near it
 		The shadow clones linger for a short while and deal less damage than the real thing
 		There can only be one
 		'''
@@ -4051,12 +4049,12 @@ PotOfGreed: {
 
 Ripper: {
 	DisplayName: Ripper
-	Tooltip: Summons a storm of swords towards your cursor!
+	Tooltip: 召唤一个storm of swords towards your cursor!
 }
 
 XScissor: {
 	DisplayName: X-Scissor
-	Tooltip: Summons a cross-shaped rift that unleashes various horrors from the void
+	Tooltip: 召唤一个cross-shaped rift that unleashes various horrors from the void
 }
 
 LittleScissor: {
@@ -4192,7 +4190,7 @@ TomedDustingMagic: {
 
 JacksonPollock: {
 	DisplayName: Jackson Pollock
-	Tooltip: Summons a floating paint bucket sentry that spills paint everywhere
+	Tooltip: 召唤一个floating paint bucket sentry that spills paint everywhere
 }
 
 Rhamenthal: {
@@ -4207,7 +4205,7 @@ Angelenthal: {
 
 RoseBroochA: {
 	DisplayName: Rose Brooch
-	Tooltip: Summons a rose shield that rotates around you and blocks projectiles
+	Tooltip: 召唤一个rose shield that rotates around you and blocks projectiles
 }
 
 Nekomara: {
@@ -4437,23 +4435,23 @@ CatacombTrapStoneBlock: {
 }
 
 CatacombsKey: {
-	DisplayName: Catacombs Key
-	Tooltip: Use these to enter catacombs under the ocean, desert and underground!
+	DisplayName: 坟墓钥匙
+	Tooltip: 使用这把钥匙打开地下沙漠、地狱和海洋下方的坟墓
 }
 
 CatacombsDoor: {
-	DisplayName: Catacombs Door
+	DisplayName: 坟墓门
 	Tooltip: ""
 }
 
 CatacombsSummoni: {
-	DisplayName: Catacombs Summoni
+	DisplayName: 坟墓祭坛
 	Tooltip: ""
 }
 
 GraftedSoul: {
-	DisplayName: Contaminated Soul
-	Tooltip: An essense grafted of contamination..
+	DisplayName: 污秽之魂
+	Tooltip: 包含污染的本质...
 }
 
 GoldenHeartBalls: {
@@ -4487,7 +4485,7 @@ PotionOfHallowWand: {
 	DisplayName: Potion Of Hallow Wand
 	Tooltip:
 		'''
-		Summons a little hallow potion minion to rain down upon your enemies
+		召唤一个little hallow potion minion to rain down upon your enemies
 		The cooler Golden Shower~
 		'''
 }
@@ -4622,7 +4620,7 @@ Barry: {
 	DisplayName: Barry
 	Tooltip:
 		'''
-		Summons an orbiting shield of infected spikes to protect you!
+		召唤一个orbiting shield of infected spikes to protect you!
 		Everyone loves Barry :)
 		'''
 }
@@ -4631,7 +4629,7 @@ Bonfire: {
 	DisplayName: Bonfire
 	Tooltip:
 		'''
-		Summons a bonfire over your head, it increases your life regen and provides light
+		召唤一个bonfire over your head, it increases your life regen and provides light
 		It grows stronger when you are not moving!
 		'''
 }
@@ -5197,7 +5195,7 @@ ArncharSuperCharger: {
 }
 
 CinderChesti: {
-	DisplayName: Cinder Chesti
+	DisplayName: 灰烬宝箱
 	Tooltip: ""
 }
 
@@ -5311,7 +5309,7 @@ YuriFury: {
 
 ToxicHornetStaff: {
 	DisplayName: Toxic Hornet Staff
-	Tooltip: Summons a toxic hornet to chase after enemies!
+	Tooltip: 召唤一个toxic hornet to chase after enemies!
 }
 
 ZenoviasPikpikGlove: {
@@ -5368,7 +5366,7 @@ ChromaCutter: {
 	DisplayName: Chroma Cutter
 	Tooltip:
 		'''
-		Summons 7 Chromatic Blades to fight for you! Consumes all remaining minion slots upon use.
+		Summons 7 Chromatic Blades为你而战！ Consumes all remaining minion slots upon use.
 		After summoning the blades, swing the sword to slash them towards your cursor.
 		Each blade has a different effect!
 		'''
@@ -5389,7 +5387,7 @@ MechanicI: {
 }
 
 ScrapToken: {
-	Tooltip: Put inside a cell converter with Delgrim.
+	Tooltip: Put inside a 高能精炼器 with Delgrim.
 	DisplayName: Scrap Token
 }
 
@@ -5693,7 +5691,7 @@ KilliaBroochA: {
 	DisplayName: Radiated Dreadrose Brooch
 	Tooltip:
 		'''
-		Summons a rose shield that rotates around you and blocks projectiles!
+		召唤一个rose shield that rotates around you and blocks projectiles!
 		+80 Health
 		We walking out of here good this time :p
 		+5% Damage
@@ -5916,48 +5914,48 @@ TwinStarbombas: {
 }
 
 IlluriaDirtBlock: {
-	DisplayName: Illuria Dirt Block
+	DisplayName: 伊鲁里亚土
 	Tooltip: ""
 }
 
 IlluriaDirtWallBlock: {
-	DisplayName: Illuria Dirt Wall Block
+	DisplayName: 伊鲁里亚土墙
 	Tooltip: ""
 }
 
 IlluriaGrassBlock: {
-	DisplayName: Illuria Grass Block
+	DisplayName: 伊鲁里亚草
 	Tooltip: ""
 }
 
 IlluriaLeaves: {
-	DisplayName: Illuria Leaves
+	DisplayName: 伊鲁里亚树叶
 	Tooltip: ""
 }
 
 IlluriaRuneBlock: {
-	DisplayName: Illuria Rune Block
+	DisplayName: 伊鲁里亚符文
 	Tooltip: ""
 }
 
 IlluriaWoodBlock: {
-	DisplayName: Illuria Wood Block
+	DisplayName: 伊鲁里亚木
 	Tooltip: ""
 }
 
 IlluriaTreeSmallI: {
 	Tooltip: ""
-	DisplayName: Illuria Tree Small I
+	DisplayName: 伊鲁里亚小树
 }
 
 IlluriaTreeMedI: {
 	Tooltip: ""
-	DisplayName: Illuria Tree Med I
+	DisplayName: 伊鲁里亚树
 }
 
 IlluriaTreeBigI: {
 	Tooltip: ""
-	DisplayName: Illuria Tree Big I
+	DisplayName: 伊鲁里亚大树
 }
 
 ThePollinator: {
@@ -5991,13 +5989,13 @@ SirestiasToken: {
 	Tooltip:
 		'''
 		A token of graditude given from Sirestias after achieving her goals.
-		Use at the cell converter with a badged weapon in hand to switch it's class!
+		Use at the 高能精炼器 with a badged weapon in hand to switch it's class!
 		'''
 	DisplayName: Sirestias Token
 }
 
 IlluriaChesti: {
-	DisplayName: Illuria Chesti
+	DisplayName: 伊鲁里亚箱
 	Tooltip: ""
 }
 
@@ -6428,7 +6426,7 @@ IllurianLoveLocket: {
 	DisplayName: Illurian Love Locket
 	Tooltip:
 		'''
-		Summons a ring a powerful orbiting stars around you!
+		召唤一个ring a powerful orbiting stars around you!
 		Said to be filled with a fragment of Niivi's love
 		'''
 }
@@ -6547,8 +6545,8 @@ LiliumArrow: {
 }
 
 IshtarKey: {
-	DisplayName: Ishtar Key
-	Tooltip: Willed with insanity, use this key in the Ishtar to open things.
+	DisplayName: 伊什塔尔钥匙
+	Tooltip: 被疯狂所驱使，使用这把钥匙打开伊什塔尔宝箱
 }
 
 IshtarCandle: {
@@ -6786,13 +6784,13 @@ TheReaving: {
 }
 
 TempleKeyMold: {
-	DisplayName: Temple Key Mold
-	Tooltip: The mold to help create the Temple key!
+	DisplayName: 神庙钥匙模具
+	Tooltip: 用来制作神庙钥匙的模具！
 }
 
 TempleKeyPart: {
-	DisplayName: Temple Key Part
-	Tooltip: It seems Ereshkigal broke the key and attached it to the singularity. How cruel.
+	DisplayName: 神庙钥匙零件
+	Tooltip: 看起来Ereshkigal破坏了钥匙并将其投入了黑洞，这听起来太残酷了
 }
 
 M38F30: {
@@ -6809,7 +6807,7 @@ BabySwarmerStaff: {
 	DisplayName: Baby Swarmer Staff
 	Tooltip:
 		'''
-		Summons a baby swarmer to fight for you!
+		召唤一个baby swarmer为你而战！
 		Baby swarmers attack very quickly and only consume half a minion slot
 		'''
 }
@@ -7197,7 +7195,7 @@ SerpentStaff: {
 	DisplayName: Serpent Staff
 	Tooltip:
 		'''
-		Summons a serpent to fight for you
+		召唤一个serpent to fight for you
 		It grows much longer and stronger with the number of minion slots used!
 		'''
 }
@@ -7517,7 +7515,7 @@ CentipedeStaff: {
 	DisplayName: Centipede Staff
 	Tooltip:
 		'''
-		Summons an Irravheil Landworm to fight for you!
+		召唤一个Irravheil Landworm为你而战！
 		The landworm grabs enemies and violently drags them around
 		It grows much longer and stronger with the number of minion slots used!
 		'''
