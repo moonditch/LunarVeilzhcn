@@ -1,0 +1,7703 @@
+Mods: {
+	Stellamod: {
+		Items: {
+			Accessories: {
+				HikersBackpack: {
+					DisplayName: 旅行者背包
+					Description:
+					'''
+					增加回复速度！
+					+3% 伤害
+					行走时在地面上掉落尖刺！
+					'''
+				}
+			}
+
+			PlaceItem: {
+				DisplayName: 放置物品
+				Tooltip: ""
+			}
+
+			SaveItem: {
+				DisplayName: 保存物品
+				Tooltip: ""
+			}
+
+			AdvancedBroochesBackpack: {
+				DisplayName: 高级胸针背包
+				Tooltip:
+				'''
+				增加回复速度！
+				+10% 伤害
+				允许佩戴高级胸针！非常有用 可享受旅行者背包的效果！
+				'''
+			}
+
+			DiariBroochA: {
+				DisplayName: 日记胸针
+				Tooltip:
+				'''
+				+4防御！
+				让你能够自动挥舞！
+				+40 生命值和魔力值
+				'''
+			}
+
+			FlyingFishBroochA: {
+				DisplayName: 飞鱼胸针
+				Tooltip:
+				'''
+				增加速度和
+				+2 防御！
+				拥有飞鱼的速度！
+				'''
+				
+			}
+
+			FrileBroochA: {
+				DisplayName: 冰霜胸针
+				Tooltip:
+				'''
+				当击中敌人时，使其覆盖上冰霜！
+				使用冰霜生物的力量: P
+				'''
+			}
+
+			MorrowedBroochA: {
+				DisplayName: 暗黑胸针
+				Tooltip:
+				'''
+				增加箭矢的重击伤害
+				+2 防御和增加远程伤害
+				使用深沉黑暗的力量...
+				'''
+			}
+
+			SlimeBroochA: {
+				DisplayName: 可爱史莱姆胸针
+				Tooltip:
+				'''
+				跳得更高！
+				弹跳并快速下落 哇～好可爱
+				ヾ(≧▽≦*)o 
+				'''
+			}
+
+			SpragaldBroochA: {
+				DisplayName: 斯普拉格尔德胸针
+				Tooltip:
+				'''
+				+10防御
+				使用斯普拉格尔德蜘蛛的力量！
+				'''
+			}
+
+			IllusionistBook: {
+				DisplayName: 木质幻术书
+				Tooltip:
+				'''
+				增加恢复速度！
+				+3% 伤害
+				增加5% 暴击几率
+				'''
+			}
+
+			JellyfishTissue: {
+				DisplayName: 水母组织
+				Tooltip:
+				'''
+				哇，真酷！
+				+40 防御
+				但伤害减少40%
+				'''
+				
+			}
+
+			MOTT: {
+				DisplayName: M.O.T.T
+				Tooltip:
+				'''
+				每10秒在地面上掉落高伤害的尖刺球
+				+5% 远程伤害
+				'''
+			}
+
+			PaperPaws: {
+				DisplayName: 纸咕咕
+				Tooltip:
+				'''
+				为什么不给你的召唤物更多的赞誉呢？
+				+1 召唤物
+				'''
+			}
+
+			Paper: {
+				DisplayName: 纸
+				Tooltip: 你在想什么？这只是一张纸好吗？
+			}
+
+			PlantH: {
+				DisplayName: 植物之遗
+				Tooltip:
+				'''
+				获得植物的力量！
+				+40 生命和
+				+15 防御
+				但你的速度降低了 0v0
+				'''
+			}
+
+			SapContainer: {
+				DisplayName: 树液容器
+				Tooltip:
+				'''
+				每10秒食用星露并极大增加你的魔法伤害
+				+7% 魔法伤害
+				'''
+			}
+
+			WoodenShield: {
+				DisplayName: 木制盾牌
+				Tooltip:
+				'''
+				超酷对吧？一个木制盾牌？
+				你要用它挡箭吗？ 实际上没有任何格挡功能，呃
+				+1 防御和生命回复速度增加！
+				'''
+			}
+
+			Steali: {
+				DisplayName: 斯提利
+				Tooltip:
+				'''
+				一个短而快的冲刺并提供短暂的无敌状态
+				增加恢复速度 使用时无法攻击
+				灵感来源于《空洞骑士》！
+				'''
+			}
+
+			ThornedBook: {
+				DisplayName: 荆棘书
+				Tooltip:
+				'''
+				当敌人攻击你时，你会反弹大量伤害
+				+10% 近战伤害
+				-5 防御
+				'''
+			}
+
+			CelestiaMoonBreastplate: {
+				DisplayName: 天国之月胸甲
+				Tooltip:
+				'''
+				一位女皇的魔法精华！
+				+60 最大法力
+				+1 召唤栏
+				+20 生命值
+				'''
+			}
+
+			CelestiaMoonHelmet: {
+				DisplayName: 天国之月头盔
+				Tooltip:
+				'''
+				一位女皇的魔法精华！
+				+7% 远程和近战伤害
+				+35 生命值
+				'''
+			}
+
+			CelestiaMoonLegs: {
+				DisplayName: 天国之月护腿
+				Tooltip:
+				'''
+				一位女皇的魔法精华！
+				+5% 移动速度
+				+20 生命值
+				'''
+			}
+
+			CelestiaMoonMask: {
+				DisplayName: 天国之月面具
+				Tooltip:
+				'''
+				一位女皇的魔法精华！
+				+20 最大魔力
+				+1 召唤栏
+				'''
+			}
+
+			HuntrianBoots: {
+				DisplayName: 猎人之靴
+				Tooltip:
+				'''
+				由锈蚀之木制成
+				+5% 伤害！
+				+10 生命值
+				+7 暴击几率！
+				'''
+			}
+
+			HuntrianChestplate: {
+				DisplayName: 猎人胸甲
+				Tooltip:
+				'''
+				由锈蚀之木制成
+				+5% 伤害！
+				+10 生命值！
+				+10 暴击几率！
+				'''
+			}
+
+			HuntrianHelmet: {
+				DisplayName: 猎人头盔
+				Tooltip:
+				'''
+				由锈蚀之木制成
+				+5% 伤害！
+				+20 生命值
+				'''
+			}
+
+			LovestruckBreastplate: {
+				DisplayName: 爱之胸甲
+				Tooltip:
+				'''
+				爱的力量是无限的！
+				+60 生命值
+				+1 召唤栏
+				'''
+			}
+
+			LovestruckLegs: {
+				DisplayName: 爱之护腿
+				Tooltip:
+				'''
+				爱的力量是无限的！
+				+10% 移动速度
+				+60 生命值
+				'''
+			}
+
+			LovestruckMask: {
+				DisplayName: 爱之面具
+				Tooltip:
+				'''
+				爱的力量是无限的！
+				+7% 增加伤害
+				+40 生命值
+				'''
+			}
+
+			GintzeMask: {
+				DisplayName: 金采面具
+				Tooltip:
+				'''
+				稀有的铁面具！
+				+2 召唤物！
+				+50 生命值
+				'''
+			}
+
+			StoniaBoots: {
+				DisplayName: 斯托尼亚靴子
+				Tooltip:
+				'''
+				像石头一样硬
+				+2% 伤害！
+				大幅度增加下坠速度！ 哇，是石头！
+				'''
+			}
+
+			StoniaChestplate: {
+				DisplayName: 斯托尼亚胸甲
+				Tooltip:
+				'''
+				脆弱的......石头？
+				+1% 伤害！
+				+2 穿透
+				+2 暴击几率！
+				'''
+			}
+
+			StoniaHat: {
+				DisplayName: 斯托尼亚帽子
+				Tooltip:
+				'''
+				开心的......石头？？？
+				+3% 伤害
+				+5 穿透
+				+5 暴击几率！
+				'''
+			}
+
+			AstolfoBody: {
+				DisplayName: 阿斯托尔福之衣
+				Tooltip:
+				'''
+				喵~
+				好吃！ +20
+				生命值
+				'''
+				
+			}
+
+			AstolfoMask: {
+				DisplayName: 阿斯托尔福之发
+				Tooltip:
+				'''
+				
+				很好吃的！: 3
+				+2% 增加伤害
+				+35 生命值
+				增加镐速！
+				'''
+				
+			}
+
+			AstolfoSkirt: {
+				DisplayName: 阿斯托尔福之裙
+				Tooltip:
+				'''
+				闻起来一股水腥味
+				增加5% 移动速度
+				石制的......裙子
+				'''
+				
+			}
+
+			VerlBreastplate: {
+				DisplayName: 维尔胸甲
+				Tooltip:
+				'''
+				闪耀着盈月之光
+				+10% 远程和魔法伤害！
+				+12 穿透
+				+5 暴击几率！
+				+20 最大生命值
+				'''
+			}
+
+			VerlHat: {
+				DisplayName: 维尔帽子
+				Tooltip:
+				'''
+				你感觉更漂亮了，不是吗？
+				+7% 魔法伤害！
+				快速法力回复！
+				+100最大法力
+				+40最大生命值
+				'''
+				
+			}
+
+			VerlLeggings: {
+				DisplayName: 维尔护腿
+				Tooltip:
+				'''
+				看着它们的腿吧！
+				+7% 魔法和远程伤害！
+				+增加移动速度
+				+40最大生命值
+				'''
+				
+			}
+
+			VerlMask: {
+				DisplayName: 维尔面具
+				Tooltip:
+				'''
+				你感觉更漂亮了，不是吗？
+				+7% 远程伤害！
+				+15 暴击几率！
+				+20 最大生命值
+				'''
+			}
+
+			VextinBoots: {
+				DisplayName: Vextin靴子
+				Tooltip:
+				'''
+				隐藏在沙漠之中
+				+5% 伤害
+				+20 生命值
+				'''
+			}
+
+			VextinMask: {
+				DisplayName: Vextin面具
+				Tooltip:
+				'''
+				你感受到沙漠在你体内流动
+				+7% 增加伤害
+				+20 生命值
+				'''
+			}
+
+			VextinRobe: {
+				DisplayName: Vextin长袍
+				Tooltip:
+				'''
+				在神奇的沙漠中漫游
+				+40 生命值
+				'''
+			}
+
+			Gambit: {
+				DisplayName: 启幕骰子
+				Tooltip:
+				'''
+				{ $CommonItemTooltip.RightClickToOpen }
+				战斗后用你的灵魂进行赌博，获得丰厚的奖励！
+				'''
+				
+			}
+
+			GambitToken: {
+				DisplayName: 启幕代币
+				Tooltip: 使用它进行赌博......
+			}
+
+			GildedBag1: {
+				DisplayName: 镀金袋
+				Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
+			}
+
+			MoonflameLantern: {
+				DisplayName: 月焰灯笼
+				Tooltip:
+				'''
+				感谢你为这个世界所做的贡献，回到我的宫殿，让我们来共舞一曲吧
+				'''
+			}
+
+			SirestiasStarterBag: {
+				DisplayName: 初始包
+				Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
+			}
+
+			VeribossBag: {
+				DisplayName: 星域幻花宝藏袋
+				Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
+			}
+
+			AlcadizMetal: {
+				DisplayName: 流浪熔金
+				Tooltip:
+				'''
+				哇，这是超级坚硬和神奇的......流浪熔金！
+				这种矿石从哪里来的呢？ 它可是用于制作武器和法器的最佳材料！
+				'''
+			}
+
+			Bagitem: {
+				DisplayName: 尘埃袋
+				Tooltip:
+				'''
+				专为引发剂尘埃所制作的袋子！
+				它是从哪里来的呢？ 快把它带到尘埃工作台那边去！
+				'''
+			}
+
+			Bouque: {
+				DisplayName: 花束
+				Tooltip:
+				'''
+				献给我亲爱的爱人的花束
+				用于各种合成
+				'''
+				
+			}
+
+			Candle: {
+				DisplayName: 蜡烛
+				Tooltip:
+				'''
+				
+				一支蜡烛，但你放不下来: (
+				所以它有什么用呢？
+				'''
+				
+			}
+
+			Cinderscrap: {
+				DisplayName: 灰烬碎片
+				Tooltip:
+				'''
+				灰烬碎片
+				烧出无限可能 用于为植物施肥
+				'''
+			}
+
+			CondensedDirt: {
+				DisplayName: 浓缩泥土
+				Tooltip:
+				'''
+				呃！黏黏的！为什么？？
+				一种来自地面的黏黏的泥土状物质！ 最适合用于肥料和泥土类物品！
+				'''
+			}
+
+			DreasFlower: {
+				DisplayName: 天蓝色德瑞斯之花
+				Tooltip:
+				'''
+				来自预言神庙......
+				用于种植和收获 最适合用于魔法物品和植物！
+				'''
+			}
+
+			Fabric: {
+				DisplayName: 预言布匹
+				Tooltip:
+				'''
+				来自预言神庙......
+				像钢铁一样硬的布，蕴含着巨大的能量 最适合用于魔法物品！
+				'''
+			}
+
+			FlowerBatch: {
+				DisplayName: 花束
+				Tooltip:
+				'''
+				这些花非常漂亮......
+				一个收获物 最适合用于植物和一些物品！
+				'''
+			}
+
+			Hlos: {
+				DisplayName: 废弃把手
+				Tooltip: 用于制作各种武器
+			}
+
+			MorrowRocks: {
+				DisplayName: 黎明石
+				Tooltip: 来自黎明深渊的岩石
+			}
+
+			Morrowshroom: {
+				DisplayName: 黎明蘑菇
+				Tooltip: 蘑菇怪！
+			}
+
+			MorrowVine: {
+				DisplayName: 黎明藤蔓
+				Tooltip:
+				'''
+				一根有用的绳子！
+				它们来自于一些黎明的阿尔卡迪斯战士 用于许多武器、背包等配方
+				'''
+			}
+
+			Mushroom: {
+				DisplayName: 蘑菇
+				Tooltip: 呃，一个蘑菇，可能是用来种植的？
+			}
+
+			Stick: {
+				DisplayName: 木棍
+				Tooltip: 嗯，这是根棍子......它真的只是一根棍子......所以别看啦！！！
+			}
+
+			ViolinStick: {
+				DisplayName: 小提琴弓杆
+				Tooltip:
+				'''
+				哼，这是用来做什么的呢？
+				那当然是用于制作乐器类的武器啦！
+				'''
+				
+			}
+
+			EmptyMoonflameLantern: {
+				DisplayName: 空的月焰灯笼
+				Tooltip:
+				'''
+				使用地狱深处的火焰重新点燃它吧
+				在月光之巅，维尔莉娅正在等待着与你共舞一曲
+				'''
+				
+			}
+
+			FleshClot: {
+				DisplayName: 血肉凝块
+				Tooltip: 从敌人的血液中获取的类似肉的物质
+			}
+
+			HuntiacBlock: {
+				DisplayName: 猎杀块
+				Tooltip: 危险！
+			}
+
+			HuntiacwallBlock: {
+				DisplayName: 猎杀墙
+				Tooltip: 更加危险！
+			}
+
+			Medal: {
+				DisplayName: 灭亡勋章
+				Tooltip:
+				'''
+				一枚古老的勋章......
+				保留在你的背包中，可以出售，可能会吸引某人产生浪漫的一些情感......
+				'''
+				
+			}
+
+			OvermorrowDirt: {
+				DisplayName: 黎明泥土
+				Tooltip: ""
+			}
+
+			OvermorrowdirtwallBlock: {
+				DisplayName: 黎明墙
+				Tooltip: ""
+			}
+
+			OvermorrowWall: {
+				DisplayName: 黎明墙壁
+				Tooltip: ""
+			}
+
+			OvermorrowWood: {
+				DisplayName: 黎明木
+				Tooltip: 好吃的木头，对吧？
+			}
+
+			PearlescentScrap: {
+				DisplayName: 珍珠碎片
+				Tooltip:
+				'''
+				月亮的碎片
+				与声音和星星有着强烈的共鸣......
+				'''
+				
+			}
+
+			RippedFabric: {
+				DisplayName: 破碎织物
+				Tooltip:
+				'''
+				从镀金的一些知识到敌人身上的所穿的长袍，真神奇！
+				一种非常神奇的材料...... 我感觉它仿佛在召唤我......
+				'''
+			}
+
+			Starrdew: {
+				DisplayName: 星露
+				Tooltip:
+				'''
+				呃！粘糊糊的！我想知道还有什么是粘糊糊的......
+				一种与星星和黎明有共鸣的粘性物质！
+				'''
+				
+			}
+
+			Stelleanbrick: {
+				DisplayName: 星辉砖
+				Tooltip: ""
+			}
+
+			VerianRuneBlock: {
+				DisplayName: 炽炎符文块
+				Tooltip: ""
+			}
+
+			VerianWood: {
+				DisplayName: 炽炎木材
+				Tooltip: ""
+			}
+
+			FrileBar: {
+				DisplayName: 冰霜锭
+				Tooltip: 放射出刺骨的寒冷，蕴含着月亮和冰的精华
+			}
+
+			FrileOre: {
+				DisplayName: 冰霜矿石
+				Tooltip: 一种冷得无法放置的矿石，用于制作许多冰冷的物品！
+			}
+
+			VerianBar: {
+				DisplayName: 炽炎锭
+				Tooltip:
+				'''
+				炙热无比，充满了部落战士的黄金和荣耀
+				它太烫了，连触摸都不行......
+				'''
+				
+			}
+
+			VerianOre: {
+				DisplayName: 炽炎矿石
+				Tooltip: 一种与金属融合的矿石，非常炽热
+			}
+
+			AlcaologyI: {
+				DisplayName: 炼金学站台
+				Tooltip: 这个台子用于制作粉尘和有用的材料！
+			}
+
+			Bar: {
+				DisplayName: 吧台
+				Tooltip: ""
+			}
+
+			Bench: {
+				DisplayName: 长椅
+				Tooltip: ""
+			}
+
+			BroochesTableI: {
+				DisplayName: 胸针工作台
+				Tooltip: 允许你用这个制作各种胸针！
+			}
+
+			CathediteBlock: {
+				DisplayName: 大教堂石块
+				Tooltip: ""
+			}
+
+			CathediteGrassBlock: {
+				DisplayName: 大教堂草块
+				Tooltip: ""
+			}
+
+			CathediteGrassWall: {
+				DisplayName: 大教堂草墙
+				Tooltip: ""
+			}
+
+			CathediteWall: {
+				DisplayName: 大教堂墙
+				Tooltip: ""
+			}
+
+			CathedralChestI: {
+				DisplayName: 大教堂宝箱
+				Tooltip: ""
+			}
+
+			Crystal1I: {
+				DisplayName: 水晶1
+				Tooltip:
+				你不应该收集它: (
+			}
+
+			Crystal2I: {
+				DisplayName: 水晶2
+				Tooltip:
+				你不应该收集它: (
+			}
+
+			FlowerMultiI: {
+				DisplayName: 多花
+				Tooltip:
+				你不应该收集它: (
+			}
+
+			Orb1I: {
+				DisplayName: 球体1
+				Tooltip:
+				你不应该收集它: (
+			}
+
+			ShrineI: {
+				DisplayName: 神龛
+				Tooltip: ""
+			}
+
+			Flowersummon: {
+				DisplayName: 召唤花
+				Tooltip:
+				你不应该收集它: (
+			}
+
+			GrassBig: {
+				DisplayName: 大草
+				Tooltip:
+				你不应该收集它: (
+			}
+
+			GrassMoss: {
+				DisplayName: 苔藓草
+				Tooltip:
+				你不应该收集它: (
+			}
+
+			CurtainLeftI: {
+				DisplayName: 左窗帘
+				Tooltip:
+				你不应该收集它: (
+			}
+
+			CurtainRightI: {
+				DisplayName: 右窗帘
+				Tooltip:
+				你不应该收集它: (
+			}
+
+			Log: {
+				DisplayName: 木材
+				Tooltip:
+				你不应该收集它: (
+			}
+
+			MediumPot: {
+				DisplayName: 中型锅
+				Tooltip:
+				你不应该收集它: (
+			}
+
+			MorrowChesti: {
+				DisplayName: 黎明宝箱
+				Tooltip: ""
+			}
+
+			MorrowChestKey: {
+				DisplayName: 黎明钥匙
+				Tooltip: ""
+			}
+
+			MorrowDeath: {
+				DisplayName: 黎明死亡
+				Tooltip:
+				你不应该收集它: (
+			}
+
+			MorrowDeath2: {
+				DisplayName: 黎明死亡2
+				Tooltip:
+				你不应该收集它: (
+			}
+
+			MorrowSpike: {
+				DisplayName: 黎明尖刺
+				Tooltip: ""
+			}
+
+			MorrowStone: {
+				DisplayName: 黎明石头
+				Tooltip:
+				你不应该收集它: (
+			}
+
+			MushroomBig: {
+				DisplayName: 大蘑菇
+				Tooltip: 只是蘑菇而已
+			}
+
+			SmallShroom: {
+				DisplayName: 小蘑菇
+				Tooltip: 它有毒！
+			}
+
+			StandN: {
+				DisplayName: 站立N
+				Tooltip:
+				你不应该收集它: (
+			}
+
+			VeriBossRel: {
+				DisplayName: 星域幻花圣物
+				Tooltip: 一个古老首领的圣物，真不错
+			}
+
+			walla: {
+				DisplayName: 墙a
+				Tooltip: ""
+			}
+
+			wallb: {
+				DisplayName: 墙b
+				Tooltip: ""
+			}
+
+			wallc: {
+				DisplayName: 墙c
+				Tooltip: ""
+			}
+
+			walld: {
+				DisplayName: 墙d
+				Tooltip: ""
+			}
+
+			walle: {
+				DisplayName: 墙e
+				Tooltip: ""
+			}
+
+			wallf: {
+				DisplayName: 墙f
+				Tooltip: ""
+			}
+
+			wallg: {
+				DisplayName: 墙g
+				Tooltip: ""
+			}
+
+			BonePicklerCard: {
+				DisplayName: 骨拾荒者卡牌启动器
+				Tooltip:
+				'''
+				
+				用于结合尘埃制作法术: )
+				使用尘埃，然后使用这种类型的武器！
+				'''
+				
+			}
+
+			DaedCard: {
+				DisplayName: Daed卡牌启动器
+				Tooltip:
+				'''
+				
+				用于结合尘埃制作法术: )
+				使用尘埃，然后使用这种类型的武器！
+				'''
+				
+			}
+
+			EYIgniter: {
+				DisplayName: 晶状体引燃器
+				Tooltip:
+				'''
+				
+				用于结合尘埃制作法术: )
+				使用尘埃，然后使用这种类型的武器！
+				'''
+				
+			}
+
+			FrostCard: {
+				DisplayName: 冰霜卡片引燃器
+				Tooltip:
+				'''
+				
+				用于结合尘埃制作法术: )
+				使用尘埃，然后使用这种类型的武器！
+				'''
+				
+			}
+
+			GothivCard: {
+				DisplayName: 哥西夫卡片引燃器
+				Tooltip:
+				'''
+				
+				用于结合尘埃制作法术: )
+				使用尘埃，然后使用这种类型的武器！
+				'''
+				
+			}
+
+			LovestruckCard: {
+				DisplayName: 爱神卡片引燃器
+				Tooltip:
+				'''
+				
+				用于结合尘埃制作法术: )
+				使用尘埃，然后使用这种类型的武器！
+				'''
+				
+			}
+
+			ScorcheCard: {
+				DisplayName: 火焰卡片引燃器
+				Tooltip:
+				'''
+				
+				用于结合尘埃制作法术: )
+				使用尘埃，然后使用这种类型的武器！
+				'''
+				
+			}
+
+			StarrCard: {
+				DisplayName: 星辰卡片引燃器
+				Tooltip:
+				'''
+				
+				用于结合尘埃制作法术: )
+				使用尘埃，然后使用这种类型的武器！
+				'''
+				
+			}
+
+			StarterCard: {
+				DisplayName: 初级卡片引燃器
+				Tooltip:
+				'''
+				
+				用于结合尘埃制作法术: )
+				使用尘埃，然后使用这种类型的武器！
+				'''
+				
+			}
+
+			WCIgniter: {
+				DisplayName: 万能卡片引燃器
+				Tooltip:
+				'''
+				
+				用于结合尘埃制作法术: )
+				使用尘埃，然后使用这种类型的武器！
+				'''
+				
+			}
+
+			Bongos: {
+				DisplayName: 星辉镀金邦戈
+				Tooltip: 在光标位置发出轰鸣声
+			}
+
+			CocoSpark: {
+				DisplayName: 椰子法典
+				Tooltip: 瞧，椰子砸碎了他们的脑袋
+			}
+
+			EvasiveBalls: {
+				DisplayName: 霜寒壳冰球
+				Tooltip: 快速发射追踪的霜火花！
+			}
+
+			FlameburstBalls: {
+				DisplayName: 熔岩壳火球
+				Tooltip: 快速发射追踪的火花！
+			}
+
+			GildedStaff: {
+				DisplayName: 镀金法杖
+				Tooltip: 向敌人发射两个旋转的灵魂碎片
+			}
+
+			PrismaticBalls: {
+				DisplayName: 棱彩克莱迪亚球
+				Tooltip: 快速发射追踪的彩虹火花！
+			}
+
+			Splitflame: {
+				DisplayName: 裂火焰烛
+				Tooltip: 这不是来自于碎片的蜡烛，绝对不是。
+			}
+
+			Antaciz: {
+				DisplayName: 安塔克兹
+				Tooltip: 扔出旋转的大剑
+			}
+
+			Auroran: {
+				DisplayName: 奥罗兰
+				Tooltip:
+				'''
+				发送穿越空气的冲击波
+				用剑击中敌人会增加冲击波速度！ 灵感来自于《Divergency》！
+				'''
+			}
+
+			EnergizedNail: {
+				DisplayName: 充能钉子
+				Tooltip: 充了电的钉子，很奇怪......
+			}
+
+			FrostSwing: {
+				DisplayName: 霜舞
+				Tooltip:
+				'''
+				攻击时射出一根可追踪的骨头杀死你的敌人！
+				用近战击中敌人会积攒伤害，使下次挥舞伤害更高
+				'''
+				
+			}
+
+			Gutinier: {
+				DisplayName: 古特尼尔
+				Tooltip:
+				'''
+				称职的武器！
+				灵感来自于《Divergency》！
+				'''
+				
+			}
+
+			HornedNail: {
+				DisplayName: 巨角钉
+				Tooltip: 有趣的钉子
+			}
+
+			MorrowRapier: {
+				DisplayName: 黎明刺剑
+				Tooltip: 戳戳-不要对这个武器的功能产生错误的想法-戳-它就是用来戳人的-戳戳
+			}
+
+			MorrowSword: {
+				DisplayName: 黎明之剑
+				Tooltip: 给人一种温暖的感觉......这是什么材料呢？
+			}
+
+			MorrowValswa: {
+				DisplayName: 黎明木剑
+				Tooltip: 我警告你，你最好别碰它
+			}
+
+			PalmThrower: {
+				DisplayName: 棕榈投手
+				Tooltip: 投掷由棕榈制成的飞斧，听起来一点都不酷 ￣へ￣
+			}
+
+			Halhurish: {
+				DisplayName: 火焰之刃-哈尔哈瑞什
+				Tooltip:
+				'''
+				抽打你的敌人
+				击中敌人会爆炸
+				'''
+				
+			}
+
+			Verstibloom: {
+				DisplayName: 棘刺
+				Tooltip:
+				'''
+				召唤一个红色漩涡来卷杀你的敌人
+				用近战击中敌人会积攒伤害，用于武器的近战 造成巨大的伤害！
+				'''
+			}
+
+			VerstiDance: {
+				DisplayName: 花之舞步
+				Tooltip:
+				'''
+				旋转茶杯！
+				一种小幅增加你移动速度和防御的花之舞，但使用时要小心
+				'''
+				
+			}
+
+			PocketSand: {
+				DisplayName: 沙袋
+				Tooltip:
+				'''
+				向敌怪投掷魔法尘埃
+				这种尘埃可以与引火器一起使用 可以穿透敌人的装甲
+				'''
+			}
+
+			ArcanalPowder: {
+				DisplayName: 腐蚀尘埃
+				Tooltip:
+				'''
+				向敌怪投掷魔法尘埃
+				这种尘埃可以与引火器一起使用，造成两倍伤害 使用引火器/卡片！
+				'''
+			}
+
+			BloodPowder: {
+				DisplayName: Kaev尘埃
+				Tooltip:
+				'''
+				将魔法尘埃洒在它们身上并点燃
+				这种尘埃可以与引火器一起使用，造成两倍伤害 使用引火器/卡片！
+				'''
+			}
+
+			CoalDust: {
+				DisplayName: 煤尘埃
+				Tooltip:
+				'''
+				将魔法尘埃洒在它们身上！
+				使用引火器/卡片！ 由你收集到的宝石锻造而成！
+				'''
+			}
+
+			FlamePowder: {
+				DisplayName: 火焰尘埃
+				Tooltip:
+				'''
+				将魔法尘埃洒在它们身上！
+				一种火焰尘埃，与你的引火器一起爆炸！ 使用引火器/卡片！
+				'''
+			}
+
+			FrostedPowder: {
+				DisplayName: 霜冻尘埃
+				Tooltip:
+				'''
+				将魔法尘埃洒在它们身上！
+				带有引火器的冰霜尘埃，造成持续伤害！ 使用引火器/卡片！
+				'''
+			}
+
+			GrassDirtPowder: {
+				DisplayName: 泥土尘埃
+				Tooltip:
+				'''
+				将魔法尘埃洒在它们身上！
+				一种脏兮兮的尘埃...竟然会造成伤害？？？ 使用引火器/卡片！
+				'''
+			}
+
+			LenaSongPowder: {
+				DisplayName: Lena之歌尘埃
+				Tooltip:
+				'''
+				将魔法尘埃洒在它们身上！
+				一种音乐尘埃！与你的引火器一起爆炸！ 使用引火器/卡片！
+				'''
+			}
+
+			ShadowFlamePowder: {
+				DisplayName: 暗影火焰尘埃
+				Tooltip:
+				'''
+				将魔法尘埃洒在它们身上！
+				一种暗影尘埃，与你的引火器一起爆炸！ 使用引火器/卡片！
+				'''
+			}
+
+			TrickPowder: {
+				DisplayName: 诡计尘埃
+				Tooltip:
+				'''
+				将魔法尘埃洒在它们身上！
+				一种闪亮的诡计尘埃，造成大量伤害！ 使用引火器/卡片！
+				'''
+			}
+
+			Verstidust: {
+				DisplayName: 花粉
+				Tooltip:
+				'''
+				将魔法尘埃洒在它们身上！
+				一种带有宁静花朵的音乐尘埃 使用引火器/卡片！
+				'''
+			}
+
+			BoneNail: {
+				DisplayName: 骨钉
+				Tooltip: 燃烧着花之怒火
+			}
+
+			WoodenCrossbow: {
+				DisplayName: 木质弩
+				Tooltip: ""
+			}
+
+			Hornet: {
+				DisplayName: 大黄蜂
+				Tooltip:
+				'''
+				高雅！
+				完全没有参考《空洞骑士》 一种射出高雅炸弹和子弹的武器
+				Dia Gun...
+				'''
+			}
+
+			MorrowSalface: {
+				DisplayName: 碎阳
+				Tooltip: 发射三次弩箭之后发射一支大型奥术箭矢
+			}
+
+			SteamedNail: {
+				DisplayName: 蒸汽钉
+				Tooltip: 狠狠地刺入它们（我说的）
+			}
+
+			Teraciz: {
+				DisplayName: 破碎
+				Tooltip:
+				'''
+				将现实破碎，并，发射出来
+				'''
+			}
+
+			Violar: {
+				DisplayName: 沉重和弦
+				Tooltip:
+				'''
+				让他们在和弦中燃烧吧！
+				便宜的武器，由斯特利恩砖块和黎明之地的植物锻造而成
+				'''
+				
+			}
+
+			wowgun: {
+				DisplayName: 木枪
+				Tooltip:
+				'''
+				你用木头制作了一把枪？你在期待什么啊......
+				好吧，起码你努力了，暂且用我的声音给你当武器吧
+				'''
+				
+			}
+
+			AlcadizDagger: {
+				DisplayName: 流浪金针
+				Tooltip:
+				'''
+				你的召唤物将会以集中的敌人为目标
+				召唤物将从你的线圈盾牌中显现出来 它们将作为临时召唤物来陪伴你的其他召唤物！
+				上面的胸针在激活时提供额外10点防御！
+				'''
+			}
+
+			BloodLamp: {
+				DisplayName: 血之灯
+				Tooltip:
+				'''
+				击中敌人会激怒你的召唤物，并在它们身上显示一个红色标记！
+				召唤一个红色爆炸水晶来伤害敌人 甚至为被增强的召唤物留下一条鲜红的轨迹！
+				'''
+			}
+
+			CanOfLeaves: {
+				DisplayName: 叶盒
+				Tooltip: 召唤一些叶子，但不要去捡，它们有那么一点点攻击性，而且有一些不太友好的魔力...
+			}
+
+			StarCall: {
+				DisplayName: 星辰轰炸机
+				Tooltip:
+				'''
+				召唤一个超大的星辰炸弹！
+				需要2个召唤槽位来召唤 它们将作为临时召唤物造成巨大的伤害
+				'''
+			}
+
+			StumpBuster: {
+				DisplayName: 树桩碎击者
+				Tooltip: 我命令你，使用树桩的力量！
+			}
+
+			MorrowWhipI: {
+				DisplayName: 黎明长鞭
+				Tooltip:
+				'''
+				你的召唤物将以集中的敌人为目标
+				召唤物将对一个目标行动并造成更大的伤害 但当你标记一个敌人时，你会降低防御力
+				别把自己的命搭上了
+				'''
+				
+			}
+
+			GovheilBlock: {
+				DisplayName: 忍钢块
+				Tooltip: ""
+			}
+
+			GardenWrecker: {
+				Tooltip:
+				'''
+				发射骷髅炸弹，如果命中则造成严重的爆炸
+				是的，它们破坏了我的花园！而我只是研发团队的一员！
+				'''
+				
+				DisplayName: 花园破坏者
+			}
+
+			AlcadizScrap: {
+				DisplayName: 流浪熔金废料
+				Tooltip:
+				'''
+				高级材料之精华，用于制作那些非常精良的武器
+				包含深渊、忍钢和预言的力量！
+				'''
+				
+			}
+
+			BurningAngel: {
+				DisplayName: 烈焰天使
+				Tooltip:
+				'''
+				发射许多特别的斧头，小心，它们在撞击时会爆炸
+				可在发出后一段时间内由自己操控，连续命中会加速下一次的投掷！ 由重型流浪熔金制成！
+				'''
+			}
+
+			GovheilBoreI: {
+				DisplayName: Govheil Bore I
+				Tooltip: ""
+			}
+
+			MasistLI: {
+				DisplayName: Masist L I
+				Tooltip: ""
+			}
+
+			MasistRI: {
+				DisplayName: Masist R I
+				Tooltip: ""
+			}
+
+			VheilCurtainLI: {
+				DisplayName: Vheil Curtain L I
+				Tooltip: ""
+			}
+
+			VheilCurtainRI: {
+				DisplayName: Vheil Curtain R I
+				Tooltip: ""
+			}
+
+			WeiI: {
+				DisplayName: Wei I
+				Tooltip: ""
+			}
+
+			ZebiI: {
+				DisplayName: Zebi I
+				Tooltip: ""
+			}
+
+			ShrineLifeCI: {
+				Tooltip: ""
+				DisplayName: Shrine Life C I
+			}
+
+			Curlistine: {
+				DisplayName: Curlistine
+				Tooltip:
+				'''
+				仅在附近有敌人时可使用。
+				发射许多由星星所引导的光芒。 维尔莉娅将赐福予你。
+				'''
+			}
+
+			AlcadizPowder: {
+				DisplayName: 流浪熔金之尘
+				Tooltip:
+				'''
+				投掷在敌人身上的魔法尘埃！
+				爆炸造成大量伤害！ 来自传说之中......
+				'''
+			}
+
+			VerliaBossBag: {
+				DisplayName: 维尔莉娅宝藏袋
+				Tooltip: ""
+			}
+
+			VerliaHat: {
+				Tooltip:
+				'''
+				非常漂亮的一顶帽子！
+				生命值增加50 魔法值增加100
+				我知道你想戴上它......
+				'''
+				
+				DisplayName: 维尔莉娅的帽子
+			}
+
+			VerliaBroochA: {
+				Tooltip:
+				'''
+				我爱你！
+				打击敌人时，可能会释放出一堆造成重创的雪花！ 增加50点法力值！
+				增加5点防御力！
+				'''
+				
+				DisplayName: 维尔莉娅的胸针
+			}
+
+			SwordsOfRevengence: {
+				Tooltip:
+				'''
+				我爱你！
+				召唤一个Curlistine光芒，并召唤维尔莉娅的剑！ 仅在附近有敌人时有效！
+				激活维尔莉娅的胸针 （增加50点法力值，增加5点防御力，击中时产生大量雪花）
+				'''
+				DisplayName: 复仇
+			}
+
+			HarmonicBlasphemy: {
+				DisplayName: 亵渎谐振波
+				Tooltip:
+				'''
+				我爱你！
+				非常强大的月能爆破枪！ 使用维尔莉娅亲自赐予的月亮！
+				以及音乐的力量！
+				'''
+				
+			}
+
+			SupernovaSitar: {
+				DisplayName: 超新星西塔琴
+				Tooltip:
+				'''
+				我爱你！
+				绝对的维尔莉娅的月亮和星星之扭曲力量！ 她个人送给你的礼物！
+				'''
+			}
+
+			Parendine: {
+				DisplayName: 帕伦丁
+				Tooltip: 超冷的鞭子！
+			}
+
+			AuroranSeeker: {
+				Tooltip:
+				'''
+				一个活的法术书！
+				召唤一个可以释放多种7种法术的书！
+				'''
+				
+				DisplayName: 追光者
+			}
+
+			GovheilMask: {
+				DisplayName: 忍钢面具
+				Tooltip:
+				'''
+				增加12%的魔法和召唤伤害！
+				+50点法力值和增加法力回复速度 +12%暴击率
+				我听说这朵花会带来特殊的魅力加成......
+				'''
+				
+			}
+
+			GovheilHelmet: {
+				Tooltip:
+				'''
+				增加12%的远程和近战伤害！
+				自动挥动能力
+				+10%暴击率
+				很酷对吧？
+				'''
+				
+				DisplayName: 忍钢头盔
+			}
+
+			GovheilChainplate: {
+				Tooltip:
+				'''
+				增加12%的远程和近战伤害！
+				+50生命值 让你像戴上了魔法箭袋一样！
+				'''
+				DisplayName: 忍钢链甲
+			}
+
+			GovheilBreastplate: {
+				Tooltip:
+				'''
+				增加12%的魔法和召唤伤害！
+				+50点法力值和增加法力回复速度 +30生命值！
+				+1召唤物
+				'''
+				
+				DisplayName: 忍钢胸甲
+			}
+
+			GovheilThighs: {
+				DisplayName: 忍钢护胫
+				Tooltip:
+				'''
+				移动速度提升7%
+				+30生命值！ +10%伤害
+				+15护甲穿透 超级厚实！
+				'''
+			}
+
+			XexterianLeggings: {
+				Tooltip: +12%伤害
+				DisplayName: Xexterian护腿
+			}
+
+			XexterianHat: {
+				DisplayName: Xexterian帽子
+				Tooltip:
+				'''
+				+20%伤害
+				+20生命值 你真的想要这个禁忌盔甲的仿制品吗？
+				'''
+			}
+
+			XexterianHeatplate: {
+				DisplayName: Xexterian胸甲
+				Tooltip:
+				'''
+				+20护甲穿透
+				+20生命值！ +6%伤害
+				+5暴击几率
+				'''
+				
+			}
+
+			DaediaThighs: {
+				Tooltip:
+				'''
+				+40生命值！
+				移动速度提升30%！ 让你像一位花神一样行走（最好穿上花靴）
+				'''
+				DisplayName: Daedia护腿
+			}
+
+			DaediaMask: {
+				Tooltip:
+				'''
+				+65生命值！
+				一位新的女神的面具！
+				'''
+				
+				DisplayName: Daedia面具
+			}
+
+			DaediaBreastplate: {
+				Tooltip:
+				'''
+				+60生命值！
+				+2召唤物
+				'''
+				
+				DisplayName: Daedia胸甲
+			}
+
+			PotionOfLifeWand: {
+				DisplayName: 治疗药水召唤杖
+				Tooltip: 一个可爱的小魔杖，召唤出偶尔会掉落红心的治疗药水！
+			}
+
+			PotionOfManaWand: {
+				Tooltip: 一个可爱的小魔杖，召唤出偶尔会掉落星星的魔力药水！
+				DisplayName: 魔力药水召唤杖
+			}
+
+			Ebistar: {
+				DisplayName: 星辰短弓
+				Tooltip:
+				'''
+				它的弹道多少有点“超出预期”了
+				发射许多乱飞的星箭！
+				'''
+				
+			}
+
+			Heartspire: {
+				DisplayName: 心脉长枪
+				Tooltip:
+				'''
+				在梦幻的夜晚划破苍穹！
+				梦见爱之女神Daedia！
+				'''
+				
+			}
+
+			Pearlinator: {
+				DisplayName: 珍珠火焰喷射器
+				Tooltip:
+				'''
+				一个可爱的火焰喷射器
+				梦见爱之女神Daedia！
+				'''
+				
+			}
+
+			MerchantCrossbow: {
+				DisplayName: 钱币弩
+				Tooltip:
+				'''
+				谁知道商人也会卖武器！
+				无论如何，这是一把小手弩！ 上面散发着一股钱币的味道，多棒啊(｡･∀･)
+				'''
+				
+			}
+
+			LeadCrossbow: {
+				DisplayName: 铅弩
+				Tooltip: 一把简单的弩，可以按住左键以发射弩箭
+			}
+
+			IronCrossbow: {
+				DisplayName: 铁弩
+				Tooltip: 一把简单的弩，可以按住左键以发射弩箭
+			}
+
+			DungeonCrossbow: {
+				DisplayName: 骨骼弩
+				Tooltip:
+				'''
+				哇，有点吓人......
+				一把简单的弩，可以按住左键以发射弩箭 每次命中时会有骨头弹出来！
+				'''
+			}
+
+			GoldCrossbow: {
+				DisplayName: 金弩
+				Tooltip:
+				'''
+				一把简单的弩，可以按住左键以发射弩箭
+				这把弩里面甚至有红玉的魔力！
+				'''
+				
+			}
+
+			PlatinumCrossbow: {
+				DisplayName: 铂金弩
+				Tooltip:
+				'''
+				一把简单的弩，可以按住左键以发射弩箭
+				这把弩里面甚至有红玉的魔力！
+				'''
+				
+			}
+
+			SilverCrossbow: {
+				DisplayName: 银弩
+				Tooltip:
+				'''
+				一把简单的弩，可以按住左键以发射弩箭
+				这把弩里面甚至有蓝玉的魔力！
+				'''
+				
+			}
+
+			TungstenCrossbow: {
+				DisplayName: 钨弩
+				Tooltip:
+				'''
+				一把简单的弩，可以按住左键以发射弩箭
+				这把弩里面甚至有蓝玉的魔力！
+				'''
+				
+			}
+
+			MorrowedCrossbow: {
+				DisplayName: 魔力强弩
+				Tooltip:
+				'''
+				可以按住发射强大弩箭的强弩！
+				黎明的力量在我体内涌动！
+				'''
+				
+			}
+
+			DustedSilk: {
+				DisplayName: 尘网绸布
+				Tooltip:
+				'''
+				从蜘蛛身上采集的特殊材料
+				用于制作某些类似于绳子的物品！
+				'''
+				
+			}
+
+			SpiderillaCrossbow: {
+				DisplayName: 蜘蛛强弩
+				Tooltip:
+				'''
+				可以按住发射强大弩箭的强弩！
+				这把弩里面还会弹出蜘蛛卵，所以...... 如果你害怕蜘蛛，为什么要使用这把弩呢？
+				'''
+			}
+
+			DesertCrossbow: {
+				DisplayName: 沙漠弩
+				Tooltip:
+				'''
+				类似霰弹枪的弩，可以朝多个方向发射弩箭！
+				按住发射！ 传闻它射出的箭飞的比风还快......
+				'''
+			}
+
+			FrostyCrossbow: {
+				DisplayName: 极寒弩
+				Tooltip:
+				'''
+				类似霰弹枪的弩，可以朝多个方向发射弩箭！
+				按住发射！ 寒冷至极！
+				'''
+			}
+
+			CoralCrossbow: {
+				DisplayName: 夜之珊瑚弩
+				Tooltip:
+				'''
+				一种适合猎人的连弩
+				按住发射！ 绝对，愤怒，熵，与终局！
+				'''
+			}
+
+			MoltenCrossbow: {
+				DisplayName: 熔岩连弩
+				Tooltip:
+				'''
+				一种适合猎人的连弩
+				按住发射！ 有时候，我们想看世界燃烧......
+				'''
+			}
+
+			FabiliaCrossbow: {
+				DisplayName: 法比利亚野地弩
+				Tooltip:
+				'''
+				类似霰弹枪的弩，可以朝多个方向发射弩箭！
+				按住发射！ 用这把法比利亚弩炸死所有敌人(｡･∀･)
+				'''
+				
+			}
+
+			JadeJungleCrossbow: {
+				DisplayName: 翡翠丛林弩
+				Tooltip:
+				'''
+				可以按住发射强大弩箭的强弩！
+				弩箭上还会有小叶子弹出来 草有时候也很好吃的(*-▽-)
+				'''
+				
+			}
+
+			Heatspot: {
+				DisplayName: 热点
+				Tooltip:
+				'''
+				燃起来了！
+				+4% 魔法伤害
+				'''
+			}
+
+			Valtotude: {
+				DisplayName: 风之囚笼
+				Tooltip:
+				'''
+				创造一个漩涡将敌人困在其中
+				很适合让你的召唤物在一个固定的地方攻击敌人！
+				'''
+				
+			}
+
+			DesertWhip: {
+				DisplayName: 沙漠鞭
+				Tooltip: 看起来像是一条小鞭子
+			}
+
+			Vinger: {
+				DisplayName: 维格纳
+				Tooltip: 我不记得有哪个哥布林使用过这个...
+			}
+
+			CharmofRot: {
+				DisplayName: 腐朽护符
+				Tooltip:
+				'''
+				与蛛网一同腐朽
+				+8% 召唤伤害
+				'''
+			}
+
+			Vheilatine: {
+				DisplayName: 维拉汀
+				Tooltip: 由哥帝维亚的仆从中锻造而成！
+			}
+
+			AcidStaketers: {
+				DisplayName: 酸性加速器
+				Tooltip: 使佩戴者跑得超快！
+			}
+
+			AquaCrystal: {
+				DisplayName: 晶泪
+				Tooltip: 提高暴击几率！
+			}
+
+			AquaticHealingNecklace: {
+				DisplayName: 水疗项链
+				Tooltip: 增加生命回复速度和移动速度！
+			}
+
+			ArncharMagazine: {
+				DisplayName: Arnchar弹夹
+				Tooltip: 增加5%的远程暴击几率！
+			}
+
+			ClamsPearl: {
+				DisplayName: 蚌壳珍珠
+				Tooltip: 你身上会发出微光(*-▽-)
+			}
+
+			CloudSkaters: {
+				DisplayName: 云中鞋
+				Tooltip: 让你在空中停留更长时间，当然，牛顿是管不了游戏的
+			}
+
+			CoralBand: {
+				DisplayName: 珊瑚戒指
+				Tooltip: 大幅增加近战伤害和暴击几率！
+			}
+
+			GintzlMetal: {
+				DisplayName: 重钢
+				Tooltip: 从高提维亚城堡偷来的金属，已经腐蚀并变成了重钢。
+			}
+
+			EaglesGrace: {
+				DisplayName: 鹰之恩赐
+				Tooltip: 一只特殊的鹰赐予你飞行的能力，来自黎明圣地的神圣巢穴。
+			}
+
+			GhostExcalibur: {
+				DisplayName: 幽灵神剑
+				Tooltip: 召唤一把神剑为你而战！
+			}
+
+			GiftOfLife: {
+				DisplayName: 生命恩赐
+				Tooltip: ""
+			}
+
+			LeatherGlove: {
+				DisplayName: 皮制手套
+				Tooltip: 增加投掷伤害和投掷速度。
+			}
+
+			LunarBand: {
+				DisplayName: 月光戒指
+				Tooltip: 夜晚总是增加暴击几率和伤害
+			}
+
+			OceanScroll: {
+				DisplayName: 海洋卷轴
+				Tooltip: 增加20%的魔法暴击几率！
+			}
+
+			OceansTrinket: {
+				DisplayName: 海洋护符
+				Tooltip: 增加1个最大召唤槽，并提高8%的召唤伤害！
+			}
+
+			RuneOfCorsage: {
+				DisplayName: 活力符文
+				Tooltip: 有机会获得超级治疗效果，如果在超级治疗状态下受到攻击，屏幕上的所有敌人都会中毒。
+			}
+
+			RuneOfDetonation: {
+				DisplayName: 爆炸符文
+				Tooltip: 有机会使被攻击的敌人爆炸，造成双倍伤害。
+			}
+
+			RuneOfReality: {
+				DisplayName: 真实符文
+				Tooltip: 每当击中敌人时，你会释放可追踪的魔法箭，击中时会召唤魔力星。
+			}
+
+			RuneOfShade: {
+				DisplayName: 阴影符文
+				Tooltip: +20最大魔力
+			}
+
+			RuneOfStealth: {
+				DisplayName: 潜行符文
+				Tooltip: 你的伤害会逐渐增加，直到受到攻击。当你处于最强形态时，你会发出明亮的红光。
+			}
+
+			ShadeCharm: {
+				DisplayName: 阴影护符
+				Tooltip: 减少法力消耗，并在夜晚发光
+			}
+
+			ShadeScarf: {
+				DisplayName: 阴影围巾
+				Tooltip:
+				'''
+				双击移动键以进行冲刺
+				增加移动速度 +10%伤害
+				获得潜行效果，+40生命和+10%暴击几率！ 增加生命再生速度！
+				'''
+			}
+
+			ShellSheid: {
+				DisplayName: 贝壳之盾
+				Tooltip: 壳利！
+			}
+
+			SoulStrideres: {
+				DisplayName: 灵魂行者
+				Tooltip:
+				'''
+				增加移动速度和空中滞留的时间
+				拥有火箭靴的飞天效果
+				我不想将我的灵魂变成一双靴子啊....../_ \
+				'''
+			}
+
+			SpiritPendent: {
+				DisplayName: 灵魂吊坠
+				Tooltip:
+				'''
+				提供微弱的光照
+				'''
+			}
+
+			StarflareBand: {
+				DisplayName: 星火头带
+				Tooltip:
+				'''
+				+20%
+				魔法伤害 增加法力回复速度！
+				减少法力消耗 （*O-O*)
+				'''
+			}
+
+			SunGlyph: {
+				DisplayName: 太阳雕纹
+				Tooltip: 大幅增加白天的所有伤害。
+			}
+
+			WoodShield: {
+				DisplayName: 木盾
+				Tooltip: 更酷的丹尼尔。
+			}
+
+			VirulentBody: {
+				DisplayName: 剧毒胸甲
+				Tooltip: 增加一定的生命回复速率。
+			}
+
+			VirulentHelm: {
+				DisplayName: 剧毒重盔
+				Tooltip: 稍微增加近战伤害和暴击几率！
+			}
+
+			VirulentLegs: {
+				DisplayName: 剧毒护腿
+				Tooltip: 增加移动速度 (•ω•*)
+			}
+
+			VirulentMask: {
+				DisplayName: 剧毒面具
+				Tooltip: 增加远程伤害和暴击几率！
+			}
+
+			VirulentRobe: {
+				DisplayName: 剧毒帽子
+				Tooltip: 增加魔法伤害和暴击几率！
+			}
+
+			VirulentVisor: {
+				DisplayName: 剧毒头盔
+				Tooltip: 增加投掷伤害和暴击几率！
+			}
+
+			AstrasilkBody: {
+				DisplayName: 星丝衣
+				Tooltip: ""
+			}
+
+			AstrasilkHead: {
+				DisplayName: 星丝头盔
+				Tooltip: 增加4%法力回复速度
+			}
+
+			AstrasilkLegs: {
+				DisplayName: 星丝护腿
+				Tooltip: 增加20%移动速度
+			}
+
+			ElegantBody: {
+				DisplayName: 雅致胸甲
+				Tooltip: +1 召唤栏
+			}
+
+			ElegantHead: {
+				DisplayName: 雅致头盔
+				Tooltip: +20% 召唤伤害
+			}
+
+			ElegantLegs: {
+				DisplayName: 雅致护腿
+				Tooltip:
+				'''
+				+10%召唤伤害
+				+2召唤栏
+				增加移动速度
+				'''
+			}
+
+			ForestCoreBody: {
+				DisplayName: 森林之核胸甲
+				Tooltip: 增加2%的远程暴击几率
+			}
+
+			ForestCoreHead: {
+				DisplayName: 森林之核头盔
+				Tooltip: 增加2%的远程伤害
+			}
+
+			ForestCoreLegs: {
+				DisplayName: 森林之核护腿
+				Tooltip: 增加10%的移动速度
+			}
+
+			HeavyMetalBody: {
+				DisplayName: 重钢链甲
+				Tooltip: 只提供防御，呐！
+			}
+
+			HeavyMetalHead: {
+				DisplayName: 重钢头盔
+				Tooltip: 它有一个很好的召唤套装加成，相信我。
+			}
+
+			HeavyMetalLegs: {
+				DisplayName: 重钢护胫
+				Tooltip: +5%的移动速度
+			}
+
+			LeatherBody: {
+				DisplayName: 皮革护甲
+				Tooltip: 增加25%的投掷伤害
+			}
+
+			LeatherHead: {
+				DisplayName: 皮革头盔
+				Tooltip: 增加4%的投掷暴击几率
+			}
+
+			LeatherLegs: {
+				DisplayName: 皮革护腿
+				Tooltip: 增加10%的移动速度
+			}
+
+			ShadeWraithBody: {
+				DisplayName: 影魅链甲
+				Tooltip: 增加20点耐力和生命值！
+			}
+
+			ShadeWraithHead: {
+				DisplayName: 影魅头盔
+				Tooltip: 所有职业（投手除外）增加2%的伤害
+			}
+
+			ShadeWraithLegs: {
+				DisplayName: 影魅护胫
+				Tooltip: 增加少量移动速度
+			}
+
+			TerricBody: {
+				DisplayName: 恐惧链甲
+				Tooltip: +40 最大生命值
+			}
+
+			TerricHead: {
+				DisplayName: 恐惧头盔
+				Tooltip: +13% 魔法伤害
+			}
+
+			TerricLegs: {
+				DisplayName: 恐惧护胫
+				Tooltip: 增加移动速度
+			}
+
+			WinterbornBody: {
+				DisplayName: 寒冬链甲
+				Tooltip: +20 生命值
+			}
+
+			WinterbornHead: {
+				DisplayName: 寒冬头盔
+				Tooltip: 增加法力回复速度
+			}
+
+			WinterbornLegs: {
+				DisplayName: 寒冬护胫
+				Tooltip: 增加10%的移动速度
+			}
+
+			DreadmireBag: {
+				DisplayName: 恐惑魔魇宝藏袋
+				Tooltip: ""
+			}
+
+			EDR: {
+				DisplayName: EDR
+				Tooltip: 那个红色按钮可能会让你后悔的......但你的好奇心却在建议你按下它......看看会发生什么吧
+			}
+
+			JackoBag: {
+				DisplayName: 杰克宝藏袋
+				Tooltip: ""
+			}
+
+			NestBag: {
+				DisplayName: 辐辉巢穴宝藏袋
+				Tooltip: ""
+			}
+
+			SingularityBag: {
+				DisplayName: 星极残芒宝藏袋
+				Tooltip: ""
+			}
+
+			SunClaw: {
+				DisplayName: 太阳之爪
+				Tooltip: 在太阳祭坛使用，与戈茜维娅军队的退役将领战斗。
+			}
+
+			SunStalkerBag: {
+				DisplayName: 逐日者宝藏袋
+				Tooltip: ""
+			}
+
+			VoidLantern: {
+				DisplayName: 虚空灯笼
+				Tooltip: ""
+			}
+
+			WanderingEssence: {
+				DisplayName: 流浪精华
+				Tooltip: 代表对戈茜维娅的爱的奇怪物品
+			}
+
+			ArnchaliteBar: {
+				DisplayName: 焰碳金锭
+				Tooltip: 烫手！但还不够老到是维里安的。
+			}
+
+			ArncharChunk: {
+				DisplayName: 焰碳金碎块
+				Tooltip: 更大物体的一些小部分
+			}
+
+			BlankRune: {
+				DisplayName: 空白符文
+				Tooltip: 看起来似乎没什么效果
+			}
+
+			ConvulgingMater: {
+				DisplayName: 痉挛物质
+				Tooltip: 一种腐化人并使其堕落的黑暗物质。
+			}
+
+			DarkEssence: {
+				DisplayName: 黑暗精华
+				Tooltip: 由最黑暗的实体所凝聚的纯粹暗影。
+			}
+
+			DreadFoil: {
+				DisplayName: 恐惧箔
+				Tooltip: 从恐惧泥沼中所得到的箔！
+			}
+
+			FlareGem: {
+				DisplayName: 闪光宝石
+				Tooltip: ""
+			}
+
+			FloralFungus: {
+				DisplayName: 花卉菌
+				Tooltip: ""
+			}
+
+			GelatinOzze: {
+				DisplayName: 明胶软泥
+				Tooltip: "水母很可怕...相信我..."
+			}
+
+			AncientLizardMetal: {
+				DisplayName: 古代蜥蜴金属
+				Tooltip: ""
+			}
+
+			BlazefuryShard: {
+				DisplayName: 烈焰之怒碎片
+				Tooltip: ""
+			}
+
+			ContamintSoul: {
+				DisplayName: 污染之魂
+				Tooltip: ""
+			}
+
+			DreamerBar: {
+				DisplayName: 梦想者金属条
+				Tooltip: ""
+			}
+
+			DuskBars: {
+				DisplayName: 黄昏金属条
+				Tooltip: ""
+			}
+
+			EldritchSoul: {
+				DisplayName: 奥术之魂
+				Tooltip: ""
+			}
+
+			LightEssence: {
+				DisplayName: 光明精华
+				Tooltip: ""
+			}
+
+			PixieSilk: {
+				DisplayName: 精灵丝绸
+				Tooltip: ""
+			}
+
+			PrimalTech: {
+				DisplayName: 原始科技
+				Tooltip: ""
+			}
+
+			SolaiumBar: {
+				DisplayName: 太阳能合金条
+				Tooltip: ""
+			}
+
+			SolarMirrorShard: {
+				DisplayName: 太阳镜碎片
+				Tooltip: ""
+			}
+
+			StarlightEssence: {
+				DisplayName: 星光精华
+				Tooltip: ""
+			}
+
+			SteampunkBar: {
+				DisplayName: 蒸汽朋克合金条
+				Tooltip: ""
+			}
+
+			IrradiatedBar: {
+				DisplayName: 辐辉锭
+				Tooltip: 非常致命......
+			}
+
+			Ivythorn: {
+				DisplayName: 常春藤棘
+				Tooltip: 一种有毒的植物，能缠绕生物。
+			}
+
+			LivingAlloy: {
+				DisplayName: 活体合金
+				Tooltip: ""
+			}
+
+			LostScrap: {
+				DisplayName: 废弃零件
+				Tooltip: 一种极度先进的古代技术的残余。
+			}
+
+			SingulariumBar: {
+				DisplayName: 星极锭
+				Tooltip: ""
+			}
+
+			SpacialDistortionFragments: {
+				DisplayName: 空间碎片
+				Tooltip: ""
+			}
+
+			StarSilk: {
+				DisplayName: 星辰丝绸
+				Tooltip: 由纯粹的星体能量制成的神圣丝绸。
+			}
+
+			StormEssence: {
+				DisplayName: 暴风精华
+				Tooltip: ""
+			}
+
+			StormPlating: {
+				DisplayName: 暴风装甲板
+				Tooltip: ""
+			}
+
+			ArmorDrive: {
+				DisplayName: 护甲驱动器
+				Tooltip: ""
+			}
+
+			BrokenTech: {
+				DisplayName: 损坏的科技制品
+				Tooltip: ""
+			}
+
+			DriveConstruct: {
+				DisplayName: 驱动构件
+				Tooltip: ""
+			}
+
+			MagicDrive: {
+				DisplayName: 魔法驱动器
+				Tooltip: ""
+			}
+
+			MeleeDrive: {
+				DisplayName: 战士驱动器
+				Tooltip: ""
+			}
+
+			MetallicOmniSource: {
+				DisplayName: 焰碳金能源
+				Tooltip: ""
+			}
+
+			RangerDrive: {
+				DisplayName: 射手驱动器
+				Tooltip: ""
+			}
+
+			SummonerDrive: {
+				DisplayName: 召唤驱动器
+				Tooltip: ""
+			}
+
+			ToolDrive: {
+				DisplayName: 工具驱动器
+				Tooltip: ""
+			}
+
+			UnknownCircuitry: {
+				DisplayName: 未知电路
+				Tooltip: ""
+			}
+
+			TerrorFragments: {
+				DisplayName: 恐怖碎片
+				Tooltip: 令人恐惧！
+			}
+
+			VirulentPlating: {
+				DisplayName: 毒性外壳
+				Tooltip: 辐射在酸性实体中的毒素之中
+			}
+
+			WanderingFlame: {
+				DisplayName: 游荡之焰
+				Tooltip: 燃烧着杰克的意志！
+			}
+
+			WinterbornShard: {
+				DisplayName: 冬生碎片
+				Tooltip:
+				冻结至核心: P
+			}
+
+			CellConverterI: {
+				DisplayName: 细胞转换器
+				Tooltip: ""
+			}
+
+			RunicTablel: {
+				DisplayName: 符文台
+				Tooltip: 制作符文！
+			}
+
+			AcidicHamacxe: {
+				DisplayName: 酸性战斧
+				Tooltip: ""
+			}
+
+			AcidicPixaxe: {
+				DisplayName: 酸性镐斧
+				Tooltip: ""
+			}
+
+			ArchariliteAxe: {
+				DisplayName: 焰碳金斧
+				Tooltip: ""
+			}
+
+			ArcharilitePickaxe: {
+				DisplayName: 焰碳金镐
+				Tooltip: ""
+			}
+
+			DirtAxe: {
+				DisplayName: 泥土斧
+				Tooltip: ""
+			}
+
+			DirtHammer: {
+				DisplayName: 泥土锤
+				Tooltip: ""
+			}
+
+			DirtPickaxe: {
+				DisplayName: 泥土镐
+				Tooltip: ""
+			}
+
+			Aneuriliac: {
+				DisplayName: 脉鞭
+				Tooltip: ""
+			}
+
+			Astalaiya: {
+				DisplayName: 星丝魔典
+				Tooltip: ""
+			}
+
+			FungalFlace: {
+				DisplayName: 真菌法杖
+				Tooltip: ""
+			}
+
+			JellyTome: {
+				DisplayName: 水母魔典
+				Tooltip: ""
+			}
+
+			LeadGauntlets: {
+				DisplayName: 铅制护手
+				Tooltip: ""
+			}
+
+			Pericarditis: {
+				DisplayName: 心炎
+				Tooltip: ""
+			}
+
+			ShadeHandTome: {
+				DisplayName: 影爪魔典
+				Tooltip: ""
+			}
+
+			StaffOFlame: {
+				DisplayName: 烈焰法杖
+				Tooltip: ""
+			}
+
+			StaffoftheIrradiaflare: {
+				DisplayName: 辐辉法杖
+				Tooltip: ""
+			}
+
+			StarFlowerStaff: {
+				DisplayName: 星花法杖
+				Tooltip: 发射小型球状光芒
+			}
+
+			StormsWrath: {
+				DisplayName: 暴风之怒
+				Tooltip: ""
+			}
+
+			SunBlastStaff: {
+				DisplayName: 日爆法杖
+				Tooltip: 使用太阳轰炸你的敌人!
+			}
+
+			TheDeafen: {
+				DisplayName: 超声嘶鸣者
+				Tooltip: 发出蝙蝠的嗥叫声！
+			}
+
+			TheShrieker: {
+				DisplayName: 尖叫嘶鸣者
+				Tooltip: 可能叫的没那么尖
+			}
+
+			TomeOfTheSingularity: {
+				DisplayName: 星极法典
+				Tooltip: ""
+			}
+
+			TorrentialLance: {
+				DisplayName: 风暴长枪
+				Tooltip: ""
+			}
+
+			VoidsGrasp: {
+				DisplayName: 虚伪礼仪
+				Tooltip: ""
+			}
+
+			WintersStom: {
+				DisplayName: 寒冬之怒
+				Tooltip: 每三次射击会释放一道更强大的寒冬怒气，爆炸成雪花并造成伤害
+			}
+
+			ArchariliteRaysword: {
+				DisplayName: 弧光剑
+				Tooltip: ""
+			}
+
+			AssassinsSlash: {
+				DisplayName: 刺影斩击
+				Tooltip: 攻击敌人时会逐渐积累能量，积攒完成后右击即可进行一次刺影斩击！
+			}
+
+			CinderBraker: {
+				DisplayName: 余烬碎焰
+				Tooltip: 发射一片灰烬
+			}
+
+			DragonWaveFury: {
+				DisplayName: 龙波之怒
+				Tooltip: ""
+			}
+
+			EventHorizon: {
+				DisplayName: 咏星界限
+				Tooltip: 天啊......
+			}
+
+			FrostBringer: {
+				DisplayName: 寒霜使者
+				Tooltip: 伤害随飞行距离的增加而减少
+			}
+
+			IrradiatedGreatBlade: {
+				DisplayName: 辐辉巨斧
+				Tooltip: ""
+			}
+
+			Myocardia: {
+				DisplayName: 恐惧之心
+				Tooltip: 吾即德古拉！
+			}
+
+			ScarecrowSaber: {
+				DisplayName: 稻草
+				Tooltip: ""
+			}
+
+			SkyrageShasher: {
+				DisplayName: 苍穹怒吼
+				Tooltip: ""
+			}
+
+			GladiatorSpear: {
+				DisplayName: 角斗士之矛
+				Tooltip: 穿透敌人的心脏。
+			}
+
+			Infernis: {
+				DisplayName: 狱焰
+				Tooltip: ""
+			}
+
+			StalkersTallon: {
+				DisplayName: 循迹爪牙
+				Tooltip: ""
+			}
+
+			TheIrradiaspear: {
+				DisplayName: 辐辉长矛
+				Tooltip: ""
+			}
+
+			TridentOfTheSeas: {
+				DisplayName: 海洋三叉戟
+				Tooltip: ""
+			}
+
+			VoidLance: {
+				DisplayName: 虚空之枪
+				Tooltip: ""
+			}
+
+			StarKeeper: {
+				DisplayName: 星辰守护者
+				Tooltip: ""
+			}
+
+			SwordOfGlactia: {
+				DisplayName: 霜凝剑
+				Tooltip: ""
+			}
+
+			SwordOfTheJungleGoddess: {
+				DisplayName: 丛林女神之剑
+				Tooltip: 请不要制作这把剑。
+			}
+
+			WoodenSaber: {
+				DisplayName: 木质军刀
+				Tooltip: ""
+			}
+
+			X3107: {
+				DisplayName: X3107
+				Tooltip: ""
+			}
+
+			ArchariliteEnergyShot: {
+				DisplayName: 弧光
+				Tooltip: ""
+			}
+
+			AssassinsDischarge: {
+				DisplayName: 刺客弩
+				Tooltip: ""
+			}
+
+			BrokenWrath: {
+				DisplayName: 破碎之怒
+				Tooltip: ""
+			}
+
+			CloudBow: {
+				DisplayName: 破云弓
+				Tooltip: ""
+			}
+
+			Crysalizer: {
+				DisplayName: 晶化射击
+				Tooltip: 用晶化箭射击敌人！
+			}
+
+			DeathShot: {
+				DisplayName: 穿魂
+				Tooltip: ""
+			}
+
+			DivineSniper: {
+				DisplayName: 神圣狙击手
+				Tooltip: 它可能并不是那么神圣
+			}
+
+			Dragoniper: {
+				DisplayName: 龙之狙击手
+				Tooltip: ""
+			}
+
+			GraniteMagmum: {
+				DisplayName: 花岗马格南
+				Tooltip: ""
+			}
+
+			IceWalker: {
+				DisplayName: 冰霜行者
+				Tooltip: ""
+			}
+
+			IrradieagleWrath: {
+				DisplayName: 炽辉鹰怒
+				Tooltip: ""
+			}
+
+			Irradishark: {
+				DisplayName: 炽辉鲨嚎
+				Tooltip: ""
+			}
+
+			IvynShot: {
+				DisplayName: 常春藤弓
+				Tooltip: ""
+			}
+
+			JackoShot: {
+				DisplayName: 南瓜弓
+				Tooltip: ""
+			}
+
+			JellyBow: {
+				DisplayName: 凝胶弓
+				Tooltip: ""
+			}
+
+			LAZER: {
+				DisplayName: 激光
+				Tooltip: 我是一束激光
+			}
+
+			M38F30: {
+				DisplayName: M38 F30
+				Tooltip: ""
+			}
+
+			RustlockPistol: {
+				DisplayName: 枷锁手枪
+				Tooltip: 适合用来射击空气！
+			}
+
+			Rustvolver: {
+				DisplayName: 锈蚀手枪
+				Tooltip: ""
+			}
+
+			SolarSpiner: {
+				DisplayName: 太阳旋风
+				Tooltip: ""
+			}
+
+			TecnoBlaster: {
+				DisplayName: 科技冲击波
+				Tooltip: ""
+			}
+
+			TheRedSkull: {
+				DisplayName: 血骨髅骷
+				Tooltip: ""
+			}
+
+			Tociflare: {
+				DisplayName: 毒焰
+				Tooltip: ""
+			}
+
+			TychineGun: {
+				DisplayName: 雷鲨机关枪
+				Tooltip: 为什么要为了这个杀死鲨鱼？(*▔皿▔)
+			}
+
+			VoidBlaster: {
+				DisplayName: 虚空爆破枪
+				Tooltip: ""
+			}
+
+			VoidSkull: {
+				DisplayName: 虚空骷髅
+				Tooltip: ""
+			}
+
+			WingedFury: {
+				DisplayName: 翼之狂怒
+				Tooltip: ""
+			}
+
+			Wingspand: {
+				DisplayName: 翼展
+				Tooltip: ""
+			}
+
+			ArncharRemote: {
+				DisplayName: 弧光遥控器
+				Tooltip: ""
+			}
+
+			DripplerStaff: {
+				DisplayName: 滴滴怪法杖
+				Tooltip: 血水滴滴答，血水滴滴答。
+			}
+
+			IrradiatedCreeperStaff: {
+				DisplayName: 辐辉飞眼怪法杖
+				Tooltip: 我看到了一些熟悉的东西......
+			}
+
+			IvyakenStaff: {
+				DisplayName: 埃维肯法杖
+				Tooltip: ""
+			}
+
+			JellyStaff: {
+				DisplayName: 水母法杖
+				Tooltip: 召唤一个小水母为你战斗！
+			}
+
+			SwarmerStaff: {
+				DisplayName: 蚁狮蜂法杖
+				Tooltip: 蜂群，进攻！
+			}
+
+			VoidStaff: {
+				DisplayName: 虚空法杖
+				Tooltip: ""
+			}
+
+			X3144: {
+				DisplayName: X3144
+				Tooltip: ""
+			}
+
+			AcidicLancher: {
+				DisplayName: 酸性飞刀
+				Tooltip: ""
+			}
+
+			Acidius: {
+				DisplayName: 酸焰喷吐者
+				Tooltip: 酸焰喷吐！
+			}
+
+			AssassinsKnife: {
+				DisplayName: 刺客匕首
+				Tooltip: 可以让敌人混乱
+			}
+
+			AssassinsShuriken: {
+				DisplayName: 刺客手里剑
+				Tooltip: 可以让敌人混乱
+			}
+
+			Boralius: {
+				DisplayName: 霜焰喷吐者
+				Tooltip: 霜焰喷吐！
+			}
+
+			Bricks: {
+				DisplayName: 板砖
+				Tooltip: ""
+			}
+
+			Cactius: {
+				DisplayName: 仙人球
+				Tooltip: ""
+			}
+
+			GreyBricks: {
+				DisplayName: 灰砖
+				Tooltip: ""
+			}
+
+			Plantius: {
+				DisplayName: 荆棘
+				Tooltip: 发射毒刺
+			}
+
+			ZthoKnifes: {
+				DisplayName: 脉冲刀
+				Tooltip: ""
+			}
+
+			CyroBolt: {
+				DisplayName: 霜寒矢
+				Tooltip: ""
+			}
+
+			LightSpand: {
+				DisplayName: 微芒
+				Tooltip: 戈茜维娅的燃烧之光
+			}
+
+			MoonMothStaff: {
+				DisplayName: 月蛾法杖
+				Tooltip: 哇偶
+			}
+
+			SolMothStaff: {
+				DisplayName: 日蛾法杖
+				Tooltip: 非常适合清理大量敌怪！
+			}
+
+			HeatGlider: {
+				DisplayName: 熔能弓
+				Tooltip: 燃起来吧
+			}
+
+			JPost: {
+				DisplayName: “杰克”
+				Tooltip: ""
+			}
+
+			ShrineAI: {
+				DisplayName: 圣坛AI
+				Tooltip: ""
+			}
+
+			ShrineBUANI: {
+				DisplayName: 圣坛BUANI
+				Tooltip: ""
+			}
+
+			ShrineGardenWreckerI: {
+				DisplayName: 圣坛花园破坏者I
+				Tooltip: ""
+			}
+
+			ShrineHalhurishI: {
+				DisplayName: 圣坛哈尔哈雷希I
+				Tooltip: ""
+			}
+
+			ShrineLightsI: {
+				DisplayName: 圣坛之灯I
+				Tooltip: ""
+			}
+
+			ShrineSolMothI: {
+				DisplayName: 圣坛日蛾I
+				Tooltip: ""
+			}
+
+			GothiviasSeal: {
+				DisplayName: 戈茜维娅之印
+				Tooltip:
+				'''
+				将它带到辐辉的深处。
+				一座等待人到来的城堡就在那里......
+				'''
+				
+			}
+
+			RestingGroundsI: {
+				DisplayName: 安息之地I
+				Tooltip: ""
+			}
+
+			ShinobiTome: {
+				DisplayName: 忍者卷轴
+				Tooltip: 不会忍术的忍者的绝佳选择！
+			}
+
+			GintzlSpear: {
+				DisplayName: 重钢长矛
+				Tooltip: 他们是如何投掷它们的？
+			}
+
+			RuneOfWind: {
+				DisplayName: 风之符文
+				Tooltip:
+				'''
+				受到攻击时，有概率会生成风之护盾！
+				这个护盾提供15点防御。
+				'''
+				
+			}
+
+			GintzlsSteed: {
+				DisplayName: 重钢长弓
+				Tooltip: 我不知道他们是如何不用手来射箭的......
+			}
+
+			Gallasis: {
+				DisplayName: Gallasis
+				Tooltip: 重钢的力量融合进了这个非常有用的物品中。
+			}
+
+			GintzlBroochA: {
+				DisplayName: 风之重钢胸针
+				Tooltip:
+				'''
+				增强风之力量！
+				+4防御 让每个物品自动挥动！
+				'''
+			}
+
+			GintzlShield: {
+				DisplayName: 重钢盾
+				Tooltip: 防御的最佳选择！
+			}
+
+			GintziaBossBag: {
+				DisplayName: 重钢指挥官宝藏袋
+				Tooltip: 里面有一个特别的小东西
+			}
+
+			GintzeCard: {
+				DisplayName: 重钢卡片引燃器
+				Tooltip:
+				'''
+				使用尘埃然后使用这个卡片！
+				有时候成为一名战士需要一张卡片。
+				'''
+				
+			}
+
+			AurelusTempleTile: {
+				DisplayName: 星宇神殿砖
+				Tooltip: 为什么你会有这个？
+			}
+
+			AurelusChesti: {
+				Tooltip: ""
+				DisplayName: 星宇宝箱
+			}
+
+			AurelusBanneri: {
+				DisplayName: 星宇旗帜
+				Tooltip: ""
+			}
+
+			AurelusPosti: {
+				Tooltip: ""
+				DisplayName: 星宇柱
+			}
+
+			AurelusBanner2i: {
+				Tooltip: ""
+				DisplayName: 星宇旗帜II
+			}
+
+			AurelusBorderI: {
+				DisplayName: 星宇边界I
+				Tooltip: ""
+			}
+
+			TON618Crossbow: {
+				DisplayName: TON618弩
+				Tooltip: 由一位特殊的弓箭手精心制作
+			}
+
+			Venatici: {
+				DisplayName: Venatici
+				Tooltip: 我从来不知道会有这么大的星星......
+			}
+
+			IceboundStaff: {
+				DisplayName: 冰封法杖
+				Tooltip: 被冰霜和灵魂所困
+			}
+
+			AurelusDoor: {
+				DisplayName: 星宇之门
+				Tooltip: 你真的不应该有这个东西
+			}
+
+			AurelusSummoni: {
+				DisplayName: 星宇召唤物
+				Tooltip: ""
+			}
+
+			MagnusMagnum: {
+				DisplayName: 麦哲伦火枪
+				Tooltip: 你知道吗，哈利，我对你这双鞋子从来就不感兴趣
+			}
+
+			VoidKey: {
+				DisplayName: 虚宇之钥
+				Tooltip: 在冰下的深渊底部使用，你可能会找到一些奇怪的东西。
+			}
+
+			Neptune8Card: {
+				DisplayName: 海王星8号卡片
+				Tooltip:
+				'''
+				一种点燃尘埃的引燃器！
+				从银河系的深处延伸而来！ 先使用尘埃，然后使用这个！
+				'''
+			}
+
+			Gintelze: {
+				DisplayName: 重钢ZE
+				Tooltip: 为什么你要偷这个东西！！！
+			}
+
+			HolmbergScythe: {
+				DisplayName: 霍尔伯格镰刀
+				Tooltip: 将宇宙撕裂成两半！
+			}
+
+			Alcarish: {
+				DisplayName: 阿尔卡里什
+				Tooltip: 重钢指挥官大胆地从士兵那里偷了这么有用的一个东西。
+			}
+
+			AurelusBlightBroochA: {
+				DisplayName: 星极残芒胸针
+				Tooltip: 一个用于照明的胸针！
+			}
+
+			AbyssalPowder: {
+				DisplayName: 深渊星宇尘
+				Tooltip:
+				'''
+				在敌怪身上撒上尘埃！
+				类似虚空晶体的粉末！ 与引燃器/卡片一起使用！
+				'''
+			}
+
+			AivanPowder: {
+				DisplayName: 日凝尘
+				Tooltip:
+				'''
+				在敌怪身上撒上尘埃！
+				从戈茜维娅的城堡偷来的 与引燃器/卡片一起使用！
+				'''
+			}
+
+			GovheilPowder: {
+				DisplayName: 忍钢尘
+				Tooltip:
+				'''
+				在敌怪身上撒上尘埃！
+				纯粹的感觉。 与引燃器/卡片一起使用！
+				'''
+			}
+
+			TheSunAndMoonCard: {
+				Tooltip: 用日月的力量燃烧...
+				DisplayName: 日月卡片
+			}
+
+			Kilvier: {
+				DisplayName: 切尔维尔
+				Tooltip: 这不是一把武器，是吗？
+			}
+
+			DaedussSunSheid: {
+				DisplayName: 太阳之盾
+				Tooltip: 以戈茜维娅和维尔莉娅之名，一起燃烧吧！
+			}
+
+			BearBroochA: {
+				DisplayName: 野熊胸针
+				Tooltip: 大幅增加法力回复速度！
+			}
+
+			DreadBroochA: {
+				DisplayName: 恐惑胸针
+				Tooltip:
+				'''
+				+10生命值
+				也许她并不那么糟糕。
+				'''
+				
+			}
+
+			MalShieldBroochA: {
+				DisplayName: 恶盾胸针
+				Tooltip:
+				'''
+				总感觉不太对劲...
+				+7防御 +7%近战伤害
+				'''
+			}
+
+			VixedBroochA: {
+				DisplayName: 遗忘傀儡胸针
+				Tooltip:
+				'''
+				这个傀儡已经破烂不堪。
+				+10%伤害
+				+40生命值
+				'''
+			}
+
+			DaedenChestplate: {
+				DisplayName: 达厄胸甲
+				Tooltip:
+				'''
+				绝对的丑陋。
+				+10%召唤和近战伤害
+				+20护甲穿透
+				+5暴击
+				-15生命值
+				'''
+			}
+
+			DaedenLegs: {
+				DisplayName: 达厄护胫
+				Tooltip: 增加移动速度
+			}
+
+			DaedenMask: {
+				DisplayName: 达厄面具
+				Tooltip:
+				'''
+				这是送给所有受虐狂的。
+				+30%召唤和近战伤害 大幅增加法力回复速度！
+				+5暴击
+				-40生命值
+				'''
+			}
+
+			DaedusBag: {
+				DisplayName: 达厄图斯宝藏袋
+				Tooltip: ""
+			}
+
+			Plate: {
+				DisplayName: 盘
+				Tooltip: 我猜达厄图斯忘记洗碗了。
+			}
+
+			GovheilCastleBlock: {
+				DisplayName: 忍钢城堡石块
+				Tooltip: ""
+			}
+
+			GovheilHallI: {
+				DisplayName: 忍钢大厅I
+				Tooltip: ""
+			}
+
+			GovheilWallsI: {
+				DisplayName: 忍钢城墙I
+				Tooltip: ""
+			}
+
+			GothivA: {
+				DisplayName: 忍钢A
+				Tooltip: ""
+			}
+
+			GothWall: {
+				DisplayName: 哥特墙
+				Tooltip: ""
+			}
+
+			Alcanine: {
+				DisplayName: 奥卡莱恩
+				Tooltip: ""
+			}
+
+			GovheilHolsterBroochA: {
+				DisplayName: 戈茜维娅胸针
+				Tooltip: ""
+			}
+
+			GovhenShield: {
+				DisplayName: 忍钢盾
+				Tooltip: 一个非常坚固的盾牌
+			}
+
+			GreekLantern: {
+				DisplayName: 希腊灯笼
+				Tooltip: 戈茜维娅是希腊人吗？
+			}
+
+			LanternOfAFallen: {
+				DisplayName: 陨落之灯
+				Tooltip: 对单优秀的武器
+			}
+
+			Blackdot: {
+				DisplayName: 黑点
+				Tooltip: 谁给它起的这么个名字？
+			}
+
+			Galvinie: {
+				DisplayName: 高维尼尔
+				Tooltip: 你的鼠标可能不喜欢它
+			}
+
+			TheBurningRod: {
+				DisplayName: 燃烧之杖
+				Tooltip: 它可能打不准敌人，但起码能用(•v•`)
+			}
+
+			AcidicalDirtBlock: {
+				DisplayName: 酸蚀泥土
+				Tooltip: ""
+			}
+
+			BurningGBroochA: {
+				DisplayName: 灵阳胸针
+				Tooltip: ""
+			}
+
+			Twirlers: {
+				DisplayName: 回转者
+				Tooltip: ""
+			}
+
+			GothiviaBag: {
+				DisplayName: 戈茜维娅宝藏袋
+				Tooltip: ""
+			}
+
+			WeddingDay: {
+				DisplayName: 婚礼
+				Tooltip: 这一对爱人肯定是为彼此而生的。
+			}
+
+			GothiviasCard: {
+				DisplayName: 戈茜维娅的卡片引燃器
+				Tooltip:
+				'''
+				“引起轻微烧伤”，至少这是她留下的注释。
+				先使用尘埃，然后再使用这张卡片！
+				'''
+				
+			}
+
+			Helios: {
+				DisplayName: 太阳神赫利俄斯
+				Tooltip:
+				'''
+				戈茜维娅的杰作武器
+				完全能用来对付机械Boss。 这把武器是由太阳的内核在艰苦的工作下锻造而成的。
+				'''
+			}
+
+			AmethystBroochA: {
+				DisplayName: 紫晶胸针
+				Tooltip:
+				'''
+				+20采集速度
+				+2防御力
+				'''
+				
+			}
+
+			CrystalPowder: {
+				DisplayName: 晶粉
+				Tooltip:
+				'''
+				抛洒易燃的魔法晶粉。
+				这就是我们为杰西而努力的结果。 将它们洒在敌怪上面，然后引燃！
+				'''
+			}
+
+			SunSall: {
+				DisplayName: 太阳泉
+				Tooltip: ""
+			}
+
+			DaedusBossRel: {
+				DisplayName: 达厄图斯圣物
+				Tooltip: ""
+			}
+
+			DreadBossRel: {
+				DisplayName: 恐惑魔魇圣物
+				Tooltip: ""
+			}
+
+			GintzeBossRel: {
+				DisplayName: 重钢指挥官圣物
+				Tooltip: ""
+			}
+
+			JackBossRel: {
+				DisplayName: 杰克圣物
+				Tooltip: ""
+			}
+
+			SOMBossRel: {
+				DisplayName: 星极残芒圣物
+				Tooltip: ""
+			}
+
+			SunsBossRel: {
+				DisplayName: 逐日者圣物
+				Tooltip: ""
+			}
+
+			VerliBossRel: {
+				DisplayName: 维尔莉娅圣物
+				Tooltip: ""
+			}
+
+			StarbloomBlock: {
+				DisplayName: 星花石块
+				Tooltip: ""
+			}
+
+			StarbloomDirtBlock: {
+				DisplayName: 星花土块
+				Tooltip: ""
+			}
+			FurihaMKIII: {
+				DisplayName: Furiha-MKIII
+				Tooltip: ""
+			}
+
+			M61X: {
+				DisplayName: M61-X
+				Tooltip: ""
+			}
+
+			MushroomStave: {
+				DisplayName: 魔菇法杖
+				Tooltip: 滚啊！
+			}
+
+			StarbloomTempleBlock: {
+				DisplayName: 星咏殿堂砖
+				Tooltip: ""
+			}
+
+			ShadegraveStaff: {
+				DisplayName: 黯墓法杖
+				Tooltip: ""
+			}
+
+			BasicGunParts: {
+				DisplayName: 基础枪械零件
+				Tooltip: ""
+			}
+
+			AuroreanStarI: {
+				DisplayName: 黎明之星
+				Tooltip: 一颗融合了流浪熔金的超级星星！
+			}
+
+			StoneKey: {
+				DisplayName: 石质钥匙
+				Tooltip: ""
+			}
+
+			NoxianWood: {
+				DisplayName: 诺克斯木材
+				Tooltip: ""
+			}
+
+			StoneChesti: {
+				DisplayName: 石质宝箱
+				Tooltip: ""
+			}
+
+			IgniterCards: {
+				DisplayName: 投掷型引燃卡
+				Tooltip: 用这个击中敌人的效果就像使用引燃卡一样！
+			}
+
+			ThrowingCards: {
+				DisplayName: 投掷型扑克
+				Tooltip: ""
+			}
+
+			Bread: {
+				DisplayName: 面包
+				Tooltip: 为什么重钢会掉这种东西......
+			}
+
+			BowledCream: {
+				DisplayName: 奶油
+				Tooltip:
+				'''
+				食用后能获得和蜂蜜一样的生命再生效果！
+				还可以作为饰品增加移动速度！
+				'''
+				
+			}
+
+			IgniterCardsMKII: {
+				DisplayName: 投掷型引燃卡MK2
+				Tooltip: ""
+			}
+
+			DesertRuneI: {
+				DisplayName: 古老遗物
+				Tooltip: 也许某位科学家能研究一下它？
+			}
+
+			OverworldRuneI: {
+				DisplayName: 古老遗物
+				Tooltip: 也许某位科学家能研究一下它？
+			}
+
+			ThrowingCardsMKII: {
+				DisplayName: 投掷型扑克MK2
+				Tooltip: ""
+			}
+
+			JungleRuneI: {
+				DisplayName: 古老遗物
+				Tooltip: 也许某位科学家能研究一下它？
+			}
+
+			AlcadzBlock: {
+				DisplayName: 流浪熔金块
+				Tooltip: ""
+			}
+
+			CarianWood: {
+				DisplayName: 暗夜木
+				Tooltip: ""
+			}
+
+			CarianWoodWall: {
+				DisplayName: 暗夜木墙
+				Tooltip: ""
+			}
+
+			AlciteI: {
+				DisplayName: 艾尔赛特I
+				Tooltip: ""
+			}
+
+			AowerBottomI: {
+				DisplayName: 下层地块I
+				Tooltip: ""
+			}
+
+			AowerTopI: {
+				DisplayName: 上层地块I
+				Tooltip: ""
+			}
+
+			CurtainLeftRCI: {
+				DisplayName: 左侧帷幕RCI
+				Tooltip: ""
+			}
+
+			CurtainRightRCI: {
+				DisplayName: 右侧帷幕RCI
+				Tooltip: ""
+			}
+
+			CurtainTopI: {
+				DisplayName: 顶部帷幕I
+				Tooltip: ""
+			}
+
+			RectiteI: {
+				DisplayName: 矩形矿石I
+				Tooltip: ""
+			}
+
+			SkullpileI: {
+				DisplayName: 骷髅堆I
+				Tooltip: ""
+			}
+
+			GiaPants: {
+				DisplayName: Gia的裤子
+				Tooltip: ""
+			}
+
+			GiaSuit: {
+				DisplayName: Gia的上衣
+				Tooltip: ""
+			}
+
+			GiaWig: {
+				DisplayName: Gia的假发
+				Tooltip: 我搞不清楚你想不想戴这个......
+			}
+
+			BagOfCards: {
+				DisplayName: 卡包
+				Tooltip:
+				'''
+				{ $CommonItemTooltip.RightClickToOpen }
+				右键打开以获取卡牌！在困难模式下可以获取更多的卡牌！
+				'''
+				
+			}
+
+			FireflyCannon: {
+				DisplayName: 萤星闪闪
+				Tooltip:
+				'''
+				发射爆炸性的萤火散弹！
+				......制作这件武器时祸害了好多只萤火虫。
+				'''
+				
+			}
+
+			StoniaBroochA: {
+				DisplayName: 石之胸针
+				Tooltip:
+				'''
+				取消掉落伤害和2点防御！
+				提高挖掘速度，能在黑暗中发光，但会损失15%的攻击伤害。
+				'''
+				
+			}
+
+			AlcaricMush: {
+				DisplayName: 暗夜蘑菇
+				Tooltip: 一种奇怪的魔法蘑菇，暗夜皇都的人民能够控制它用来攻击。
+			}
+
+			Blackwhip: {
+				DisplayName: 漆黑长鞭
+				Tooltip: 把它们抽回它们该呆的地方。
+			}
+
+			DarkWhip: {
+				DisplayName: 暗影长鞭
+				Tooltip: 听起来就不是什么好事。
+			}
+
+			AlsisChestplate: {
+				DisplayName: 暗夜胸甲
+				Tooltip:
+				'''
+				+25生命值
+				+20%魔法暴击几率
+				+10%魔法伤害
+				'''
+				
+			}
+
+			AlsisGreaves: {
+				DisplayName: 暗夜护胫
+				Tooltip:
+				'''
+				+10生命值
+				能让你快到起飞
+				'''
+			}
+
+			AlsisMask: {
+				DisplayName: 暗夜面具
+				Tooltip:
+				'''
+				+10生命值
+				+5%魔法暴击几率
+				+10%魔法伤害
+				'''
+				
+			}
+
+			WickofSorcery: {
+				DisplayName: 暗夜烛芯
+				Tooltip: 有史以来最好的烛芯。
+			}
+
+			Voyager: {
+				DisplayName: 航海家
+				Tooltip: 我喜欢砍杀和传球......等等，走错了。
+			}
+
+			Hyua: {
+				DisplayName: 虚环
+				Tooltip: 投掷这些奇怪的环状魔环，或者魔球......算了我也不知道它是什么。
+			}
+
+			Poya: {
+				DisplayName: 暗夜孢子
+				Tooltip: 召唤暗夜蘑菇撕裂你的敌人。
+			}
+
+			FireflyStaff: {
+				DisplayName: 萤火法杖
+				Tooltip:
+				'''
+				召唤一只萤火虫来为你战斗！
+				右键切换攻击模式和防御模式，随着萤火虫数量增加获得属性加成 在攻击模式下，你将获得移动速度和飞行能力
+				在防御模式下，你将获得防御和生命再生能力，但是萤火虫的攻击速度会减慢
+				'''
+				
+			}
+
+			VampireScepter: {
+				DisplayName: 血焰魔杖
+				Tooltip:
+				'''
+				召唤一个吸血火环来帮助你战斗
+				火环会完全消除生命再生效果，但是在靠近敌人时你会有强力的自动吸血效果 激活时大幅增加召唤伤害
+				一次只能激活一个
+				'''
+				
+			}
+
+			LunarianVoidBody: {
+				DisplayName: 幻月胸甲
+				Tooltip: +10% 投掷伤害
+			}
+
+			LunarianVoidHead: {
+				DisplayName: 幻月头盔
+				Tooltip:
+				'''
+				+10投掷暴击几率！
+				+20生命值
+				+25%投掷伤害
+				'''
+				
+			}
+
+			LunarianVoidLegs: {
+				DisplayName: 幻月护胫
+				Tooltip:
+				'''
+				增加2%移动速度
+				+5% 投掷伤害
+				'''
+			}
+
+			SandStorm: {
+				DisplayName: 沙尘暴
+				Tooltip: ""
+			}
+
+			ExploreMorrowedVillage: {
+				DisplayName: 探索黎明村庄
+				Tooltip: ""
+			}
+
+			ExploreMorrowedVillageC: {
+				DisplayName: 探索黎明村庄 完成
+				Tooltip: 把这个交给梅瑞娜以获取奖励！
+			}
+
+			Give100DustBags: {
+				DisplayName: 收集100个尘埃袋
+				Tooltip: ""
+			}
+
+			Give100DustBagsC: {
+				DisplayName: 收集100个尘埃袋 完成
+				Tooltip: 把这个交给梅瑞娜以获取奖励！
+			}
+
+			KillVerlia: {
+				DisplayName: 击败维尔莉娅
+				Tooltip: 她在月光之巅的顶端！
+			}
+
+			KillVerliaC: {
+				DisplayName: 击败维尔莉娅 完成
+				Tooltip: 把这个交给梅瑞娜以获取奖励！
+			}
+
+			MakeMagicPaper: {
+				DisplayName: 制作魔法纸
+				Tooltip: 需要收集很多资源，非常困难......
+			}
+
+			MakeMagicPaperC: {
+				DisplayName: 制作魔法纸 完成
+				Tooltip: 把这个交给梅瑞娜以获取奖励！
+			}
+
+			MakeUltimateScroll: {
+				DisplayName: 制作终极卷轴
+				Tooltip: 最终的考验！
+			}
+
+			OldCarianTome: {
+				DisplayName: 古老的暗夜典籍
+				Tooltip: 永恒的知识流淌于其中
+			}
+
+			OrbOfTheMorrow: {
+				DisplayName: 黎明之心
+				Tooltip: 充满了戈茜维娅的力量......
+			}
+
+			StolenMagicTome: {
+				DisplayName: 被窃的魔法典籍
+				Tooltip: 从暗夜皇都盗取的神秘书籍
+			}
+
+			TomeOfInfiniteSorcery: {
+				DisplayName: 无尽巫术典籍
+				Tooltip: 对智慧的完全掌握！
+			}
+
+			AlcadThrowingCards: {
+				DisplayName: 流浪熔金投掷型卡牌
+				Tooltip: ""
+			}
+
+			OceanRuneI: {
+				DisplayName: 古老遗物
+				Tooltip: 也许某位科学家能研究一下它？
+			}
+
+			Starvast: {
+				DisplayName: 宇宙碎片
+				Tooltip: 击中敌人后会爆炸出宇宙星片并追踪敌人
+			}
+
+			SawtoothNecklace: {
+				DisplayName: 锯齿项链
+				Tooltip:
+				'''
+				增加12点护甲穿透
+				增加10%攻击速度 我应该早就看到它的！
+				'''
+			}
+
+			ShadowCloak: {
+				DisplayName: 纱影斗篷
+				Tooltip:
+				'''
+				提供8点防御
+				增加4%伤害减免 减少敌人攻击性，并令靠近你的敌人受到各种减益效果影响
+				你已与黑暗融为一体......
+				'''
+				
+			}
+
+			VampireCharm: {
+				DisplayName: 吸血鬼符咒
+				Tooltip:
+				'''
+				增加8%暴击率
+				暴击有机会治疗你 暴击会爆炸并喷出伤害性的鲜血水
+				血......我要血！！！
+				'''
+				
+			}
+
+			BlossomingScissor: {
+				DisplayName: 花剪
+				Tooltip: 是个很好的赶路工具
+			}
+
+			AltrideSlicer: {
+				DisplayName: Altride切割刀
+				Tooltip: 切！割！挥！舞！
+			}
+
+			MooningSlicer: {
+				DisplayName: 月明刀
+				Tooltip: 苍穹会为你感到骄傲的......
+			}
+
+			EverneanSlicer: {
+				DisplayName: 埃弗尼安切割刀
+				Tooltip: 苍穹会为你更加骄傲......
+			}
+
+			ShrineBridgetI: {
+				DisplayName: 圣剑 Bridget I
+				Tooltip: ""
+			}
+
+			Bridget: {
+				DisplayName: Bridget
+				Tooltip: Bridget？这谁啊？
+			}
+
+			Reavestor: {
+				DisplayName: 裂魂者
+				Tooltip: 第一位吞噬灵魂的人
+			}
+
+			FableKnives: {
+				DisplayName: 预言匕首
+				Tooltip: 快速投掷出匕首
+			}
+
+			ZthoKnives: {
+				DisplayName: 电磁匕首
+				Tooltip: 更快地投掷匕首！
+			}
+
+			Climabaton: {
+				DisplayName: 云节棒
+				Tooltip: ""
+			}
+
+			Thunderstaff: {
+				DisplayName: 雷云法杖
+				Tooltip:
+				'''
+				召唤一个小云朵来保护你！
+				不同数量的云朵会进行不同种类的攻击:
+				Lv.1-霜冻箭
+				Lv.2-闪电箭
+				Lv.3-旋涡箭
+				'''
+				
+			}
+
+			LarveinScripute: {
+				DisplayName: 星极昆虫百科
+				Tooltip: 一只小虫子，真可爱
+			}
+
+			ArtisanBreastplate: {
+				DisplayName: 画家胸甲
+				Tooltip:
+				'''
+				哇，别忘了遮住自己，你不想让颜料弄到身上对吧？
+				+10% 伤害
+				+5% 暴击几率
+				+25 生命值
+				在画画时非常好用: )
+				'''
+			}
+
+			ArtisanMask: {
+				DisplayName: 画家面具
+				Tooltip:
+				'''
+				在创造艺术作品时尽情享受音乐是最有趣的活动之一。
+				+10% 伤害
+				+5% 暴击几率
+				+10 生命值
+				你看起来很帅对吗？
+				'''
+				
+			}
+
+			ArtisanThighs: {
+				DisplayName: 画家护胫
+				Tooltip:
+				'''
+				
+				矮个子，最好把腿藏起来，有人要来追你了: (
+				+40% 移动速度增加
+				+5% 伤害
+				+25 生命值
+				就像在颜料上滑行一样！
+				'''
+				
+			}
+
+			ArtisanBar: {
+				DisplayName: 画家锭
+				Tooltip: 专为真正的画家而制。
+			}
+
+			KaleidoscopicInk: {
+				DisplayName: 万花筆墨
+				Tooltip: 一种魔法且易爆的颜料，像是某种迷幻物质。
+			}
+
+			ArtistsHeart: {
+				DisplayName: 画家之心
+				Tooltip: 我如此热爱绘画，以至于我把它扔向我的敌人！
+			}
+
+			InkingSpire: {
+				DisplayName: 墨之尖塔
+				Tooltip: 在无敌状态下穿透你的敌人！右键点击进行高效的战斗！
+			}
+
+			PieceOfArt: {
+				DisplayName: 艺术之手
+				Tooltip: 用你的画笔拖动光标并打击敌人，发挥你的创意！
+			}
+
+			PicturePerfectI: {
+				DisplayName: 完美之作I
+				Tooltip:
+				'''
+				--部分I--
+				升级工匠盔甲 工匠盔甲获得更多防御力（5）
+				所有油漆武器都新增了一种高伤害的颜料！ 工匠盔甲套装效果持续时间略长，并且提高了一点点比例。
+				向他们的脸上涂上一些油漆！ 增加一个小相机，帮助捕捉你最好的时刻！
+				'''
+			}
+
+			PicturePerfectII: {
+				DisplayName: 完美之作II
+				Tooltip:
+				'''
+				--部分II--
+				大幅度升级工匠盔甲 工匠盔甲获得更多防御力（10）
+				所有油漆武器都新增了一种高伤害的颜料！ 工匠盔甲套装效果持续时间较长，并且提高了相当比例。
+				天呐，你那身装束看起来非常棒！ 增加一个小相机，帮助捕捉你最好的时刻！
+				'''
+			}
+
+			PicturePerfectIII: {
+				DisplayName: 完美之作III
+				Tooltip:
+				'''
+				--部分III--
+				极限升级工匠盔甲 工匠盔甲获得更多防御力（25）
+				工匠盔甲套装效果持续时间更长，并且提高了非常大比例。 最终成为了完美的作品，对吧？
+				增加一个小相机，帮助捕捉你最好的时刻！
+				'''
+				
+			}
+
+			ShadeWraithWings: {
+				DisplayName: 魂影翼
+				Tooltip: 允许飞行和缓慢下落
+			}
+
+			DirtWings: {
+				DisplayName: 泥土翼
+				Tooltip:
+				'''
+				允许飞行和缓慢下落
+				等等......泥土？做成了翅膀？？？ 你还好吗？
+				'''
+			}
+
+			BridgetII: {
+				DisplayName: Bridget-2
+				Tooltip:
+				为什么你没救她: (
+			}
+
+			BlackWallBlock: {
+				DisplayName: 黑墙
+				Tooltip: 种族主义
+			}
+
+			MossyStones: {
+				DisplayName: 苔石
+				Tooltip: ""
+			}
+
+			VeriplantGrassBlock: {
+				DisplayName: 变种植物草块
+				Tooltip: ""
+			}
+
+			ChiseledStoneBlock: {
+				DisplayName: 雕刻石块
+				Tooltip: ""
+			}
+
+			VeriplantDirtBlock: {
+				DisplayName: 肥沃土块
+				Tooltip: ""
+			}
+
+			VeriplantGrassWall: {
+				DisplayName: 肥沃土墙
+				Tooltip: ""
+			}
+
+			MiracleBody: {
+				DisplayName: 奇迹长袍
+				Tooltip:
+				'''
+				增加召唤伤害12%
+				增加鞭子攻击范围20%
+				+1最大哨兵数量
+				'''
+			}
+
+			MiracleHead: {
+				DisplayName: 奇迹帽子
+				Tooltip:
+				'''
+				增加召唤伤害12%
+				+1最大哨兵数量
+				'''
+				
+			}
+
+			MiracleThread: {
+				DisplayName: 奇迹丝线
+				Tooltip: 编制了现实的丝线......
+			}
+
+			MiracleWings: {
+				DisplayName: 奇迹之翼
+				Tooltip:
+				'''
+				允许飞行和缓慢下落
+				按住以悬停 是的......这玩意儿能让你飞起来也是个奇迹
+				'''
+			}
+
+			Lacerator: {
+				DisplayName: 割裂
+				Tooltip:
+				'''
+				{$CommonItemTooltip.SummonTagDamage}
+				{$CommonItemTooltip.Whips}
+				击中的敌人会一分为二，剩下其原本生命值的一半且防御力降低
+				切片切片切片！
+				'''
+			}
+
+			PotOfGreed: {
+				DisplayName: 贪婪之壶
+				Tooltip:
+				'''
+				召唤一个会笑的水壶，当你靠近它时，会产生最多10个你召唤物的影分身
+				影分身会持续一小段时间，并且造成的伤害低于召唤物本体 你只能召唤一个贪婪之壶
+				'''
+			}
+
+			Ripper: {
+				DisplayName: 开膛手
+				Tooltip:
+				'''
+				在光标周围召唤一场剑刃风暴
+				右键单击执行特殊攻击
+				'''
+				
+			}
+
+			XScissor: {
+				DisplayName: X剪刃
+				Tooltip: 切割出一个十字形的裂隙，释放出来自虚空的恐怖攻击
+			}
+
+			LittleScissor: {
+				DisplayName: 小型X剪刀
+				Tooltip:
+				'''
+				双击任意方向以进行冲刺
+				冷却时间很短 在冲刺时会在身后留下一道恐怖的虚空裂隙
+				'''
+			}
+
+			SyliaBag: {
+				DisplayName: 丝莉娅宝藏袋
+				Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
+			}
+
+			SyliaBossRel: {
+				DisplayName: 丝莉娅圣物
+				Tooltip: ""
+			}
+
+			SeavathanBlock: {
+				DisplayName: 海神方块
+				Tooltip: ""
+			}
+
+			OldWeddingRing: {
+				DisplayName: 旧的结婚戒指
+				Tooltip: 会有人喜欢这个的......
+			}
+
+			GrailBar: {
+				DisplayName: 圣金锭
+				Tooltip: 用圣金打造而成
+			}
+
+			CelestiasWeddingRing: {
+				DisplayName: 天界婚戒
+				Tooltip:
+				'''
+				她爱我！她不爱我！
+				具有旅行者背包的效果 免疫击退和岩浆
+				+12% 伤害
+				+12% 护甲穿透
+				'''
+			}
+
+			STARCORE: {
+				DisplayName: 星之核心
+				Tooltip: 从最具破坏力的轰炸机上掉落
+			}
+
+			BottleOfGrail: {
+				DisplayName: 圣金瓶
+				Tooltip: +1召唤栏和一个额外附赠的星璇背景
+			}
+
+			ReverieExtenderPowder: {
+				DisplayName: 梦幻扩展型粉末
+				Tooltip: 将尘埃范围增加130%
+			}
+
+			GrailedExtenderPowder: {
+				DisplayName: 圣金扩展型粉末
+				Tooltip: 将尘埃范围增加250%
+			}
+
+			MidfortuneExtenderPowder: {
+				DisplayName: 中等扩展型粉末
+				Tooltip: 将尘埃范围增加	200%
+			}
+
+			BonedThrowBroochA: {
+				DisplayName: 掷骨胸针
+				Tooltip: 增加20%的投掷速度和伤害
+			}
+
+			LuckyWinnerBroochA: {
+				DisplayName: 燃运胸针
+				Tooltip: 引燃器有机会在点燃尘埃时造成双倍伤害！
+			}
+
+			SandyBroochA: {
+				DisplayName: 风沙胸针
+				Tooltip: 按下2次即可召唤龙卷风！
+			}
+
+			GrailHairpinYoyo: {
+				DisplayName: 圣金发夹悠悠球
+				Tooltip: 发夹......能当......悠悠球？
+			}
+
+			StarringGraft: {
+				DisplayName: 星空
+				Tooltip: 让那些星星重新飞翔吧
+			}
+
+			OceanicExtenderPowder: {
+				DisplayName: 海洋扩展型粉末
+				Tooltip: 将尘埃范围增加	150%
+			}
+
+			MorrowedJelliesBroochA: {
+				DisplayName: 乞来精胸针
+				Tooltip: 防御流的最佳选择！
+			}
+
+			BonedExtenderPowder: {
+				DisplayName: 骸骨扩展型粉末
+				Tooltip: 将尘埃范围增加	160%
+			}
+
+			GremoryExtenderPowder: {
+				DisplayName: 格雷莫瑞扩展型粉末
+				Tooltip: 将尘埃范围增加	150%
+			}
+
+			MushyExtenderPowder: {
+				DisplayName: 蘑菇扩展型粉末
+				Tooltip: 将尘埃范围增加	180%
+			}
+			TomedDustingFlames: {
+				DisplayName: 崩解引燃器
+				Tooltip: "[c/3c8c60:为尘埃制造一场华丽的爆炸！]"
+			}
+
+			TomedDustingMagic: {
+				DisplayName: 崩解魔法
+				Tooltip: "[c/3c8c60:制止一场华丽的爆炸！]"
+			}
+
+			JacksonPollock: {
+				DisplayName: 杰克逊·波洛克
+				Tooltip: 召唤一个漂浮的颜料桶，它会把颜料洒得到处都是！
+			}
+
+			Rhamenthal: {
+				DisplayName: 接枝者
+				Tooltip: 一把强力的魔法弓！
+			}
+
+			Angelenthal: {
+				DisplayName: 天使之刃
+				Tooltip: "[c/a852b4:一把强大的武器！它能够用强力的引力吸住敌人，而且可以改变自己的形态！]\n[c/a852b4:右键点击以释放引力重击！]\n[c/cca7d6:这件武器与菲妮克斯绑定了]"
+
+			}
+
+			RoseBroochA: {
+				DisplayName: 玫瑰胸针
+				Tooltip: 召唤一面玫瑰盾牌，围绕你旋转并格挡投射物
+			}
+
+			Nekomara: {
+				DisplayName: 猫丸
+				Tooltip: "[c/a852b4:复制和克隆是力量的本源喵!]\n[c/cca7d6:这件武器与菲妮克斯绑定了]"
+				
+			}
+
+			Yumiko: {
+				DisplayName: 由美子
+				Tooltip: "[c/a852b4:一个悲伤的灵魂在哭泣]\n[c/cca7d6:这件武器与菲妮克斯绑定了]"
+				
+			}
+
+			FrostMonger: {
+				DisplayName: 霜芒
+				Tooltip: ""
+			}
+
+			AlcadzianCard: {
+				DisplayName: 流浪熔金引燃器
+				Tooltip:
+				'''
+				与尘埃混合使用
+				用尘埃击中敌人，然后切换到此武器并按住左键引爆！
+				'''
+				
+			}
+
+			BOMBERCard: {
+				DisplayName: 炸弹人引燃器
+				Tooltip:
+				'''
+				与尘埃混合使用
+				用尘埃击中敌人，然后切换到此武器并按住左键引爆！
+				'''
+				
+			}
+
+			BurningCard: {
+				DisplayName: 烧伤引燃器
+				Tooltip:
+				'''
+				与尘埃混合使用
+				用尘埃击中敌人，然后切换到此武器并按住左键引爆！
+				'''
+				
+			}
+
+			FenixxCard: {
+				DisplayName: 凤凰引燃器
+				Tooltip:
+				'''
+				与尘埃混合使用
+				用尘埃击中敌人，然后切换到此武器并按住左键引爆！
+				'''
+				
+			}
+
+			GrailedCard: {
+				DisplayName: 圣金引燃器
+				Tooltip:
+				'''
+				与尘埃混合使用
+				用尘埃击中敌人，然后切换到此武器并按住左键引爆！
+				'''
+				
+			}
+
+			LarvaedCard: {
+				DisplayName: 秘虫引燃器
+				Tooltip:
+				'''
+				与尘埃混合使用
+				用尘埃击中敌人，然后切换到此武器并按住左键引爆！
+				'''
+				
+			}
+
+			StyngerCard: {
+				DisplayName: 斯廷格引燃器
+				Tooltip:
+				'''
+				与尘埃混合使用
+				用尘埃击中敌人，然后切换到此武器并按住左键引爆！
+				'''
+				
+			}
+
+			URift: {
+				DisplayName: 不稳定的裂隙
+				Tooltip: ""
+			}
+
+			GrailAxe: {
+				DisplayName: 圣金斧
+				Tooltip: "[c/c1a83f:(A+) 用星之力量打击敌人!]"
+			}
+
+			Rinavine: {
+				DisplayName: 金主
+				Tooltip: 一切黄金之王！
+			}
+
+			Jerry: {
+				DisplayName: 杰瑞
+				Tooltip: "[c/5ee056:杰瑞不喜欢别人叫他的名字]"
+			}
+
+			LarvaedSpear: {
+				DisplayName: 秘虫投矛
+				Tooltip: 好像还不错诶
+			}
+
+			DevilsPeak: {
+				DisplayName: 恶魔之巅
+				Tooltip: 这是恶魔的巅峰之作
+			}
+
+			ClockworkCity: {
+				DisplayName: 发条城市
+				Tooltip:
+				'''
+				绝对不是游戏中最好的枪之一，咳咳
+				被链条锁住了
+				'''
+				
+			}
+
+			PotionOfAlcadWand: {
+				DisplayName: 流浪熔金药水召唤杖
+				Tooltip: 和它一起玩吧
+			}
+
+			ScissorianChestplate: {
+				DisplayName: 裁剪者护甲
+				Tooltip:
+				'''
+				+20投掷暴击几率！
+				+15生命值
+				+10%投掷伤害
+				'''
+				
+			}
+
+			ScissorianGreaves: {
+				DisplayName: 裁剪者护腿
+				Tooltip:
+				'''
+				增加移动速度
+				+20 生命值
+				+15% 投掷伤害
+				'''
+			}
+
+			ScissorianMask: {
+				DisplayName: 裁剪者面具
+				Tooltip: +20%投掷伤害
+			}
+
+			DarkButcher: {
+				DisplayName: 邪恶屠夫
+				Tooltip: 更加邪恶的屠夫
+			}
+
+			TheButcher: {
+				DisplayName: 屠夫
+				Tooltip: ""
+			}
+
+			BookOfSkullsII: {
+				DisplayName: 骷髅头法书II
+				Tooltip: 哇哇哇，这是第二版诶！
+			}
+
+			DreadGauntlets: {
+				DisplayName: 恐惑手套
+				Tooltip: ""
+			}
+
+			ScytheOfSouls: {
+				DisplayName: 幽魂长镰
+				Tooltip: 操控这些古怪的幽魂吧！
+			}
+
+			BubbleBlasher: {
+				DisplayName: 泡泡粉碎者
+				Tooltip: 用它将你的敌人推开！
+			}
+
+			LarveinGreatbow: {
+				DisplayName: 秘虫长弓
+				Tooltip: 它相当不错对吧？
+			}
+
+			AlcarianYoyo: {
+				DisplayName: 碎星悠悠球
+				Tooltip: ""
+			}
+
+			Alcadius: {
+				DisplayName: 暗夜荆棘
+				Tooltip: 荆棘！
+			}
+
+			DungeonedRockCard: {
+				DisplayName: 地牢石引燃器
+				Tooltip:
+				'''
+				它看上去很有石力
+				用尘埃击中敌人，然后切换到此武器并按住左键引爆！
+				'''
+				
+			}
+
+			PunkedUpChops: {
+				DisplayName: 用于攻击的奇怪废料
+				Tooltip: 变废为宝！
+			}
+
+			Photobomb: {
+				DisplayName: 炸裂式绘画
+				Tooltip: 我想要用颜料帮你洗澡......嘻嘻......
+			}
+
+			CatacombAquaStoneBlock: {
+				DisplayName: 地窖水石块
+				Tooltip: ""
+			}
+
+			CatacombHeatStoneBlock: {
+				DisplayName: 地窖热石块
+				Tooltip: ""
+			}
+
+			CatacombTrapStoneBlock: {
+				DisplayName: 地窖陷阱石块
+				Tooltip: ""
+			}
+
+			CatacombsKey: {
+				DisplayName: 地窖钥匙
+				Tooltip: 使用这些钥匙进入海洋、沙漠和地下的地窖！
+			}
+
+			CatacombsDoor: {
+				DisplayName: 地窖门
+				Tooltip: ""
+			}
+
+			CatacombsSummoni: {
+				DisplayName: 地窖召唤台
+				Tooltip: ""
+			}
+
+			GraftedSoul: {
+				DisplayName: 酸蚀之魂
+				Tooltip: 一种融合了大量酸蚀能量的精华......
+			}
+
+			GoldenHeartBalls: {
+				DisplayName: 黎明之心II
+				Tooltip: 会和黎明之心配套
+			}
+
+			Test: {
+				DisplayName: 测试用品
+				Tooltip: ""
+			}
+
+			StarringBalls: {
+				DisplayName: 星辉球
+				Tooltip: 让你变得星光熠熠
+			}
+
+			MagicalBroochA: {
+				DisplayName: 暗夜胸针
+				Tooltip:
+				'''
+				你想成为一个魔法少女嘛？
+				+100 最大魔力值
+				+50 生命值
+				拥有魔力手铐和魔力花的效果 魔法消耗减少95%
+				+20% 魔法伤害
+				'''
+			}
+
+			PotionOfHallowWand: {
+				DisplayName: 神圣药水召唤杖
+				Tooltip: ""
+			}
+
+			AppretienceBreastplate: {
+				DisplayName: 学徒胸甲
+				Tooltip: +20%暴击率！+5生命值！
+			}
+
+			AppretienceHat: {
+				DisplayName: 学徒兜帽
+				Tooltip: +20%暴击率和生命值！
+			}
+
+			AppretiencePants: {
+				DisplayName: 学徒短裤
+				Tooltip: +20%暴击率和生命值！
+			}
+
+			UlvenChestplate: {
+				DisplayName: 狼族胸甲
+				Tooltip: +15护甲穿透！
+			}
+
+			UlvenGreaves: {
+				DisplayName: 狼族护胫
+				Tooltip: +25护甲穿透！
+			}
+
+			UlvenHelmet: {
+				DisplayName: 狼族头盔
+				Tooltip: +20护甲穿透！
+			}
+
+			RottenHeart: {
+				DisplayName: 腐烂之心
+				Tooltip: 需要有人完成的任务，为了给戈茜维娅提供再一层保护......
+			}
+
+			IronHook: {
+				DisplayName: 铁钩
+				Tooltip: ""
+			}
+
+			Kaevine: {
+				DisplayName: 恐蚀诡鞭
+				Tooltip: "[c/e64059:诡鞭武器类型]\n[c/bd4b14:命中后会对敌怪附加持续性的伤害]"
+				
+			}
+
+			RalladI: {
+				DisplayName: 瑞拉德I
+				Tooltip: ""
+			}
+
+			AgreviPowder: {
+				DisplayName: 阿格雷维尘埃
+				Tooltip:
+				'''
+				抛洒易燃的魔法尘埃
+				一段时间后会爆炸的尘埃。 将它们洒在敌怪上面，然后引燃！
+				'''
+			}
+
+			IllusionistPowder: {
+				DisplayName: 幻术师尘埃
+				Tooltip:
+				'''
+				抛洒易燃的魔法尘埃
+				它告诉你出门在外要保护好自己。 将它们洒在敌怪上面，然后引燃！
+				'''
+			}
+
+			PoisonedPowder: {
+				DisplayName: 毒蚀尘埃
+				Tooltip:
+				'''
+				抛洒易燃的魔法尘埃
+				这是一种带有持续性剧毒的尘埃。 将它们洒在敌怪上面，然后引燃！
+				'''
+			}
+
+			SpiritPowder: {
+				DisplayName: 灵魂粉末
+				Tooltip:
+				'''
+				抛洒易燃的魔法尘埃
+				会有人喜欢这个的。 将它们洒在敌怪上面，然后引燃！
+				'''
+			}
+
+			TreasureBoxFire: {
+				DisplayName: 正在冒烟的宝箱
+				Tooltip:
+				'''
+				{$CommonItemTooltip.RightClickToOpen}
+				我打赌你为了得到这个宝箱差点被烧死！
+				'''
+				
+			}
+
+			TreasureBoxTrap: {
+				DisplayName: 陷阱宝箱
+				Tooltip:
+				'''
+				{$CommonItemTooltip.RightClickToOpen}
+				呃......它肯定没有陷阱，没有！
+				'''
+				
+			}
+
+			TreasureBoxWater: {
+				DisplayName: 沉底的宝箱
+				Tooltip:
+				'''
+				{$CommonItemTooltip.RightClickToOpen}
+				水量过多
+				'''
+				
+			}
+
+			AquaticEmblem: {
+				DisplayName: 泡泡徽章
+				Tooltip:
+				'''
+				攻击敌人有概率在其身上生成泡泡！
+				这些泡泡会持续存在很长时间
+				'''
+				
+			}
+
+			Barry: {
+				DisplayName: 刺头
+				Tooltip:
+				'''
+				召唤一圈尖刺盾牌来保护你！
+				每个人都喜欢自己这边的一个刺头
+				'''
+				
+			}
+
+			Bonfire: {
+				DisplayName: 火烛
+				Tooltip:
+				'''
+				在你头上召唤一个火烛，增加你的生命再生速度并提供光照
+				当你不移动时它将会变得更强！
+				'''
+				
+			}
+
+			Cleats: {
+				DisplayName: 钉鞋
+				Tooltip: 增加你的移动速度和加速度，还会发出微弱的光芒！
+			}
+
+			FireEmblem: {
+				DisplayName: 火焰徽章
+				Tooltip:
+				'''
+				你的攻击会给予敌怪随机的火焰debuff
+				增加暴击的概率，对附近的敌人造成爆炸和燃烧效果！ ......你还在等什么？
+				'''
+			}
+
+			FlamecrestShield: {
+				DisplayName: 炎冠盾牌
+				Tooltip:
+				'''
+				免疫所有基于火焰的debuff！
+				对于基于火焰的攻击，你受到的伤害减少50%！ 现在我就可以在岩浆里泡澡了，好耶
+				'''
+			}
+
+			IcarusFeather: {
+				DisplayName: 伊卡洛斯之羽
+				Tooltip:
+				'''
+				即使在飞行时间用尽后，你仍可以继续飞行！
+				但你的翅膀会燃烧，减弱你的飞行能力
+				'''
+				
+			}
+
+			OceancrestShield: {
+				DisplayName: 海冠盾牌
+				Tooltip:
+				'''
+				每隔一段时间就会生成一个泡泡盾牌跟随着你并吸收下一次受到的伤害！
+				此外，你在水下有无限的呼吸时间！
+				'''
+				
+			}
+
+			Panacea: {
+				DisplayName: 万灵草药水
+				Tooltip: 免疫中毒、剧毒和流血效果！
+			}
+
+			SpikedEmblem: {
+				DisplayName: 利刺徽章
+				Tooltip:
+				'''
+				增加8%的伤害
+				被击中的敌人会被你束缚，将其与你连接，并造成持续性的伤害！
+				'''
+				
+			}
+
+			TyphoonInABottle: {
+				DisplayName: 瓶中台风
+				Tooltip:
+				'''
+				使持有者能够进行大幅度的二段跳！
+				轻微增加移动和跳跃速度
+				'''
+				
+			}
+
+			WaterproofHeadphones: {
+				DisplayName: 防水耳机
+				Tooltip: 增加40点最大生命值，并获得4%的伤害减免！
+			}
+
+			BurningFlask: {
+				DisplayName: 燃烧瓶
+				Tooltip: 请不要把房子点着了......
+			}
+
+			ComicalTrident: {
+				DisplayName: 滑稽三叉戟
+				Tooltip: 神金，害我笑了一下
+			}
+
+			MetalAlloy: {
+				DisplayName: 合金
+				Tooltip: 我说它不算是一种材料，但德国人却说它算。
+			}
+
+			Ragsaw: {
+				DisplayName: 会跳舞的锯齿
+				Tooltip: 它们会弹跳，甚至看起来像在跳舞！
+			}
+
+			SpiritCapsule: {
+				DisplayName: 灵魂胶囊
+				Tooltip: 不知怎的，你把一些灵魂困在了里面......
+			}
+
+			Stonen: {
+				DisplayName: 石人
+				Tooltip: 别急着变成石头。
+			}
+
+			Aquamare: {
+				DisplayName: 蓝玛瑙
+				Tooltip: 有些不稳定
+			}
+
+			MagicalAxe: {
+				DisplayName: 魔法斧头
+				Tooltip: 它如此神奇......
+			}
+
+			WaterSong: {
+				DisplayName: 霜流颂歌
+				Tooltip: 把木箭变成冰箭！
+			}
+
+			Dulahaun: {
+				DisplayName: 分割
+				Tooltip:
+				'''
+				一把狡诈的武器，可能已经杀死了它的前任主人。
+				用光明与黑暗锻造而成，这把剑是有灵性的，是活的。
+				'''
+				
+			}
+
+			CursedShard: {
+				DisplayName: 诅咒碎片
+				Tooltip: 在任何地窖祭坛上使用它，召唤一个危险的敌人！
+			}
+
+			DucanblitzBreastplate: {
+				DisplayName: 灵绒胸甲
+				Tooltip:
+				'''
+				+20最大生命值
+				+20%近战伤害
+				'''
+				
+			}
+
+			DucanblitzCap: {
+				DisplayName: 灵绒帽子
+				Tooltip:
+				'''
+				+10%暴击几率
+				+22%近战伤害
+				'''
+				
+			}
+
+			DucanblitzThighs: {
+				DisplayName: 灵绒护腿
+				Tooltip:
+				'''
+				增加大量移动速度
+				+50 最大生命值
+				+15 护甲穿透
+				+12% 近战伤害
+				'''
+			}
+
+			FenixBag: {
+				DisplayName: 菲妮克斯宝藏袋
+				Tooltip: ""
+			}
+
+			EldritchianCloak: {
+				DisplayName: 奥秘披风
+				Tooltip:
+				'''
+				+12%投掷攻击速度
+				+16%投掷伤害
+				稍微增加生命回复速度
+				'''
+			}
+
+			EldritchianHood: {
+				DisplayName: 奥秘兜帽
+				Tooltip:
+				'''
+				+10%投掷攻击速度
+				+20%投掷伤害
+				稍微增加视野范围
+				'''
+			}
+
+			EldritchianLegs: {
+				DisplayName: 奥秘腿甲
+				Tooltip:
+				'''
+				+8%投掷攻击速度
+				+23%投掷伤害
+				稍微增加移动速度
+				'''
+			}
+			StickOfWisdom: {
+				// DisplayName: Stick Of Wisdom
+				/* Tooltip:
+'''
+May be useful for mages and summoners!
+Fills you with wisdom, I think?
+''' */
+			}
+
+			ChiseledSandstone: {
+				// Tooltip: ""
+				// DisplayName: Chiseled Sandstone
+			}
+
+			VeiizalsUmbrella: {
+				// DisplayName: Veiizals Umbrella
+				// Tooltip: ""
+			}
+
+			AnotherRock: {
+				// DisplayName: Another Rock
+				// Tooltip: Use it to descend to the Old Guardian's Shrine, deep underground
+			}
+
+			AlcaricQuiver: {
+				// DisplayName: Alcaric Quiver
+				/* Tooltip:
+'''
+Converts wooden arrows into void arrows
+Void arrows travel faster, deal more damage, and explode!
+''' */
+			}
+
+			BlackRose: {
+				// DisplayName: Black Rose
+				// Tooltip: Using a mana potion hurts you a little instead of sickening you
+			}
+
+			LittleWand: {
+				// DisplayName: Little Wand
+				/* Tooltip:
+'''
+Use this to cast powerful magic!
+Only used by the mightiest of wizards
+''' */
+			}
+
+			WindedQuiver: {
+				// DisplayName: Winded Quiver
+				// Tooltip: Turns wooden arrows into winded shots that pierce enemies!
+			}
+
+			AimacraWig: {
+				// DisplayName: Aimacra's Wig
+				// Tooltip: Great for impersonating Aimacra from Diari! Also gives 50 health!
+			}
+
+			WindmillionBoots: {
+				// DisplayName: Windmillion Boots
+				/* Tooltip:
+'''
+10% increased movement speed
+10% Increased throwing damage
+''' */
+			}
+
+			WindmillionHat: {
+				// DisplayName: Windmillion Hat
+				/* Tooltip:
+'''
++10 Life!
++10 Throwing Critical Strike Chance
++10% Throwing Damage
+''' */
+			}
+
+			WindmillionRobe: {
+				// DisplayName: Windmillion Robe
+				/* Tooltip:
+'''
++2 Throwing Critical Strike Chance
+Getting snazzy!
+''' */
+			}
+
+			VampiricVine: {
+				// DisplayName: Vampiric Vine
+				/* Tooltip:
+'''
+Getting some bitches finally?
+Randomly will shoot out vampire arrows that will heal you in a shot array!
+''' */
+			}
+
+			WindmillShuriken: {
+				// DisplayName: Windmill Shuriken
+				// Tooltip: Heyyyyy you can't just save the Ohio president!
+			}
+
+			PerfectionStaff: {
+				// Tooltip: ""
+				// DisplayName: Perfection Staff
+			}
+
+			XixianFlask: {
+				// DisplayName: Xixian Flask
+				// Tooltip: Passed down from the wonders of Zui and sacred special witches!
+			}
+
+			VitalityInsource: {
+				/* Tooltip:
+'''
+40 Seconds of duration on flask!
+Heals 102 Health and Mana
+Gives a honey buff as well!
+''' */
+				// DisplayName: Vitality Insource
+			}
+
+			HealthyInsource: {
+				/* Tooltip:
+'''
+40 Seconds of duration on flask!
+Heals 35 Health
+''' */
+				// DisplayName: Healthy Insource
+			}
+
+			FloweredInsource: {
+				// DisplayName: Flowered Insource
+				/* Tooltip:
+'''
+20 Seconds of duration on flask!
+Gives 10 Defense while in use
+Attack speed increased by 50% while active,
+A shadowy alcaric trail will lead behind!
+''' */
+			}
+
+			VialedInsource: {
+				// DisplayName: Vialed Insource
+				/* Tooltip:
+'''
+20 Seconds of duration on flask!
+300% Fall speed
+No Fall damage
+Jump boost!
+Movement speed increased by 40%
+A morrowed trail will follow behind you!
+''' */
+			}
+
+			EpsidonInsource: {
+				/* Tooltip:
+'''
+40 Seconds of duration on flask!
+Honey, ironskin and swiftness buffs for 20 seconds!
++200 Heal on use!
+''' */
+				// DisplayName: Epsidon Insource
+			}
+
+			CogBomber: {
+				// DisplayName: Cog Bomber
+				/* Tooltip:
+'''
+Fires mini nukes that explode into several small fires
+Boom :)
+''' */
+			}
+
+			GearGutter: {
+				// DisplayName: Gear Gutter
+				// Tooltip: Shoots an extremely fast and long iron needle that pierces infinitely
+			}
+
+			TheTingler: {
+				// DisplayName: The Tingler
+				// Tooltip: Shoots small iron needles that lodge into targets and deal damage over time
+			}
+
+			KnivedQuiver: {
+				// DisplayName: Knived Quiver
+				// Tooltip: Turns wooden arrows into throwing knives that pierce and are fast!
+			}
+
+			LifeSeekingVial: {
+				// DisplayName: Life Seeking Vial
+				// Tooltip: Throw a bottle at an enemy to heal a small portion of health!
+			}
+
+			GraftedWaxMelter: {
+				// DisplayName: Grafted Wax Melter
+				// Tooltip: Make this shit feel like a firework party! I say let the children burn.
+			}
+
+			AlcadBomb: {
+				// DisplayName: Alcad Bomb
+				/* Tooltip:
+'''
+Casts a controllable blackhole
+Suck em' up!
+''' */
+			}
+
+			CompletedFlowerBag: {
+				// DisplayName: Completed Flower Bag
+				// Tooltip: Take this to Zui for some rewards!
+			}
+
+			EmptyFlowerBag: {
+				// DisplayName: Empty Flower Bag
+				// Tooltip: Whats wrong? Need some love to keep ya going? Fill up the damn bag
+			}
+
+			BurnedCarianTome: {
+				// DisplayName: Burned Carian Tome
+				// Tooltip: Casts black stars that aggressively home and assault enemies!
+			}
+
+			EmptyCollectorsBag: {
+				// DisplayName: Empty Collectors Bag
+				// Tooltip: Collecting up the dust of your remains after you're done with this.
+			}
+
+			CinderedLantern: {
+				// DisplayName: Cindered Lantern
+				// Tooltip: A volley of flamed missles
+			}
+
+			Combuster: {
+				// DisplayName: Combuster
+				// Tooltip: Creates fiery explosions around you cursor! Eventually forming a MASSIVE boom!
+			}
+
+			WitchenRobe: {
+				/* Tooltip:
+'''
++5% Magical Critical Strike Chance and Health
++20% Magic damage
+Suck em' up!
+''' */
+				// DisplayName: Witchen Robe
+			}
+
+			WitchenPants: {
+				/* Tooltip:
+'''
+30% more movement speed!
++20 Health
+''' */
+				// DisplayName: Witchen Pants
+			}
+
+			WitchenHat: {
+				/* Tooltip:
+'''
++3% Magic damage
++10% Magical Critical Strike Chance
+''' */
+				// DisplayName: Witchen Hat
+			}
+
+			IceClimbers: {
+				// DisplayName: Ice Climbers
+				// Tooltip: Get the ability to climb walls, skate on ice and get 10 Health!
+			}
+
+			MoltenScrap: {
+				// DisplayName: Molten Scrap
+				// Tooltip: Burning from the depths of the cinderspark
+			}
+
+			VehementRhapsody: {
+				// DisplayName: Vehement Rhapsody
+				// Tooltip: It's musically challenged.. Adding more summons makes this summon do more damage!
+			}
+
+			VeilScriptureI: {
+				// DisplayName: Veil Scripture I
+				// Tooltip: ""
+			}
+
+			EckasectSire: {
+				// DisplayName: Eckasect Sire
+				/* Tooltip:
+'''
+A beloved weapon by Sirestias and Zenovia (creator)
+Can switch modes for unique abilities for this one weapon! Uses 20 mana!!
+Hitting an enemy will cause colored circles to appear on parts of an enemy!
+The colors coordinate to one of the modes on the weapon, and when used correctly,
+will do devastating damage!
+Genesis - Green Version which shoots out bombs!
+Liberator - Purple version which snipes out a high damage shot!
+Execution - An Orange laser comes out of the gun taking wide spread and less damage...
+''' */
+			}
+
+			TheTraumatizer: {
+				// DisplayName: The Traumatizer
+				// Tooltip: It will shoot a fan like laser and will kill things, and traumatize them.
+			}
+
+			FloweredCard: {
+				// DisplayName: Flowered Card
+				/* Tooltip:
+'''
+An igniter for dusts and powders!
+Reaching from the depths of the galaxy!
+Hit an enemy with a powder, then switch to this weapon and hold the attack button for explosions!
+''' */
+			}
+
+			MetallianCard: {
+				// DisplayName: Metallian Card
+				/* Tooltip:
+'''
+An igniter for dusts and powders!
+Reaching from the depths of the galaxy!
+Hit an enemy with a powder, then switch to this weapon and hold the attack button for explosions!
+''' */
+			}
+
+			ZuiCard: {
+				// DisplayName: Zui Card
+				/* Tooltip:
+'''
+An igniter for dusts and powders!
+Reaching from the depths of the galaxy!
+Hit an enemy with a powder, then switch to this weapon and hold the attack button for explosions!
+''' */
+			}
+
+			CinderedQuiver: {
+				// DisplayName: Cindered Quiver
+				// Tooltip: Turns wooden arrows into hellfire ones with 7 more damage!
+			}
+
+			TheWiggler: {
+				// DisplayName: The Wiggler
+				/* Tooltip:
+'''
+Shoots blobs that stick to tiles and enemies!
+Right click to detonate blobs!
+'It's icky, sticky, and it gets everywhere'
+''' */
+			}
+
+			CompletedCollectorsBag: {
+				// DisplayName: Completed Collectors Bag
+				// Tooltip: Take this to Zui for some rewards!
+			}
+
+			ArncharSuperCharger: {
+				// DisplayName: Arnchar Super Charger
+				// Tooltip: ""
+			}
+
+			CinderChesti: {
+				// DisplayName: Cinder Chesti
+				// Tooltip: ""
+			}
+
+			FlameBuster: {
+				// DisplayName: Flame Buster
+				/* Tooltip:
+'''
+Fires a spread of bullets
+The weapon also speeds up over time and will shoot fireballs instead!
+''' */
+			}
+
+			DrakonicBlock: {
+				// DisplayName: Drakonic Block
+				// Tooltip: ""
+			}
+
+			DrakonicCageI: {
+				// DisplayName: Drakonic Cage I
+				// Tooltip: ""
+			}
+
+			DrakonicHallI: {
+				// DisplayName: Drakonic Hall I
+				// Tooltip: ""
+			}
+
+			DrakonicSileI: {
+				// DisplayName: Drakonic Sile I
+				// Tooltip: ""
+			}
+
+			MiniPistol: {
+				// DisplayName: Mini Pistol
+				/* Tooltip:
+'''
+Fires two bullets!
+Speeds up over time
+''' */
+			}
+
+			SnowWalkerItem: {
+				// Tooltip: ""
+				// DisplayName: Snow Walker
+			}
+
+			SandWalkerItem: {
+				// Tooltip: ""
+				// DisplayName: Sand Walker
+			}
+
+			Vulcanius: {
+				// Tooltip: ""
+				// DisplayName: Vulcanius
+			}
+
+			CinderedCard: {
+				// DisplayName: Cindered Card
+				// Tooltip: ""
+			}
+
+			VeroshotBow: {
+				// DisplayName: Veroshot Bow
+				// Tooltip: ""
+			}
+
+			AzaleanChestplate: {
+				// DisplayName: Azalean Chestplate
+				// Tooltip: Use this piece from one of the developers! (Azza)... Also gives +12% Ranged Damage!
+			}
+
+			AzaleanHat: {
+				// DisplayName: Azalean Hat
+				// Tooltip: Use this piece from one of the developers! (Azza)
+			}
+
+			AzaleanLeggings: {
+				// DisplayName: Azalean Leggings
+				// Tooltip: Use this piece from one of the developers! (Azza)
+			}
+
+			SolarianChestplate: {
+				// DisplayName: Solarian Chestplate
+				// Tooltip: Use this piece from one of the developers! (Scolon)... Also +1 Summon!
+			}
+
+			SolarianHat: {
+				// DisplayName: Solarian Hat
+				// Tooltip: Use this piece from one of the developers! (Scolon)
+			}
+
+			SolarianPants: {
+				// DisplayName: Solarian Pants
+				// Tooltip: Use this piece from one of the developers! (Scolon)
+			}
+
+			IyxTheInfamous: {
+				// DisplayName: Iyx The Infamous
+				// Tooltip: From the fallen warriors of the cinder, to the magical entropy of the world, this weapon was lost long ago.
+			}
+
+			PoisonedAngel: {
+				// DisplayName: Poisoned Angel
+				// Tooltip: Not a burning angel but a poisoned one! Can move to cursor.
+			}
+
+			YuriFury: {
+				// DisplayName: Yuri Fury
+				// Tooltip: Shoot the phoenix of all time!
+			}
+
+			ToxicHornetStaff: {
+				// DisplayName: Toxic Hornet Staff
+				// Tooltip: Summons a toxic hornet after enemies!
+			}
+
+			ZenoviasPikpikGlove: {
+				// DisplayName: Zenovias Pikpik Jar
+				/* Tooltip:
+'''
+Toss the pikpiks across the land (Viable throughout the whole mod btw)
+You can add Onions as accessories to gain more damage and become super strong!
+''' */
+			}
+
+			OnionOfUselessness: {
+				/* Tooltip:
+'''
+Adds Yellow and Blue pikmin to your pikpik glove!
++11 More damage to your pikmin
+''' */
+				// DisplayName: Onion Of Uselessness
+			}
+
+			OnionOfStrength: {
+				/* Tooltip:
+'''
+Adds Yellow, Blue, White and Purple pikmin to your pikpik glove!
++70 More damage to your pikmin
+''' */
+				// DisplayName: Onion Of Strength
+			}
+
+			OnionOfSight: {
+				/* Tooltip:
+'''
+Adds Yellow, Blue, White pikmin to your pikpik glove!
++30 More damage to your pikmin
+''' */
+				// DisplayName: Onion Of Sight
+			}
+
+			OnionOfHeight: {
+				/* Tooltip:
+'''
+Adds Yellow pikmin to your pikpik glove!
++5 More damage to your pikmin
+''' */
+				// DisplayName: Onion Of Height
+			}
+
+			TheAurora: {
+				// DisplayName: The Aurora
+				// Tooltip: ""
+			}
+
+			ChromaCutter: {
+				// DisplayName: Chroma Cutter
+				/* Tooltip:
+'''
+Summons 7 Chromatic Blades to fight for you! Consumes all remaining minion slots upon use.
+After summoning the blades, swing the sword to slash them towards your cursor.
+Each blade has a different effect!
+''' */
+			}
+
+			WeaponDrive: {
+				/* Tooltip:
+'''
+A drive constructed by the smartest of engineers
+Contains some high quality electronics and a bit of magical essence of the new world!
+''' */
+				// DisplayName: Weapon Drive
+			}
+
+			MechanicI: {
+				// DisplayName: Mechanic I
+				// Tooltip: ""
+			}
+
+			ScrapToken: {
+				// Tooltip: Put inside a cell converter with Delgrim.
+				// DisplayName: Scrap Token
+			}
+
+			ElectricCrystal: {
+				// Tooltip: Gives 6% damage to all classes! Electrifying!!!
+				// DisplayName: Electric Crystal
+			}
+
+			SkyRuneI: {
+				// DisplayName: Ancient Artifact
+				// Tooltip: A scientist may want to look at this..
+			}
+
+			EelInfinite: {
+				// DisplayName: Eel Infinite
+				/* Tooltip:
+'''
+Creates a storm of lightning bolts!
+Even more electrifying!!!!!!!
+''' */
+			}
+
+			RustedSniper: {
+				// Tooltip: Its a sniper thomas...
+				// DisplayName: Rusted Sniper
+			}
+
+			BucketScrapper: {
+				// DisplayName: Bucket Scrapper
+				// Tooltip: Minions go and bounce off of enemies doing high contact damage!
+			}
+
+			RazorBragett: {
+				// DisplayName: Razor Bragett
+				// Tooltip: Hitting enemies activates the saw (the dog gets out)
+			}
+
+			PointedEdge: {
+				// Tooltip: Ram into enemies with this powerful edge!
+				// DisplayName: Pointed Edge
+			}
+
+			Swingaling: {
+				// DisplayName: Swingaling
+				// Tooltip: Swing swing, Swingaling! Swihing
+			}
+
+			TornCarianPage: {
+				// Tooltip: A page of a secret tome deep underground, helps with finding it.
+				// DisplayName: Torn Carian Page
+			}
+
+			Scatterbombs: {
+				/* Tooltip:
+'''
+Get some real damage! Doesn't really scatter
+(Zemmie corporation is not responsible for injuries or side effects. Dont worry you wont live to tell us anyway.)
+''' */
+				// DisplayName: Scatterbombs
+			}
+
+			VacuumDrill: {
+				// Tooltip: GHOSTBUSTAS BITCH, will lock onto enemies and zap em harder than my mom beat me.
+				// DisplayName: Vacuum Drill
+			}
+
+			GLabCrystal: {
+				// Tooltip: ""
+				// DisplayName: G Lab Crystal
+			}
+
+			LabHall: {
+				// DisplayName: Lab Hall
+				// Tooltip: ""
+			}
+
+			LaboratoryBlock: {
+				// Tooltip: ""
+				// DisplayName: Laboratory Block
+			}
+
+			FocalCrystalFire: {
+				// DisplayName: Charred Focal Crystal
+				/* Tooltip:
+'''
+Insert into the Lab Crystal to create a portal to the Fire Catacombs!
+Right click to insert
+''' */
+			}
+
+			FocalCrystalTrap: {
+				// DisplayName: Pointy Focal Crystal
+				/* Tooltip:
+'''
+Insert into the Lab Crystal to create a portal to the Trap Catacombs!
+Right click to insert
+''' */
+			}
+
+			FocalCrystalWater: {
+				// DisplayName: Soaked Focal Crystal
+				/* Tooltip:
+'''
+Insert into the Lab Crystal to create a portal to the Water Catacombs!
+Right click to insert
+''' */
+			}
+
+			FocusingCrystal: {
+				// DisplayName: Focusing Crystal
+				// Tooltip: A key ingredient in crafting Focal Crystals, which let you teleport to special places...
+			}
+
+			ScrappyLegs: {
+				// DisplayName: Scrappy Legs
+				/* Tooltip:
+'''
+Increased movement speed
+Increases max minions by 1
+''' */
+			}
+
+			ScrappyHead: {
+				// DisplayName: Scrappy Head
+				/* Tooltip:
+'''
+8% increased summon and magic damage
+4% increased damage reduction
+Increases max minions by 1
+''' */
+			}
+
+			ScrappyBody: {
+				// DisplayName: Scrappy Body
+				/* Tooltip:
+'''
+12% increased summon and magic damage
+8% increased damage reduction
+Increases max minions by 2
+''' */
+			}
+
+			MagiciansCodeHat: {
+				// DisplayName: Magicians Code Hat
+				/* Tooltip:
+'''
+30% Increased Damage for Magicians and Summoners
++3 Max Minions
+Mana cost is no more!
+You take 20% less damage!
+Increased life regeneration.
++100 Life.
+''' */
+			}
+
+			RadianceStone: {
+				// DisplayName: Radiance Stone
+				/* Tooltip:
+'''
+Use in the Witch Town near Zui to ask her to fight you!
+HIGHLY RECOMMENDED TO HAVE STEALI OR HIGHER!!
+Also a very long platform may help. - Zui :)
+
+You won't be able to fly during our fight...
+''' */
+			}
+
+			ShopNote: {
+				// DisplayName: Shop Note
+				// Tooltip: Now that I've seen your talent, I'll allow you access to my whole shop!
+			}
+
+			FenixBossRel: {
+				// DisplayName: Fenix Boss Relic
+				// Tooltip: A commander of a carian army, made the world worse overall.
+			}
+
+			IrradiaBossRel: {
+				// DisplayName: Irradia N Havoc Boss Relic
+				// Tooltip: A Guardian huh? Well not anymore.
+			}
+
+			ZuiBossRel: {
+				// Tooltip: Who really are they?
+				// DisplayName: Zui Boss Relic
+			}
+
+			NyxiaHat: {
+				// DisplayName: Nyxia Hat
+				// Tooltip: From the lead developer Zenovia! Go play Diari please :(
+			}
+
+			NyxiaRobe: {
+				// DisplayName: Nyxia Robe
+				// Tooltip: From the lead developer Zenovia! Gives 5% damage reduction, 6% more magic damage and some life regeneration!
+			}
+
+			NyxiaThighs: {
+				// DisplayName: Nyxia Thighs
+				// Tooltip: I love you all and thanks for playing my mod! - Zenovia
+			}
+
+			NestBossRel: {
+				// Tooltip: ""
+				// DisplayName: Irradiated Nest Relic
+			}
+
+			Biomes: {
+				AurelusBiome: {
+					DisplayName: 星咏殿堂
+					TownNPCDialogueName: 星咏殿堂
+				}
+			}
+
+			CathedralBiome: {
+				DisplayName: 月光之巅
+				TownNPCDialogueName: 月光之巅
+			}
+
+			FableBiome: {
+				DisplayName: 预言
+				TownNPCDialogueName: 预言
+			}
+
+			MarrowSurfaceBiome: {
+				DisplayName: 黎明
+				TownNPCDialogueName: 黎明
+			}
+
+			MorrowUndergroundBiome: {
+				DisplayName: 黎明地下
+				TownNPCDialogueName: 黎明地下
+			}
+
+			AbyssBiome: {
+				DisplayName: 深渊
+				TownNPCDialogueName: 深渊
+			}
+
+			AcidBiome: {
+				DisplayName: 酸蚀之地
+				TownNPCDialogueName: 酸蚀之地
+			}
+
+			GovheilCastle: {
+				DisplayName: 忍钢城堡
+				TownNPCDialogueName: 忍钢城堡
+			}
+		}
+
+		Tiles: {
+			// AbyssalStone.MapEntry: Abyssal Stone
+			// AurelusBorderS.MapEntry: Aurelus Border S
+			// AurelusChest.MapEntry: Aurelus Chest
+			// AurelusDoorClosed.MapEntry: Aurelus Door Closed
+			// AurelusPost.MapEntry: Aurelus Post
+			// AurelusSummon.MapEntry: Aurelus Summon
+			// BlueFlower.MapEntry: Blue Flower
+			// BlueFlower2.MapEntry: Blue Flower2
+			// SoulOre.MapEntry: Soul Ore
+			// TealBulb.MapEntry: Teal Bulb
+			// TealBulb2.MapEntry: Teal Bulb2
+			// TealBulb3.MapEntry: Teal Bulb3
+			// AcidBrick.MapEntry: Acid Brick
+			// AcidBush1.MapEntry: Acid Bush1
+			// AcidBush2.MapEntry: Acid Bush2
+			// AcidBush3.MapEntry: Acid Bush3
+			// AcidialDirt.MapEntry: Acidial Dirt
+			// AcidMush1.MapEntry: Acid Mush1
+			// AcidMush2.MapEntry: Acid Mush2
+			// AcidMush3.MapEntry: Acid Mush3
+			// AcidStone.MapEntry: Acid Stone
+			// AlcaologyTable.MapEntry: Alcaology Table
+			// Arnchar.MapEntry: Arnchar
+			// AstrasilkOreTile.MapEntry: Astrasilk Ore Tile
+			// BroochesTable.MapEntry: Brooches Table
+			// CellConverter.MapEntry: Cell Converter
+			// CoreGemT.MapEntry: Core Gem T
+			// DiminishedMetal.MapEntry: Diminished Metal
+			// FrileOreTile.MapEntry: Frile Ore Tile
+			// GovheilTile.MapEntry: Govheil Tile
+			// HuntiacTile.MapEntry: Huntiac Tile
+			// LostScrapT.MapEntry: Lost Scrap T
+			// RunicTableT.MapEntry: Runic Table
+			// ShrineAlcaPowderC.MapEntry: Shrine Alca Powder C
+			// ShrineBUAN.MapEntry: Shrine B U A N
+			// ShrineGardenWreckerC.MapEntry: Shrine Garden Wrecker C
+			// ShrineHalhurishC.MapEntry: Shrine Halhurish C
+			// ShrineLifeC.MapEntry: Shrine Life C
+			// ShrineLights.MapEntry: Shrine Lights
+			// ShrineSolMothC.MapEntry: Shrine Sol Moth C
+			// CurtainLeft.MapEntry: Curtain Left
+			// CurtainRight.MapEntry: Curtain Right
+			// GovheilBore.MapEntry: Govheil Bore
+			// GovheilWei.MapEntry: Govheil Wei
+			// JackPost.MapEntry: Jack Post
+			// MasistLeft.MapEntry: Masist Left
+			// MasistRight.MapEntry: Masist Right
+			// RestingGrounds.MapEntry: Resting Grounds
+			// Zebi.MapEntry: Zebi
+			// BarS.MapEntry: Bar S
+			// BenchS.MapEntry: Bench S
+			// CathedralChest.MapEntry: Cathedral Chest
+			// Crystal1.MapEntry: Crystal1
+			// Crystal2.MapEntry: Crystal2
+			// FlowerMulti.MapEntry: Flower Multi
+			// Orb1.MapEntry: Orb1
+			// VerliasShrine.MapEntry: Verlias Shrine
+			// GrassBigS.MapEntry: Grass Big S
+			// GrassMossS.MapEntry: Grass Moss S
+			// LogS.MapEntry: Log S
+			// MorrowChest.MapEntry: Morrow Chest
+			// MorrowDeath2S.MapEntry: Morrow Death2 S
+			// MorrowDeathS.MapEntry: Morrow Death S
+			// MorrowStoneS.MapEntry: Morrow Stone S
+			// MushroomBigS.MapEntry: Mushroom Big S
+			// PotmedS.MapEntry: Potmed S
+			// SmallShroomS.MapEntry: Small Shroom S
+			// SpikeS.MapEntry: Spike S
+			// stand.MapEntry: stand
+			// wall1.MapEntry: wall1
+			// wall2.MapEntry: wall2
+			// wall3.MapEntry: wall3
+			// wall4.MapEntry: wall4
+			// wall5.MapEntry: wall5
+			// wall6.MapEntry: wall6
+			// wall7.MapEntry: wall7
+			// SunAlter.MapEntry: Sun Alter
+			// VerianoreTile.MapEntry: Verianore Tile
+			// GovheilHall.MapEntry: Govheil Hall
+			// GovheilWall.MapEntry: Govheil Wall
+			// VheilCurtainLeft.MapEntry: Vheil Curtain Left
+			// VheilCurtainRight.MapEntry: Vheil Curtain Right
+			// Gothiv.MapEntry: Gothiv
+			// GothivDoorClosed.MapEntry: Gothiv Door Closed
+			// StarbloomDirt.MapEntry: Starbloom Dirt
+		}
+
+		Buffs: {
+			AbyssalFlame: {
+				// DisplayName: Abyssal Flame
+				// Description: Youre burning
+			}
+
+			AcidFlame: {
+				// DisplayName: Acid Flame
+				// Description: Don't die like this
+			}
+
+			ArcaneDust: {
+				// DisplayName: Arcane Dust
+				// Description: Arcanal
+			}
+
+			AssassinsSlashBuff: {
+				// DisplayName: Assassins Slash Buff
+				// Description: Slashin away
+			}
+
+			Diarii: {
+				// DisplayName: Diarii
+				// Description: Love you!
+			}
+
+			Flyfish: {
+				// DisplayName: Flyfish
+				// Description: Flying fishhhh!
+			}
+
+			GintBroo: {
+				// DisplayName: Gint Broo
+				// Description: You feel like the commander of an army!
+			}
+
+			Goldren: {
+				// DisplayName: Goldren
+				// Description: Hot and golden
+			}
+
+			IceBrooch: {
+				// DisplayName: Ice Brooch
+				// Description: Freeze em
+			}
+
+			Morrow: {
+				// DisplayName: Morrow
+				// Description: Morrowed arrows
+			}
+
+			Slimee: {
+				// DisplayName: Slimee
+				// Description: Super high jump
+			}
+
+			Spragald: {
+				// DisplayName: Spragald
+				// Description: Spragald beans
+			}
+
+			VerliaBroo: {
+				// DisplayName: Verlia Broo
+				// Description: Verlia is giving you smiles!
+			}
+
+			DarkHold: {
+				// DisplayName: Dark Hold
+				// Description: Its got a grasp on your eyes.
+			}
+
+			DeathMultiplier: {
+				// DisplayName: Death Multiplier
+				// Description: Mods.Stellamod.Buffs.DeathMultiplier.Description
+			}
+
+			DeathMultiplierBloodLamp: {
+				// DisplayName: Death Multiplier Blood Lamp
+				// Description: Mods.Stellamod.Buffs.DeathMultiplierBloodLamp.Description
+			}
+
+			Dusted: {
+				// DisplayName: Dusted
+				// Description: Get dusted
+			}
+
+			AlcadDust: {
+				// DisplayName: Alcad Dust
+				// Description: Mods.Stellamod.Buffs.AlcadDust.Description
+			}
+
+			CoalBuff: {
+				// DisplayName: Coal Buff
+				// Description: Mods.Stellamod.Buffs.CoalBuff.Description
+			}
+
+			EXPtime: {
+				// DisplayName: E X Ptime
+				// Description: Mods.Stellamod.Buffs.EXPtime.Description
+			}
+
+			EXPtime2: {
+				// DisplayName: E X Ptime2
+				// Description: Mods.Stellamod.Buffs.EXPtime2.Description
+			}
+
+			EXPtime3: {
+				// DisplayName: E X Ptime3
+				// Description: Mods.Stellamod.Buffs.EXPtime3.Description
+			}
+
+			EXPtime4: {
+				// DisplayName: E X Ptime4
+				// Description: Mods.Stellamod.Buffs.EXPtime4.Description
+			}
+
+			FlameDust: {
+				// DisplayName: Flame Dust
+				// Description: Mods.Stellamod.Buffs.FlameDust.Description
+			}
+
+			FlowerBuff: {
+				// DisplayName: Flower Buff
+				// Description: Mods.Stellamod.Buffs.FlowerBuff.Description
+			}
+
+			GrassBuff: {
+				// DisplayName: Grass Buff
+				// Description: Mods.Stellamod.Buffs.GrassBuff.Description
+			}
+
+			IceDust: {
+				// DisplayName: Ice Dust
+				// Description: Mods.Stellamod.Buffs.IceDust.Description
+			}
+
+			KaevDust: {
+				// DisplayName: Kaev Dust
+				// Description: Mods.Stellamod.Buffs.KaevDust.Description
+			}
+
+			ShadeDust: {
+				// DisplayName: Shade Dust
+				// Description: Mods.Stellamod.Buffs.ShadeDust.Description
+			}
+
+			SongDust: {
+				// DisplayName: Song Dust
+				// Description: Mods.Stellamod.Buffs.SongDust.Description
+			}
+
+			TrickDust: {
+				// DisplayName: Trick Dust
+				// Description: Mods.Stellamod.Buffs.TrickDust.Description
+			}
+
+			Elegance: {
+				// DisplayName: Elegance
+				// Description: Fly with the winds!
+			}
+
+			GintzelSheild: {
+				// DisplayName: Gintzel Shield
+				// Description: Shielded
+			}
+
+			GintzelSheildCD: {
+				// DisplayName: Gintzel Sheild
+				// Description: True
+			}
+
+			GintzeSeen: {
+				// DisplayName: Gintze Seen
+				// Description: You are being seen!
+			}
+
+			Gintzingwinds: {
+				// DisplayName: Gintzingwinds
+				// Description: You feel like something is trembling before you.
+			}
+
+			Harvester: {
+				// DisplayName: Harvester
+				// Description: Mods.Stellamod.Buffs.Harvester.Description
+			}
+
+			Irradiation: {
+				// DisplayName: Irradiation
+				// Description: Dont start irradiating.
+			}
+
+			Love: {
+				// DisplayName: Love
+				// Description: In love!
+			}
+
+			PocketSandBuff: {
+				// DisplayName: Pocket Sand Buff
+				// Description: Mods.Stellamod.Buffs.PocketSandBuff.Description
+			}
+
+			SnowFlame: {
+				// DisplayName: Snow Flame
+				// Description: Flamed snow
+			}
+
+			MorrowWhipDebuff: {
+				// DisplayName: Morrow Whip Debuff
+				// Description: Its a debuff from the whip
+			}
+
+			Whipdeath: {
+				// DisplayName: Whipdeath
+				// Description: Sometimes, whips cause death.
+			}
+
+			Wounded: {
+				// DisplayName: Wounded
+				// Description: Youre wounded
+			}
+
+			ArncharMinionBuff: {
+				// DisplayName: Arnchar Minion Buff
+				// Description: Arnchar
+			}
+
+			AuroranSeekerMinionBuff: {
+				// DisplayName: Auroran Seeker Minion Buff
+				// Description: Seeks out strange humans
+			}
+
+			DripperBuff: {
+				// DisplayName: Dripper Buff
+				// Description: Cute little staff lol
+			}
+
+			FCBuff: {
+				// DisplayName: Forest Core Buff
+				// Description: You know I didnt expect you to look here.
+			}
+
+			HMMinionBuff: {
+				// DisplayName: Woa Minion Buff
+				// Description: Idek what this is.
+			}
+
+			IceboundMinionBuff: {
+				// DisplayName: Icebound Minion Buff
+				// Description: Frost bats????
+			}
+
+			IrradiatedCreeperBuff: {
+				// DisplayName: Irradiated Creeper Buff
+				// Description: Creppin in ya doors
+			}
+
+			IvyakenBuff: {
+				// DisplayName: Ivyaken Buff
+				// Description: woa
+			}
+
+			JellyMinionBuff: {
+				// DisplayName: Jelly Minion Buff
+				// Description: Jellytastic
+			}
+
+			LifeWandMinionBuff: {
+				// DisplayName: Life Wand Minion Buff
+				// Description: Gives hearts
+			}
+
+			ManaWandMinionBuff: {
+				// DisplayName: Mana Wand Minion Buff
+				// Description: Gives mana stars!
+			}
+
+			ProbeBuff: {
+				// DisplayName: Probe Buff
+				// Description: Wanna get probed :3
+			}
+
+			SolMothBuff: {
+				// DisplayName: Sol Moth Buff
+				// Description: Moth
+			}
+
+			SwarmerMinionBuff: {
+				// DisplayName: Swarmer Minion Buff
+				// Description: Swarmin
+			}
+
+			VoidMinionBuff: {
+				// DisplayName: Void Minion Buff
+				// Description: Very void like
+			}
+
+			AurelusB: {
+				// DisplayName: Aurelus
+				// Description: The aurelus biome buff :(
+			}
+
+			AivanDust: {
+				// DisplayName: Aivan Dust
+				// Description: Mods.Stellamod.Buffs.AivanDust.Description
+			}
+
+			GovheilDust: {
+				// DisplayName: Govheil Dust
+				// Description: Mods.Stellamod.Buffs.GovheilDust.Description
+			}
+
+			VoiddDust: {
+				// DisplayName: Voidd Dust
+				// Description: Mods.Stellamod.Buffs.VoiddDust.Description
+			}
+
+			BearB: {
+				// DisplayName: Bear
+				// Description: Dont let em bite!
+			}
+
+			DreadB: {
+				// DisplayName: Dreaded
+				// Description: Dreadmire appraises you here.
+			}
+
+			MalB: {
+				// DisplayName: Malled
+				// Description: Become the shield
+			}
+
+			VixedB: {
+				// DisplayName: Vixed
+				// Description: Vixy! or Vixyl?
+			}
+
+			GovheilB: {
+				// DisplayName: Govheil Buff
+				// Description: Don't worry youre a mage user!
+			}
+
+			TheBurningRodBuff: {
+				// DisplayName: The Burning Rod Buff
+				// Description: They are so bad at hitting things
+			}
+
+			Rekin: {
+				// DisplayName: Rekin
+				// Description: Get rekt'ed
+			}
+
+			BurningGB: {
+				// DisplayName: Burning up
+				// Description: You know the sun's light isn't all that bad...
+			}
+
+			AmethystBroo: {
+				// DisplayName: Amethyst Brooch
+				// Description: Just shows that it exists
+			}
+
+			CrystalDust: {
+				// DisplayName: Crystal Dust
+				// Description: Crystal meth
+			}
+		}
+
+		NPCs: {
+			AbyssalSeeker.DisplayName: 深渊探索者
+			AbyssalSkull.DisplayName: 深渊颅骨
+			AbyssalSlime.DisplayName: 深渊史莱姆
+			AcidProbe.DisplayName: 酸蚀探针
+			AcidSlime.DisplayName: 酸蚀史莱姆
+			AcidSpirit.DisplayName: 酸蚀之灵
+			ToxicBoulder.DisplayName: 剧毒巨石
+			BloodCystDead.DisplayName: 血惑水晶（死亡）
+			DreadFireBomb.DisplayName: 恐惑火焰弹
+			DreadFireCircle.DisplayName: 恐惑火圈
+			BloodCyst.DisplayName: 血惑水晶
+
+			DreadMire: {
+				DisplayName: 恐惑魔魇
+
+				BossChecklistIntegration: {
+					EntryName: 恐惑魔魇
+					SpawnInfo: 在血月杀死一个血惑水晶！
+				}
+			}
+
+			DreadMirePentagram.DisplayName: 恐惑迷潭五角
+			DreadMirePentagramMid.DisplayName: 恐惑迷潭五角中型
+			DreadMirePentagramSmall.DisplayName: 恐惑迷潭五角小型
+			DreadMireZapwarn.DisplayName: 恐惑迷潭警告
+			DreadMireZapwarnBig.DisplayName: 恐惑迷潭大警告
+			DreadSurvent.DisplayName: 恐惑仆从
+			DreadMiresHeart.DisplayName: 恐惑之心
+			Irradieagle.DisplayName: 辐辉之鹰
+			IrradieagleSurvent.DisplayName: 辐辉之鹰仆从
+			IRNDeathBomb.DisplayName: IRN死亡炸弹
+			IrradiatedCreeper.DisplayName: 辐辉飞眼怪
+			IrradiatedNest.DisplayName: 辐辉巢穴
+			IrradiatedNestDeath.DisplayName: 辐辉巢穴死亡
+
+			Jack: {
+				DisplayName: 杰克
+				BossChecklistIntegration.SpawnInfo: 在夜晚对预言城堡右侧的一个稻草人使用[i:Stellamod/WanderingEssence]。
+			}
+
+			JackDeath.DisplayName: 死亡的杰克
+			Jackoslime.DisplayName: 杰克史莱姆
+			LazerOrb.DisplayName: 激光球
+			SingularityLazer.DisplayName: 星极激光
+			SingularitySpark.DisplayName: 星极火花
+			SingularitySparkBig.DisplayName: 星极大火花
+
+			SingularityFragment: {
+				DisplayName: 星极残芒
+				BossChecklistIntegration: {
+					EntryName: 星极残芒
+					SpawnInfo: 在星咏殿堂的深处，殿堂中心的祭坛上使用[i:Stellamod/VoidKey]。
+				}
+			}
+
+			SingularityOrb.DisplayName: 奇点
+			Voidling.DisplayName: 星宇
+			Flowerball.DisplayName: 花团
+			StarrVeriplant.DisplayName: 星域幻花
+
+			SunStalker: {
+				DisplayName: 逐日者
+
+				BossChecklistIntegration: {
+					EntryName: 逐日者
+					SpawnInfo: 在白天沙漠对太阳泉使用[i:Stellamod/SunClaw]。
+				}
+			}
+
+			SunStalkerDeath.DisplayName: 死亡的逐日者
+			SunStalkerLighting.DisplayName: 逐日者闪电
+			SunStalkerPreSpawn.DisplayName: 生成前的逐日者
+			SunStalkerRayLight.DisplayName: 逐日者激光
+			SunStalkerRayLightBig.DisplayName: 大型逐日者激光
+			CloneV.DisplayName: 维尔莉娅克隆体
+			GhostCharger.DisplayName: 幽灵充能仪
+			StarteV.DisplayName: 维尔莉娅
+			Sword1.DisplayName: 维尔莉娅的剑
+			Sword2.DisplayName: 维尔莉娅的剑
+			Sword3.DisplayName: 维尔莉娅的剑
+			Viola.DisplayName: 沉重和弦
+
+			VerliaB: {
+				DisplayName: 维尔莉娅
+
+				BossChecklistIntegration: {
+					EntryName: 星月女神—维尔莉娅
+					SpawnInfo: 在右侧海洋的月光之巅顶端使用[i:Stellamod/MoonflameLantern]！
+				}
+			}
+
+			CommanderGintzia: {
+				DisplayName: 重钢指挥官
+				BossChecklistIntegration.SpawnInfo: 如果你有3个以上的城镇NPC，那么每天都有概率出现一支军队来袭击你！
+			}
+
+			GintziaHand.DisplayName: 重钢之手
+			GintzeCaptain.DisplayName: 重钢队长
+			GintzeSolider.DisplayName: 重钢士兵
+			GintzeSpearman.DisplayName: 重钢枪兵
+			GintzeWarrior.DisplayName: 重钢战士
+			GintzeWindRider.DisplayName: 重钢飞毯骑士
+			Gintzling.DisplayName: 重钢灵
+			HarvestIce.DisplayName: ！
+			HarvestOverworld.DisplayName: ！
+			HarvestUM.DisplayName: ！
+			HarvestVirulent.DisplayName: ！
+			WinterbornBat.DisplayName: 冬生蝙蝠
+			WinterBornSlime.DisplayName: 冬生史莱姆
+			WinterSoul1.DisplayName: 冬之灵
+			WinterSoul2.DisplayName: 冬之灵
+			WinterSoul3.DisplayName: 冬之灵
+			MorrowedJellyFish.DisplayName: 黎明水母
+			MossyZombie.DisplayName: 苔藓僵尸
+			RubyBeetle.DisplayName: 红玉甲虫
+			TribalPeasant.DisplayName: 部落战士
+			TribalPriest.DisplayName: 部落祭司
+			IvythornSlime.DisplayName: 常春藤史莱姆
+			RoyalSlime.DisplayName: 史莱姆王子
+			ShadeSlime.DisplayName: 暗影史莱姆
+			ShadowWraith.DisplayName: 影灵
+
+			Gambit: {
+				DisplayName: 启幕者
+
+				TownNPCMood: {
+					// Content: I am content.
+					// NoHome: I hate not having a home.
+					LoveSpace: 我喜欢这里，可以有更多的空间来增进我们的关系了！
+					// FarFromHome: I am too far from home.
+					// LoveSpace: I love having so much space.
+					// DislikeCrowded: I dislike how crowded I am.
+					// HateCrowded: I hate how crowded I am.
+					// LoveBiome: I love {BiomeName}.
+					// LikeBiome: I like {BiomeName}.
+					// DislikeBiome: I dislike {BiomeName}.
+					// LoveNPC: I love {NPCName}.
+					// LikeNPC: I like {NPCName}.
+					// DislikeNPC: I dislike {NPCName}.
+					// HateNPC: I hate {NPCName}.
+					// LikeNPC_Princess: I like {NPCName}.
+					// Princess_LovesNPC: I like {NPCName}.
+				}
+			}
+
+			DreadFireBombG.DisplayName: 恐惧火焰炸弹G
+			HeatBombLighting.DisplayName: 热能炸弹电流
+			HeatBombRayLight.DisplayName: 热能炸弹光线
+			SingularityLazer2.DisplayName: 星极激光
+
+			Ginztel: {
+				DisplayName: 重钢人
+
+				TownNPCMood: {
+					// Content: I am content.
+					// NoHome: I hate not having a home.
+					// FarFromHome: I am too far from home.
+					// LoveSpace: I love having so much space.
+					// DislikeCrowded: I dislike how crowded I am.
+					// HateCrowded: I hate how crowded I am.
+					// LoveBiome: I love {BiomeName}.
+					// LikeBiome: I like {BiomeName}.
+					// DislikeBiome: I dislike {BiomeName}.
+					// LoveNPC: I love {NPCName}.
+					// LikeNPC: I like {NPCName}.
+					// DislikeNPC: I dislike {NPCName}.
+					// HateNPC: I hate {NPCName}.
+					// LikeNPC_Princess: I like {NPCName}.
+					// Princess_LovesNPC: I like {NPCName}.
+				}
+			}
+
+			Daedus: {
+				DisplayName: 被遗忘的傀儡-达厄图斯
+
+				BossChecklistIntegration: {
+					EntryName: 被遗忘的傀儡-达厄图斯
+					SpawnInfo: 在预言城堡的最顶端，躺着一个已经被遗忘的戈茜维娅军队的守护者。
+				}
+			}
+
+			LanternOfHope.DisplayName: 希望之灯
+			HarvestGovheil.DisplayName: ！
+			Gothivia.DisplayName: 戈茜维娅
+			Rek.DisplayName: 雷克
+			Train1.DisplayName: 列车
+			Train2.DisplayName: 列车
+
+			Gothiviab: {
+				DisplayName: 戈茜维娅
+
+				BossChecklistIntegration: {
+					EntryName: 日曜女神—戈茜维娅
+					SpawnInfo: 在戈茜维娅城堡的中央将她叫醒。
+				}
+			}
+
+			Gothiviabb.DisplayName: 戈茜维娅？
+			TopazBeetle.DisplayName: 黄玉甲虫
+			GovheilProtector.DisplayName: 戈茜维娅的守卫
+			DiceinNPC.DisplayName: 骰子
+		}
+
+		Projectiles: {
+			// DiariBrooch.DisplayName: Diari Brooch
+			// FlyfishBrooch.DisplayName: Flyfish Brooch
+			// FrileBrooch.DisplayName: Frile Brooch
+			// FrileBroochP.DisplayName: Frile Brooch P
+			// GintzlBrooch.DisplayName: Gintzl Brooch
+			// MorrowedBrooch.DisplayName: Morrowed Brooch
+			// SlimeBrooch.DisplayName: Slime Brooch
+			// SpragaldBrooch.DisplayName: Spragald Brooch
+			// Spragald.DisplayName: Spragald
+			// VerliaBrooch.DisplayName: Verlia Brooch
+			// VerliaBroochP.DisplayName: Verlia Brooch P
+			// VerliaBroochP2.DisplayName: Verlia Brooch P2
+			// VerliaBroochP3.DisplayName: Verlia Brooch P3
+			// DetonationBomb.DisplayName: Detonation Bomb
+			// WindeffectGintzl.DisplayName: Windeffect Gintzl
+			// Windeffect.DisplayName: Windeffect
+			// LightBomb.DisplayName: Light Bomb
+			// GovheilBows.DisplayName: Govheil Bows
+			// GovheilBowsProj.DisplayName: Govheil Bows Proj
+			// GovheilSwords.DisplayName: Govheil Swords
+			// LovestruckP.DisplayName: Lovestruck P
+			// Noti.DisplayName: Noti
+			// ArncharMinion.DisplayName: Arnchar Minion
+			// Drippler.DisplayName: Drippler
+			// FCMinion.DisplayName: F C Minion
+			// HMArncharMinionLeft.DisplayName: H M Arnchar Minion Left
+			// HMArncharMinionRight.DisplayName: H M Arnchar Minion Right
+			// IceboundMinion.DisplayName: Icebound Minion
+			// IrradiatedCreeper2.DisplayName: Irradiated Creeper2
+			// Ivyaken.DisplayName: Ivyaken
+			// JellyMinion.DisplayName: Jelly Minion
+			// SolMothMinion.DisplayName: Sol Moth Minion
+			// SwarmerMinion.DisplayName: Swarmer Minion
+			// VoidMinion.DisplayName: Void Minion
+			// ProbeMinion.DisplayName: Probe Minion
+			// DreadBone.DisplayName: Dread Bone
+			// DreadFire.DisplayName: Dread Fire
+			// DreadHand.DisplayName: Dread Hand
+			// Dreadlighting.DisplayName: Dreadlighting
+			// DreadlightingBig.DisplayName: Dreadlighting Big
+			// DreadMireDash.DisplayName: Dread Mire Dash
+			// DreadMireMagic.DisplayName: Dread Mire Magic
+			// DreadSkull.DisplayName: Dread Skull
+			// DreadSpawnEffect.DisplayName: Dread Spawn Effect
+			// FinalBeam.DisplayName: Final Beam
+			// DreadMiresHeartEye.DisplayName: Dread Mires Heart Eye
+			// DreadMiresHeartVomit1.DisplayName: Dread Mires Heart Vomit1
+			// RedSkull.DisplayName: Red Skull
+			// TerrorBeam.DisplayName: Terror Beam
+			// AcidicZap.DisplayName: Acidic Zap
+			// AEgg.DisplayName: A Egg
+			// CommunicationRay.DisplayName: Communication Ray
+			// DesperationRay.DisplayName: Desperation Ray
+			// AcidBlast.DisplayName: Acid Blast
+			// AcidBolt.DisplayName: Acid Bolt
+			// AcidFlame.DisplayName: Acid Flame
+			// ToxicMissile.DisplayName: Toxic Missile
+			// ToxicNuke.DisplayName: Toxic Nuke
+			// FallingHay.DisplayName: Falling Hay
+			// JackFire.DisplayName: Jack Fire
+			// JackFire2.DisplayName: Jack Fire2
+			// JackoBall.DisplayName: Jacko Ball
+			// JackSpawnEffect.DisplayName: Jack Spawn Effect
+			// JackSpawnRay.DisplayName: Jack Spawn Ray
+			// JackWarning.DisplayName: Jack Warning
+			// JackWarning2.DisplayName: Jack Warning2
+			// MossBall.DisplayName: Moss Ball
+			// AbyssalChargeProjectile.DisplayName: Abyssal Charge Projectile
+			// AbyssalChargeProjectile2.DisplayName: Abyssal Charge Projectile2
+			// AbyssWave.DisplayName: Abyss Wave
+			// SingularitySparkProj.DisplayName: Singularity Spark Proj
+			// PulsarBeam.DisplayName: Pulsar Beam
+			// RuneSpawnEffect.DisplayName: Rune Spawn Effect
+			// RuneSpawnEffect2.DisplayName: Rune Spawn Effect2
+			// SoulBeam.DisplayName: Soul Beam
+			// SoulBlast.DisplayName: Soul Blast
+			// VoidBeam.DisplayName: Void Beam
+			// VoidBeamIN.DisplayName: Void Beam I N
+			// VoidFlame.DisplayName: Void Flame
+			// BigRock.DisplayName: Big Rock
+			// CosButterfly.DisplayName: Cos Butterfly
+			// Flowder.DisplayName: Flowder
+			// Flowing.DisplayName: Flowing
+			// GroundSpike.DisplayName: Ground Spike
+			// Rock.DisplayName: Rock
+			// Rock2.DisplayName: Rock2
+			// SineButterfly.DisplayName: Sine Butterfly
+			// SineButterflyfriendly.DisplayName: Sine Butterflyfriendly
+			// SmallRock.DisplayName: Small Rock
+			// SmallRock2.DisplayName: Small Rock2
+			// SpikeBullet.DisplayName: Spike Bullet
+			// StarBullet.DisplayName: Star Bullet
+			// StarSpike.DisplayName: Star Spike
+			// SunBomb.DisplayName: Sun Bomb
+			// SunDeath.DisplayName: Sun Death
+			// SunFeather.DisplayName: Sun Feather
+			// SunRock.DisplayName: Sun Rock
+			// BackgroundOrb.DisplayName: Background Orb
+			// FrostShot.DisplayName: Frost Shot
+			// FrostShot2.DisplayName: Frost Shot2
+			// FrostShotIN.DisplayName: Frost Shot I N
+			// MoonBladeTrail.DisplayName: Moon Blade Trail
+			// MoonOut.DisplayName: Moon Out
+			// Notia.DisplayName: Notia
+			// Sigil.DisplayName: Sigil
+			// SineSword.DisplayName: Sine Sword
+			// SlashHold.DisplayName: Slash Hold
+			// SlashLeft.DisplayName: Slash Left
+			// SlashRight.DisplayName: Slash Right
+			// Strummer.DisplayName: Strummer
+			// AltideSword.DisplayName: Altide Sword
+			// Sword1F.DisplayName: Sword1 F
+			// Sword2F.DisplayName: Sword2 F
+			// Sword3F.DisplayName: Sword3 F
+			// TheMoon.DisplayName: The Moon
+			// VerliaBlade.DisplayName: Verlia Blade
+			// VerliaHeadScreen.DisplayName: Verlia Head Screen
+			// VerliaText1.DisplayName: Verlia Text1
+			// VerliaText2.DisplayName: Verlia Text2
+			// Gintzianado.DisplayName: Gintzianado
+			// ShadowFlare.DisplayName: Shadow Flare
+			// VRay.DisplayName: V Ray
+			// AlcadizBombExplosion.DisplayName: Alcadiz Bomb Explosion
+			// AntacizProj.DisplayName: Antaciz Proj
+			// Aurora.DisplayName: Aurora
+			// Aurora2.DisplayName: Aurora2
+			// Aurora3.DisplayName: Aurora3
+			// AuroranBullet.DisplayName: Auroran Bullet
+			// AuroranBullet2.DisplayName: Auroran Bullet2
+			// AuroranBullet3.DisplayName: Auroran Bullet3
+			// Beachthrow.DisplayName: Beachthrow
+			// BoomCircle.DisplayName: Boom Circle
+			// BoomMorrow.DisplayName: Boom Morrow
+			// ArchariliteArrow.DisplayName: Archarilite Arrow
+			// ArchariliteArrowSmall.DisplayName: Archarilite Arrow Small
+			// CloudBolt.DisplayName: Cloud Bolt
+			// CrysalizerArrow1.DisplayName: Crysalizer Arrow1
+			// CrysalizerArrow2.DisplayName: Crysalizer Arrow2
+			// CrysalizerArrow3.DisplayName: Crysalizer Arrow3
+			// CrysalizerExplosion.DisplayName: Crysalizer Explosion
+			// DreadSkullBonesProg.DisplayName: Dread Skull Bones Prog
+			// DreadSkullProg.DisplayName: Dread Skull Prog
+			// HarpyFeather1.DisplayName: Harpy Feather1
+			// HeatArrow.DisplayName: Heat Arrow
+			// HuntrianArrow.DisplayName: Huntrian Arrow
+			// VoidSkullProg.DisplayName: Void Skull Prog
+			// WinterboundArrow.DisplayName: Winterbound Arrow
+			// WinterboundArrowFlake.DisplayName: Winterbound Arrow Flake
+			// WinterboundFlare.DisplayName: Winterbound Flare
+			// BurningAngelProj.DisplayName: Burning Angel Proj
+			// CocoShot.DisplayName: Coco Shot
+			// GoldCrossbowHold.DisplayName: Gold Crossbow Hold
+			// PlatinumCrossbowBolt.DisplayName: Platinum Crossbow Bolt
+			// PlatinumCrossbowHold.DisplayName: Platinum Crossbow Hold
+			// SilverCrossbowBolt.DisplayName: Silver Crossbow Bolt
+			// SilverCrossbowHold.DisplayName: Silver Crossbow Hold
+			// TungstenCrossbowHold.DisplayName: Tungsten Crossbow Hold
+			// IronCrossbowHold.DisplayName: Iron Crossbow Hold
+			// LeadCrossbowBolt.DisplayName: Lead Crossbow Bolt
+			// LeadCrossbowHold.DisplayName: Lead Crossbow Hold
+			// DesertCrossbowBolt.DisplayName: Desert Crossbow Bolt
+			// DesertCrossbowHold.DisplayName: Desert Crossbow Hold
+			// FableCrossbowBolt.DisplayName: Fable Crossbow Bolt
+			// FableCrossbowHold.DisplayName: Fable Crossbow Hold
+			// IcaCircle.DisplayName: Ica Circle
+			// IceCrossbowBolt.DisplayName: Ice Crossbow Bolt
+			// IceCrossbowHold.DisplayName: Ice Crossbow Hold
+			// MeltaCircle.DisplayName: Melta Circle
+			// PiaCircle.DisplayName: Pia Circle
+			// TON618CrossbowHold.DisplayName: T O N618 Crossbow Hold
+			// TONCrossbowBolt.DisplayName: T O N Crossbow Bolt
+			// DunCrossbowBolt.DisplayName: Dun Crossbow Bolt
+			// DungeonCrossbowHold.DisplayName: Dungeon Crossbow Hold
+			// MerCrossbowBolt.DisplayName: Mer Crossbow Bolt
+			// MerCrossbowHold.DisplayName: Mer Crossbow Hold
+			// AltaCircle.DisplayName: Alta Circle
+			// DelfaCircle.DisplayName: Delfa Circle
+			// GeaCircle.DisplayName: Gea Circle
+			// JadeJungleCrossbowBolt.DisplayName: Jade Jungle Crossbow Bolt
+			// JadeJungleCrossbowHold.DisplayName: Jade Jungle Crossbow Hold
+			// MorrowedCrossbowBolt.DisplayName: Morrowed Crossbow Bolt
+			// MorrowedCrossbowHold.DisplayName: Morrowed Crossbow Hold
+			// SpiderillaCrossbowBolt.DisplayName: Spiderilla Crossbow Bolt
+			// SpiderillaCrossbowHold.DisplayName: Spiderilla Crossbow Hold
+			// CoralBubble.DisplayName: Coral Bubble
+			// CoralCircle.DisplayName: Coral Circle
+			// CoralCrossbowBolt.DisplayName: Coral Crossbow Bolt
+			// CoralCrossbowHold.DisplayName: Coral Crossbow Hold
+			// MoltenCircle.DisplayName: Molten Circle
+			// MoltenCrossbowBolt.DisplayName: Molten Crossbow Bolt
+			// MoltenCrossbowHold.DisplayName: Molten Crossbow Hold
+			// WoodenCrossbowBolt.DisplayName: Wooden Crossbow Bolt
+			// WoodenCrossbowHold.DisplayName: Wooden Crossbow Hold
+			// CurlistineProj.DisplayName: Curlistine Proj
+			// Deathtrail.DisplayName: Deathtrail
+			// Dicein.DisplayName: Dicein
+			// EbistarProj.DisplayName: Ebistar Proj
+			// FabledColoredSunray.DisplayName: Fabled Colored Sunray
+			// FabledSunray.DisplayName: Fabled Sunray
+			// Flameball.DisplayName: Flameball
+			// Flameball2.DisplayName: Flameball2
+			// FrostbiteProj.DisplayName: Frostbite Proj
+			// FrostKaboom.DisplayName: Frost Kaboom
+			// FrostSwProj.DisplayName: Frost Sw Proj
+			// FrostSwProj2.DisplayName: Frost Sw Proj2
+			// FrostSwProj3.DisplayName: Frost Sw Proj3
+			// GardenWreckerBullet.DisplayName: Garden Wrecker Bullet
+			// GardenWreckerHold.DisplayName: Garden Wrecker Hold
+			// BrokenMissile.DisplayName: Broken Missile
+			// BTech1.DisplayName: B Tech1
+			// BTech2.DisplayName: B Tech2
+			// BTech3.DisplayName: B Tech3
+			// DeathShotBomb.DisplayName: Death Shot Bomb
+			// DeathShotBombFX.DisplayName: Death Shot Bomb F X
+			// DeathShotProj.DisplayName: Death Shot Proj
+			// DragonBolt.DisplayName: Dragon Bolt
+			// GraniteMagmumProj.DisplayName: Granite Magmum Proj
+			// M38F30Rocks.DisplayName: M38 F30 Rocks
+			// M38F30Rocks2.DisplayName: M38 F30 Rocks2
+			// RealityBolt.DisplayName: Reality Bolt
+			// Shark.DisplayName: Shark
+			// SharkAcid.DisplayName: Shark Acid
+			// SpacticProj.DisplayName: Spactic Proj
+			// SSBolt.DisplayName: S S Bolt
+			// StarBolt.DisplayName: Star Bolt
+			// TociBolt4.DisplayName: Toci Bolt4
+			// Venbullet.DisplayName: Venbullet
+			// VenShotIN.DisplayName: Ven Shot I N
+			// HornedNailProj.DisplayName: Horned Nail Proj
+			// HornedNailProj2.DisplayName: Horned Nail Proj2
+			// HornetKaboom.DisplayName: Hornet Kaboom
+			// HornetLob.DisplayName: Hornet Lob
+			// IgniterStart.DisplayName: Igniter Start
+			// KaBoomAlcadizz.DisplayName: Ka Boom Alcadizz
+			// KaBoom.DisplayName: Ka Boom
+			// KaBoomKaev.DisplayName: Ka Boom Kaev
+			// KaBoomShade.DisplayName: Ka Boom Shade
+			// KaBoomTrick.DisplayName: Ka Boom Trick
+			// Logger.DisplayName: Logger
+			// AcidFlameG.DisplayName: Acid Flame G
+			// AstalaiyaStar1.DisplayName: Astalaiya Star1
+			// AstalaiyaStar2.DisplayName: Astalaiya Star2
+			// AstalaiyaStar3.DisplayName: Astalaiya Star3
+			// BriskflyProg.DisplayName: Briskfly Prog
+			// DeafenProj.DisplayName: Deafen Proj
+			// DreadVomit.DisplayName: Dread Vomit
+			// FungalFlaceBall.DisplayName: Fungal Flace Ball
+			// FungalFlaceCloud.DisplayName: Fungal Flace Cloud
+			// FungalFlaceCloudGreen.DisplayName: Fungal Flace Cloud Green
+			// Gelatin.DisplayName: Gelatin
+			// LeadFist.DisplayName: Lead Fist
+			// LightSpandProg.DisplayName: Light Spand Prog
+			// Nado.DisplayName: Nado
+			// OFlame.DisplayName: O Flame
+			// PericarditisProj.DisplayName: Pericarditis Proj
+			// ShadeHand.DisplayName: Shade Hand
+			// ShinobiKnife.DisplayName: Shinobi Knife
+			// ShriekerProg.DisplayName: Shrieker Prog
+			// SpirtFlareGood.DisplayName: Spirt Flare Good
+			// StarFlowerproj1.DisplayName: Star Flowerproj1
+			// StarFlowerproj2.DisplayName: Star Flowerproj2
+			// StarFlowerproj3.DisplayName: Star Flowerproj3
+			// SunDeathG.DisplayName: Sun Death G
+			// SunDeathGPar.DisplayName: Sun Death G Par
+			// TorrentialLanceP.DisplayName: Torrential Lance P
+			// VoidCharge.DisplayName: Void Charge
+			// VoidCharge2.DisplayName: Void Charge2
+			// VoidHand.DisplayName: Void Hand
+			// VoidHandSpawn.DisplayName: Void Hand Spawn
+			// WinterStormFragProg.DisplayName: Winter Storm Frag Prog
+			// WinterStormProg.DisplayName: Winter Storm Prog
+			// Zap.DisplayName: Zap
+			// Meatball.DisplayName: Meatball
+			// Meatball2.DisplayName: Meatball2
+			// Meatball3.DisplayName: Meatball3
+			// MeatBullet.DisplayName: Meat Bullet
+			// MeatBullet2.DisplayName: Meat Bullet2
+			// MeatBullet3.DisplayName: Meat Bullet3
+			// MetalDaggerProj.DisplayName: Metal Dagger Proj
+			// MorrowRapproj.DisplayName: Morrow Rapproj
+			// MorrowShot.DisplayName: Morrow Shot
+			// MorrowShotArrow.DisplayName: Morrow Shot Arrow
+			// MorrowShotArrow2.DisplayName: Morrow Shot Arrow2
+			// MorrowValswaProj.DisplayName: Morrow Valswa Proj
+			// BoneNailProj.DisplayName: Bone Nail Proj
+			// BoneNailProj2.DisplayName: Bone Nail Proj2
+			// EnergizedNailProj.DisplayName: Energized Nail Proj
+			// EnergizedNailProj2.DisplayName: Energized Nail Proj2
+			// SteamedNailProj.DisplayName: Steamed Nail Proj
+			// SteamedNailProj2.DisplayName: Steamed Nail Proj2
+			// PetalDance.DisplayName: Petal Dance
+			// PocketSandProj.DisplayName: Pocket Sand Proj
+			// AlcadPowder.DisplayName: Alcad Powder
+			// ArcanePowder.DisplayName: Arcane Powder
+			// CoalPowder.DisplayName: Coal Powder
+			// DirtPowder.DisplayName: Dirt Powder
+			// FlamePowderProj.DisplayName: Flame Powder Proj
+			// FlowerPowder.DisplayName: Flower Powder
+			// FrostPowder.DisplayName: Frost Powder
+			// KaevPowder.DisplayName: Kaev Powder
+			// LenaPowderProj.DisplayName: Lena Powder Proj
+			// ShadePowderProj.DisplayName: Shade Powder Proj
+			// TrickPowderProj.DisplayName: Trick Powder Proj
+			// PulseShoter.DisplayName: Pulse Shoter
+			// RobedProjectile.DisplayName: Robed Projectile
+			// HalhurishProj.DisplayName: Halhurish Proj
+			// ParendineProj.DisplayName: Parendine Proj
+			// VingerProj.DisplayName: Vinger Proj
+			// SalfaCircle.DisplayName: Salfa Circle
+			// SalfaCircle2.DisplayName: Salfa Circle2
+			// SalfaCircle3.DisplayName: Salfa Circle3
+			// SandSlacerProj.DisplayName: Sand Slacer Proj
+			// ShadeBall.DisplayName: Shade Ball
+			// SkullShotKaboom.DisplayName: Skull Shot Kaboom
+			// AuroranSwordProj.DisplayName: Auroran Sword Proj
+			// AuroranSwordProj2.DisplayName: Auroran Sword Proj2
+			// GutinierSwordProj.DisplayName: Gutinier Sword Proj
+			// GutinierSwordProj2.DisplayName: Gutinier Sword Proj2
+			// HearstspireProj.DisplayName: Hearstspire Proj
+			// HearstspireProj2.DisplayName: Hearstspire Proj2
+			// MalodineSwordProj.DisplayName: Malodine Sword Proj
+			// VheilatineProj.DisplayName: Vheilatine Proj
+			// SparkedStar.DisplayName: Sparked Star
+			// SparrowProj.DisplayName: Sparrow Proj
+			// GladiatorSpearMirageProg.DisplayName: Gladiator Spear Mirage Prog
+			// GladiatorSpearMirageProgRed.DisplayName: Gladiator Spear Mirage Prog Red
+			// GladiatorSpearProg.DisplayName: Gladiator Spear Prog
+			// InfernisBomb.DisplayName: Infernis Bomb
+			// InfernisProj.DisplayName: Infernis Proj
+			// ScarecrowSaberProg.DisplayName: Scarecrow Saber Prog
+			// StalkersTallonProg.DisplayName: Stalkers Tallon Prog
+			// StalkersTallonSpear.DisplayName: Stalkers Tallon Spear
+			// StarSheithProg.DisplayName: Star Sheith Prog
+			// StarSheithStar.DisplayName: Star Sheith Star
+			// TheIrradiaspearP.DisplayName: The Irradiaspear P
+			// TheIrradiaspearP2.DisplayName: The Irradiaspear P2
+			// TridentOfTheSeasProg.DisplayName: Trident Of The Seas Prog
+			// VoidLanceSpear.DisplayName: Void Lance Spear
+			// VoidLanceWave.DisplayName: Void Lance Wave
+			// splitshot.DisplayName: splitshot
+			// CharmSpragald.DisplayName: Charm Spragald
+			// Needle.DisplayName: Needle
+			// StringNNeedlesAlcadiz.DisplayName: String N Needles Alcadiz
+			// CharmVerlia.DisplayName: Charm Verlia
+			// CurlistineProj2.DisplayName: Curlistine Proj2
+			// StringNNeedleVerlia.DisplayName: String N Needle Verlia
+			// SwordsArmy.DisplayName: Swords Army
+			// SwordsArmy2.DisplayName: Swords Army2
+			// SwordsArmy3.DisplayName: Swords Army3
+			// SwordsVin.DisplayName: Swords Vin
+			// Sword.DisplayName: Sword
+			// Stump.DisplayName: Stump
+			// AuroranSeekerProj.DisplayName: Auroran Seeker Proj
+			// Coinspa.DisplayName: Coinspa
+			// Glyph1.DisplayName: Glyph1
+			// Glyph2.DisplayName: Glyph2
+			// Glyph3.DisplayName: Glyph3
+			// Glyph4.DisplayName: Glyph4
+			// Glyph5.DisplayName: Glyph5
+			// Glyph6.DisplayName: Glyph6
+			// Glyph7.DisplayName: Glyph7
+			// LWProj.DisplayName: L W Proj
+			// MWProj.DisplayName: M W Proj
+			// SeekerProj.DisplayName: Seeker Proj
+			// Starbomb.DisplayName: Starbomb
+			// Starout.DisplayName: Starout
+			// VoltuxPortal.DisplayName: Voltux Portal
+			// Supernova.DisplayName: Supernova
+			// AcidBlast2.DisplayName: Acid Blast2
+			// ArchariliteRaysWave.DisplayName: Archarilite Rays Wave
+			// AssassinsSlashProj.DisplayName: Assassins Slash Proj
+			// AssassinsSpawnEffect.DisplayName: Assassins Spawn Effect
+			// CinderBrakerSword.DisplayName: Cinder Braker Sword
+			// DragonWaveFriendly.DisplayName: Dragon Wave Friendly
+			// DreadFireG.DisplayName: Dread Fire G
+			// FrostWave.DisplayName: Frost Wave
+			// FrostWaveBig.DisplayName: Frost Wave Big
+			// GhostExcaliburProj.DisplayName: Ghost Excalibur Proj
+			// HeatBomb.DisplayName: Heat Bomb
+			// HorizonBolt.DisplayName: Horizon Bolt
+			// HorizonBomb.DisplayName: Horizon Bomb
+			// IrradiatedGreatBladeThrow.DisplayName: Irradiated Great Blade Throw
+			// StarKeeperStar.DisplayName: Star Keeper Star
+			// SwordOfGlactiaProj.DisplayName: Sword Of Glactia Proj
+			// WindSythe.DisplayName: Wind Sythe
+			// WindSytheBlue.DisplayName: Wind Sythe Blue
+			// X3107Skull.DisplayName: X3107 Skull
+			// X3107Skull2.DisplayName: X3107 Skull2
+			// AcidicLancherProj.DisplayName: Acidic Lancher Proj
+			// Acidius2.DisplayName: Acidius2
+			// AssassinsKnifeProg.DisplayName: Assassins Knife Prog
+			// AssassinsShurikenProg.DisplayName: Assassins Shuriken Prog
+			// Boralius2.DisplayName: Boralius2
+			// BricksP.DisplayName: Bricks P
+			// Cactius2.DisplayName: Cactius2
+			// GintzeSpear.DisplayName: Gintze Spear
+			// GintzeSpearMini.DisplayName: Gintze Spear Mini
+			// GreyBricksP.DisplayName: Grey Bricks P
+			// Plantius2.DisplayName: Plantius2
+			// ZthoKnife.DisplayName: Ztho Knife
+			// TrickbiteProj.DisplayName: Trickbite Proj
+			// VerlShot.DisplayName: Verl Shot
+			// VerstibloomProjectile.DisplayName: Verstibloom Projectile
+			// Violarproj.DisplayName: Violarproj
+			// DesertWhipProj.DisplayName: Desert Whip Proj
+			// MorrowWhipProj.DisplayName: Morrow Whip Proj
+			// wowBullet.DisplayName: wow Bullet
+			// AlcarishProj.DisplayName: Alcarish Proj
+			// HolmbergScytheMirageProj.DisplayName: Holmberg Scythe Mirage Proj
+			// HolmbergScytheMirageProjBlue.DisplayName: Holmberg Scythe Mirage Proj Blue
+			// HolmbergScytheProj.DisplayName: Holmberg Scythe Proj
+			// AurelusBlightBrooch.DisplayName: Aurelus Blight Brooch
+			// AivanKaboom.DisplayName: Aivan Kaboom
+			// GovheilKaboom.DisplayName: Govheil Kaboom
+			// AivanPowderProj.DisplayName: Aivan Powder Proj
+			// GovheilPowderProj.DisplayName: Govheil Powder Proj
+			// VoidPowderProj.DisplayName: Void Powder Proj
+			// VoidKaboom.DisplayName: Void Kaboom
+			// SingularitySparkProjG.DisplayName: Singularity Spark Proj G
+			// KilvierBONK.DisplayName: Kilvier B O N K
+			// FlameTornado.DisplayName: Flame Tornado
+			// LanturnSpear.DisplayName: Lanturn Spear
+			// SummonSpawnEffect.DisplayName: Summon Spawn Effect
+			// VoidBomb.DisplayName: Void Bomb
+			// BouncySword.DisplayName: Bouncy Sword
+			// BearBrooch.DisplayName: Bear Brooch
+			// DreadBrooch.DisplayName: Dread Brooch
+			// MalShieldBrooch.DisplayName: Mal Shield Brooch
+			// VixedBrooch.DisplayName: Vixed Brooch
+			// Plateproj.DisplayName: Plateproj
+			// GovheilHolsterBrooch.DisplayName: Govheil Holster Brooch
+			// TheBurningRodMinion.DisplayName: The Burning Rod Minion
+			// GalvinieArrow1.DisplayName: Galvinie Arrow1
+			// BlackdotProjectile.DisplayName: Blackdot Projectile
+			// FlameBlast.DisplayName: Flame Blast
+			// LaserShooterFirstPhase.DisplayName: Laser Shooter First Phase
+			// FlameArrow.DisplayName: Flame Arrow
+			// Music2.DisplayName: Music2
+			// Music1.DisplayName: Music1
+			// RekGreek1.DisplayName: Rek Greek1
+			// RekEye2.DisplayName: Rek Eye2
+			// RekLava3.DisplayName: Rek Lava3
+			// Helios.DisplayName: Helios
+			// Speechbubble.DisplayName: Speechbubble
+			// BurningGBrooch.DisplayName: Burning G Brooch
+			// HeliosP.DisplayName: Helios P
+			// HeliosProj.DisplayName: Helios Proj
+			// AmethystBrooch.DisplayName: Amethyst Brooch
+			// CrystalBloom.DisplayName: Crystal Bloom
+			// CrystalPowderProj.DisplayName: Crystal Powder Proj
+		}
+	}
+
+	Biomes: {
+		CathedralBiome: {
+			// DisplayName: Verlia's Tower
+			// TownNPCDialogueName: Verlia's Tower
+		}
+
+		MarrowSurfaceBiome: {
+			// DisplayName: Morrow Surface
+			// TownNPCDialogueName: the Marrow Surface Biome
+		}
+
+		MorrowUndergroundBiome: {
+			// DisplayName: Morrow Underground
+			// TownNPCDialogueName: the Morrow Underground Biome
+		}
+
+		FableBiome: {
+			// DisplayName: Fablia
+			// TownNPCDialogueName: the Fable Biome
+		}
+
+		AcidBiome: {
+			// TownNPCDialogueName: the Virulent Biome
+			// DisplayName: Virulent Biome
+		}
+
+		AbyssBiome: {
+			// TownNPCDialogueName: the Abysm Biome
+			// DisplayName: Abysm Biome
+		}
+
+		AurelusBiome: {
+			// DisplayName: Aurelus Biome
+			// TownNPCDialogueName: the Aurelus Temple
+		}
+	}
+
+	Tiles: {
+		// AlcaologyTable.MapEntry: Alcaology Table
+		// BroochesTable.MapEntry: Brooches Table
+		// FrileOreTile.MapEntry: Frile Ore
+		// HuntiacTile.MapEntry: Huntiac
+		// BarS.MapEntry: Bar S
+		// BenchS.MapEntry: Bench S
+		// CathedralChest.MapEntry: Cathedral Chest
+		// Crystal1.MapEntry: Crystal1
+		// Crystal2.MapEntry: Crystal2
+		// FlowerMulti.MapEntry: Flower Multi
+		// Orb1.MapEntry: Orb1
+		// VerliasShrine.MapEntry: Verlias Shrine
+		// GrassBigS.MapEntry: Grass Big S
+		// GrassMossS.MapEntry: Grass Moss S
+		// CurtainLeft.MapEntry: Curtain Left
+		// CurtainRight.MapEntry: Curtain Right
+		// LogS.MapEntry: Log S
+		// MorrowChest.MapEntry: Morrow Chest
+		// MorrowDeath2S.MapEntry: Morrow Death2 S
+		// MorrowDeathS.MapEntry: Morrow Death S
+		// MorrowStoneS.MapEntry: Morrow Stone S
+		// MushroomBigS.MapEntry: Mushroom Big S
+		// PotmedS.MapEntry: Potmed S
+		// SmallShroomS.MapEntry: Small Shroom S
+		// SpikeS.MapEntry: Spike S
+		// stand.MapEntry: stand
+		// wall1.MapEntry: wall1
+		// wall2.MapEntry: wall2
+		// wall3.MapEntry: wall3
+		// wall4.MapEntry: wall4
+		// wall5.MapEntry: wall5
+		// wall6.MapEntry: wall6
+		// wall7.MapEntry: wall7
+		// VerianoreTile.MapEntry: Verian Ore
+		// GovheilTile.MapEntry: Govheil Block
+		// GovheilBore.MapEntry: Govheil Bore
+		// GovheilWei.MapEntry: Govheil Wei
+		// MasistLeft.MapEntry: Masist Left
+		// MasistRight.MapEntry: Masist Right
+		// Zebi.MapEntry: Zebi
+		// ShrineLifeC.MapEntry: Shrine Life C
+		// SunAlter.MapEntry: Sun Alter
+		// RunicTableT.MapEntry: Runic Table T
+		// LostScrapT.MapEntry: Lost Scrap T
+		// DiminishedMetal.MapEntry: Diminished Metal
+		// CoreGemT.MapEntry: Core Gem T
+		// CellConverter.MapEntry: Cell Converter
+		// Arnchar.MapEntry: Arnchar
+		// AcidStone.MapEntry: Acid Stone
+		// AcidMush3.MapEntry: Acid Mush3
+		// AcidMush2.MapEntry: Acid Mush2
+		// AcidMush1.MapEntry: Acid Mush1
+		// AcidialDirt.MapEntry: Acidial Dirt
+		// AcidBush3.MapEntry: Acid Bush3
+		// AcidBush2.MapEntry: Acid Bush2
+		// AcidBush1.MapEntry: Acid Bush1
+		// AcidBrick.MapEntry: Acid Brick
+		// SoulOre.MapEntry: Soul Ore
+		// BlueFlower2.MapEntry: Blue Flower2
+		// BlueFlower.MapEntry: Blue Flower
+		// AbyssalStone.MapEntry: Abyssal Stone
+		// JackPost.MapEntry: Jack Post
+		// ShrineAlcaPowderC.MapEntry: Shrine Alca Powder C
+		// ShrineBUAN.MapEntry: Shrine B U A N
+		// ShrineGardenWreckerC.MapEntry: Shrine Garden Wrecker C
+		// ShrineHalhurishC.MapEntry: Shrine Halhurish C
+		// ShrineLights.MapEntry: Shrine Lights
+		// ShrineSolMothC.MapEntry: Shrine Sol Moth C
+		// RestingGrounds.MapEntry: Resting Grounds
+		// TealBulb.MapEntry: Teal Bulb
+		// TealBulb2.MapEntry: Teal Bulb2
+		// TealBulb3.MapEntry: Teal Bulb3
+		// AstrasilkOreTile.MapEntry: Astrasilk Ore
+		// AurelusChest.MapEntry: Aurelus Chest
+		// AurelusBanner1.MapEntry: Aurelus Banner1
+		// AurelusPost.MapEntry: Aurelus Post
+		// AurelusBorderS.MapEntry: Aurelus Border S
+		// AurelusDoorClosed.MapEntry: Aurelus Door Closed
+		// AurelusSummon.MapEntry: Aurelus Summon
+	}
+
+	Buffs: {
+		ArcaneDust: {
+			// DisplayName: Arcane Dust
+			// Description: Arcanal stuff
+		}
+
+		Diarii: {
+			// DisplayName: Diarii
+			// Description: Diari Brooch
+		}
+
+		Flyfish: {
+			// DisplayName: Flyfish
+			// Description: Flying Fish brooch
+		}
+
+		Goldren: {
+			// DisplayName: Goldren
+			// Description: Golded
+		}
+
+		IceBrooch: {
+			// DisplayName: Ice Brooch
+			// Description: Ice brooch
+		}
+
+		Morrow: {
+			// DisplayName: Morrow
+			// Description: The Morrowed brooch..
+		}
+
+		Slimee: {
+			// DisplayName: Slimee
+			// Description: Slime brooch
+		}
+
+		Spragald: {
+			// DisplayName: Spragald
+			// Description: Morrowed Spragald Brooch +10 Def
+		}
+
+		DeathMultiplier: {
+			// DisplayName: Death Multiplier
+			// Description: Death
+		}
+
+		DeathMultiplierBloodLamp: {
+			// DisplayName: Death Multiplier Blood Lamp
+			// Description: Mods.Stellamod.Buffs.DeathMultiplierBloodLamp.Description
+		}
+
+		Dusted: {
+			// DisplayName: Dusted
+			// Description: Mods.Stellamod.Buffs.Dusted.Description
+		}
+
+		CoalBuff: {
+			// DisplayName: Coal Buff
+			// Description: Mods.Stellamod.Buffs.CoalBuff.Description
+		}
+
+		EXPtime: {
+			// DisplayName: E X Ptime
+			// Description: Mods.Stellamod.Buffs.EXPtime.Description
+		}
+
+		EXPtime2: {
+			// DisplayName: E X Ptime2
+			// Description: Mods.Stellamod.Buffs.EXPtime2.Description
+		}
+
+		EXPtime3: {
+			// DisplayName: E X Ptime3
+			// Description: Mods.Stellamod.Buffs.EXPtime3.Description
+		}
+
+		EXPtime4: {
+			// DisplayName: E X Ptime4
+			// Description: Mods.Stellamod.Buffs.EXPtime4.Description
+		}
+
+		FlameDust: {
+			// DisplayName: Flame Dust
+			// Description: Mods.Stellamod.Buffs.FlameDust.Description
+		}
+
+		FlowerBuff: {
+			// DisplayName: Flower Buff
+			// Description: Mods.Stellamod.Buffs.FlowerBuff.Description
+		}
+
+		GrassBuff: {
+			// DisplayName: Grass Buff
+			// Description: Mods.Stellamod.Buffs.GrassBuff.Description
+		}
+
+		IceDust: {
+			// DisplayName: Ice Dust
+			// Description: Mods.Stellamod.Buffs.IceDust.Description
+		}
+
+		KaevDust: {
+			// DisplayName: Kaev Dust
+			// Description: Mods.Stellamod.Buffs.KaevDust.Description
+		}
+
+		ShadeDust: {
+			// DisplayName: Shade Dust
+			// Description: Mods.Stellamod.Buffs.ShadeDust.Description
+		}
+
+		SongDust: {
+			// DisplayName: Song Dust
+			// Description: Mods.Stellamod.Buffs.SongDust.Description
+		}
+
+		TrickDust: {
+			// DisplayName: Trick Dust
+			// Description: Mods.Stellamod.Buffs.TrickDust.Description
+		}
+
+		Elegance: {
+			// DisplayName: Elegance
+			// Description: Move along with the wind
+		}
+
+		GintzeSeen: {
+			// DisplayName: Gintze Seen
+			// Description: You're being seen!
+		}
+
+		Harvester: {
+			// DisplayName: Harvester
+			// Description: They wanna be harvested
+		}
+
+		Love: {
+			// DisplayName: Love
+			// Description: In Love!
+		}
+
+		PocketSandBuff: {
+			// DisplayName: Pocket Sand Buff
+			// Description: Mods.Stellamod.Buffs.PocketSandBuff.Description
+		}
+
+		SnowFlame: {
+			// DisplayName: Snow Flame
+			// Description: Snowy flames
+		}
+
+		Wounded: {
+			// DisplayName: Wounded
+			// Description: You are taking damage
+		}
+
+		AlcadDust: {
+			// DisplayName: Alcad Dust
+			// Description: Mods.Stellamod.Buffs.AlcadDust.Description
+		}
+
+		VerliaBroo: {
+			// Description: Verlia's enchantment
+			// DisplayName: Verlia Brooch
+		}
+
+		AuroranSeekerMinionBuff: {
+			// DisplayName: Auroran Seeker Minion Buff
+			// Description: Summons for your little cute books :P
+		}
+
+		LifeWandMinionBuff: {
+			// DisplayName: Life Wand Minion Buff
+			// Description: Wand of life!
+		}
+
+		ManaWandMinionBuff: {
+			// Description: Wand of Mana!
+			// DisplayName: Mana Wand Minion Buff
+		}
+
+		AbyssalFlame: {
+			// DisplayName: Abyssal Flame
+			// Description: Burn
+		}
+
+		AcidFlame: {
+			// DisplayName: Acid Flame
+			// Description: Burn more
+		}
+
+		AssassinsSlashBuff: {
+			// DisplayName: Assassins Slash Buff
+			// Description: Slashin
+		}
+
+		DarkHold: {
+			// DisplayName: Dark Hold
+			// Description: You feel like everything around you is darker.
+		}
+
+		Irradiation: {
+			// DisplayName: Irradiation
+			// Description: Poisoned
+		}
+
+		ArncharMinionBuff: {
+			// DisplayName: Arnchar Minion Buff
+			// Description: Little cool minion!
+		}
+
+		DripperBuff: {
+			// DisplayName: Dripper Buff
+			// Description: They drippin
+		}
+
+		FCBuff: {
+			// DisplayName: Forest Core minion!
+			// Description: It shoots for you!
+		}
+
+		HMMinionBuff: {
+			// DisplayName: Gintzl Soliders
+			// Description: Thai soliders shall protect thee
+		}
+
+		IrradiatedCreeperBuff: {
+			// DisplayName: Irradiated Creeper Buff
+			// Description: Little minion!
+		}
+
+		IvyakenBuff: {
+			// DisplayName: Ivyaken Buff
+			// Description: Woa.
+		}
+
+		JellyMinionBuff: {
+			// DisplayName: Jelly Minion Buff
+			// Description: Its a jelly!
+		}
+
+		ProbeBuff: {
+			// DisplayName: Probe Buff
+			// Description: Dont get probed
+		}
+
+		SwarmerMinionBuff: {
+			// DisplayName: Swarmer Minion Buff
+			// Description: It swarms enemies!
+		}
+
+		VoidMinionBuff: {
+			// DisplayName: Void Minion Buff
+			// Description: It do be a black hole.
+		}
+
+		MoonMothBuff: {
+			// DisplayName: Moon Moth Buff
+			// Description: The moon moths
+		}
+
+		SolMothBuff: {
+			// DisplayName: Sol Moth Buff
+			// Description: Moth helpers!
+		}
+
+		GintzelSheild: {
+			// DisplayName: Gintzel Shield
+			// Description: + 15 Defense!
+		}
+
+		GintzelSheildCD: {
+			// DisplayName: Gintzel Sheild Cool Down
+			// Description: You can not have the Gintzel Shield now
+		}
+
+		Gintzingwinds: {
+			// DisplayName: Gintzingwinds
+			// Description: The winds are rising, something is coming
+		}
+
+		GintBroo: {
+			// DisplayName: Gintzl Brooch
+			// Description: Gives good defense
+		}
+
+		IceboundMinionBuff: {
+			// DisplayName: Icebound Minion Buff
+			// Description: It's frozen but its also sweet :P
+		}
+	}
+
+	Projectiles: {
+		// DiariBrooch.DisplayName: Diari Brooch
+		// FlyfishBrooch.DisplayName: Flyfish Brooch
+		// FrileBrooch.DisplayName: Frile Brooch
+		// FrileBroochP.DisplayName: Frile Brooch P
+		// MorrowedBrooch.DisplayName: Morrowed Brooch
+		// SlimeBrooch.DisplayName: Slime Brooch
+		// SpragaldBrooch.DisplayName: Spragald Brooch
+		// Spragald.DisplayName: Spragald
+		// LovestruckP.DisplayName: Lovestruck P
+		// Noti.DisplayName: Noti
+		// BigRock.DisplayName: Big Rock
+		// CosButterfly.DisplayName: Cos Butterfly
+		// Flowder.DisplayName: Flowder
+		// Flowing.DisplayName: Flowing
+		// GroundSpike.DisplayName: Ground Spike
+		// Rock.DisplayName: Rock
+		// Rock2.DisplayName: Rock2
+		// SineButterfly.DisplayName: Sine Butterfly
+		// SineButterflyfriendly.DisplayName: Sine Butterflyfriendly
+		// SmallRock.DisplayName: Small Rock
+		// SmallRock2.DisplayName: Small Rock2
+		// SpikeBullet.DisplayName: Spike Bullet
+		// StarBullet.DisplayName: Star Bullet
+		// StarSpike.DisplayName: Star Spike
+		// BackgroundOrb.DisplayName: Background Orb
+		// FrostShot.DisplayName: Frost Shot
+		// FrostShot2.DisplayName: Frost Shot2
+		// FrostShotIN.DisplayName: Frost Shot I N
+		// MoonBladeTrail.DisplayName: Moon Blade Trail
+		// MoonOut.DisplayName: Moon Out
+		// Notia.DisplayName: Notia
+		// Sigil.DisplayName: Sigil
+		// SlashHold.DisplayName: Verlias Swords Dance
+		// SlashLeft.DisplayName: Slash of the moon
+		// SlashRight.DisplayName: Slash of the moon
+		// Strummer.DisplayName: Strummer
+		// Sword1F.DisplayName: Sword of Maskilla
+		// Sword2F.DisplayName: Sword of Vixyl
+		// Sword3F.DisplayName: Sword of Daedia
+		// Sword.DisplayName: Sword
+		// TheMoon.DisplayName: The Moon
+		// VerliaBlade.DisplayName: Verlias Moon Blade
+		// AntacizProj.DisplayName: Antaciz Proj
+		// Aurora.DisplayName: Aurora
+		// Aurora2.DisplayName: Aurora2
+		// Aurora3.DisplayName: Aurora3
+		// AuroranBullet.DisplayName: Auroran Bullet
+		// AuroranBullet2.DisplayName: Auroran Bullet2
+		// AuroranBullet3.DisplayName: Auroran Bullet3
+		// Beachthrow.DisplayName: Beachthrow
+		// BoomCircle.DisplayName: Boom Circle
+		// BoomMorrow.DisplayName: Boom Morrow
+		// CocoShot.DisplayName: Coco Shot
+		// WoodenCrossbowBolt.DisplayName: Wooden Crossbow Bolt
+		// WoodenCrossbowHold.DisplayName: Wooden Crossbow Hold
+		// Deathtrail.DisplayName: Deathtrail
+		// Dicein.DisplayName: Dicein
+		// FrostbiteProj.DisplayName: Frostbite Proj
+		// FrostSwProj.DisplayName: Frost Sw Proj
+		// FrostSwProj2.DisplayName: Frost Sw Proj2
+		// FrostSwProj3.DisplayName: Frost Sw Proj3
+		// HornedNailProj.DisplayName: Horned Nail Proj
+		// HornedNailProj2.DisplayName: Horned Nail Proj2
+		// HornetKaboom.DisplayName: Hornet Kaboom
+		// HornetLob.DisplayName: Hornet Lob
+		// IgniterStart.DisplayName: Igniter Start
+		// KaBoom.DisplayName: Ka Boom
+		// KaBoomKaev.DisplayName: Ka Boom Kaev
+		// KaBoomShade.DisplayName: Ka Boom Shade
+		// KaBoomTrick.DisplayName: Ka Boom Trick
+		// Logger.DisplayName: Logger
+		// Meatball.DisplayName: Meatball
+		// Meatball2.DisplayName: Meatball2
+		// Meatball3.DisplayName: Meatball3
+		// MeatBullet.DisplayName: Meat Bullet
+		// MeatBullet2.DisplayName: Meat Bullet2
+		// MeatBullet3.DisplayName: Meat Bullet3
+		// MorrowRapproj.DisplayName: Morrow Rapproj
+		// MorrowShot.DisplayName: Morrow Shot
+		// MorrowShotArrow.DisplayName: Morrow Shot Arrow
+		// MorrowShotArrow2.DisplayName: Morrow Shot Arrow2
+		// MorrowValswaProj.DisplayName: Morrow Valswa Proj
+		// BoneNailProj.DisplayName: Bone Nail Proj
+		// BoneNailProj2.DisplayName: Bone Nail Proj2
+		// EnergizedNailProj.DisplayName: Energized Nail Proj
+		// EnergizedNailProj2.DisplayName: Energized Nail Proj2
+		// SteamedNailProj.DisplayName: Steamed Nail Proj
+		// SteamedNailProj2.DisplayName: Steamed Nail Proj2
+		// PetalDance.DisplayName: Petal Dance
+		// PocketSandProj.DisplayName: Pocket Sand Proj
+		// ArcanePowder.DisplayName: Arcane Powder
+		// CoalPowder.DisplayName: Coal Powder
+		// DirtPowder.DisplayName: Dirt Powder
+		// FlamePowderProj.DisplayName: Flame Powder Proj
+		// FlowerPowder.DisplayName: Flower Powder
+		// FrostPowder.DisplayName: Frost Powder
+		// KaevPowder.DisplayName: Kaev Powder
+		// LenaPowderProj.DisplayName: Lena Powder Proj
+		// ShadePowderProj.DisplayName: Shade Powder Proj
+		// TrickPowderProj.DisplayName: Trick Powder Proj
+		// RobedProjectile.DisplayName: Robed Projectile
+		// HalhurishProj.DisplayName: Halhurish Proj
+		// SalfaCircle.DisplayName: Salfa Circle
+		// SalfaCircle2.DisplayName: Salfa Circle2
+		// SalfaCircle3.DisplayName: Salfa Circle3
+		// ShadeBall.DisplayName: Shade Ball
+		// AuroranSwordProj.DisplayName: Auroran Sword Proj
+		// AuroranSwordProj2.DisplayName: Auroran Sword Proj2
+		// GutinierSwordProj.DisplayName: Gutinier Sword Proj
+		// GutinierSwordProj2.DisplayName: Gutinier Sword Proj2
+		// MalodineSwordProj.DisplayName: Malodine Sword Proj
+		// SparrowProj.DisplayName: Sparrow Proj
+		// splitshot.DisplayName: splitshot
+		// CharmSpragald.DisplayName: Charm Spragald
+		// Needle.DisplayName: Needle
+		// StringNNeedlesAlcadiz.DisplayName: String N Needles Alcadiz
+		// Windeffect.DisplayName: Windeffect
+		// Stump.DisplayName: Stump
+		// Starbomb.DisplayName: Starbomb
+		// Starout.DisplayName: Starout
+		// TrickbiteProj.DisplayName: Trickbite Proj
+		// VerstibloomProjectile.DisplayName: Verstibloom Projectile
+		// Violarproj.DisplayName: Violarproj
+		// MorrowWhipProj.DisplayName: Morrow Whip Proj
+		// wowBullet.DisplayName: wow Bullet
+		// GardenWreckerBullet.DisplayName: Garden Wrecker Bullet
+		// GardenWreckerHold.DisplayName: Garden Wrecker Hold
+		// SkullShotKaboom.DisplayName: Skull Shot Kaboom
+		// AlcadizBombExplosion.DisplayName: Alcadiz Bomb Explosion
+		// BurningAngelProj.DisplayName: Burning Angel Proj
+		// VRay.DisplayName: V Ray
+		// FabledRay.DisplayName: Fabled Ray
+		// FabledSunray.DisplayName: Fabled Sunray
+		// FabledColoredSunray.DisplayName: Fabled Colored Sunray
+		// AltideSword.DisplayName: Altide Sword Shard
+		// CurlistineProj.DisplayName: Curlistine Proj
+		// FrostKaboom.DisplayName: Frost Kaboom
+		// KaBoomAlcadizz.DisplayName: Ka Boom Alcadizz
+		// AlcadPowder.DisplayName: Alcad Powder
+		// SineSword.DisplayName: Sine Sword
+		// VerliaBrooch.DisplayName: Verlia Brooch
+		// VerliaBroochP.DisplayName: Verlia Brooch P
+		// VerliaBroochP2.DisplayName: Verlia Brooch P2
+		// VerliaBroochP3.DisplayName: Verlia Brooch P3
+		// VerliaHeadScreen.DisplayName: Verlia Head Screen
+		// VerliaText1.DisplayName: Verlia Text1
+		// VerliaText2.DisplayName: Verlia Text2
+		// SwordsVin.DisplayName: Swords Vin
+		// StringNNeedleVerlia.DisplayName: String N Needle Verlia
+		// CharmVerlia.DisplayName: Charm Verlia
+		// SwordsArmy.DisplayName: Swords Army
+		// SwordsArmy3.DisplayName: Swords Army3
+		// SwordsArmy2.DisplayName: Swords Army2
+		// PulseShoter.DisplayName: Pulse Shoter
+		// VerlShot.DisplayName: Verl Shot
+		// Supernova.DisplayName: Supernova
+		// CurlistineProj2.DisplayName: Curlistine Proj2
+		// ParendineProj.DisplayName: Parendine Proj
+		// SeekerProj.DisplayName: Seeker Proj
+		// AuroranSeekerProj.DisplayName: Auroran Seeker Proj
+		// Coinspa.DisplayName: Coinspa
+		// Glyph1.DisplayName: Glyph1
+		// Glyph2.DisplayName: Glyph2
+		// Glyph3.DisplayName: Glyph3
+		// Glyph4.DisplayName: Glyph4
+		// Glyph5.DisplayName: Glyph5
+		// Glyph6.DisplayName: Glyph6
+		// Glyph7.DisplayName: Glyph7
+		// GovheilBows.DisplayName: Govheil Bows
+		// GovheilBowsProj.DisplayName: Govheil Bows Proj
+		// GovheilSwords.DisplayName: Govheil Swords
+		// LightBomb.DisplayName: Light Bomb
+		// LWProj.DisplayName: L W Proj
+		// MWProj.DisplayName: M W Proj
+		// EbistarProj.DisplayName: Ebistar Proj
+		// SparkedStar.DisplayName: Sparked Star
+		// HearstspireProj.DisplayName: Hearstspire Proj
+		// HearstspireProj2.DisplayName: Hearstspire Proj2
+		// Flameball.DisplayName: Flameball
+		// Flameball2.DisplayName: Flameball2
+		// IronCrossbowHold.DisplayName: Iron Crossbow Hold
+		// LeadCrossbowBolt.DisplayName: Lead Crossbow Bolt
+		// LeadCrossbowHold.DisplayName: Lead Crossbow Hold
+		// DunCrossbowBolt.DisplayName: Dun Crossbow Bolt
+		// DungeonCrossbowHold.DisplayName: Dungeon Crossbow Hold
+		// MerCrossbowBolt.DisplayName: Mer Crossbow Bolt
+		// MerCrossbowHold.DisplayName: Mer Crossbow Hold
+		// GoldCrossbowHold.DisplayName: Gold Crossbow Hold
+		// PlatinumCrossbowBolt.DisplayName: Platinum Crossbow Bolt
+		// PlatinumCrossbowHold.DisplayName: Platinum Crossbow Hold
+		// SilverCrossbowBolt.DisplayName: Silver Crossbow Bolt
+		// SilverCrossbowHold.DisplayName: Silver Crossbow Hold
+		// TungstenCrossbowHold.DisplayName: Tungsten Crossbow Hold
+		// DelfaCircle.DisplayName: Delfa Circle
+		// MorrowedCrossbowBolt.DisplayName: Morrowed Crossbow Bolt
+		// MorrowedCrossbowHold.DisplayName: Morrowed Crossbow Hold
+		// AltaCircle.DisplayName: Alta Circle
+		// SpiderillaCrossbowBolt.DisplayName: Spiderilla Crossbow Bolt
+		// SpiderillaCrossbowHold.DisplayName: Spiderilla Crossbow Hold
+		// MeltaCircle.DisplayName: Melta Circle
+		// DesertCrossbowHold.DisplayName: Desert Crossbow Hold
+		// DesertCrossbowBolt.DisplayName: Desert Crossbow Bolt
+		// IcaCircle.DisplayName: Ica Circle
+		// IceCrossbowBolt.DisplayName: Ice Crossbow Bolt
+		// IceCrossbowHold.DisplayName: Ice Crossbow Hold
+		// CoralBubble.DisplayName: Coral Bubble
+		// CoralCircle.DisplayName: Coral Circle
+		// CoralCrossbowBolt.DisplayName: Coral Crossbow Bolt
+		// CoralCrossbowHold.DisplayName: Coral Crossbow Hold
+		// MoltenCircle.DisplayName: Molten Circle
+		// MoltenCrossbowBolt.DisplayName: Molten Crossbow Bolt
+		// MoltenCrossbowHold.DisplayName: Molten Crossbow Hold
+		// FableCrossbowBolt.DisplayName: Fable Crossbow Bolt
+		// FableCrossbowHold.DisplayName: Fable Crossbow Hold
+		// GeaCircle.DisplayName: Gea Circle
+		// JadeJungleCrossbowBolt.DisplayName: Jade Jungle Crossbow Bolt
+		// JadeJungleCrossbowHold.DisplayName: Jade Jungle Crossbow Hold
+		// VoltuxPortal.DisplayName: Voltux Portal
+		// DesertWhipProj.DisplayName: Desert Whip Proj
+		// SandSlacerProj.DisplayName: Sand Slacer Proj
+		// MetalDaggerProj.DisplayName: Metal Dagger Proj
+		// VingerProj.DisplayName: Vinger Proj
+		// VheilatineProj.DisplayName: Vheilatine Proj
+		// DetonationBomb.DisplayName: Detonation Bomb
+		// ArncharMinion.DisplayName: Arnchar Minion
+		// Drippler.DisplayName: Drippler
+		// FCMinion.DisplayName: F C Minion
+		// HMArncharMinion.DisplayName: H M Arnchar Minion
+		// IrradiatedCreeper2.DisplayName: Irradiated Creeper2
+		// Ivyaken.DisplayName: Ivyaken
+		// JellyMinion.DisplayName: Jelly Minion
+		// SwarmerMinion.DisplayName: Swarmer Minion
+		// VoidMinion.DisplayName: Void Minion
+		// ProbeMinion.DisplayName: Probe Minion
+		// DreadBone.DisplayName: Dread Bone
+		// DreadFire.DisplayName: Dread Fire
+		// DreadHand.DisplayName: Dread Hand
+		// Dreadlighting.DisplayName: Dreadlighting
+		// DreadlightingBig.DisplayName: Dreadlighting Big
+		// DreadMireDash.DisplayName: Dread Mire Dash
+		// DreadSkull.DisplayName: Dread Skull
+		// DreadSpawnEffect.DisplayName: Dread Spawn Effect
+		// FinalBeam.DisplayName: Final Beam
+		// DreadMiresHeartEye.DisplayName: Dread Mires Heart Eye
+		// DreadMiresHeartVomit1.DisplayName: Dread Mires Heart Vomit1
+		// RedSkull.DisplayName: Red Skull
+		// TerrorBeam.DisplayName: Terror Beam
+		// AcidicZap.DisplayName: Acidic Zap
+		// AEgg.DisplayName: A Egg
+		// CommunicationRay.DisplayName: Communication Ray
+		// DesperationRay.DisplayName: Desperation Ray
+		// AcidBlast.DisplayName: Acid Blast
+		// AcidBolt.DisplayName: Acid Bolt
+		// AcidFlame.DisplayName: Acid Flame
+		// ToxicMissile.DisplayName: Toxic Missile
+		// ToxicNuke.DisplayName: Toxic Nuke
+		// FallingHay.DisplayName: Falling Hay
+		// JackFire.DisplayName: Jack Fire
+		// JackFire2.DisplayName: Jack Fire2
+		// JackoBall.DisplayName: Jacko Ball
+		// JackSpawnEffect.DisplayName: Jack Spawn Effect
+		// JackSpawnRay.DisplayName: Jack Spawn Ray
+		// JackWarning.DisplayName: Jack Warning
+		// JackWarning2.DisplayName: Jack Warning2
+		// MossBall.DisplayName: Moss Ball
+		// AbyssalChargeProjectile.DisplayName: Abyssal Charge Projectile
+		// AbyssalChargeProjectile2.DisplayName: Abyssal Charge Projectile2
+		// AbyssWave.DisplayName: Abyss Wave
+		// RuneSpawnEffect.DisplayName: Rune Spawn Effect
+		// SoulBeam.DisplayName: Soul Beam
+		// SoulBlast.DisplayName: Soul Blast
+		// VoidBeam.DisplayName: Void Beam
+		// VoidFlame.DisplayName: Void Flame
+		// SunBomb.DisplayName: Sun Bomb
+		// SunDeath.DisplayName: Sun Death
+		// SunFeather.DisplayName: Sun Feather
+		// SunRock.DisplayName: Sun Rock
+		// ShadowFlare.DisplayName: Shadow Flare
+		// ArchariliteArrow.DisplayName: Archarilite Arrow
+		// ArchariliteArrowSmall.DisplayName: Archarilite Arrow Small
+		// CloudBolt.DisplayName: Cloud Bolt
+		// CrysalizerArrow1.DisplayName: Crysalizer Arrow1
+		// CrysalizerArrow2.DisplayName: Crysalizer Arrow2
+		// CrysalizerArrow3.DisplayName: Crysalizer Arrow3
+		// CrysalizerExplosion.DisplayName: Crysalizer Explosion
+		// DreadSkullBonesProg.DisplayName: Dread Skull Bones Prog
+		// DreadSkullProg.DisplayName: Dread Skull Prog
+		// HarpyFeather1.DisplayName: Harpy Feather1
+		// HeatArrow.DisplayName: Heat Arrow
+		// VoidSkullProg.DisplayName: Void Skull Prog
+		// WinterboundArrow.DisplayName: Winterbound Arrow
+		// WinterboundArrowFlake.DisplayName: Winterbound Arrow Flake
+		// WinterboundFlare.DisplayName: Winterbound Flare
+		// BrokenMissile.DisplayName: Broken Missile
+		// BTech1.DisplayName: B Tech1
+		// BTech2.DisplayName: B Tech2
+		// BTech3.DisplayName: B Tech3
+		// DeathShotBomb.DisplayName: Death Shot Bomb
+		// DeathShotBombFX.DisplayName: Death Shot Bomb F X
+		// DeathShotProj.DisplayName: Death Shot Proj
+		// DragonBolt.DisplayName: Dragon Bolt
+		// GraniteMagmumProj.DisplayName: Granite Magmum Proj
+		// M38F30Rocks.DisplayName: M38 F30 Rocks
+		// M38F30Rocks2.DisplayName: M38 F30 Rocks2
+		// RealityBolt.DisplayName: Reality Bolt
+		// Shark.DisplayName: Shark
+		// SharkAcid.DisplayName: Shark Acid
+		// SSBolt.DisplayName: S S Bolt
+		// StarBolt.DisplayName: Star Bolt
+		// TociBolt4.DisplayName: Toci Bolt4
+		// AcidFlameG.DisplayName: Acid Flame G
+		// AstalaiyaStar1.DisplayName: Astalaiya Star1
+		// AstalaiyaStar2.DisplayName: Astalaiya Star2
+		// AstalaiyaStar3.DisplayName: Astalaiya Star3
+		// BriskflyProg.DisplayName: Briskfly Prog
+		// DeafenProj.DisplayName: Deafen Proj
+		// DreadVomit.DisplayName: Dread Vomit
+		// FungalFlaceBall.DisplayName: Fungal Flace Ball
+		// FungalFlaceCloud.DisplayName: Fungal Flace Cloud
+		// FungalFlaceCloudGreen.DisplayName: Fungal Flace Cloud Green
+		// Gelatin.DisplayName: Gelatin
+		// LeadFist.DisplayName: Lead Fist
+		// Nado.DisplayName: Nado
+		// OFlame.DisplayName: O Flame
+		// PericarditisProj.DisplayName: Pericarditis Proj
+		// ShadeHand.DisplayName: Shade Hand
+		// ShriekerProg.DisplayName: Shrieker Prog
+		// SpirtFlareGood.DisplayName: Spirt Flare Good
+		// StarFlowerproj1.DisplayName: Star Flowerproj1
+		// StarFlowerproj2.DisplayName: Star Flowerproj2
+		// StarFlowerproj3.DisplayName: Star Flowerproj3
+		// SunDeathG.DisplayName: Sun Death G
+		// SunDeathGPar.DisplayName: Sun Death G Par
+		// TorrentialLanceP.DisplayName: Torrential Lance P
+		// VoidCharge.DisplayName: Void Charge
+		// VoidCharge2.DisplayName: Void Charge2
+		// VoidHand.DisplayName: Void Hand
+		// VoidHandSpawn.DisplayName: Void Hand Spawn
+		// WinterStormFragProg.DisplayName: Winter Storm Frag Prog
+		// WinterStormProg.DisplayName: Winter Storm Prog
+		// Zap.DisplayName: Zap
+		// GladiatorSpearMirageProg.DisplayName: Gladiator Spear Mirage Prog
+		// GladiatorSpearMirageProgRed.DisplayName: Gladiator Spear Mirage Prog Red
+		// GladiatorSpearProg.DisplayName: Gladiator Spear Prog
+		// InfernisBomb.DisplayName: Infernis Bomb
+		// InfernisProj.DisplayName: Infernis Proj
+		// ScarecrowSaberProg.DisplayName: Scarecrow Saber Prog
+		// StalkersTallonProg.DisplayName: Stalkers Tallon Prog
+		// StalkersTallonSpear.DisplayName: Stalkers Tallon Spear
+		// StarSheithProg.DisplayName: Star Sheith Prog
+		// StarSheithStar.DisplayName: Star Sheith Star
+		// TheIrradiaspearP.DisplayName: The Irradiaspear P
+		// TheIrradiaspearP2.DisplayName: The Irradiaspear P2
+		// TridentOfTheSeasProg.DisplayName: Trident Of The Seas Prog
+		// VoidLanceSpear.DisplayName: Void Lance Spear
+		// VoidLanceWave.DisplayName: Void Lance Wave
+		// AcidBlast2.DisplayName: Acid Blast2
+		// ArchariliteRaysWave.DisplayName: Archarilite Rays Wave
+		// AssassinsSlashProj.DisplayName: Assassins Slash Proj
+		// AssassinsSpawnEffect.DisplayName: Assassins Spawn Effect
+		// CinderBrakerSword.DisplayName: Cinder Braker Sword
+		// DragonWaveFriendly.DisplayName: Dragon Wave Friendly
+		// DreadFireG.DisplayName: Dread Fire G
+		// FrostWave.DisplayName: Frost Wave
+		// FrostWaveBig.DisplayName: Frost Wave Big
+		// GhostExcaliburProj.DisplayName: Ghost Excalibur Proj
+		// HeatBomb.DisplayName: Heat Bomb
+		// HorizonBolt.DisplayName: Horizon Bolt
+		// HorizonBomb.DisplayName: Horizon Bomb
+		// IrradiatedGreatBladeThrow.DisplayName: Irradiated Great Blade Throw
+		// StarKeeperStar.DisplayName: Star Keeper Star
+		// SwordOfGlactiaProj.DisplayName: Sword Of Glactia Proj
+		// WindSythe.DisplayName: Wind Sythe
+		// WindSytheBlue.DisplayName: Wind Sythe Blue
+		// X3107Skull.DisplayName: X3107 Skull
+		// X3107Skull2.DisplayName: X3107 Skull2
+		// AcidicLancherProj.DisplayName: Acidic Lancher Proj
+		// Acidius2.DisplayName: Acidius2
+		// AssassinsKnifeProg.DisplayName: Assassins Knife Prog
+		// AssassinsShurikenProg.DisplayName: Assassins Shuriken Prog
+		// Boralius2.DisplayName: Boralius2
+		// BricksP.DisplayName: Bricks P
+		// Cactius2.DisplayName: Cactius2
+		// GreyBricksP.DisplayName: Grey Bricks P
+		// Plantius2.DisplayName: Plantius2
+		// ZthoKnife.DisplayName: Ztho Knife
+		// DreadMireMagic.DisplayName: Dread Mire Magic
+		// LightSpandProg.DisplayName: Light Spand Prog
+		// MoonMothMinion.DisplayName: Moon Moth Minion
+		// SolMothMinion.DisplayName: Sol Moth Minion
+		// HuntrianArrow.DisplayName: Huntrian Arrow
+		// HMArncharMinionLeft.DisplayName: H M Arnchar Minion Left
+		// HMArncharMinionRight.DisplayName: H M Arnchar Minion Right
+		// GintzeSpear.DisplayName: Gintze Spear
+		// ShinobiKnife.DisplayName: Shinobi Knife
+		// GintzeSpearMini.DisplayName: Gintze Spear Mini
+		// WindeffectGintzl.DisplayName: Windeffect Gintzl
+		// Gintzianado.DisplayName: Gintzianado
+		// GintzlBrooch.DisplayName: Gintzl Brooch
+		// TON618CrossbowHold.DisplayName: T O N618 Crossbow Hold
+		// TONCrossbowBolt.DisplayName: T O N Crossbow Bolt
+		// PiaCircle.DisplayName: Pia Circle
+		// SpacticProj.DisplayName: Spactic Proj
+		// Venbullet.DisplayName: Venbullet
+		// VenShotIN.DisplayName: Ven Shot I N
+		// IceboundMinion.DisplayName: Icebound Minion
+		// SingularitySparkProj.DisplayName: Singularity Spark Proj
+		// PulsarBeam.DisplayName: Pulsar Beam
+		// RuneSpawnEffect2.DisplayName: Rune Spawn Effect2
+		// VoidBeamIN.DisplayName: Void Beam I N
+	}
+}

@@ -6,4 +6,5 @@ hideCode = true
 translationMod = true
 side = Client
 sortAfter = Stellamod
+buildIgnore = 旧版汉化\*
 homepage = https://github.com/moonditch/LunarVeilzhcn

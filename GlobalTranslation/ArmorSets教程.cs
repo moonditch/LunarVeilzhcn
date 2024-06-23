@@ -1,4 +1,4 @@
-using Terraria;
+/*using Terraria;
 using Terraria.ModLoader;
 
 namespace LunarVeilzhcn.GlobalTranslation
@@ -35,4 +35,4 @@ namespace LunarVeilzhcn.GlobalTranslation
         }
         #endregion
     }
-}
+}*/
