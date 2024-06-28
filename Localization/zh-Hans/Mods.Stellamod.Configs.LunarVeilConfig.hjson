@@ -1,22 +1,22 @@
 VanillaTexturesToggle: {
 	Tooltip: ""
-	Label: 原版纹理切换
+	Label: Vanilla Textures Toggle
 }
 
 Headers: {
-	ReplaceVanillaTextures: 替换原版纹理
-	BiomeParticles: 生物群系粒子
-	ModdedBiomeParticles: 调整生物群系粒子
+	ReplaceVanillaTextures: Replace Vanilla Textures
+	BiomeParticles: Biome Particles
+	ModdedBiomeParticles: Modded Biome Particles
 }
 
-DisplayName: 穹月天纱设置
+DisplayName: Lunar Veil Config
 
 VanillaParticlesToggle: {
-	Label: 原版粒子切换
+	Label: Vanilla Particles Toggle
 	Tooltip: ""
 }
 
 ParticlesToggle: {
-	Label: 粒子切换
+	Label: Particles Toggle
 	Tooltip: ""
 }

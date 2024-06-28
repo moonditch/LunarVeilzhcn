@@ -4,8 +4,8 @@ XixVillage: {
 }
 
 VeriplantUndergroundBiome: {
-	TownNPCDialogueName: 地下酸蚀之地
-	DisplayName: 地下酸蚀之地
+	TownNPCDialogueName: 绽放之地
+	DisplayName: 绽放之地
 }
 
 StarbloomBiome: {
@@ -84,8 +84,8 @@ AurelusBiome: {
 }
 
 AlcadziaBiome: {
-	TownNPCDialogueName: 熔金宫殿
-	DisplayName: 熔金宫殿
+	TownNPCDialogueName: 皇家首都
+	DisplayName:  皇家首都
 }
 
 AcidBiome: {

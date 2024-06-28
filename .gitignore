@@ -2,6 +2,7 @@
 /.vs/
 /bin/
 /obj/
+obj/
 /Properties/
 
 *.user
@@ -13,3 +14,4 @@
 
 commit-message.txt
 *.sfk
+旧版汉化/

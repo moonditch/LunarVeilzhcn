@@ -3460,12 +3460,12 @@ AlcadzBlock: {
 }
 
 CarianWood: {
-	DisplayName: Carian Wood
+	DisplayName: 卡里安 Wood
 	Tooltip: ""
 }
 
 CarianWoodWall: {
-	DisplayName: Carian Wood Wall
+	DisplayName: 卡里安 Wood Wall
 	Tooltip: ""
 }
 
@@ -3712,7 +3712,7 @@ MakeUltimateScroll: {
 }
 
 OldCarianTome: {
-	DisplayName: Old Carian Tome
+	DisplayName: Old 卡里安 Tome
 	Tooltip: Everlasting knowledge flows from within
 }
 
@@ -5052,7 +5052,7 @@ EmptyFlowerBag: {
 }
 
 BurnedCarianTome: {
-	DisplayName: Burned Carian Tome
+	DisplayName: Burned 卡里安 Tome
 	Tooltip: Casts black stars that aggressively home and assault enemies!
 }
 
@@ -5437,7 +5437,7 @@ Swingaling: {
 
 TornCarianPage: {
 	Tooltip: A page of a secret tome deep underground, helps with finding it.
-	DisplayName: Torn Carian Page
+	DisplayName: Torn 卡里安 Page
 }
 
 Scatterbombs: {
@@ -5561,7 +5561,7 @@ ShopNote: {
 
 FenixBossRel: {
 	DisplayName: Fenix Boss Relic
-	Tooltip: A commander of a carian army, made the world worse overall.
+	Tooltip: A commander of a 卡里安 army, made the world worse overall.
 }
 
 IrradiaBossRel: {

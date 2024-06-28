@@ -62,8 +62,8 @@ Rectite.MapEntry: Rectite
 CurtainTop.MapEntry: ""
 CurtainRightRC.MapEntry: ""
 CurtainLeftRC.MapEntry: ""
-AowerTop.MapEntry: Aower Top
-AowerBottom.MapEntry: Aower Bottom
+AowerTop.MapEntry: ""
+AowerBottom.MapEntry: ""
 Alcite.MapEntry: Alcite
 MossyStone.MapEntry: 苔石
 LostScrapT.MapEntry: Lost Scrap T

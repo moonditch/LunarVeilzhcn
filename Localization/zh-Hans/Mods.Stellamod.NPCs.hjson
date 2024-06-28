@@ -1,15 +1,15 @@
-RoyalHorsemage.DisplayName: Royal Horsemage
-LonelySorceress.DisplayName: Lonely Sorceress
-CarianKnight.DisplayName: Carian Knight
-AlcaricVoidSmall.DisplayName: Alcaric Void Small
+RoyalHorsemage.DisplayName: 皇家魔骑
+LonelySorceress.DisplayName: 孤寂的术士
+CarianKnight.DisplayName: 卡里安幽魂
+AlcaricVoidSmall.DisplayName: 阿尔卡虚空之灵
 ShadowWraith.DisplayName: 影灵
 ShadeSlime.DisplayName: 暗影史莱姆
 RoyalSlime.DisplayName: 史莱姆王子
 IvythornSlime.DisplayName: 常春藤史莱姆
-TribalWorshipper.DisplayName: Tribal Worshipper
-TribalPriest.DisplayName: 部落祭司
-TribalPeasant.DisplayName: Tribal Peasant
-TribalGuard.DisplayName: Tribal Guard
+TribalWorshipper.DisplayName: 寓言信徒
+TribalPriest.DisplayName: 寓言祭司
+TribalPeasant.DisplayName: 寓言乡民
+TribalGuard.DisplayName: 寓言守卫
 TopazBeetle.DisplayName: 黄玉甲虫
 SapphireBeetle.DisplayName: 蓝玉甲虫
 RubyBeetle.DisplayName: 红玉甲虫
@@ -17,33 +17,33 @@ MossyZombie.DisplayName: 苔藓僵尸
 MorrowedJellyFish.DisplayName: 黎明水母
 EmeraldBeetle.DisplayName: 翡翠甲虫
 AmethystBeetle.DisplayName: 紫晶甲虫
-GoliathJellyfish.DisplayName: Goliath Jellyfish
-GoliathCryogenicJellyfish.DisplayName: Goliath Cryogenic Jellyfish
+GoliathJellyfish.DisplayName: 歌莉娅水母
+GoliathCryogenicJellyfish.DisplayName: 寒凛歌莉娅水母
 WinterSoul3.DisplayName: 冬之灵
 WinterSoul2.DisplayName: 冬之灵
 WinterSoul1.DisplayName: 冬之灵
 WinterBornSlime.DisplayName: 冬生史莱姆
 WinterbornBat.DisplayName: 冬生蝙蝠
 HarvestVirulent.DisplayName: ！
-SkyRune.DisplayName: Sky Rune
-RedLightBig.DisplayName: Red Light Big
-PearledGold.DisplayName: Pearled Gold
-OverworldRuneLightBig.DisplayName: Overworld Rune Light Big
-OverworldRune.DisplayName: Overworld Rune
-OceanRuneLightBig.DisplayName: Ocean Rune Light Big
-OceanRune.DisplayName: Ocean Rune
-JungleRune.DisplayName: Jungle Rune
+SkyRune.DisplayName: 天穹秘符
+RedLightBig.DisplayName: 红色柔光
+PearledGold.DisplayName: 珍珠金顶
+OverworldRuneLightBig.DisplayName: 森林秘符
+OverworldRune.DisplayName: 森林秘符
+OceanRuneLightBig.DisplayName: 海洋秘符
+OceanRune.DisplayName: 海洋秘符
+JungleRune.DisplayName: 丛林秘符
 HarvestUM.DisplayName: Harvest U M
 HarvestOverworld.DisplayName: Harvest Overworld
 HarvestGovheil.DisplayName: Harvest Govheil
-GreenLightBig.DisplayName: Green Light Big
-GoldLightBig.DisplayName: Gold Light Big
-DesertRuneLightBig.DisplayName: Desert Rune Light Big
-DesertRune.DisplayName: Desert Rune
-BlueLightBig.DisplayName: Blue Light Big
+GreenLightBig.DisplayName: 绿色柔光
+GoldLightBig.DisplayName: 金色柔光
+DesertRuneLightBig.DisplayName: 沙漠秘符
+DesertRune.DisplayName: 沙漠秘符
+BlueLightBig.DisplayName: 蓝色柔光
 HarvestIce.DisplayName: Harvest Ice
-GovheilProtector.DisplayName: 戈茜维娅的守卫
-GovheilGuardian.DisplayName: Govheil Guardian
+GovheilProtector.DisplayName: 戈茜维娅卫戍
+GovheilGuardian.DisplayName: 戈茜维娅禁卫
 Gintzling.DisplayName: 重钢灵
 GintzeWindRider.DisplayName: 重钢飞毯骑士
 GintzeWarrior.DisplayName: 重钢战士
@@ -51,34 +51,34 @@ GintzeSpearman.DisplayName: 重钢枪兵
 GintzeSolider.DisplayName: 重钢士兵
 GintzeCaptain.DisplayName: 重钢队长
 GintziaHand.DisplayName: 重钢之手
-StarSlime.DisplayName: Star Slime
+StarSlime.DisplayName: 星宇史莱姆
 DiceinNPC.DisplayName: 骰子
-Shrewmet.DisplayName: Shrewmet
-Shrewder.DisplayName: Shrewder
-SnowWalkerNPC.DisplayName: Snow Walker
-SandWalkerNPC.DisplayName: Sand Walker
-THEGREATDEVOURER.DisplayName: THE GREAT DEVOURER
-FlamingWitch.DisplayName: Flaming Witch
-CinderCrawlerTail.DisplayName: Cinder Crawler Tail
-CinderCrawlerHead.DisplayName: Cinder Crawler Head
-CinderCrawlerBody.DisplayName: Cinder Crawler Body
-CharredSoul.DisplayName: Charred Soul
-CharredSkulls.DisplayName: Charred Skulls
-BottomFeeder.DisplayName: Bottom Feeder
+Shrewmet.DisplayName: 荒漠弹蜥
+Shrewder.DisplayName: 荒漠沙蜥
+SnowWalkerNPC.DisplayName: 冰原蜘蛛
+SandWalkerNPC.DisplayName: 沙漠蜘蛛
+THEGREATDEVOURER.DisplayName: 炽焰乌鲗
+FlamingWitch.DisplayName: 烈火巫师
+CinderCrawlerTail.DisplayName: 灰烬吞噬者
+CinderCrawlerHead.DisplayName: 灰烬吞噬者
+CinderCrawlerBody.DisplayName: 灰烬吞噬者
+CharredSoul.DisplayName: 熔碳幽魂
+CharredSkulls.DisplayName: 熔碳之骨
+BottomFeeder.DisplayName: 底狱捕食者
 WaterRifle.DisplayName: Water Rifle
 WaterLauncher.DisplayName: Water Launcher
 WaterGun.DisplayName: Water Gun
-WaterCogwork.DisplayName: Water Cogwork
+WaterCogwork.DisplayName: 深海密轮
 SpikeBallGun.DisplayName: Spike Ball Gun
 NeedleGun.DisplayName: Needle Gun
 IronNailGun.DisplayName: Iron Nail Gun
-PandorasSeeker.DisplayName: Pandoras Seeker
-PandorasKnife.DisplayName: Pandoras Knife
-PandorasGuard.DisplayName: Pandoras Guard
-BlazingSerpentTail.DisplayName: Blazing Serpent Tail
-BlazingSerpentBody.DisplayName: Blazing Serpent Body
-BlazeBeamWarn.DisplayName: Blaze Beam Warn
-CatacombsBossSpawn.DisplayName: Catacombs Boss Spawner
+PandorasSeeker.DisplayName: 潘多拉追猎者
+PandorasKnife.DisplayName: 潘多拉魔刃
+PandorasGuard.DisplayName: 潘多拉守卫
+BlazingSerpentTail.DisplayName: 炽焰巨蛇
+BlazingSerpentBody.DisplayName: 炽焰巨蛇
+BlazeBeamWarn.DisplayName: 炽焰巨蛇
+CatacombsBossSpawn.DisplayName: 坟墓祭坛
 Viola.DisplayName: 沉重和弦
 Sword3.DisplayName: 维尔莉娅的剑
 Sword2.DisplayName: 维尔莉娅的剑
@@ -88,19 +88,19 @@ GhostCharger.DisplayName: 幽灵充能仪
 CloneV.DisplayName: 维尔莉娅克隆体
 Zapwarn.DisplayName: Zapwarn
 Veiizal.DisplayName: Veiizal
-VoidWall.DisplayName: Void Wall
-UnderworldRift.DisplayName: Underworld Rift
-VoidWormTail.DisplayName: Void Worm Tail
-VoidWormHead.DisplayName: Void Worm Head
-VoidWormBody.DisplayName: Void Worm Body
-SunStalkerRayLightBig.DisplayName: Sun Stalker Ray Light Big
-SunStalkerRayLight.DisplayName: Sun Stalker Ray Light
-SunStalkerPreSpawn.DisplayName: Sun Stalker Pre Spawn
-SunStalkerLighting.DisplayName: Sun Stalker Lighting
-SunStalkerDeath.DisplayName: 死亡的逐日者
-SunStalker.DisplayName: Sun Stalker
+VoidWall.DisplayName: 虚空之墙
+UnderworldRift.DisplayName: 地狱裂缝
+VoidWormTail.DisplayName: 虚空之虫
+VoidWormHead.DisplayName: 虚空之虫
+VoidWormBody.DisplayName: 虚空之虫
+SunStalkerRayLightBig.DisplayName: 逐日者
+SunStalkerRayLight.DisplayName: 逐日者
+SunStalkerPreSpawn.DisplayName: 逐日者
+SunStalkerLighting.DisplayName: 逐日者
+SunStalkerDeath.DisplayName: 逐日者
+SunStalker.DisplayName: 逐日者
 Sun.DisplayName: 太阳
-StoneDeath.DisplayName: Stone Death
+StoneDeath.DisplayName: 磐石守护者
 Flowerball.DisplayName: 花团
 STARBOMBERGUN.DisplayName: STARBOMBER GUN
 STARLINGBIG.DisplayName: STARLING BIG
@@ -116,9 +116,9 @@ SingularityLazer2.DisplayName: 星极激光
 SingularityLazer.DisplayName: 星极激光
 LazerOrb.DisplayName: 激光球
 Jackoslime.DisplayName: 杰克史莱姆
-JackDeath.DisplayName: 死亡的杰克
+JackDeath.DisplayName: 杰克
 Jack.DisplayName: 杰克
-IrradiatedNestDeath.DisplayName: 辐辉巢穴死亡
+IrradiatedNestDeath.DisplayName: 辐辉巢穴
 IrradiatedNest.DisplayName: 辐辉巢穴
 IrradiatedCreeper.DisplayName: 辐辉飞眼怪
 IRNDeathBomb.DisplayName: IRN死亡炸弹
@@ -140,12 +140,12 @@ ALCADSWIRL.DisplayName: A L C A D S W I R L
 ALCADHOLE.DisplayName: ALCADHOLE
 DreadMiresHeart.DisplayName: 恐惑之心
 DreadSurvent.DisplayName: 恐惑仆从
-DreadMireZapwarnBig.DisplayName: Dread Mire Zapwarn Big
-DreadMireZapwarn.DisplayName: Dread Mire Zapwarn
-DreadMirePentagramSmall.DisplayName: 恐惑迷潭五角
-DreadMirePentagramMid.DisplayName: 恐惑迷潭五角
-DreadMirePentagram.DisplayName: 恐惑迷潭五角
-DreadMire.DisplayName: Dread Mire
+DreadMireZapwarnBig.DisplayName: 恐惑魔魇
+DreadMireZapwarn.DisplayName: 恐惑魔魇
+DreadMirePentagramSmall.DisplayName: 恐惑魔魇五角
+DreadMirePentagramMid.DisplayName: 恐惑魔魇五角
+DreadMirePentagram.DisplayName: 恐惑魔魇五角
+DreadMire.DisplayName: 恐惑魔魇
 DreadFireCircle.DisplayName: 恐惑火圈
 DreadFireBomb.DisplayName: 恐惑火焰弹
 BloodCystDead.DisplayName: 血惑水晶（死亡）
@@ -159,28 +159,28 @@ CaevaSnipe.DisplayName: Caeva Snipe
 CaevaDeathRowR.DisplayName: Caeva Death Row R
 CaevaDeathRow.DisplayName: Caeva Death Row
 Caeva.DisplayName: Caeva
-ToxicHornet.DisplayName: Toxic Hornet
-ToxicBoulder.DisplayName: 剧毒巨石
+ToxicHornet.DisplayName: 酸蚀疫蜂
+ToxicBoulder.DisplayName: 酸蚀巨石
 AcidSpirit.DisplayName: 酸蚀之灵
 AcidSlime.DisplayName: 酸蚀史莱姆
 AcidProbe.DisplayName: 酸蚀探针
 AbyssalSlime.DisplayName: 深渊史莱姆
-AbyssalSkull.DisplayName: 深渊颅骨
+AbyssalSkull.DisplayName: 深渊之颅
 AbyssalSeeker.DisplayName: 深渊探索者
 AbysmLunatic.DisplayName: Abysm Lunatic
 TericGramNPC2.DisplayName: Teric Gram
 TericGramNPC.DisplayName: Teric Gram
-Sparn.DisplayName: Sparn
-WaterJellyfish.DisplayName: Water Jellyfish
-PandorasFlamebox.DisplayName: Pandora's Flamebox
-Cogwork.DisplayName: Cogwork
-BlazingSerpentHead.DisplayName: Blazing Serpent
-StarrVeriplant.DisplayName: 星域幻花
+Sparn.DisplayName: 幽暗督察
+WaterJellyfish.DisplayName: 潜渊水母
+PandorasFlamebox.DisplayName: 潘神焰盒
+Cogwork.DisplayName: 深海密轮
+BlazingSerpentHead.DisplayName: 炽焰巨蛇
+StarrVeriplant.DisplayName: 磐石守护者
 Sylia.DisplayName: Sylia
 VerliaB.DisplayName: 星月女神—维尔莉娅
-SingularityFragment.DisplayName: Singularity Fragment
+SingularityFragment.DisplayName: 星极残芒
 CommanderGintzia.DisplayName: 重钢指挥官
-DaedusR.DisplayName: Daedus The Forgotten
+DaedusR.DisplayName: 被遗忘的傀儡-达厄图斯
 
 Aimacra: {
 	DisplayName: Aimacra
@@ -207,7 +207,7 @@ Aimacra: {
 Bordoc.DisplayName: Bordoc
 
 BoundGia: {
-	DisplayName: Bound Gia
+	DisplayName: 受缚Gia
 
 	TownNPCMood: {
 		Content: 我很满足.
@@ -229,15 +229,15 @@ Gambit: {
 
 	TownNPCMood: {
 		Content: "{$Mods.Stellamod.TownNPCMood.Gambit.Content}"
-		NoHome: I really dont have a house
-		FarFromHome: Spiderman far from home
-		LoveSpace: I really like this space
-		DislikeCrowded: I dont like being crowded, get me out babe
-		HateCrowded: PLEASE LET ME HAVE A SPACE WITH YOU
-		LoveBiome: THIS IS AMAZEBALLS
-		LikeBiome: This is cool
-		DislikeBiome: I dont like this biome
-		LoveNPC: I loveeee you
+		NoHome: 我现在无家可归.
+		FarFromHome: 英雄远征.
+		LoveSpace: 我很喜欢这里.
+		DislikeCrowded: 这太挤了.
+		HateCrowded: 让我们找个能独处的地方.
+		LoveBiome: 这的环境太棒了.
+		LikeBiome: 这里看起来不错.
+		DislikeBiome: 我不喜欢这里
+		LoveNPC: 我爱你
 		LikeNPC: "{$Mods.Stellamod.TownNPCMood.Gambit.LikeNPC}"
 		DislikeNPC: "{$Mods.Stellamod.TownNPCMood.Gambit.DislikeNPC}"
 		HateNPC: "{$Mods.Stellamod.TownNPCMood.Gambit.HateNPC}"
@@ -294,45 +294,45 @@ Merena.DisplayName: Merena
 NaturalWitch.DisplayName: Natural Witch
 Zui.DisplayName: Zui
 AbandonedMinor.DisplayName: Abandoned Minor
-AbandonedMinorSummon.DisplayName: Abandoned Minor Summon
-FloweredRedLight.DisplayName: Flowered Red Light
-FloweredWhiteLight.DisplayName: Flowered White Light
-RedFlower.DisplayName: Red Flower
-WhiteFlower.DisplayName: White Flower
-DreadFireBombG.DisplayName: 恐惧火焰炸弹G
+AbandonedMinorSummon.DisplayName: Abandoned Minor
+FloweredRedLight.DisplayName: 红花柔光
+FloweredWhiteLight.DisplayName: 白花柔光
+RedFlower.DisplayName: 红花
+WhiteFlower.DisplayName: 白花
+DreadFireBombG.DisplayName: 恐惧火焰炸弹
 HeatBombLighting.DisplayName: 热能炸弹电流
 HeatBombRayLight.DisplayName: 热能炸弹光线
-Rustwork.DisplayName: Rustwork
-MechanicalMinorSummon.DisplayName: Mechanical Minor Summon
-MechanicalMinor.DisplayName: Mechanical Minor
-InfusedSlime.DisplayName: Infused Slime
-RustedBomber.DisplayName: Rusted Bomber
-RustedBomberSummon.DisplayName: Rusted Bomber Summon
-Steeru.DisplayName: Steeru
+Rustwork.DisplayName: 锈蚀铁轮
+MechanicalMinorSummon.DisplayName: 初生机械
+MechanicalMinor.DisplayName: 初生机械
+InfusedSlime.DisplayName: 机械史莱姆
+RustedBomber.DisplayName: 锈蚀投手
+RustedBomberSummon.DisplayName: 锈蚀投手
+Steeru.DisplayName: 着魔齿轮
 ZuiTheTraveller.DisplayName: Zui The Radiance
 TestLaserNPC.DisplayName: Test Laser N P C
 UnknownSignal.DisplayName: Unknown Signal
-AlcaricVoidBig.DisplayName: Alcaric Void Big
+AlcaricVoidBig.DisplayName: 阿尔卡虚空之灵
 ZuiLASERWARN.DisplayName: Zui L A S E R W A R N
 GoldBeamWarn.DisplayName: Gold Beam Warn
-ZuiDeath.DisplayName: Zui Death
+ZuiDeath.DisplayName: Zui
 LuminullSpiritCrystal.DisplayName: Luminull Spirit Crystal
-IceRune.DisplayName: Ice Rune
-VerliaSpawn.DisplayName: Verlia Spawn
-Bossdeath1.DisplayName: Bossdeath1
-DeathVerlia.DisplayName: Death Verlia
-VerliaDP.DisplayName: Verlia D P
+IceRune.DisplayName: 冰雪秘符
+VerliaSpawn.DisplayName: 维尔莉娅
+Bossdeath1.DisplayName: ""
+DeathVerlia.DisplayName: 维尔莉娅
+VerliaDP.DisplayName: 维尔莉娅
 Niivi.DisplayName: Niivi
 IllurianMage.DisplayName: Illurian Mage
 IllurianGuard.DisplayName: Illurian Guard
-SyliaDeath.DisplayName: Sylia Death
+SyliaDeath.DisplayName: Sylia
 Veldris.DisplayName: Veldris
 SupernovaZapwarn.DisplayName: Supernova Zapwarn
 SupernovaOrb.DisplayName: Supernova Orb
-SupernovaFragment.DisplayName: Supernova Fragment
+SupernovaFragment.DisplayName: 超星余辉
 Sirestias.DisplayName: Sirestias
-JellyGlow.DisplayName: Jelly Glow
-BabyJellyGlow.DisplayName: Baby Jelly Glow
+JellyGlow.DisplayName: 流光水母
+BabyJellyGlow.DisplayName: 流光水母
 DreadMonolith.DisplayName: Dread Monolith
 HavocHead.DisplayName: Havoc Head
 HavocSegmentBack.DisplayName: Havoc Segment Back
@@ -344,13 +344,13 @@ Havoc.DisplayName: Havoc
 Ishtar.DisplayName: Ishtar
 PULSARHOLE.DisplayName: P U L S A R H O L E
 BabySwarmer.DisplayName: Baby Swarmer
-BabySwarmerSummon.DisplayName: Baby Swarmer Summon
+BabySwarmerSummon.DisplayName: Baby Swarmer
 HavocSignal.DisplayName: Havoc Signal
 IrradiaElectricBoxNode.DisplayName: Irradia Electric Box Node
 IrradiaSpikeBox.DisplayName: Irradia Spike Box
 Irradia.DisplayName: Irradia
-DreadMireR.DisplayName: Dread Mire R
-DreadMirePentagramV2.DisplayName: Dread Mire Pentagram V2
+DreadMireR.DisplayName: 恐惑魔魇
+DreadMirePentagramV2.DisplayName: 恐惑魔魇
 StartIrradia.DisplayName: Start Irradia
 GraveShard.DisplayName: Grave Shard
 IncresianDisc.DisplayName: Incresian Disc
@@ -373,17 +373,17 @@ RekSnakeIdle.DisplayName: Rek Snake Idle
 CentipedeTail.DisplayName: Centipede Tail
 CentipedeHead.DisplayName: Centipede Head
 CentipedeBody.DisplayName: Centipede Body
-IrravheilSlime.DisplayName: Irravheil Slime
-IrravheilLandwormTail.DisplayName: Irravheil Landworm Tail
-IrravheilLandwormHead.DisplayName: Irravheil Landworm
-IrravheilLandwormBody.DisplayName: Irravheil Landworm Body
-IrravheilSprayer.DisplayName: Irravheil Sprayer
-Tulacrowe.DisplayName: Tulacrowe
+IrravheilSlime.DisplayName: 酸蚀史莱姆
+IrravheilLandwormTail.DisplayName: 酸蚀蜈蚣
+IrravheilLandwormHead.DisplayName: 酸蚀蜈蚣
+IrravheilLandwormBody.DisplayName: 酸蚀蜈蚣
+IrravheilSprayer.DisplayName: 酸蚀喷吐怪
+Tulacrowe.DisplayName: 酸蚀巫灵
 NiiviCrystalStars.DisplayName: Niivi Crystal Stars
 NiiviCrystalLightning.DisplayName: Niivi Crystal Lightning
 NiiviCrystalFrost.DisplayName: Niivi Crystal Frost
 NiiviRoaming.DisplayName: Niivi Roaming
-GothiviaDeath.DisplayName: Gothivia Death
+GothiviaDeath.DisplayName: Gothivia
 EreshkigalIdle.DisplayName: Ereshkigal Idle
 GraveSeeker.DisplayName: Grave Seeker
 Azurerin.DisplayName: Azurerin
