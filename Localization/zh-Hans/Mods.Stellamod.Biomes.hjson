@@ -85,7 +85,7 @@ AurelusBiome: {
 
 AlcadziaBiome: {
 	TownNPCDialogueName: 皇家首都
-	DisplayName:  皇家首都
+	DisplayName: 皇家首都
 }
 
 AcidBiome: {

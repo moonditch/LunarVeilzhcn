@@ -102,12 +102,12 @@ SunStalker.DisplayName: 逐日者
 Sun.DisplayName: 太阳
 StoneDeath.DisplayName: 磐石守护者
 Flowerball.DisplayName: 花团
-STARBOMBERGUN.DisplayName: STARBOMBER GUN
+STARBOMBERGUN.DisplayName: 极星轰炸机
 STARLINGBIG.DisplayName: STARLING BIG
 STARLING.DisplayName: STARLING
-STARBOMBERLASERWARNBIG.DisplayName: STARBOMBER BIG LASER WARNING
-STARBOMBERLASERWARN.DisplayName: STARBOMBER LASER WARN
-STARBOMBER.DisplayName: STARBOMBER
+STARBOMBERLASERWARNBIG.DisplayName: 极星轰炸机
+STARBOMBERLASERWARN.DisplayName: 极星轰炸机
+STARBOMBER.DisplayName: 极星轰炸机
 Voidling.DisplayName: Voidling
 SingularityOrb.DisplayName: 奇点
 SingularitySparkBig.DisplayName: 星极大火花
@@ -126,13 +126,13 @@ IrradieagleSurvent.DisplayName: 辐辉之鹰仆从
 Irradieagle.DisplayName: 辐辉之鹰
 Train2.DisplayName: Train2
 Train1.DisplayName: Train1
-Rek.DisplayName: Havoc
-Gothiviabb.DisplayName: 戈茜维娅？
-Gothiviab.DisplayName: 戈茜维娅
-FenixWarn.DisplayName: Fenix Warn
-FenixSnipe.DisplayName: Fenix Snipe
-FenixSlash.DisplayName: Fenix Slash
-Fenix.DisplayName: Fenix
+Rek.DisplayName: 湮灭长蛇
+Gothiviabb.DisplayName: 冈迪维亚
+Gothiviab.DisplayName: 冈迪维亚
+FenixWarn.DisplayName: 菲尼克斯
+FenixSnipe.DisplayName: 菲尼克斯
+FenixSlash.DisplayName: 菲尼克斯
+Fenix.DisplayName: 菲尼克斯
 ExpoiyosOrb.DisplayName: Expoiyos Orb
 AlcSpark.DisplayName: Alc Spark
 DrownOut.DisplayName: Drown Out
@@ -176,14 +176,14 @@ PandorasFlamebox.DisplayName: 潘神焰盒
 Cogwork.DisplayName: 深海密轮
 BlazingSerpentHead.DisplayName: 炽焰巨蛇
 StarrVeriplant.DisplayName: 磐石守护者
-Sylia.DisplayName: Sylia
+Sylia.DisplayName: 希莉娅
 VerliaB.DisplayName: 星月女神—维尔莉娅
 SingularityFragment.DisplayName: 星极残芒
 CommanderGintzia.DisplayName: 重钢指挥官
 DaedusR.DisplayName: 被遗忘的傀儡-达厄图斯
 
 Aimacra: {
-	DisplayName: Aimacra
+	DisplayName: 艾玛克拉
 
 	TownNPCMood: {
 		Content: 我很满足.
@@ -204,10 +204,10 @@ Aimacra: {
 	}
 }
 
-Bordoc.DisplayName: Bordoc
+Bordoc.DisplayName: 波多克
 
 BoundGia: {
-	DisplayName: 受缚Gia
+	DisplayName: 受缚吉娅
 
 	TownNPCMood: {
 		Content: 我很满足.
@@ -222,7 +222,7 @@ BoundGia: {
 }
 
 CellConverter.DisplayName: 高能精炼器
-Delgrim.DisplayName: Delgrim
+Delgrim.DisplayName: 德尔格姆
 
 Gambit: {
 	DisplayName: 启幕者
@@ -247,7 +247,7 @@ Gambit: {
 }
 
 Gia: {
-	DisplayName: Gia
+	DisplayName: 吉娅
 
 	TownNPCMood: {
 		Content: 我很满足.
@@ -291,10 +291,10 @@ Ginztel: {
 }
 
 Merena.DisplayName: Merena
-NaturalWitch.DisplayName: Natural Witch
-Zui.DisplayName: Zui
-AbandonedMinor.DisplayName: Abandoned Minor
-AbandonedMinorSummon.DisplayName: Abandoned Minor
+NaturalWitch.DisplayName: 自然神女
+Zui.DisplayName: 云游花神-蕊
+AbandonedMinor.DisplayName: 遗民矿工
+AbandonedMinorSummon.DisplayName: 遗民矿工
 FloweredRedLight.DisplayName: 红花柔光
 FloweredWhiteLight.DisplayName: 白花柔光
 RedFlower.DisplayName: 红花
@@ -309,81 +309,81 @@ InfusedSlime.DisplayName: 机械史莱姆
 RustedBomber.DisplayName: 锈蚀投手
 RustedBomberSummon.DisplayName: 锈蚀投手
 Steeru.DisplayName: 着魔齿轮
-ZuiTheTraveller.DisplayName: Zui The Radiance
+ZuiTheTraveller.DisplayName: 云游花神-蕊
 TestLaserNPC.DisplayName: Test Laser N P C
-UnknownSignal.DisplayName: Unknown Signal
+UnknownSignal.DisplayName: 不明信号源
 AlcaricVoidBig.DisplayName: 阿尔卡虚空之灵
-ZuiLASERWARN.DisplayName: Zui L A S E R W A R N
+ZuiLASERWARN.DisplayName: 云游花神-蕊
 GoldBeamWarn.DisplayName: Gold Beam Warn
-ZuiDeath.DisplayName: Zui
-LuminullSpiritCrystal.DisplayName: Luminull Spirit Crystal
+ZuiDeath.DisplayName: 云游花神-蕊
+LuminullSpiritCrystal.DisplayName: 璇光水晶
 IceRune.DisplayName: 冰雪秘符
 VerliaSpawn.DisplayName: 维尔莉娅
 Bossdeath1.DisplayName: ""
 DeathVerlia.DisplayName: 维尔莉娅
 VerliaDP.DisplayName: 维尔莉娅
-Niivi.DisplayName: Niivi
-IllurianMage.DisplayName: Illurian Mage
-IllurianGuard.DisplayName: Illurian Guard
-SyliaDeath.DisplayName: Sylia
-Veldris.DisplayName: Veldris
-SupernovaZapwarn.DisplayName: Supernova Zapwarn
-SupernovaOrb.DisplayName: Supernova Orb
+Niivi.DisplayName: 伊鲁里亚灵龙
+IllurianMage.DisplayName: 伊鲁里亚法师
+IllurianGuard.DisplayName: 伊鲁里亚护卫
+SyliaDeath.DisplayName: 希莉娅
+Veldris.DisplayName: 瓦达瑞斯
+SupernovaZapwarn.DisplayName: 超星余辉
+SupernovaOrb.DisplayName: 超星余辉
 SupernovaFragment.DisplayName: 超星余辉
-Sirestias.DisplayName: Sirestias
+Sirestias.DisplayName: 瑟瑞西亚斯
 JellyGlow.DisplayName: 流光水母
 BabyJellyGlow.DisplayName: 流光水母
-DreadMonolith.DisplayName: Dread Monolith
-HavocHead.DisplayName: Havoc Head
-HavocSegmentBack.DisplayName: Havoc Segment Back
-HavocSegmentFront.DisplayName: Havoc Segment Front
-HavocSegmentMiddle.DisplayName: Havoc Segment Middle
-HavocTail.DisplayName: Havoc Tail
-IrradiaIdle.DisplayName: Irradia Idle
-Havoc.DisplayName: Havoc
-Ishtar.DisplayName: Ishtar
-PULSARHOLE.DisplayName: P U L S A R H O L E
-BabySwarmer.DisplayName: Baby Swarmer
-BabySwarmerSummon.DisplayName: Baby Swarmer
-HavocSignal.DisplayName: Havoc Signal
-IrradiaElectricBoxNode.DisplayName: Irradia Electric Box Node
-IrradiaSpikeBox.DisplayName: Irradia Spike Box
-Irradia.DisplayName: Irradia
+DreadMonolith.DisplayName: 恐祸石碑
+HavocHead.DisplayName: 湮灭长蛇
+HavocSegmentBack.DisplayName: 湮灭长蛇
+HavocSegmentFront.DisplayName: 湮灭长蛇
+HavocSegmentMiddle.DisplayName: 湮灭长蛇
+HavocTail.DisplayName: 湮灭长蛇
+IrradiaIdle.DisplayName: 伊瑞蒂娅
+Havoc.DisplayName: 湮灭长蛇
+Ishtar.DisplayName: 伊什塔尔
+PULSARHOLE.DisplayName: 次元黑洞
+BabySwarmer.DisplayName: 流沙群蜂
+BabySwarmerSummon.DisplayName: 流沙群蜂
+HavocSignal.DisplayName: 湮灭长蛇
+IrradiaElectricBoxNode.DisplayName: 伊瑞蒂娅
+IrradiaSpikeBox.DisplayName: 伊瑞蒂娅
+Irradia.DisplayName: 伊瑞蒂娅
 DreadMireR.DisplayName: 恐惑魔魇
 DreadMirePentagramV2.DisplayName: 恐惑魔魇
-StartIrradia.DisplayName: Start Irradia
-GraveShard.DisplayName: Grave Shard
+StartIrradia.DisplayName: 伊瑞蒂娅
+GraveShard.DisplayName: 灾坟水晶
 IncresianDisc.DisplayName: Incresian Disc
-Mardenth.DisplayName: Mardenth
-Ordin.DisplayName: Ordin
-DustNadoSpawner.DisplayName: Dust Nado Spawn
-Stalker.DisplayName: Stalker
-StalkerSpawner.DisplayName: Stalker Spawning
-RekSnake.DisplayName: Rek, The Burning Serpent
-RekFireCrystal.DisplayName: Rek Fire Crystal
+Mardenth.DisplayName: 马尔顿斯
+Ordin.DisplayName: 奥丁
+DustNadoSpawner.DisplayName: 沙尘暴
+Stalker.DisplayName: 潜影蜥蜴
+StalkerSpawner.DisplayName: 潜影蜥蜴
+RekSnake.DisplayName: 焱焮螣蛇
+RekFireCrystal.DisplayName: 炽灼水晶
 RekFireEye.DisplayName: Flamed Eye
-Sun2.DisplayName: Sun2
-GothiviaIyx.DisplayName: Gothivia Iyx, The Green Sun
-Carmody.DisplayName: Carmody
-CarmodyGreen.DisplayName: Carmody Green
-SupernovaZapwarnFinal.DisplayName: Supernova Zapwarn Final
-GothiviaIdle.DisplayName: Gothivia Idle
-StartGoth.DisplayName: Start Goth
-RekSnakeIdle.DisplayName: Rek Snake Idle
-CentipedeTail.DisplayName: Centipede Tail
-CentipedeHead.DisplayName: Centipede Head
-CentipedeBody.DisplayName: Centipede Body
+Sun2.DisplayName: 毁灭碧辰
+GothiviaIyx.DisplayName: 碧翠昡晖-冈迪维亚
+Carmody.DisplayName: 赤色风暴
+CarmodyGreen.DisplayName: 苍翠风暴
+SupernovaZapwarnFinal.DisplayName: 超星余辉
+GothiviaIdle.DisplayName: 冈迪维亚
+StartGoth.DisplayName: 冈迪维亚
+RekSnakeIdle.DisplayName: 焱焮螣蛇
+CentipedeTail.DisplayName: 暗夜蜈蚣
+CentipedeHead.DisplayName: 暗夜蜈蚣
+CentipedeBody.DisplayName: 暗夜蜈蚣
 IrravheilSlime.DisplayName: 酸蚀史莱姆
 IrravheilLandwormTail.DisplayName: 酸蚀蜈蚣
 IrravheilLandwormHead.DisplayName: 酸蚀蜈蚣
 IrravheilLandwormBody.DisplayName: 酸蚀蜈蚣
 IrravheilSprayer.DisplayName: 酸蚀喷吐怪
 Tulacrowe.DisplayName: 酸蚀巫灵
-NiiviCrystalStars.DisplayName: Niivi Crystal Stars
-NiiviCrystalLightning.DisplayName: Niivi Crystal Lightning
-NiiviCrystalFrost.DisplayName: Niivi Crystal Frost
-NiiviRoaming.DisplayName: Niivi Roaming
-GothiviaDeath.DisplayName: Gothivia
-EreshkigalIdle.DisplayName: Ereshkigal Idle
-GraveSeeker.DisplayName: Grave Seeker
-Azurerin.DisplayName: Azurerin
+NiiviCrystalStars.DisplayName: 伊鲁里亚灵龙的明星水晶
+NiiviCrystalLightning.DisplayName: 伊鲁里亚灵龙的电弧水晶
+NiiviCrystalFrost.DisplayName: 伊鲁里亚灵龙的寒霜水晶
+NiiviRoaming.DisplayName: 游荡的伊鲁里亚灵龙
+GothiviaDeath.DisplayName: 冈迪维亚
+EreshkigalIdle.DisplayName: 厄里什基迦勒
+GraveSeeker.DisplayName: 灾坟幽灵
+Azurerin.DisplayName: 埃兹尤伦

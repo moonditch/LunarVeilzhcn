@@ -58,7 +58,7 @@ ShrineBUAN.MapEntry: Shrine B U A N
 ShrineAlcaPowderC.MapEntry: Shrine Alca Powder C
 RunicTableT.MapEntry: Runic Table T
 Skullpile.MapEntry: Skullpile
-Rectite.MapEntry: Rectite
+Rectite.MapEntry: ""
 CurtainTop.MapEntry: ""
 CurtainRightRC.MapEntry: ""
 CurtainLeftRC.MapEntry: ""
@@ -119,10 +119,10 @@ AurelusPost.MapEntry: 星咏殿堂
 AurelusDoorClosed.MapEntry: 星咏门
 AurelusChest.MapEntry: 星咏箱
 AurelusBorderS.MapEntry: 星咏殿堂
-AbyssalStone.MapEntry: Abyssal Stone
-LabCrystal.MapEntry: Lab Crystal
-LabsS.MapEntry: IlluriaLeafTile.MapEntry: 伊鲁里亚树叶
-IlluriaLeafTile.MapEntry: Illuria Leaf Tile
+AbyssalStone.MapEntry: ""
+LabCrystal.MapEntry: ""
+LabsS.MapEntry: ""
+IlluriaLeafTile.MapEntry: 伊鲁里亚树
 IlluriaTreesmall.MapEntry: 伊鲁里亚小树
 IlluriaTreeBig.MapEntry: 伊鲁里亚大树
 IlluriaBranch.MapEntry: 伊鲁里亚树枝

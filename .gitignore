@@ -15,3 +15,11 @@ obj/
 commit-message.txt
 *.sfk
 旧版汉化/
+obj/LunarVeilzhcn.csproj.nuget.dgspec.json
+obj/LunarVeilzhcn.csproj.nuget.g.props
+obj/project.assets.json
+obj/project.nuget.cache
+obj/LunarVeilzhcn.csproj.nuget.dgspec.json
+obj/LunarVeilzhcn.csproj.nuget.g.props
+obj/project.assets.json
+obj/project.nuget.cache
