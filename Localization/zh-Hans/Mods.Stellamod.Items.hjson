@@ -92,7 +92,7 @@ HikersBackpack: {
 	// DisplayName: Hiker's Backpack
 	/* Tooltip:
 		'''
-		Increased Regeneration!
+		Increased life regeneration!
 		+3% damage 
 		Drops stumps on the ground as you walk!
 		''' */
@@ -134,11 +134,6 @@ PaperPaws: {
 		为什么不给你的召唤物更多的赞誉呢？
 		+1 召唤物
 		'''
-}
-
-Paper: {
-	DisplayName: 纸
-	Tooltip: 你在想什么？这只是一张纸好吗？
 }
 
 PlantH: {
@@ -495,25 +490,6 @@ Bagitem: {
 		'''
 }
 
-Bouque: {
-	DisplayName: 花束
-	Tooltip:
-		'''
-		献给我亲爱的爱人的花束
-		用于各种合成
-		'''
-}
-
-Candle: {
-	DisplayName: 蜡烛
-	Tooltip:
-		'''
-
-		一支蜡烛，但你放不下来: (
-		所以它有什么用呢？
-		'''
-}
-
 Cinderscrap: {
 	DisplayName: 灰烬碎片
 	Tooltip:
@@ -532,24 +508,6 @@ CondensedDirt: {
 		'''
 }
 
-DreasFlower: {
-	DisplayName: 天蓝色德瑞斯之花
-	Tooltip:
-		'''
-		来自预言神庙......
-		用于种植和收获 最适合用于魔法物品和植物！
-		'''
-}
-
-Fabric: {
-	DisplayName: 预言布匹
-	Tooltip:
-		'''
-		来自预言神庙......
-		像钢铁一样硬的布，蕴含着巨大的能量 最适合用于魔法物品！
-		'''
-}
-
 FlowerBatch: {
 	DisplayName: 花束
 	Tooltip:
@@ -557,11 +515,6 @@ FlowerBatch: {
 		这些花非常漂亮......
 		一个收获物 最适合用于植物和一些物品！
 		'''
-}
-
-Hlos: {
-	DisplayName: 废弃把手
-	Tooltip: 用于制作各种武器
 }
 
 MorrowRocks: {
@@ -609,11 +562,6 @@ EmptyMoonflameLantern: {
 		使用地狱深处的火焰重新点燃它吧
 		在月光之巅，维尔莉娅正在等待着与你共舞一曲
 		'''
-}
-
-FleshClot: {
-	DisplayName: 血肉凝块
-	Tooltip: 从敌人的血液中获取的类似肉的物质
 }
 
 HuntiacBlock: {
@@ -1868,11 +1816,6 @@ GhostExcalibur: {
 	Tooltip: 召唤一把神剑为你而战！
 }
 
-GiftOfLife: {
-	DisplayName: 生命恩赐
-	Tooltip: ""
-}
-
 LeatherGlove: {
 	DisplayName: 皮制手套
 	Tooltip: 增加投掷伤害和投掷速度。
@@ -1980,27 +1923,43 @@ AcidBody: {
 
 AcidHelm: {
 	// DisplayName: Virulent Helm
-	// Tooltip: Slightly increased Melee damage and crit strike chance!
+	/* Tooltip:
+		'''
+		+5% melee damage
+		+1% melee critical strike chance
+		''' */
 }
 
 AcidLegs: {
 	// DisplayName: Virulent Legs
-	// Tooltip: Increased movement speed :P
+	// Tooltip: Slightly increased movement speed :P
 }
 
 AcidMask: {
 	// DisplayName: Virulent Mask
-	// Tooltip: Increased Ranged damage and crit chance!
+	/* Tooltip:
+		'''
+		+5% ranged damage
+		+8% ranged critical strike chance
+		''' */
 }
 
 AcidRobe: {
 	// DisplayName: Virulent Robe
-	// Tooltip: Increased Magic damage and crit chance!
+	/* Tooltip:
+		'''
+		+5% magic damage
+		+6% magic critical strike chance
+		''' */
 }
 
 AcidVisor: {
 	// DisplayName: Virulent Visor
-	// Tooltip: Increased Throwing damage and crit chance!
+	/* Tooltip:
+		'''
+		+6% throwing damage
+		+7% throwing critical strike chance
+		''' */
 }
 
 AstrasilkBody: {
@@ -2019,17 +1978,17 @@ AstrasilkLegs: {
 }
 
 ElagentBody: {
-	// DisplayName: Elagent Body
+	// DisplayName: Elegant Coat
 	// Tooltip: +1 Minion
 }
 
 ElagentHead: {
-	// DisplayName: Elagent Head
+	// DisplayName: Elegant Crown
 	// Tooltip: +20% Minion Damage
 }
 
 ElagentLegs: {
-	// DisplayName: Elagent Legs
+	// DisplayName: Elegant Leggings
 	/* Tooltip:
 		'''
 		+10% Summon Damage
@@ -2203,89 +2162,9 @@ DreadFoil: {
 	Tooltip: 从恐惧泥沼中所得到的箔！
 }
 
-FlareGem: {
-	DisplayName: 闪光宝石
-	Tooltip: ""
-}
-
-FloralFungus: {
-	DisplayName: 花卉菌
-	Tooltip: ""
-}
-
-GelatinOzze: {
-	DisplayName: 明胶软泥
-	Tooltip: 水母很可怕...相信我...
-}
-
-AncientLizardMetal: {
-	DisplayName: 古代蜥蜴金属
-	Tooltip: ""
-}
-
-BlazefuryShard: {
-	DisplayName: 烈焰之怒碎片
-	Tooltip: ""
-}
-
-ContamintSoul: {
-	DisplayName: 污染之魂
-	Tooltip: ""
-}
-
-DreamerBar: {
-	DisplayName: 梦想者金属条
-	Tooltip: ""
-}
-
-DuskBars: {
-	DisplayName: 黄昏金属条
-	Tooltip: ""
-}
-
 EldritchSoul: {
 	DisplayName: 奥术之魂
 	Tooltip: ""
-}
-
-LightEssence: {
-	DisplayName: 光明精华
-	Tooltip: ""
-}
-
-PixieSilk: {
-	DisplayName: 精灵丝绸
-	Tooltip: ""
-}
-
-PrimalTech: {
-	DisplayName: 原始科技
-	Tooltip: ""
-}
-
-SolaiumBar: {
-	DisplayName: 太阳能合金条
-	Tooltip: ""
-}
-
-SolarMirrorShard: {
-	DisplayName: 太阳镜碎片
-	Tooltip: ""
-}
-
-StarlightEssence: {
-	DisplayName: 星光精华
-	Tooltip: ""
-}
-
-SteampunkBar: {
-	DisplayName: 蒸汽朋克合金条
-	Tooltip: ""
-}
-
-IrradiatedBar: {
-	DisplayName: 辐辉锭
-	Tooltip: 非常致命......
 }
 
 Ivythorn: {
@@ -2293,38 +2172,13 @@ Ivythorn: {
 	Tooltip: 一种有毒的植物，能缠绕生物。
 }
 
-LivingAlloy: {
-	DisplayName: 活体合金
-	Tooltip: ""
-}
-
 LostScrap: {
 	DisplayName: 废弃零件
 	Tooltip: 一种极度先进的古代技术的残余。
 }
 
-SingulariumBar: {
-	DisplayName: 星极锭
-	Tooltip: ""
-}
-
 SpacialDistortionFragments: {
 	DisplayName: 空间碎片
-	Tooltip: ""
-}
-
-StarSilk: {
-	DisplayName: 星辰丝绸
-	Tooltip: 由纯粹的星体能量制成的神圣丝绸。
-}
-
-StormEssence: {
-	DisplayName: 暴风精华
-	Tooltip: ""
-}
-
-StormPlating: {
-	DisplayName: 暴风装甲板
 	Tooltip: ""
 }
 
@@ -2343,33 +2197,8 @@ DriveConstruct: {
 	Tooltip: ""
 }
 
-MagicDrive: {
-	DisplayName: 魔法驱动器
-	Tooltip: ""
-}
-
-MeleeDrive: {
-	DisplayName: 战士驱动器
-	Tooltip: ""
-}
-
 MetallicOmniSource: {
 	DisplayName: 焰碳金能源
-	Tooltip: ""
-}
-
-RangerDrive: {
-	DisplayName: 射手驱动器
-	Tooltip: ""
-}
-
-SummonerDrive: {
-	DisplayName: 召唤驱动器
-	Tooltip: ""
-}
-
-ToolDrive: {
-	DisplayName: 工具驱动器
 	Tooltip: ""
 }
 
@@ -2396,11 +2225,6 @@ WanderingFlame: {
 WinterbornShard: {
 	DisplayName: 冬生碎片
 	Tooltip: 冻结至核心: P
-}
-
-CellConverterI: {
-	DisplayName: 细胞转换器
-	Tooltip: ""
 }
 
 RunicTablel: {
@@ -2493,11 +2317,6 @@ StarFlowerStaff: {
 	Tooltip: 发射小型球状光芒
 }
 
-StormsWrath: {
-	DisplayName: 暴风之怒
-	Tooltip: ""
-}
-
 SunBlastStaff: {
 	DisplayName: 日爆法杖
 	Tooltip: 使用太阳轰炸你的敌人!
@@ -2548,11 +2367,6 @@ CinderBraker: {
 	Tooltip: 发射一片灰烬
 }
 
-DragonWaveFury: {
-	DisplayName: 龙波之怒
-	Tooltip: ""
-}
-
 EventHorizon: {
 	DisplayName: 咏星界限
 	Tooltip: 天啊......
@@ -2600,16 +2414,6 @@ StalkersTallon: {
 
 TheIrradiaspear: {
 	DisplayName: 辐辉长矛
-	Tooltip: ""
-}
-
-TridentOfTheSeas: {
-	DisplayName: 海洋三叉戟
-	Tooltip: ""
-}
-
-VoidLance: {
-	DisplayName: 虚空之枪
 	Tooltip: ""
 }
 
@@ -2718,11 +2522,6 @@ LAZER: {
 	Tooltip: 我是一束激光
 }
 
-M38F30: {
-	DisplayName: M38 F30
-	Tooltip: ""
-}
-
 RustlockPistol: {
 	DisplayName: 枷锁手枪
 	Tooltip: 适合用来射击空气！
@@ -2730,11 +2529,6 @@ RustlockPistol: {
 
 Rustvolver: {
 	DisplayName: 锈蚀手枪
-	Tooltip: ""
-}
-
-SolarSpiner: {
-	DisplayName: 太阳旋风
 	Tooltip: ""
 }
 
@@ -2763,18 +2557,8 @@ VoidBlaster: {
 	Tooltip: ""
 }
 
-VoidSkull: {
-	DisplayName: 虚空骷髅
-	Tooltip: ""
-}
-
 WingedFury: {
 	DisplayName: 翼之狂怒
-	Tooltip: ""
-}
-
-Wingspand: {
-	DisplayName: 翼展
 	Tooltip: ""
 }
 
@@ -3845,11 +3629,6 @@ ZthoKnives: {
 	Tooltip: 更快地投掷匕首！
 }
 
-Climabaton: {
-	DisplayName: 云节棒
-	Tooltip: ""
-}
-
 Thunderstaff: {
 	DisplayName: 雷云法杖
 	Tooltip:
@@ -4856,213 +4635,220 @@ EldritchianLegs: {
 }
 
 StickOfWisdom: {
-	DisplayName: Stick Of Wisdom
+	DisplayName: 智慧柄杖
 	Tooltip:
 		'''
-		May be useful for mages and summoners!
-		Fills you with wisdom, I think?
+		可用于制作法师或召唤师武器！
+		让你整个人都充满了智慧，对吧？
 		'''
 }
 
 ChiseledSandstone: {
 	Tooltip: ""
-	DisplayName: Chiseled Sandstone
+	DisplayName: 凿砂岩
 }
 
 VeiizalsUmbrella: {
-	DisplayName: Veiizals Umbrella
+	DisplayName: 维泽尔的伞
 	Tooltip: ""
 }
 
 AnotherRock: {
-	DisplayName: Another Rock
-	Tooltip: Use it to descend to the Old Guardian's Shrine, deep underground
+	DisplayName: 另一块岩石
+	Tooltip: 拿着它去到地下深处那古老的守护神殿吧
 }
 
 AlcaricQuiver: {
-	DisplayName: Alcaric Quiver
+	DisplayName: 阿尔卡里克箭袋
 	Tooltip:
 		'''
-		Converts wooden arrows into void arrows
-		Void arrows travel faster, deal more damage, and explode!
+		将木箭转换成虚空箭
+		虚空箭的飞行速度更快，能够造成更多伤害，而且还会爆炸！
 		'''
 }
 
 BlackRose: {
-	DisplayName: Black Rose
-	Tooltip: Using a mana potion hurts you a little instead of sickening you
+	DisplayName: 黑玫瑰
+	Tooltip: 使用魔力药水会稍微伤害你，而不是让你患上魔力病
 }
 
 LittleWand: {
-	DisplayName: Little Wand
+	DisplayName: 小魔杖
 	Tooltip:
 		'''
-		Use this to cast powerful magic!
-		Only used by the mightiest of wizards
+		用它施放强大的魔法！
+		只有最强大的巫师才能使用
+		[c/bf6008:请小心使用......]
+		[c/ac6bc3:可能会导致一些可怕的灾难]
 		'''
 }
 
 WindedQuiver: {
-	DisplayName: Winded Quiver
-	Tooltip: Turns wooden arrows into winded shots that pierce enemies!
+	DisplayName: 风之箭袋
+	Tooltip: 将木箭转换为可以穿透敌人的疾风之箭！
 }
 
 AimacraWig: {
-	DisplayName: Aimacra's Wig
-	Tooltip: Great for impersonating Aimacra from Diari! Also gives 50 health!
+	DisplayName: 艾玛克拉的假发
+	Tooltip: 适合扮演《Diari》中的艾玛克拉！同时提供50点生命值！
 }
 
 WindmillionBoots: {
-	DisplayName: Windmillion Boots
+	DisplayName: 风车靴
 	Tooltip:
 		'''
-		10% increased movement speed
-		10% Increased throwing damage	
+		增加10%的移动速度
+		增加10%的投掷伤害
 		'''
 }
 
 WindmillionHat: {
-	DisplayName: Windmillion Hat
+	DisplayName: 风车帽
 	Tooltip:
 		'''
-		+10 Life!
-		+10 Throwing Critical Strike Chance
-		+10% Throwing Damage
+		增加10生命值
+		增加10投掷暴击几率
+		增加10%的投掷伤害
 		'''
 }
 
 WindmillionRobe: {
-	DisplayName: Windmillion Robe
+	DisplayName: 风车长袍
 	Tooltip:
 		'''
-		+2 Throwing Critical Strike Chance
-		Getting snazzy!
+		+2 投掷暴击几率
+		让你变得华丽！
 		'''
 }
 
 VampiricVine: {
-	DisplayName: Vampiric Vine
+	DisplayName: 血藤
 	Tooltip:
 		'''
-		Getting some bitches finally?
-		Randomly will shoot out vampire arrows that will heal you in a shot array!
+		终于得到了一些可以帮助你的小伙伴吗？
+		随机发射吸血箭矢，击中物体或敌怪时将会治疗你！
 		'''
 }
 
 WindmillShuriken: {
-	DisplayName: Windmill Shuriken
-	Tooltip: Heyyyyy you can't just save the Ohio president!
+	DisplayName: 风车手里剑
+	Tooltip: 嘿，你不能只救俄亥俄州的总统！
 }
 
 PerfectionStaff: {
 	Tooltip: ""
-	DisplayName: Perfection Staff
+	DisplayName: 完美法杖
 }
 
 XixianFlask: {
-	DisplayName: Xixian Flask
-	Tooltip: Passed down from the wonders of Zui and sacred special witches!
+    DisplayName: 西西安药瓶
+    Tooltip: 
+		'''
+		来自Zui和神圣女巫的奇迹！
+		[c/f243f2:将药源放入西西安药瓶中，然后喝掉它！就像一种无限的药剂一样！]
+		'''
 }
 
 VitalityInsource: {
-	Tooltip:
-		'''
-		40 Seconds of duration on flask!
-		Heals 102 Health and Mana
-		Gives a honey buff as well!
-		'''
-	DisplayName: Vitality Insource
+    DisplayName: 活力药源
+    Tooltip:
+        '''
+        药水病持续时间为40秒！
+        恢复102点生命和魔力
+        同时获得蜂蜜增益！
+		[c/5ef0bf:将药源放入西西安药瓶中，然后喝掉它！]
+        '''
 }
 
 HealthyInsource: {
-	Tooltip:
-		'''
-		40 Seconds of duration on flask!
-		Heals 35 Health
-		'''
-	DisplayName: Healthy Insource
+    DisplayName: 康复药源
+    Tooltip:
+        '''
+        药水病持续时间为40秒！
+        恢复35点生命
+        '''
 }
 
 FloweredInsource: {
-	DisplayName: Flowered Insource
-	Tooltip:
-		'''
-		20 Seconds of duration on flask!
-		Gives 10 Defense while in use
-		Attack speed increased by 50% while active, 
-		A shadowy alcaric trail will lead behind!
-		'''
+    DisplayName: 花药药源
+    Tooltip:
+        '''
+        药水病持续时间为20秒！
+        使用时提供10点防御
+        激活时攻击速度增加50%
+        会在玩家走过的地方留下大量阴影！
+        '''
 }
 
 VialedInsource: {
-	DisplayName: Vialed Insource
-	Tooltip:
-		'''
-		20 Seconds of duration on flask!
-		300% Fall speed
-		No Fall damage
-		Jump boost!
-		Movement speed increased by 40%
-		A morrowed trail will follow behind you!
-		'''
+    DisplayName: 瓶装药源
+    Tooltip:
+        '''
+        药水病持续时间为20秒！
+        下降速度提升300%
+        无坠落伤害
+        跳跃提升效果
+        移动速度增加40%
+        会在玩家走过的地方留下闪亮的痕迹！
+        '''
 }
 
 EpsidonInsource: {
-	Tooltip:
-		'''
-		40 Seconds of duration on flask!
-		Honey, ironskin and swiftness buffs for 20 seconds!
-		+200 Heal on use!
-		'''
-	DisplayName: Epsidon Insource
+    DisplayName: 赫尔波药源
+    Tooltip:
+        '''
+        药水病持续时间为40秒！
+        在20秒内获得蜂蜜、铁皮和迅捷增益！
+        使用时+200生命！
+        '''
 }
 
 CogBomber: {
-	DisplayName: Cog Bomber
-	Tooltip:
-		'''
-		Fires mini nukes that explode into several small fires
-		Boom :) 
-		'''
+    DisplayName: 齿轮轰炸机
+    Tooltip:
+        '''
+        发射小型核弹，并爆炸成多个火焰碎片
+        嘭！！！
+        '''
 }
 
 GearGutter: {
-	DisplayName: Gear Gutter
-	Tooltip: Shoots an extremely fast and long iron needle that pierces infinitely
+    DisplayName: 齿轮割喉者
+    Tooltip: 发射极快且长的铁针，铁针可无限穿透
 }
 
 TheTingler: {
-	DisplayName: The Tingler
-	Tooltip: Shoots small iron needles that lodge into targets and deal damage over time
+    DisplayName: 撞钉机
+    Tooltip: 发射小铁钉，钉入敌怪并造成持续伤害
 }
 
 KnivedQuiver: {
-	DisplayName: Knived Quiver
-	Tooltip: Turns wooden arrows into throwing knives that pierce and are fast!
+    DisplayName: 利刃箭袋
+    Tooltip: 将木箭转换为可快速穿透敌怪的投掷刀片！
 }
 
 LifeSeekingVial: {
-	DisplayName: Life Seeking Vial
-	Tooltip: Throw a bottle at an enemy to heal a small portion of health!
+    DisplayName: 寻命瓶
+    Tooltip: 向敌人投掷瓶子，在击中敌怪后可治愈一小部分生命值！
 }
 
 GraftedWaxMelter: {
-	DisplayName: Grafted Wax Melter
-	Tooltip: Make this shit feel like a firework party! I say let the children burn.
+    DisplayName: 粘蜡熔化器
+    Tooltip: 感觉像是烟花派对上一样！让孩子们燃烧吧！！
 }
 
 AlcadBomb: {
-	DisplayName: Alcad Bomb
-	Tooltip:
-		'''
-		Casts a controllable blackhole
-		Suck em' up!
-		'''
+    DisplayName: 爆裂黑洞
+    Tooltip:
+        '''
+        施放一个可控制的黑洞
+        吸入一切吧！
+        '''
 }
 
 CompletedFlowerBag: {
-	DisplayName: Completed Flower Bag
-	Tooltip: Take this to Zui for some rewards!
+    DisplayName: 系好的花袋
+    Tooltip: 带着这个去找Zui领取奖励！
 }
 
 EmptyFlowerBag: {
@@ -6812,6 +6598,16 @@ TempleKeyMold: {
 TempleKeyPart: {
 	// DisplayName: Temple Key Part
 	// Tooltip: It seems Ereshkigal broke the key and attached it to the singularity. How cruel.
+}
+
+M38F30: {
+	Tooltip: ""
+	DisplayName: M38 F30
+}
+
+StarSilk: {
+	Tooltip: 由纯粹的星体能量制成的神圣丝绸。
+	DisplayName: 星辰丝绸
 }
 
 BabySwarmerStaff: {
