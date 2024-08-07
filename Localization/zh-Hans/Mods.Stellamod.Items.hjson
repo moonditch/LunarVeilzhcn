@@ -2261,213 +2261,212 @@ SpacialDistortionFragments: {
 }
 
 ArmorDrive: {
-	DisplayName: Armor Drive
-	Tooltip: A key component in crafting tech-y armors!
+    DisplayName: 装甲驱动模块
+    Tooltip: 是用于制作科技装甲的关键组件！
 }
 
 BrokenTech: {
-	DisplayName: Broken Tech
-	Tooltip: Inbuned with sparkles of magic, this piece of tech remains dormant from enemies and can be refurnished into something better.
+    DisplayName: 损坏的科技制物
+    Tooltip: 上面呲呲地冒着带有魔法的火花，这件科技残片尚未被敌人使用，可以重新用来制作成更好的东西。
 }
 
 DriveConstruct: {
-	DisplayName: Drive Construct
-	Tooltip: A rare find amongst travellers, and contains essence of the mechanical old world.
+    DisplayName: 驱动组件
+    Tooltip: 在旅行者中间极为罕见，含有古老的机械世界的精华。
 }
 
 MetallicOmniSource: {
-	DisplayName: Metallic Omni Source
-	Tooltip: A source of electronics that make everything work! From revived relics to power, this piece of hardware contains magical energy too!
+    DisplayName: 全能源电池
+    Tooltip: 提供能够让所有东西运作的全能电源，不管是复苏的遗物还是能量！这块硬件还包含魔法！
 }
 
 UnknownCircuitry: {
-	DisplayName: Unknown Circuitry
-	Tooltip: Circuitry lost to time, from a fallen kingdom of tech, collecting dust over millenia after the Royal Capital appeared.
+    DisplayName: 奇异电路板
+    Tooltip: 被时光遗失的电路板，来自一个早已陨落的科技王国，自从皇都出现后开始已经积尘千年。
 }
 
 TerrorFragments: {
-	DisplayName: Terror Fragments
-	Tooltip: Terror-fying!
+    DisplayName: 恐惑碎片
+    Tooltip: 令人恐惧的碎片！
 }
 
 VirulentPlating: {
-	DisplayName: Virulent Plating
-	Tooltip: Radiating within the acid of entities of the tocins
+    DisplayName: 致命镀层
+    Tooltip: 在辐辉之地的酸蚀之中散发着辐射
 }
 
 WanderingFlame: {
-	DisplayName: Wandering Flame
-	Tooltip: Burning with Jack's will!
+    DisplayName: 流浪灯焰
+    Tooltip: 燃烧着杰克的意志！
 }
 
 WinterbornShard: {
-	DisplayName: Winterborn Shard
-	Tooltip: Frozen to the core :P
+    DisplayName: 冬生碎片
+    Tooltip: 简直冷到了骨子里......
 }
 
-RunicTablel: {
-	DisplayName: Runic Table
-	Tooltip: Craft runes!
+RunicTable: {
+    DisplayName: 符文台
+    Tooltip: 用于制作符文！
 }
 
 AcidicHamacxe: {
-	DisplayName: Acidic Hamacxe
-	Tooltip: ""
+    DisplayName: 酸蚀战斧
+    Tooltip: ""
 }
 
 AcidicPixaxe: {
-	DisplayName: Acidic Pixaxe
-	Tooltip: ""
+    DisplayName: 酸蚀镐
+    Tooltip: ""
 }
 
 ArchariliteAxe: {
-	DisplayName: Archarilite Axe
-	Tooltip: ""
+    DisplayName: 焰碳金斧
+    Tooltip: ""
 }
 
 ArcharilitePickaxe: {
-	DisplayName: Archarilite Pickaxe
-	Tooltip: ""
+    DisplayName: 焰碳金镐
+    Tooltip: ""
 }
 
 DirtAxe: {
-	DisplayName: Dirt Axe
-	Tooltip: ""
+    DisplayName: 泥斧
+    Tooltip: ""
 }
 
 DirtHammer: {
-	DisplayName: Dirt Hammer
-	Tooltip: ""
+    DisplayName: 泥锤
+    Tooltip: ""
 }
 
 DirtPickaxe: {
-	DisplayName: Dirt Pickaxe
-	Tooltip: ""
+    DisplayName: 泥镐
+    Tooltip: ""
 }
 
 Aneuriliac: {
-	DisplayName: Aneuriliac
-	Tooltip:
-		'''
-		Rapidly vomits some mysterious projectile
-		Look, I have no clue what it is, don't ask me
-		'''
+    DisplayName: 惑烟
+    Tooltip:
+        '''
+        迅速吐出一些神秘的弹射物
+        我也不知道这玩意是什么，不要问我
+        '''
 }
 
 Astalaiya: {
-	DisplayName: Astalaiya
-	Tooltip: 召唤一个flurry of colorful stars!
+    DisplayName: 星流
+    Tooltip: 召唤一阵缤纷的流星风暴！
 }
 
 FungalFlace: {
-	DisplayName: Fungal Flace
-	Tooltip:
-		'''
-		Unleash the power of nuclear flowers!
-		Wait, are they actually nuclear? Oh well, they still explode!
-		'''
+    DisplayName: 孢子法杖
+    Tooltip:
+        '''
+        发挥出核能孢子的力量！
+        等等，它们真的是核能的吗？呃，不管怎样，它们总还是会爆炸的！
+        '''
 }
 
 JellyTome: {
-	DisplayName: Jelly Tome
-	Tooltip: Shoots blasts of jelly :P
+    DisplayName: 水母魔典
+    Tooltip: 发射会爆炸的水母！
 }
 
 LeadGauntlets: {
-	DisplayName: Lead Gauntlets
-	Tooltip: Shoots powerful fists of energy!
+    DisplayName: 铅铁护手
+    Tooltip: 发射强力的能量拳头！
 }
 
 Pericarditis: {
-	DisplayName: Pericarditis
-	Tooltip: Channels blood magic to fire a powerful bloody blast
+    DisplayName: 脉裂
+    Tooltip: 运用血魔法释放强大的血腥冲击波
 }
 
 ShadeHandTome: {
-	DisplayName: Shade Hand Tome
-	Tooltip: Little small hands to tickle your enemies
+    DisplayName: 影爪魔典
+    Tooltip: 释放出小小的爪子来挠你的敌人
 }
 
 StaffOFlame: {
-	DisplayName: Staff O Flame
-	Tooltip:
-		'''
-		召唤一个cute lil' flame
-		:3
-		'''
+    DisplayName: 火苗杖
+    Tooltip:
+        '''
+        召唤一个可爱的小火苗
+        '''
 }
 
 StaffoftheIrradiaflare: {
-	DisplayName: Staff of the Irradiaflare
-	Tooltip:
-		'''
-		Channels the power of the acid to shoot a powerful acidic blast!
-		It's powerful, source: trust me bro
-		'''
+    DisplayName: 辐辉爆裂法杖
+    Tooltip:
+        '''
+        运用酸性能量释放强大的酸性冲击波！
+        相信我，它非常强大
+        '''
 }
 
 StarFlowerStaff: {
-	DisplayName: Star Flower Staff
-	Tooltip: Shoot little balls of light
+    DisplayName: 星芒花杖
+    Tooltip: 发射小小的星之尘埃
 }
 
 SunBlastStaff: {
-	DisplayName: Sun Blast Staff
-	Tooltip: Blastin with the sun
+    DisplayName: 阳冲法杖
+    Tooltip: 使用太阳的冲击进行攻击
 }
 
 TheDeafen: {
-	DisplayName: The Deafen
-	Tooltip: Shriek the howls of a bat!
+    DisplayName: 喧嚣者
+    Tooltip: 发出如蝙蝠一般的嗥叫！
 }
 
 TheShrieker: {
-	DisplayName: The Shrieker
-	Tooltip: Ow, my ears, but the damage...
+    DisplayName: 嘶叫者
+    Tooltip: 哎呀，我的耳朵！
 }
 
 TomeOfTheSingularity: {
-	DisplayName: Tome Of The Singularity
-	Tooltip: A volley of fragments
+    DisplayName: 奇点
+    Tooltip: 发射一连串的小碎片
 }
 
 TorrentialLance: {
-	DisplayName: Torrential Lance
-	Tooltip:
-		'''
-		Use it to lance through your enemies! 
-		Leaves behind bubbles after hitting an enemy
-		You'll be invincible for a bit, be careful though, you're vulnerable at the end of the dash
-		'''
+    DisplayName: 泡沫冲锋矛
+    Tooltip:
+        '''
+        用它来刺穿你的敌人！
+        击中敌人后会留下泡泡
+        你会在一段时间内获得无敌，但要小心，冲刺结束时你会变得很脆弱
+        '''
 }
 
 VoidsGrasp: {
-	DisplayName: Voids Grasp
-	Tooltip: Summon a hand that will go out and tickle enemies :)
+    DisplayName: 虚无之爪
+    Tooltip: 召唤一只抓挠敌人的手
 }
 
 WintersStom: {
-	DisplayName: Winters Stom
-	Tooltip: Every third shot will be a powerful winter shot today explodes into snowflakes that deal damage
+    DisplayName: 凌怒
+    Tooltip: 每次的第三次射击都会变成一发更强大的子弹，爆炸成雪花造成伤害
 }
 
 ArchariliteRaysword: {
-	DisplayName: Archarilite Raysword
-	Tooltip:
-		'''
-		Shoots a wave of energy
-		Becomes empowered by the Arnchar Super Charger!
-		'''
+    DisplayName: 焰碳金光剑
+    Tooltip:
+        '''
+        挥出焰碳能量波
+        通过超级充电器变得更强！
+        '''
 }
 
 AssassinsSlash: {
-	DisplayName: Assassins Slash
-	Tooltip: Once attacking enemies, a charge will build up and then right click for a slash!
+    DisplayName: 疾斩
+    Tooltip: 击中敌人后将会积攒能量，右键以进行一次更强大的斩击！
 }
 
 CinderBraker: {
-	DisplayName: Cinder Breaker
-	Tooltip: A slashing sword that shoots swords!
+    DisplayName: 破烬
+    Tooltip: 一把发射剑的剑！
 }
 
 EventHorizon: {
@@ -4829,221 +4828,220 @@ EldritchianLegs: {
 }
 
 StickOfWisdom: {
-	DisplayName: Stick Of Wisdom
+	DisplayName: 智慧柄杖
 	Tooltip:
 		'''
-		May be useful for mages and summoners!
-		Fills you with wisdom, I think?
+		可用于制作法师或召唤师武器！
+		让你整个人都充满了智慧，对吧？
 		'''
 }
 
 ChiseledSandstone: {
 	Tooltip: ""
-	DisplayName: Chiseled Sandstone
+	DisplayName: 凿砂岩
 }
 
 VeiizalsUmbrella: {
-	DisplayName: Veiizals Umbrella
+	DisplayName: 维泽尔的伞
 	Tooltip: ""
 }
 
 AnotherRock: {
-	DisplayName: Another Rock
-	Tooltip: Use it to descend to the Old Guardian's Shrine, deep underground
+	DisplayName: 另一块岩石
+	Tooltip: 拿着它去到地下深处那古老的守护神殿吧
 }
 
 AlcaricQuiver: {
-	DisplayName: Alcaric Quiver
+	DisplayName: 阿尔卡里克箭袋
 	Tooltip:
 		'''
-		Converts wooden arrows into void arrows
-		Void arrows travel faster, deal more damage, and explode!
+		将木箭转换成虚空箭
+		虚空箭的飞行速度更快，能够造成更多伤害，而且还会爆炸！
 		'''
 }
 
 BlackRose: {
-	DisplayName: Black Rose
-	Tooltip: Using a mana potion hurts you a little instead of sickening you
+	DisplayName: 黑玫瑰
+	Tooltip: 使用魔力药水会稍微伤害你，而不是让你患上魔力病
 }
 
 LittleWand: {
-	DisplayName: Little Wand
+	DisplayName: 小魔杖
 	Tooltip:
 		'''
-		Use this to cast powerful magic!
-		Only used by the mightiest of wizards
+		用它施放强大的魔法！
+		只有最强大的巫师才能使用
+		[c/bf6008:请小心使用......]
+		[c/ac6bc3:可能会导致一些可怕的灾难]
 		'''
 }
 
 WindedQuiver: {
-	DisplayName: Winded Quiver
-	Tooltip: Turns wooden arrows into winded shots that pierce enemies!
+	DisplayName: 风之箭袋
+	Tooltip: 将木箭转换为可以穿透敌人的疾风之箭！
 }
 
 AimacraWig: {
-	DisplayName: Aimacra's Wig
-	Tooltip: Great for impersonating Aimacra from Diari! Also gives 50 health!
+	DisplayName: 艾玛克拉的假发
+	Tooltip: 适合扮演《Diari》中的艾玛克拉！同时提供50点生命值！
 }
 
 WindmillionBoots: {
-	DisplayName: Windmillion Boots
+	DisplayName: 风车靴
 	Tooltip:
 		'''
-		10% increased movement speed
-		10% Increased throwing damage	
+		增加10%的移动速度
+		增加10%的投掷伤害
 		'''
 }
 
 WindmillionHat: {
-	DisplayName: Windmillion Hat
+	DisplayName: 风车帽
 	Tooltip:
 		'''
-		+10 Life!
-		+10 Throwing Critical Strike Chance
-		+10% Throwing Damage
+		增加10生命值
+		增加10投掷暴击几率
+		增加10%的投掷伤害
 		'''
 }
 
 WindmillionRobe: {
-	DisplayName: Windmillion Robe
+	DisplayName: 风车长袍
 	Tooltip:
 		'''
-		+2 Throwing Critical Strike Chance
-		Getting snazzy!
+		+2 投掷暴击几率
+		让你变得华丽！
 		'''
 }
 
 VampiricVine: {
-	DisplayName: Vampiric Vine
+	DisplayName: 血藤
 	Tooltip:
 		'''
-		Getting some bitches finally?
-		Randomly will shoot out vampire arrows that will heal you in a shot array!
+		终于得到了一些可以帮助你的小伙伴吗？
+		随机发射吸血箭矢，击中物体或敌怪时将会治疗你！
 		'''
 }
 
 WindmillShuriken: {
-	DisplayName: Windmill Shuriken
-	Tooltip: Heyyyyy you can't just save the Ohio president!
+	DisplayName: 风车手里剑
+	Tooltip: 嘿，你不能只救俄亥俄州的总统！
 }
 
 PerfectionStaff: {
 	Tooltip: ""
-	DisplayName: Perfection Staff
+	DisplayName: 完美法杖
 }
 
 XixianFlask: {
-	DisplayName: Xixian Flask
-	Tooltip: Passed down from the wonders of Zui and sacred special witches!
+    DisplayName: 药源调和瓶
+    Tooltip: 
+		'''
+		来自Zui和神圣女巫的奇迹！
+		[c/f243f2:将药源放入西西安药瓶中，然后喝掉它！就像一种无限的药剂一样！]
+		'''
 }
 
 VitalityInsource: {
-	Tooltip:
-		'''
-		40 Seconds of duration on flask!
-		Heals 102 Health and Mana
-		Gives a honey buff as well!
-		'''
-	DisplayName: Vitality Insource
+    DisplayName: 活力药源
+    Tooltip:
+        '''
+        药水病持续时间为40秒！
+        恢复102点生命和魔力
+        同时获得蜂蜜增益！
+		[c/5ef0bf:将药源放入西西安药瓶中，然后喝掉它！]
+        '''
 }
 
 HealthyInsource: {
-	Tooltip:
-		'''
-		40 Seconds of duration on flask!
-		Heals 35 Health
-		'''
-	DisplayName: Healthy Insource
+    DisplayName: 康复药源
+    Tooltip:
+        '''
+        药水病持续时间为40秒！
+        恢复35点生命
+        '''
 }
 
 FloweredInsource: {
-	DisplayName: Flowered Insource
-	Tooltip:
-		'''
-		20 Seconds of duration on flask!
-		Gives 10 Defense while in use
-		Attack speed increased by 50% while active, 
-		A shadowy alcaric trail will lead behind!
-		'''
+    DisplayName: 花药药源
+    Tooltip:
+        '''
+        药水病持续时间为20秒！
+        使用时提供10点防御
+        激活时攻击速度增加50%
+        会在玩家走过的地方留下大量阴影！
+        '''
 }
 
 VialedInsource: {
-	DisplayName: Vialed Insource
-	Tooltip:
-		'''
-		20 Seconds of duration on flask!
-		300% Fall speed
-		No Fall damage
-		Jump boost!
-		Movement speed increased by 40%
-		A morrowed trail will follow behind you!
-		'''
+    DisplayName: 瓶装药源
+    Tooltip:
+        '''
+        药水病持续时间为20秒！
+        下降速度提升300%
+        无坠落伤害
+        跳跃提升效果
+        移动速度增加40%
+        会在玩家走过的地方留下闪亮的痕迹！
+        '''
 }
 
 EpsidonInsource: {
-	Tooltip:
-		'''
-		40 Seconds of duration on flask!
-		Honey, ironskin and swiftness buffs for 20 seconds!
-		+200 Heal on use!
-		'''
-	DisplayName: Epsidon Insource
+    DisplayName: 赫尔波药源
+    Tooltip:
+        '''
+        药水病持续时间为40秒！
+        在20秒内获得蜂蜜、铁皮和迅捷增益！
+        使用时+200生命！
+        '''
 }
 
 CogBomber: {
-	DisplayName: Cog Bomber
-	Tooltip:
-		'''
-		Fires mini nukes that explode into several small fires~
-		Kaboom :) 
-		'''
+    DisplayName: 齿轮轰炸机
+    Tooltip:
+        '''
+        发射小型核弹，并爆炸成多个火焰碎片
+        嘭！！！
+        '''
 }
 
 GearGutter: {
-	DisplayName: Gear Gutter
-	Tooltip:
-		'''
-		Shoots an extremely fast and long iron needle that pierces infinitely!
-		Guttin' guttin' guttin'
-		'''
+    DisplayName: 齿轮割喉者
+    Tooltip: 发射极快且长的铁针，铁针可无限穿透
 }
 
 TheTingler: {
-	DisplayName: The Tingler
-	Tooltip:
-		'''
-		Shoots small iron needles that lodge into enemies and deal damage over time!
-		Definitely one way to give someone the tingles :P
-		'''
+    DisplayName: 撞钉机
+    Tooltip: 发射小铁钉，钉入敌怪并造成持续伤害
 }
 
 KnivedQuiver: {
-	DisplayName: Knived Quiver
-	Tooltip: Turns wooden arrows into throwing knives that pierce and are fast!
+    DisplayName: 利刃箭袋
+    Tooltip: 将木箭转换为可快速穿透敌怪的投掷刀片！
 }
 
 LifeSeekingVial: {
-	DisplayName: Life Seeking Vial
-	Tooltip: Throw a bottle at an enemy to heal a small portion of health!
+    DisplayName: 寻命瓶
+    Tooltip: 向敌人投掷瓶子，在击中敌怪后可治愈一小部分生命值！
 }
 
 GraftedWaxMelter: {
-	DisplayName: Grafted Wax Melter
-	Tooltip: Make this shit feel like a firework party! I say let the children burn.
+    DisplayName: 粘蜡熔化器
+    Tooltip: 感觉像是烟花派对上一样！让孩子们燃烧吧！！
 }
 
 AlcadBomb: {
-	DisplayName: Alcad Bomb
-	Tooltip:
-		'''
-		Casts a controllable blackhole
-		Suck em' up!
-		'''
+    DisplayName: 爆裂黑洞
+    Tooltip:
+        '''
+        施放一个可控制的黑洞
+        吸入一切吧！
+        '''
 }
 
 CompletedFlowerBag: {
-	DisplayName: Completed Flower Bag
-	Tooltip: Take this to Zui for some rewards!
+    DisplayName: 系好的花袋
+    Tooltip: 带着这个去找Zui领取奖励！
 }
 
 EmptyFlowerBag: {
